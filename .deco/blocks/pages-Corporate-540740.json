@@ -1,0 +1,810 @@
+{
+  "name": "Corporate",
+  "path": "/corporate",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Video/VideoOrImage.tsx",
+      "mediaType": {
+        "content": {
+          "titleImageDesktop": {},
+          "titleImageMobile": {},
+          "title": "<h1 style=\"color: rgb(255, 255, 255); font-size: clamp(34px, 3.5vw, 40px); line-height: clamp(40px, 4vw, 48px); font-weight: 500; letter-spacing: clamp(5.44px, 0.5vw, 6.4px); text-transform: uppercase;\" data-mce-style=\"color: rgb(255, 255, 255); font-size: clamp(34px, 3.5vw, 40px); line-height: clamp(40px, 4vw, 48px); font-weight: 500; letter-spacing: clamp(5.44px, 0.5vw, 6.4px); text-transform: uppercase;\">CORPORATIVO</h1>"
+        },
+        "background": {
+          "mobile": {
+            "image": "https://data.decoassets.com/breton/903825f1-4c10-4389-8738-030af3acf78e/corporate-main-banner-mobile.png",
+            "width": 360,
+            "height": 520
+          },
+          "desktop": {
+            "image": "https://data.decoassets.com/breton/99cf3e14-ece4-42ce-ad4c-dbd6b09d438f/corporate-main-banner-desktop.png",
+            "width": 1360,
+            "height": 400
+          }
+        }
+      },
+      "imageInfo": {
+        "content": {
+          "titleImageDesktop": {
+            "image": "https://data.decoassets.com/breton/ed491df2-1fb2-4d6a-8c3f-818afc718347/eco-breton-logo-desktop.png",
+            "width": 430,
+            "height": 37
+          },
+          "titleImageMobile": {
+            "image": "https://data.decoassets.com/breton/c4f32ea2-7084-49c8-abc0-5867c1645429/eco-breton-logo-mobile.png",
+            "width": 296,
+            "height": 37
+          }
+        },
+        "principalBanner": true,
+        "background": {
+          "mobile": {
+            "image": "https://data.decoassets.com/breton/db4521a6-ae14-4f29-93cf-ed7588c65c89/eco-breton-banner-mobile.png",
+            "width": 360,
+            "height": 520
+          },
+          "desktop": {
+            "image": "https://data.decoassets.com/breton/fc0ab338-a178-4500-9f38-44ab611416f5/eco-breton-banner-desktoppng.png",
+            "width": 1360,
+            "height": 536
+          }
+        }
+      },
+      "videoInfo": {
+        "videoDesktop": {
+          "video": "https://data.decoassets.com/breton/34cc2194-7fec-4794-b888-4cffbd0e0709/aboutUs-video1-desk.mp4",
+          "width": 1360,
+          "height": 600
+        },
+        "videoMobile": {
+          "video": "https://data.decoassets.com/breton/4638020a-d66e-4f9a-ac83-f691cd9e489e/aboutUs-video2-mob.mp4",
+          "width": 360,
+          "height": 600
+        },
+        "principalBanner": false,
+        "initialBlock": false
+      },
+      "principalBanner": true,
+      "initialBlock": true
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Spacer/Spacer.tsx",
+        "heightDesktop": 80,
+        "heightMobile": 24
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/BretonVersatilityCarousel/BretonVersatilityCarousel.tsx",
+        "title": "Descubra a versatilidade da Breton",
+        "subtitle": "ambientes por breton",
+        "places": [
+          {
+            "history": {
+              "topics": [
+                {
+                  "title": "DESCRIÇÃO",
+                  "text": "Localizado no Shopping Iguatemi Alphaville, com ambiente acolhedor e descontraído, surge um novo conceito em culinária japonesa, o Restaurante Sushi Nouveau reúne todos os benefícios de uma alimentação saudável, saborosa e artesanal, onde a combinação de sabores, cores e aromas se misturam de forma surpreendente."
+                },
+                {
+                  "title": "NOSSA ATUAÇÃO",
+                  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. "
+                },
+                {
+                  "title": "O ARQUITETO",
+                  "text": "Bruno Simões vive na capital paulista, onde mantém ateliê voltado para o desenvolvimento de projetos de arquitetura e de design de mobiliário, Bruno Simões é sócio curador da Feira MADE (Mercado. Arte. Design), o que o coloca na linha de frente da cena do jovem design nacional. A formação diversificada – arquitetura, fotografia, jornalismo – é elemento determinante em seu design. Dono de um apurado poder de síntese, seu trabalho denota muito menos as particularidades envolvidas em cada uma de suas vivências profissionais, mas sim, suas muitas conexões."
+                }
+              ],
+              "title": "Sushi Nouveau",
+              "subtitle": "Shopping Iguatemi Alphaville | São paulo | 2022"
+            },
+            "normalSlide": [
+              {
+                "desktopImage": {
+                  "image": "https://data.decoassets.com/breton/142b8502-9b45-4e03-87ec-a7f8d0152fe9/Sushi-Nouveau-normal-slide-1.png",
+                  "alt": "Sushi Nouveau norma slide 1",
+                  "width": 940,
+                  "height": 728
+                },
+                "mobileImage": {
+                  "image": "https://data.decoassets.com/breton/142b8502-9b45-4e03-87ec-a7f8d0152fe9/Sushi-Nouveau-normal-slide-1.png",
+                  "alt": "Sushi Nouveau norma slide 1",
+                  "width": 360,
+                  "height": 640
+                }
+              },
+              {
+                "desktopImage": {
+                  "image": "https://data.decoassets.com/breton/01d07c53-5ba7-4fa4-8bb7-d307b07797ae/Sushi-Nouveau-normal-slide-2.png",
+                  "alt": "Sushi Nouveau norma slide 2",
+                  "width": 940,
+                  "height": 728
+                },
+                "mobileImage": {
+                  "image": "https://data.decoassets.com/breton/01d07c53-5ba7-4fa4-8bb7-d307b07797ae/Sushi-Nouveau-normal-slide-2.png",
+                  "alt": "Sushi Nouveau norma slide 2",
+                  "width": 360,
+                  "height": 640
+                }
+              },
+              {
+                "desktopImage": {
+                  "image": "https://data.decoassets.com/breton/90b3d34c-b14f-4a73-9336-9dc0ad3072e6/Sushi-Nouveau-normal-slide-3.png",
+                  "alt": "Sushi Nouveau norma slide 3",
+                  "width": 940,
+                  "height": 728
+                },
+                "mobileImage": {
+                  "image": "https://data.decoassets.com/breton/90b3d34c-b14f-4a73-9336-9dc0ad3072e6/Sushi-Nouveau-normal-slide-3.png",
+                  "alt": "Sushi Nouveau norma slide 3",
+                  "width": 360,
+                  "height": 640
+                }
+              }
+            ],
+            "productsSlide": {
+              "backgroundColor": "#000000",
+              "products": {
+                "productIds": [
+                  "95",
+                  "94",
+                  "93",
+                  "138",
+                  "137"
+                ]
+              },
+              "title": "PRODUTOS APRESENTADOS"
+            },
+            "type": "Restaurante",
+            "cover": {
+              "title": "Sushi Nouveau",
+              "link": "/",
+              "label": "SABER MAIS",
+              "image": {
+                "desktopImg": "https://data.decoassets.com/breton/dd828d80-c753-41d6-99c3-fe08bdd021b5/Sushi-Nouveau-desk.png",
+                "mobileImg": "https://data.decoassets.com/breton/316ba494-0748-421d-a758-2eef6ab15358/Sushi-Nouveau-mob.png"
+              },
+              "desktopImage": {
+                "image": "https://data.decoassets.com/breton/dd828d80-c753-41d6-99c3-fe08bdd021b5/Sushi-Nouveau-desk.png",
+                "alt": "Sushi Nouveau Desktop",
+                "width": 1360,
+                "height": 728
+              },
+              "mobileImage": {
+                "image": "https://data.decoassets.com/breton/316ba494-0748-421d-a758-2eef6ab15358/Sushi-Nouveau-mob.png",
+                "alt": "Sushi Nouveau Mobile",
+                "width": 360,
+                "height": 640
+              }
+            }
+          },
+          {
+            "history": {
+              "topics": [
+                {
+                  "title": "DESCRIÇÃO",
+                  "text": "Localizado no Shopping Iguatemi Alphaville, com ambiente acolhedor e descontraído, surge um novo conceito em culinária japonesa, o Restaurante Sushi Nouveau reúne todos os benefícios de uma alimentação saudável, saborosa e artesanal, onde a combinação de sabores, cores e aromas se misturam de forma surpreendente."
+                },
+                {
+                  "title": "NOSSA ATUAÇÃO",
+                  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. "
+                },
+                {
+                  "title": "O ARQUITETO",
+                  "text": "Bruno Simões vive na capital paulista, onde mantém ateliê voltado para o desenvolvimento de projetos de arquitetura e de design de mobiliário, Bruno Simões é sócio curador da Feira MADE (Mercado. Arte. Design), o que o coloca na linha de frente da cena do jovem design nacional. A formação diversificada – arquitetura, fotografia, jornalismo – é elemento determinante em seu design. Dono de um apurado poder de síntese, seu trabalho denota muito menos as particularidades envolvidas em cada uma de suas vivências profissionais, mas sim, suas muitas conexões."
+                }
+              ],
+              "title": "Sushi Nouveau",
+              "subtitle": "Shopping Iguatemi Alphaville | São paulo | 2022"
+            },
+            "normalSlide": [
+              {
+                "desktopImage": {
+                  "image": "https://data.decoassets.com/breton/142b8502-9b45-4e03-87ec-a7f8d0152fe9/Sushi-Nouveau-normal-slide-1.png",
+                  "alt": "Sushi Nouveau norma slide 1",
+                  "width": 940,
+                  "height": 728
+                },
+                "mobileImage": {
+                  "image": "https://data.decoassets.com/breton/142b8502-9b45-4e03-87ec-a7f8d0152fe9/Sushi-Nouveau-normal-slide-1.png",
+                  "alt": "Sushi Nouveau norma slide 1",
+                  "width": 360,
+                  "height": 640
+                }
+              },
+              {
+                "desktopImage": {
+                  "image": "https://data.decoassets.com/breton/01d07c53-5ba7-4fa4-8bb7-d307b07797ae/Sushi-Nouveau-normal-slide-2.png",
+                  "alt": "Sushi Nouveau norma slide 2",
+                  "width": 940,
+                  "height": 728
+                },
+                "mobileImage": {
+                  "image": "https://data.decoassets.com/breton/01d07c53-5ba7-4fa4-8bb7-d307b07797ae/Sushi-Nouveau-normal-slide-2.png",
+                  "alt": "Sushi Nouveau norma slide 2",
+                  "width": 360,
+                  "height": 640
+                }
+              },
+              {
+                "desktopImage": {
+                  "image": "https://data.decoassets.com/breton/90b3d34c-b14f-4a73-9336-9dc0ad3072e6/Sushi-Nouveau-normal-slide-3.png",
+                  "alt": "Sushi Nouveau norma slide 3",
+                  "width": 940,
+                  "height": 728
+                },
+                "mobileImage": {
+                  "image": "https://data.decoassets.com/breton/90b3d34c-b14f-4a73-9336-9dc0ad3072e6/Sushi-Nouveau-normal-slide-3.png",
+                  "alt": "Sushi Nouveau norma slide 3",
+                  "width": 360,
+                  "height": 640
+                }
+              }
+            ],
+            "productsSlide": {
+              "backgroundColor": "#000000",
+              "products": {
+                "collectionId": "235"
+              },
+              "title": "PRODUTOS APRESENTADOS"
+            },
+            "type": "Clube",
+            "cover": {
+              "title": "Hebraica",
+              "link": "/",
+              "label": "SABER MAIS",
+              "image": {
+                "desktopImg": "https://data.decoassets.com/breton/dd828d80-c753-41d6-99c3-fe08bdd021b5/Sushi-Nouveau-desk.png",
+                "mobileImg": "https://data.decoassets.com/breton/316ba494-0748-421d-a758-2eef6ab15358/Sushi-Nouveau-mob.png"
+              },
+              "desktopImage": {
+                "image": "https://data.decoassets.com/breton/8cd5e663-8aa4-471c-9c24-fd17146063d8/hebraica-desk-1.png",
+                "alt": "Hebraica Desktop",
+                "width": 1360,
+                "height": 728
+              },
+              "mobileImage": {
+                "image": "https://data.decoassets.com/breton/a3f7628f-fa1a-4d86-b58c-a79d1ed2c731/hebraica-mob-1.png",
+                "alt": "Hebraica Mobile",
+                "width": 360,
+                "height": 640
+              }
+            }
+          },
+          {
+            "history": {
+              "topics": [
+                {
+                  "title": "DESCRIÇÃO",
+                  "text": "Localizado no Shopping Iguatemi Alphaville, com ambiente acolhedor e descontraído, surge um novo conceito em culinária japonesa, o Restaurante Sushi Nouveau reúne todos os benefícios de uma alimentação saudável, saborosa e artesanal, onde a combinação de sabores, cores e aromas se misturam de forma surpreendente."
+                },
+                {
+                  "title": "NOSSA ATUAÇÃO",
+                  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. "
+                },
+                {
+                  "title": "O ARQUITETO",
+                  "text": "Bruno Simões vive na capital paulista, onde mantém ateliê voltado para o desenvolvimento de projetos de arquitetura e de design de mobiliário, Bruno Simões é sócio curador da Feira MADE (Mercado. Arte. Design), o que o coloca na linha de frente da cena do jovem design nacional. A formação diversificada – arquitetura, fotografia, jornalismo – é elemento determinante em seu design. Dono de um apurado poder de síntese, seu trabalho denota muito menos as particularidades envolvidas em cada uma de suas vivências profissionais, mas sim, suas muitas conexões."
+                }
+              ],
+              "title": "Sushi Nouveau",
+              "subtitle": "Shopping Iguatemi Alphaville | São paulo | 2022"
+            },
+            "normalSlide": [
+              {
+                "desktopImage": {
+                  "image": "https://data.decoassets.com/breton/142b8502-9b45-4e03-87ec-a7f8d0152fe9/Sushi-Nouveau-normal-slide-1.png",
+                  "alt": "Sushi Nouveau norma slide 1",
+                  "width": 940,
+                  "height": 728
+                },
+                "mobileImage": {
+                  "image": "https://data.decoassets.com/breton/142b8502-9b45-4e03-87ec-a7f8d0152fe9/Sushi-Nouveau-normal-slide-1.png",
+                  "alt": "Sushi Nouveau norma slide 1",
+                  "width": 360,
+                  "height": 640
+                }
+              },
+              {
+                "desktopImage": {
+                  "image": "https://data.decoassets.com/breton/01d07c53-5ba7-4fa4-8bb7-d307b07797ae/Sushi-Nouveau-normal-slide-2.png",
+                  "alt": "Sushi Nouveau norma slide 2",
+                  "width": 940,
+                  "height": 728
+                },
+                "mobileImage": {
+                  "image": "https://data.decoassets.com/breton/01d07c53-5ba7-4fa4-8bb7-d307b07797ae/Sushi-Nouveau-normal-slide-2.png",
+                  "alt": "Sushi Nouveau norma slide 2",
+                  "width": 360,
+                  "height": 640
+                }
+              },
+              {
+                "desktopImage": {
+                  "image": "https://data.decoassets.com/breton/90b3d34c-b14f-4a73-9336-9dc0ad3072e6/Sushi-Nouveau-normal-slide-3.png",
+                  "alt": "Sushi Nouveau norma slide 3",
+                  "width": 940,
+                  "height": 728
+                },
+                "mobileImage": {
+                  "image": "https://data.decoassets.com/breton/90b3d34c-b14f-4a73-9336-9dc0ad3072e6/Sushi-Nouveau-normal-slide-3.png",
+                  "alt": "Sushi Nouveau norma slide 3",
+                  "width": 360,
+                  "height": 640
+                }
+              }
+            ],
+            "productsSlide": {
+              "backgroundColor": "#000000",
+              "products": {
+                "collectionId": "235"
+              },
+              "title": "PRODUTOS APRESENTADOS"
+            },
+            "type": "Restaurante",
+            "cover": {
+              "title": "Watanabe",
+              "link": "/",
+              "label": "SABER MAIS",
+              "image": {
+                "desktopImg": "https://data.decoassets.com/breton/dd828d80-c753-41d6-99c3-fe08bdd021b5/Sushi-Nouveau-desk.png",
+                "mobileImg": "https://data.decoassets.com/breton/316ba494-0748-421d-a758-2eef6ab15358/Sushi-Nouveau-mob.png"
+              },
+              "desktopImage": {
+                "image": "https://data.decoassets.com/breton/55d60c15-5b17-4436-bf6d-48fb7441dee0/watanabe-desk-1.png",
+                "alt": "Watanabe Desktop",
+                "width": 1360,
+                "height": 728
+              },
+              "mobileImage": {
+                "image": "https://data.decoassets.com/breton/75f0340d-9329-4be3-97bb-741c25aa2f37/watanabe-mob-1.png",
+                "alt": "Watanabe Mobile",
+                "width": 360,
+                "height": 640
+              }
+            }
+          },
+          {
+            "history": {
+              "topics": [
+                {
+                  "title": "DESCRIÇÃO",
+                  "text": "Localizado no Shopping Iguatemi Alphaville, com ambiente acolhedor e descontraído, surge um novo conceito em culinária japonesa, o Restaurante Sushi Nouveau reúne todos os benefícios de uma alimentação saudável, saborosa e artesanal, onde a combinação de sabores, cores e aromas se misturam de forma surpreendente."
+                },
+                {
+                  "title": "NOSSA ATUAÇÃO",
+                  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. "
+                },
+                {
+                  "title": "O ARQUITETO",
+                  "text": "Bruno Simões vive na capital paulista, onde mantém ateliê voltado para o desenvolvimento de projetos de arquitetura e de design de mobiliário, Bruno Simões é sócio curador da Feira MADE (Mercado. Arte. Design), o que o coloca na linha de frente da cena do jovem design nacional. A formação diversificada – arquitetura, fotografia, jornalismo – é elemento determinante em seu design. Dono de um apurado poder de síntese, seu trabalho denota muito menos as particularidades envolvidas em cada uma de suas vivências profissionais, mas sim, suas muitas conexões."
+                }
+              ],
+              "title": "Sushi Nouveau",
+              "subtitle": "Shopping Iguatemi Alphaville | São paulo | 2022"
+            },
+            "normalSlide": [
+              {
+                "desktopImage": {
+                  "image": "https://data.decoassets.com/breton/142b8502-9b45-4e03-87ec-a7f8d0152fe9/Sushi-Nouveau-normal-slide-1.png",
+                  "alt": "Sushi Nouveau norma slide 1",
+                  "width": 940,
+                  "height": 728
+                },
+                "mobileImage": {
+                  "image": "https://data.decoassets.com/breton/142b8502-9b45-4e03-87ec-a7f8d0152fe9/Sushi-Nouveau-normal-slide-1.png",
+                  "alt": "Sushi Nouveau norma slide 1",
+                  "width": 360,
+                  "height": 640
+                }
+              },
+              {
+                "desktopImage": {
+                  "image": "https://data.decoassets.com/breton/01d07c53-5ba7-4fa4-8bb7-d307b07797ae/Sushi-Nouveau-normal-slide-2.png",
+                  "alt": "Sushi Nouveau norma slide 2",
+                  "width": 940,
+                  "height": 728
+                },
+                "mobileImage": {
+                  "image": "https://data.decoassets.com/breton/01d07c53-5ba7-4fa4-8bb7-d307b07797ae/Sushi-Nouveau-normal-slide-2.png",
+                  "alt": "Sushi Nouveau norma slide 2",
+                  "width": 360,
+                  "height": 640
+                }
+              },
+              {
+                "desktopImage": {
+                  "image": "https://data.decoassets.com/breton/90b3d34c-b14f-4a73-9336-9dc0ad3072e6/Sushi-Nouveau-normal-slide-3.png",
+                  "alt": "Sushi Nouveau norma slide 3",
+                  "width": 940,
+                  "height": 728
+                },
+                "mobileImage": {
+                  "image": "https://data.decoassets.com/breton/90b3d34c-b14f-4a73-9336-9dc0ad3072e6/Sushi-Nouveau-normal-slide-3.png",
+                  "alt": "Sushi Nouveau norma slide 3",
+                  "width": 940,
+                  "height": 728
+                }
+              }
+            ],
+            "productsSlide": {
+              "backgroundColor": "#000000",
+              "products": {
+                "collectionId": "235"
+              },
+              "title": "PRODUTOS APRESENTADOS"
+            },
+            "type": "Restaurante",
+            "cover": {
+              "title": "Mazza",
+              "link": "/",
+              "label": "SABER MAIS",
+              "image": {
+                "desktopImg": "https://data.decoassets.com/breton/dd828d80-c753-41d6-99c3-fe08bdd021b5/Sushi-Nouveau-desk.png",
+                "mobileImg": "https://data.decoassets.com/breton/316ba494-0748-421d-a758-2eef6ab15358/Sushi-Nouveau-mob.png"
+              },
+              "desktopImage": {
+                "image": "https://data.decoassets.com/breton/2ad40490-08fd-4dfb-8f8d-2edbd98ef739/mazza-desk-1.png",
+                "alt": "Mazza Desktop",
+                "width": 1360,
+                "height": 728
+              },
+              "mobileImage": {
+                "image": "https://data.decoassets.com/breton/0df01d20-a1c8-49b3-a2ab-b179d48433c3/mazza-mob-1.png",
+                "alt": "Mazza Mobile",
+                "width": 360,
+                "height": 640
+              }
+            }
+          },
+          {
+            "history": {
+              "topics": [
+                {
+                  "title": "DESCRIÇÃO",
+                  "text": "Localizado no Shopping Iguatemi Alphaville, com ambiente acolhedor e descontraído, surge um novo conceito em culinária japonesa, o Restaurante Sushi Nouveau reúne todos os benefícios de uma alimentação saudável, saborosa e artesanal, onde a combinação de sabores, cores e aromas se misturam de forma surpreendente."
+                },
+                {
+                  "title": "NOSSA ATUAÇÃO",
+                  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. "
+                },
+                {
+                  "title": "O ARQUITETO",
+                  "text": "Bruno Simões vive na capital paulista, onde mantém ateliê voltado para o desenvolvimento de projetos de arquitetura e de design de mobiliário, Bruno Simões é sócio curador da Feira MADE (Mercado. Arte. Design), o que o coloca na linha de frente da cena do jovem design nacional. A formação diversificada – arquitetura, fotografia, jornalismo – é elemento determinante em seu design. Dono de um apurado poder de síntese, seu trabalho denota muito menos as particularidades envolvidas em cada uma de suas vivências profissionais, mas sim, suas muitas conexões."
+                }
+              ],
+              "title": "Sushi Nouveau",
+              "subtitle": "Shopping Iguatemi Alphaville | São paulo | 2022"
+            },
+            "normalSlide": [
+              {
+                "desktopImage": {
+                  "image": "https://data.decoassets.com/breton/142b8502-9b45-4e03-87ec-a7f8d0152fe9/Sushi-Nouveau-normal-slide-1.png",
+                  "alt": "Sushi Nouveau norma slide 1",
+                  "width": 940,
+                  "height": 728
+                },
+                "mobileImage": {
+                  "image": "https://data.decoassets.com/breton/142b8502-9b45-4e03-87ec-a7f8d0152fe9/Sushi-Nouveau-normal-slide-1.png",
+                  "alt": "Sushi Nouveau norma slide 1",
+                  "width": 360,
+                  "height": 640
+                }
+              },
+              {
+                "desktopImage": {
+                  "image": "https://data.decoassets.com/breton/01d07c53-5ba7-4fa4-8bb7-d307b07797ae/Sushi-Nouveau-normal-slide-2.png",
+                  "alt": "Sushi Nouveau norma slide 2",
+                  "width": 940,
+                  "height": 728
+                },
+                "mobileImage": {
+                  "image": "https://data.decoassets.com/breton/01d07c53-5ba7-4fa4-8bb7-d307b07797ae/Sushi-Nouveau-normal-slide-2.png",
+                  "alt": "Sushi Nouveau norma slide 2",
+                  "width": 360,
+                  "height": 640
+                }
+              },
+              {
+                "desktopImage": {
+                  "image": "https://data.decoassets.com/breton/90b3d34c-b14f-4a73-9336-9dc0ad3072e6/Sushi-Nouveau-normal-slide-3.png",
+                  "alt": "Sushi Nouveau norma slide 3",
+                  "width": 940,
+                  "height": 728
+                },
+                "mobileImage": {
+                  "image": "https://data.decoassets.com/breton/90b3d34c-b14f-4a73-9336-9dc0ad3072e6/Sushi-Nouveau-normal-slide-3.png",
+                  "alt": "Sushi Nouveau norma slide 3",
+                  "width": 360,
+                  "height": 640
+                }
+              }
+            ],
+            "productsSlide": {
+              "backgroundColor": "#000000",
+              "products": {
+                "collectionId": "235"
+              },
+              "title": "PRODUTOS APRESENTADOS"
+            },
+            "type": "Restaurante",
+            "cover": {
+              "title": "Lassú",
+              "link": "/",
+              "label": "SABER MAIS",
+              "image": {
+                "desktopImg": "https://data.decoassets.com/breton/dd828d80-c753-41d6-99c3-fe08bdd021b5/Sushi-Nouveau-desk.png",
+                "mobileImg": "https://data.decoassets.com/breton/316ba494-0748-421d-a758-2eef6ab15358/Sushi-Nouveau-mob.png"
+              },
+              "desktopImage": {
+                "image": "https://data.decoassets.com/breton/389a6dce-994a-4296-98bc-78a705aca70f/lassu-desk-1.png",
+                "alt": "Lassú Desktop",
+                "width": 1360,
+                "height": 728
+              },
+              "mobileImage": {
+                "image": "https://data.decoassets.com/breton/30efe63d-3959-4ddc-91ed-7567386cafa8/lassu-mob-1.png",
+                "alt": "Lassú Mobile",
+                "width": 360,
+                "height": 640
+              }
+            }
+          },
+          {
+            "history": {
+              "topics": [
+                {
+                  "title": "DESCRIÇÃO",
+                  "text": "Localizado no Shopping Iguatemi Alphaville, com ambiente acolhedor e descontraído, surge um novo conceito em culinária japonesa, o Restaurante Sushi Nouveau reúne todos os benefícios de uma alimentação saudável, saborosa e artesanal, onde a combinação de sabores, cores e aromas se misturam de forma surpreendente."
+                },
+                {
+                  "title": "NOSSA ATUAÇÃO",
+                  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. "
+                },
+                {
+                  "title": "O ARQUITETO",
+                  "text": "Bruno Simões vive na capital paulista, onde mantém ateliê voltado para o desenvolvimento de projetos de arquitetura e de design de mobiliário, Bruno Simões é sócio curador da Feira MADE (Mercado. Arte. Design), o que o coloca na linha de frente da cena do jovem design nacional. A formação diversificada – arquitetura, fotografia, jornalismo – é elemento determinante em seu design. Dono de um apurado poder de síntese, seu trabalho denota muito menos as particularidades envolvidas em cada uma de suas vivências profissionais, mas sim, suas muitas conexões."
+                }
+              ],
+              "title": "Sushi Nouveau",
+              "subtitle": "Shopping Iguatemi Alphaville | São paulo | 2022"
+            },
+            "normalSlide": [
+              {
+                "desktopImage": {
+                  "image": "https://data.decoassets.com/breton/142b8502-9b45-4e03-87ec-a7f8d0152fe9/Sushi-Nouveau-normal-slide-1.png",
+                  "alt": "Sushi Nouveau norma slide 1",
+                  "width": 940,
+                  "height": 728
+                },
+                "mobileImage": {
+                  "image": "https://data.decoassets.com/breton/142b8502-9b45-4e03-87ec-a7f8d0152fe9/Sushi-Nouveau-normal-slide-1.png",
+                  "alt": "Sushi Nouveau norma slide 1",
+                  "width": 360,
+                  "height": 640
+                }
+              },
+              {
+                "desktopImage": {
+                  "image": "https://data.decoassets.com/breton/01d07c53-5ba7-4fa4-8bb7-d307b07797ae/Sushi-Nouveau-normal-slide-2.png",
+                  "alt": "Sushi Nouveau norma slide 2",
+                  "width": 940,
+                  "height": 728
+                },
+                "mobileImage": {
+                  "image": "https://data.decoassets.com/breton/01d07c53-5ba7-4fa4-8bb7-d307b07797ae/Sushi-Nouveau-normal-slide-2.png",
+                  "alt": "Sushi Nouveau norma slide 2",
+                  "width": 360,
+                  "height": 640
+                }
+              },
+              {
+                "desktopImage": {
+                  "image": "https://data.decoassets.com/breton/90b3d34c-b14f-4a73-9336-9dc0ad3072e6/Sushi-Nouveau-normal-slide-3.png",
+                  "alt": "Sushi Nouveau norma slide 3",
+                  "width": 940,
+                  "height": 728
+                },
+                "mobileImage": {
+                  "image": "https://data.decoassets.com/breton/90b3d34c-b14f-4a73-9336-9dc0ad3072e6/Sushi-Nouveau-normal-slide-3.png",
+                  "alt": "Sushi Nouveau norma slide 3",
+                  "width": 360,
+                  "height": 640
+                }
+              }
+            ],
+            "productsSlide": {
+              "backgroundColor": "#000000",
+              "products": {
+                "collectionId": "235"
+              },
+              "title": "PRODUTOS APRESENTADOS"
+            },
+            "type": "Edifício",
+            "cover": {
+              "title": "Hall do K1",
+              "link": "/",
+              "label": "SABER MAIS",
+              "image": {
+                "desktopImg": "https://data.decoassets.com/breton/dd828d80-c753-41d6-99c3-fe08bdd021b5/Sushi-Nouveau-desk.png",
+                "mobileImg": "https://data.decoassets.com/breton/316ba494-0748-421d-a758-2eef6ab15358/Sushi-Nouveau-mob.png"
+              },
+              "desktopImage": {
+                "image": "https://data.decoassets.com/breton/4c48c08d-1831-4c82-b9fc-cbf460952fe5/halldok1-desk-1.png",
+                "alt": "Hall do K1 Desktop",
+                "width": 1360,
+                "height": 728
+              },
+              "mobileImage": {
+                "image": "https://data.decoassets.com/breton/8f188ff2-4691-4d21-b217-8c6f15110195/halldok1-mob-1.png",
+                "alt": "Hall do K1 Mobile",
+                "width": 360,
+                "height": 640
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Spacer/Spacer.tsx",
+        "heightDesktop": 120,
+        "heightMobile": 56
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutional/InstitutionalForm.tsx",
+        "title": "FALE CONOSCO",
+        "description": "Temos uma equipe especializada para te atender e desenvolver um projeto que atenda todas as necessidades da sua empresa.",
+        "labelSendButton": "ENVIAR",
+        "sucessMessage": "Entraremos em contato assim que possível",
+        "errorMessage": "Houve algum erro, por favor entre em contato",
+        "inputs": [
+          {
+            "type": "text",
+            "label": "Nome:",
+            "placeholder": "Digite aqui",
+            "nameOnMasterData": "co_nome"
+          },
+          {
+            "type": "email",
+            "label": "Email:",
+            "placeholder": "seunome@email.com",
+            "nameOnMasterData": "co_email"
+          },
+          {
+            "type": "tel",
+            "label": "Telefone:",
+            "placeholder": "(00) 00000-0000",
+            "nameOnMasterData": "co_telefone"
+          }
+        ],
+        "error": {
+          "title": "Desculpe!",
+          "text": "Houve um erro no envio dos seus dados. Por favor, tente novamente mais tarde."
+        },
+        "sucess": {
+          "title": "Obrigado!",
+          "text": "Em breve entraremos em contato com você!"
+        },
+        "success": {
+          "title": "OBRIGADO!",
+          "text": "Em breve entraremos em contato com você!"
+        },
+        "entityName": "CO",
+        "type": 2
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Spacer/Spacer.tsx",
+        "heightDesktop": 141,
+        "heightMobile": 64
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/BrandsCarousel/BrandsCarousel.tsx",
+        "allLogos": [
+          {
+            "width": 196,
+            "height": 22,
+            "image": "https://data.decoassets.com/breton/a90e886f-f5b0-4aa5-9dd3-2086c725f73a/brands-carousel-1.png"
+          },
+          {
+            "image": "https://data.decoassets.com/breton/8ae60ce2-06b4-43d6-8798-c738e9c49236/brands-carousel-2.png",
+            "width": 210,
+            "height": 42
+          },
+          {
+            "image": "https://data.decoassets.com/breton/9591789d-377e-46ea-a5e9-934b2b8f752a/brands-carousel-3.png",
+            "width": 127,
+            "height": 40
+          },
+          {
+            "image": "https://data.decoassets.com/breton/f52926ea-3dd1-4e4d-8238-5fe1265b8d2c/brands-carousel-4.png",
+            "width": 69,
+            "height": 46
+          },
+          {
+            "image": "https://data.decoassets.com/breton/39a1f6da-d205-42d9-9dec-d5d9ae4bdb5a/brands-carousel-5.png",
+            "width": 225,
+            "height": 48
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Spacer/Spacer.tsx",
+        "heightDesktop": 56,
+        "heightMobile": 64
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutional/InstitutionalFooterNavigator.tsx",
+        "background": "#672135",
+        "text": "<p style=\"text-align: center; font-size: 16px; line-height: 24px; font-weight: 600; color: rgb(255, 255, 255); letter-spacing: 3.84px;\" data-mce-style=\"text-align: center; font-size: 16px; line-height: 24px; font-weight: 600; color: rgb(255, 255, 255); letter-spacing: 3.84px;\">VEJA TAMBÉM:</p>",
+        "navigationList": [
+          {
+            "imageDesktop": "https://data.decoassets.com/breton/d25cce84-4ae7-4691-a4a2-2a5fb1ade4ef/InstitutionalFooterNavigatorDesk-1.png",
+            "imageMobile": "https://data.decoassets.com/breton/6a4f8740-9119-4866-9c2b-18988300a57a/InstitutionalFooterNavigatorMob-1.png",
+            "title": "Lojas Breton",
+            "label": "Ver lojas",
+            "link": "/"
+          },
+          {
+            "title": "Eco Breton",
+            "label": "Saiba mais",
+            "link": "/ecobreton",
+            "imageDesktop": "https://data.decoassets.com/breton/29da7b3e-4793-4d45-9c91-2a6fa22557c8/InstitutionalFooterNavigatorDesk-2.png",
+            "imageMobile": "https://data.decoassets.com/breton/6a4f8740-9119-4866-9c2b-18988300a57a/InstitutionalFooterNavigatorMob-1.png"
+          },
+          {
+            "title": "Blog Breton",
+            "label": "Saiba mais",
+            "link": "/",
+            "imageDesktop": "https://data.decoassets.com/breton/80daf5e5-02c8-48ac-b44a-069e3d8b0657/InstitutionalFooterNavigatorDesk-3.png",
+            "imageMobile": "https://data.decoassets.com/breton/6a4f8740-9119-4866-9c2b-18988300a57a/InstitutionalFooterNavigatorMob-1.png"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Spacer/Spacer.tsx",
+        "heightDesktop": 104,
+        "heightMobile": 64
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

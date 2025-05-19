@@ -1,0 +1,8 @@
+{
+  "name": "collections/blog/authors/4d540a06b0d4",
+  "__resolveType": "blog/loaders/Author.ts",
+  "author": {
+    "name": "GLOBO.COM",
+    "email": "teste@teste.com"
+  }
+}

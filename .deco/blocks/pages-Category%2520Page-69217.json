@@ -1,0 +1,76 @@
+{
+  "name": "Category Page",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "commerce/sections/Seo/SeoPLPV2.tsx",
+        "jsonLD": {
+          "__resolveType": "LoaderPLP"
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Search/BannerCategory/BannerCategory.tsx",
+      "banners": [
+        {
+          "image": {
+            "desktop": "https://data.decoassets.com/breton/6adf08b4-59a0-4d0d-9dba-7473db3b96a3/banner2.png",
+            "mobile": "https://data.decoassets.com/breton/9de3d2e2-abc4-409f-b755-c33967de8a71/banner1.png",
+            "alt": "Breton"
+          },
+          "title": "Breton",
+          "matcher": "/breton"
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/SearchResult.tsx",
+        "page": {
+          "__resolveType": "LoaderPLP"
+        },
+        "layout": {
+          "columns": {
+            "mobile": 2,
+            "desktop": 4
+          },
+          "variant": "aside",
+          "pagination": "show-more"
+        },
+        "startingPage": 1
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Search/RichText/SearchRichText.tsx",
+        "richTexts": [
+          {
+            "matcher": "/breton",
+            "richTitle": "Conforto e elegância para o seu ambiente",
+            "richContent": "<p>Se você busca sofisticação, qualidade e design inovador, as cadeiras Breton são a escolha perfeita para transformar qualquer espaço. Seja para o seu escritório, sala de jantar ou até mesmo para a decoração de ambientes exclusivos, as cadeiras não são apenas móveis, mas verdadeiras obras de arte que agregam valor e personalidade ao ambiente.</p><p>Se você busca sofisticação, qualidade e design inovador, as cadeiras Breton são a escolha perfeita para transformar qualquer espaço. Seja para o seu escritório, sala de jantar ou até mesmo para a decoração de ambientes exclusivos, as cadeiras não são apenas móveis, mas verdadeiras obras de arte que agregam valor e personalidade ao ambiente.</p><p>Se você busca sofisticação, qualidade e design inovador, as cadeiras Breton são a escolha perfeita para transformar qualquer espaço. Seja para o seu escritório, sala de jantar ou até mesmo para a decoração de ambientes exclusivos, as cadeiras não são apenas móveis, mas verdadeiras obras de arte que agregam valor e personalidade ao ambiente.</p><p>Se você busca sofisticação, qualidade e design inovador, as cadeiras Breton são a escolha perfeita para transformar qualquer espaço. Seja para o seu escritório, sala de jantar ou até mesmo para a decoração de ambientes exclusivos, as cadeiras não são apenas móveis, mas verdadeiras obras de arte que agregam valor e personalidade ao ambiente.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx",
+  "path": "/*"
+}

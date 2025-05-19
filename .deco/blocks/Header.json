@@ -1,0 +1,521 @@
+{
+  "__resolveType": "site/sections/Header/Header.tsx",
+  "searchbar": {
+    "placeholder": "Pesquise Breton",
+    "loader": {
+      "__resolveType": "resolved",
+      "data": {
+        "__resolveType": "vtex/loaders/intelligentSearch/suggestions.ts",
+        "count": 4
+      }
+    },
+    "suggestions": [
+      {
+        "label": "Sofá",
+        "href": "/sofa"
+      },
+      {
+        "label": "Cadeira",
+        "href": "/cadeira"
+      },
+      {
+        "label": "Mesa",
+        "href": "/mesa"
+      },
+      {
+        "label": "Aparador",
+        "href": "/aparador"
+      },
+      {
+        "label": "Banco",
+        "href": "/banco"
+      },
+      {
+        "label": "Estante",
+        "href": "/estante"
+      },
+      {
+        "label": "Poltrona",
+        "href": "/poltrona"
+      }
+    ],
+    "images": [
+      {
+        "label": "Área externa",
+        "href": "/area-externa",
+        "image": "https://data.decoassets.com/breton/75887c05-414d-4d7f-990f-58bd15f7aa17/Banner-Meio.png"
+      },
+      {
+        "label": "Área interna",
+        "href": "/area-interna",
+        "image": "https://data.decoassets.com/breton/cce37e12-f05a-44f8-b339-707abb9949b0/Banner-Meio-(1).png"
+      },
+      {
+        "label": "Coleções especiais",
+        "href": "/colecoes",
+        "image": "https://data.decoassets.com/breton/0efc3fc9-412c-41c4-af8a-cbf9110bad74/Banner-Meio-(2).png"
+      },
+      {
+        "label": "Produtos casa vogue",
+        "href": "/casa-vogue",
+        "image": "https://data.decoassets.com/breton/00e7201f-d30e-4bbf-be5b-c53fbd9a938c/Banner-Meio-(3).png",
+        "mobileLabel": "Casa Vogue"
+      }
+    ]
+  },
+  "alerts": [
+    "<p>Get 10% off today: <strong>NEW10</strong></p>"
+  ],
+  "logo": {
+    "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/cca541c5-f3a5-4e4b-b2c1-451d75d3ec66/Logo.png",
+    "alt": "Breton",
+    "width": 120,
+    "height": 20
+  },
+  "navItems": [],
+  "loading": "eager",
+  "altLogo": {
+    "alt": "Breton",
+    "width": 120,
+    "height": 20,
+    "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/c3bfecfe-ca14-4285-a720-642a273e1ac5/Logo-(1).png"
+  },
+  "links": [
+    {
+      "label": "A BRETON",
+      "href": "/about-us"
+    },
+    {
+      "href": "/corporate",
+      "label": "CORPORATIVO"
+    },
+    {
+      "label": "Nossas Lojas",
+      "href": "/stores"
+    },
+    {
+      "label": "Ecobreton",
+      "href": "/ecobreton"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    }
+  ],
+  "navBar": {
+    "menu": [
+      {
+        "item": {
+          "label": "Produtos",
+          "link": "/produtos",
+          "submenu": [
+            {
+              "children": [
+                {
+                  "item": {
+                    "type": "disclosure",
+                    "children": [
+                      {
+                        "type": "link",
+                        "label": "Aparador",
+                        "link": "/area-interna/apoios/aparador"
+                      },
+                      {
+                        "type": "link",
+                        "label": "Sofa Table",
+                        "link": "/area-interna/apoios/sofa-table"
+                      },
+                      {
+                        "type": "link",
+                        "label": "Buffet",
+                        "link": "/area-interna/apoios/buffet"
+                      }
+                    ],
+                    "label": "Apoios"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Banco",
+                    "link": "/area-interna/banco"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Banqueta",
+                    "link": "/area-interna/banqueta"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "disclosure",
+                    "children": [
+                      {
+                        "type": "link",
+                        "label": "Carro Bar",
+                        "link": "/area-interna/bar/carro-bar"
+                      },
+                      {
+                        "type": "link",
+                        "label": "Móvel Bar",
+                        "link": "/area-interna/bar/movel-bar"
+                      }
+                    ],
+                    "label": "Bar"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Cadeiras",
+                    "link": "/area-interna/cadeiras"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Camas",
+                    "link": "/area-interna/camas"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Cômoda",
+                    "link": "/area-interna/comoda"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Cristaleira",
+                    "link": "/area-interna/cristaleira"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Estante",
+                    "link": "/area-interna/estante"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Mancebo",
+                    "link": "/area-interna/mancebo"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Mesa de Jantar",
+                    "link": "/area-interna/mesa-de-jantar"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Mesa de Jogos",
+                    "link": "/area-interna/mesa-de-jogos"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Mesa Office",
+                    "link": "/area-interna/mesa-office"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "disclosure",
+                    "label": "Mesas Complementares",
+                    "children": [
+                      {
+                        "type": "link",
+                        "label": "Mesa de Centro",
+                        "link": "/area-interna/mesa-de-centro"
+                      },
+                      {
+                        "type": "link",
+                        "label": "Mesa Lateral",
+                        "link": "/area-interna/mesa-lateral"
+                      },
+                      {
+                        "type": "link",
+                        "label": "Mesa de Apoio",
+                        "link": "/area-interna/mesa-de-apoio"
+                      },
+                      {
+                        "type": "link",
+                        "label": "Mesa de Cabeceira",
+                        "link": "/area-interna/mesa-de-cabeceira"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Namoradeira",
+                    "link": "/area-interna/namoradeira"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Ombrellone",
+                    "link": "/area-interna/ombrellone"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Penteadeira",
+                    "link": "/area-interna/penteadeira"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Poltrona",
+                    "link": "/area-interna/poltrona"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Puff",
+                    "link": "/area-interna/puff"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Recamier",
+                    "link": "/area-interna/recamier"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Sofá",
+                    "link": "/area-interna/sofa"
+                  }
+                }
+              ],
+              "title": "Área interna",
+              "url": "/area-interna"
+            },
+            {
+              "children": [
+                {
+                  "item": {
+                    "type": "disclosure",
+                    "label": "Apoios",
+                    "children": [
+                      {
+                        "type": "link",
+                        "label": "Aparador",
+                        "link": "/area-externa/apoios/aparador"
+                      },
+                      {
+                        "type": "link",
+                        "label": "Carro Bar",
+                        "link": "/area-externa/apoios/carro-bar"
+                      },
+                      {
+                        "type": "link",
+                        "label": "Sofa Table",
+                        "link": "/area-externa/apoios/sofa-table"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Balanço",
+                    "link": "/area-externa/balanco"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Banco",
+                    "link": "/area-externa/banco"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Banqueta",
+                    "link": "/area-externa/banqueta"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Chaise",
+                    "link": "/area-externa/chaise"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Cadeiras",
+                    "link": "/area-externa/cadeiras"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Espreguiçadeira",
+                    "link": "/area-externa/espreguicadeira"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Mesa de Jantar",
+                    "link": "/area-externa/mesa-de-jantar"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "disclosure",
+                    "label": "Mesas Complementares",
+                    "children": [
+                      {
+                        "type": "link",
+                        "label": "Mesa de Centro",
+                        "link": "/area-externa/mesa-de-centro"
+                      },
+                      {
+                        "type": "link",
+                        "label": "Mesa Lateral",
+                        "link": "/area-externa/mesa-lateral"
+                      },
+                      {
+                        "type": "link",
+                        "label": "Mesa de Apoio",
+                        "link": "/area-externa/mesa-de-apoio"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Ombrellone",
+                    "link": "/area-externa/ombrellone"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Poltrona",
+                    "link": "/area-externa/poltrona"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Puff",
+                    "link": "/area-externa/puff"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Sofá",
+                    "link": "/area-externa/sofa"
+                  }
+                }
+              ],
+              "title": "Área externa",
+              "url": "/area-externa"
+            }
+          ],
+          "type": "menu"
+        }
+      },
+      {
+        "item": {
+          "label": "Ambientes",
+          "images": [
+            {
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/67b4e39c-a909-4b04-bb21-fcdc9bb643bf/Quarto.png",
+              "label": "Quarto",
+              "link": "/quarto"
+            },
+            {
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/32697e6b-1f0e-4aa0-8c30-163c9d69c9db/Jantar.png",
+              "label": "Jantar",
+              "link": "/jantar"
+            },
+            {
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/dac12ce5-f9d2-422f-a3a8-3deab85602ac/Escritorios.png",
+              "label": "Escritórios",
+              "link": "/escritorios"
+            },
+            {
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/ff1b0ed4-cf8c-427e-a355-d8b8b6e1ca64/Sala-de-estar.png",
+              "label": "Sala de Estar",
+              "link": "/sala-de-estar"
+            },
+            {
+              "label": "Cozinha",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/4103b588-e6d6-4da5-8c24-9ef42147ea0b/Cozinha.png",
+              "link": "/cozinha"
+            },
+            {
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/83733c78-3b66-4c11-858b-d354cf507a70/Area-externa.png",
+              "label": "Área Externa",
+              "link": "/area-externa"
+            },
+            {
+              "label": "Garden",
+              "link": "/garden",
+              "image": "https://data.decoassets.com/breton/c8548540-5caf-4a4d-a732-5ecf53015340/Garden.png"
+            },
+            {
+              "label": "Bar",
+              "link": "/bar",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/65f2150e-9fc9-4345-81ef-e399d1d5eec3/Bar.png"
+            },
+            {
+              "label": "Banheiro",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/9971c6fd-1b0e-4f4f-a3f8-9c153761757b/Banheiro.png",
+              "link": "/banheiro"
+            }
+          ],
+          "type": "menu-with-images"
+        }
+      }
+    ]
+  },
+  "headerLinks": [
+    {
+      "label": "Designers",
+      "href": "#banner-designer"
+    }
+  ],
+  "languages": [
+    {
+      "label": "PT",
+      "link": "/"
+    },
+    {
+      "label": "EN",
+      "link": "/"
+    },
+    {
+      "label": "ES",
+      "link": "/"
+    }
+  ]
+}

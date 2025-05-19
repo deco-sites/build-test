@@ -1,0 +1,125 @@
+{
+  "name": "collections/blog/posts/c8a775e7abb8",
+  "__resolveType": "blog/loaders/Blogpost.ts",
+  "post": {
+    "authors": [
+      {
+        "name": "GLOBO.COM",
+        "email": "teste@teste.com"
+      }
+    ],
+    "categories": [
+      {
+        "name": "Teste",
+        "slug": "categoria"
+      }
+    ],
+    "content": [
+      {
+        "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
+        "content": "<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Em 20 anos de casamento, é a primeira vez que&nbsp;<span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">Taís Araujo e Lázaro Ramos</span>&nbsp;realizam o projeto de uma casa do início ao fim. “Moramos em diversos lugares e nunca quisemos encarar uma&nbsp;obra&nbsp;longa. Fazíamos apenas intervenções pontuais.<br><br>O problema é que os espaços não ficavam com a nossa cara”, conta o ator. Agora foi diferente. Após um ano de reforma, o apartamento dos anos 1950, na Zona Sul do Rio de Janeiro, se transformou no lar que eles desejavam. <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">“Apesar de ser quase tudo novo, a gente se reconhece em cada canto,</span> pois pensamos os ambientes juntos e trouxemos objetos e obras de arte ligados à nossa história”, lembra Taís.</p>"
+      },
+      {
+        "__resolveType": "blog/sections/Blog/components/ImageTwoColumnSection.tsx",
+        "imageOne": "https://assets.decocache.com/breton/5c37a682-f897-470e-9e13-67ff6b727214/blog-two-images-1.png",
+        "imageTwo": "https://assets.decocache.com/breton/a9772c21-18db-446a-9ce4-89f6758529f2/blog-two-images-2.png"
+      },
+      {
+        "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
+        "content": "<h2 data-mce-style=\"text-align: center;\" style=\"text-align: center;\"><strong>O SONHO DE PERSONALIZAÇÃO</strong></h2><p><br data-mce-bogus=\"1\"></p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Inspirada nas paisagens naturais que tornam o <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">Brasil único</span>, a linha foi desenvolvida a partir de uma profunda pesquisa sobre os elementos que definem nossa identidade cultural. Desde as cores vibrantes das florestas tropicais até a serenidade das praias, passando pelas texturas da nossa fauna e flora, cada detalhe da coleção foi projetado para transmitir o espírito do Brasil de uma forma inovadora e elegante.<br><br>As matérias-primas foram cuidadosamente selecionadas para valorizar a sustentabilidade, reforçando o <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">compromisso da marca com práticas responsáveis e a valorização dos recursos locais</span>, que são parte intrínseca da nossa identidade.</p>"
+      },
+      {
+        "__resolveType": "blog/sections/Blog/components/Video.tsx",
+        "videoDesktop": {
+          "video": "https://assets.decocache.com/breton/9873d6c5-c1fd-4bcf-bc9a-75e9644595d6/Tais-Lazaro-mais-otimizado-ainda.mp4",
+          "width": 100,
+          "height": 50
+        },
+        "videoMobile": {
+          "width": 100,
+          "height": 50,
+          "video": "https://assets.decocache.com/breton/9873d6c5-c1fd-4bcf-bc9a-75e9644595d6/Tais-Lazaro-mais-otimizado-ainda.mp4"
+        }
+      },
+      {
+        "__resolveType": "blog/sections/Blog/components/ImageAndTextSection.tsx",
+        "image": "https://assets.decocache.com/breton/f8c3b6c7-ae93-4edb-af72-65c2f61c305d/blog-image-and-text.png",
+        "text": "<p><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Inspirada nas paisagens naturais que tornam o Brasil único, a linha foi desenvolvida a partir de uma profunda pesquisa sobre os elementos que definem nossa identidade cultural. Desde as cores vibrantes das florestas tropicais até a serenidade das praias, passando pelas texturas da nossa fauna e flora, cada detalhe da coleção foi projetado para transmitir o espírito do Brasil de uma forma inovadora e elegante.</span><br><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">As matérias-primas foram cuidadosamente selecionadas para valorizar a sustentabilidade, reforçando o compromisso da marca com práticas responsáveis e a valorização dos recursos locais, que são parte intrínseca da nossa identidade.</span></p>"
+      },
+      {
+        "__resolveType": "blog/sections/Blog/components/ImagesSlide.tsx",
+        "images": [
+          {
+            "image": "https://assets.decocache.com/breton/ea29ff05-194c-444d-94c8-69e2e0d28f82/slide-1.jpg",
+            "alt": "Teste"
+          },
+          {
+            "image": "https://assets.decocache.com/breton/ea29ff05-194c-444d-94c8-69e2e0d28f82/slide-1.jpg",
+            "alt": "Teste"
+          },
+          {
+            "image": "https://assets.decocache.com/breton/ea29ff05-194c-444d-94c8-69e2e0d28f82/slide-1.jpg",
+            "alt": "Teste"
+          },
+          {
+            "image": "https://assets.decocache.com/breton/ea29ff05-194c-444d-94c8-69e2e0d28f82/slide-1.jpg",
+            "alt": "Teste"
+          }
+        ]
+      },
+      {
+        "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
+        "content": "<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Inspirada nas paisagens naturais que tornam o&nbsp;<span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">Brasil único</span>, a linha foi desenvolvida a partir de uma profunda pesquisa sobre os elementos que definem nossa identidade cultural. Desde as cores vibrantes das florestas tropicais até a serenidade das praias, passando pelas texturas da nossa fauna e flora, cada detalhe da coleção foi projetado para transmitir o espírito do Brasil de uma forma inovadora e elegante.<br><br>As matérias-primas foram cuidadosamente selecionadas para valorizar a sustentabilidade, reforçando o <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">compromisso da marca com práticas responsáveis e a valorização dos recursos locais</span>, que são parte intrínseca da nossa identidade.</p>"
+      },
+      {
+        "__resolveType": "blog/sections/Blog/components/ImageThreeColumnSection.tsx",
+        "imageOne": "https://assets.decocache.com/breton/9910fbaf-3a46-487e-a0c4-131ec9507a2a/blog-three-images-1.png",
+        "imageTwo": "https://assets.decocache.com/breton/e15a1b26-764f-4348-8141-748c7cc69fea/blog-three-images-2.png",
+        "imageThree": "https://assets.decocache.com/breton/11168834-32bf-4daf-b1d3-2b929686f0c2/blog-three-images-3.png"
+      },
+      {
+        "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
+        "content": "<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Inspirada nas paisagens naturais que tornam o&nbsp;<span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">Brasil único</span>, a linha foi desenvolvida a partir de uma profunda pesquisa sobre os elementos que definem nossa identidade cultural. Desde as cores vibrantes das florestas tropicais até a serenidade das praias, passando pelas texturas da nossa fauna e flora, cada detalhe da coleção foi projetado para transmitir o espírito do Brasil de uma forma inovadora e elegante.<br><br>As matérias-primas foram cuidadosamente selecionadas para valorizar a sustentabilidade, reforçando o <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">compromisso da marca com práticas responsáveis e a valorização dos recursos locais</span>, que são parte intrínseca da nossa identidade.</p>"
+      },
+      {
+        "__resolveType": "blog/sections/Blog/components/OneImage.tsx",
+        "image": "https://assets.decocache.com/breton/3a969c3a-76ef-4d9c-b397-9ce7fe34b71f/blog-one-image.png"
+      },
+      {
+        "__resolveType": "blog/sections/Blog/components/ProductsSection.tsx",
+        "products": [
+          {
+            "image": "https://assets.decocache.com/breton/af5b61a9-7aa0-4c13-a938-114d03c828a5/product-1.jpg",
+            "productName": "POLTRONA BUMBO",
+            "designerName": "by Lilly Sarti"
+          },
+          {
+            "productName": "POLTRONA TRÓPICO",
+            "designerName": "by Bruno Simões",
+            "image": "https://assets.decocache.com/breton/fa55270b-adaa-435b-b7e4-a2fbe90d67c6/product-2.jpg"
+          },
+          {
+            "image": "https://assets.decocache.com/breton/47c8104b-3649-4d77-819d-a7798f5c22e4/product-3.jpg",
+            "productName": "POLTRONA AGOGO",
+            "designerName": "by Lilly Sarti"
+          }
+        ],
+        "subtitle": "Nossos produtos",
+        "title": "Confira alguns produtos"
+      }
+    ],
+    "extraProps": [],
+    "title": "Taís Araujo e Lázaro Ramos abrem apartamento no Rio de Janeiro",
+    "date": "2025-04-01",
+    "slug": "teste-2",
+    "image": "https://assets.decocache.com/breton/8e9cdc3e-1cc8-4abb-980a-ce87277dcad6/blog-banner.png",
+    "excerpt": "Em 20 anos de casamento, é a primeira vez que Taís Araujo e Lázaro Ramos realizam o projeto de uma casa do início ao fim. “Moramos em diversos lugares e nunca quisemos encarar uma obra longa. Fazíamos apenas intervenções pontuais.",
+    "seo": {
+      "title": "Taís Araujo e Lázaro Ramos abrem apartamento no Rio de Janeiro",
+      "description": "Em 20 anos de casamento, é a primeira vez que Taís Araujo e Lázaro Ramos realizam o projeto de uma casa do início ao fim. “Moramos em diversos lugares e nunca quisemos encarar uma obra longa. Fazíamos apenas intervenções pontuais.",
+      "image": "https://assets.decocache.com/breton/8e9cdc3e-1cc8-4abb-980a-ce87277dcad6/blog-banner.png"
+    },
+    "readTime": 8,
+    "alt": "Taís Araujo e Lázaro Ramos abrem apartamento no Rio de Janeiro"
+  }
+}

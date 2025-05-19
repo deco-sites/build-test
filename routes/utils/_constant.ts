@@ -1,0 +1,1 @@
+export const SUBDOMAIN = "https://newbreton.vtexcommercestable.com.br";

@@ -1,0 +1,8 @@
+{
+  "name": "collections/blog/categories/3903c56f2b8f",
+  "__resolveType": "blog/loaders/Category.ts",
+  "category": {
+    "name": "Outro Teste",
+    "slug": "categoria-2"
+  }
+}

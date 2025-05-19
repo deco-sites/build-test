@@ -1,0 +1,440 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  /* Allow changing font family via CMS */
+  html {
+    font-family: "Neuro", var(--font-family), sans-serif;
+    scroll-behavior: smooth;
+  }
+
+  /** Remove default styles from input[type=number] */
+  input[type="number"]::-webkit-inner-spin-button,
+  input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+
+  /* Disable scroll once drawer/modal is openned */
+  body:has(.drawer-toggle:checked),
+  body:has(.modal-toggle:checked:not([name="submenu"])) {
+    overflow: hidden;
+    /* height: 100vh; */
+  }
+}
+
+.group:disabled .group-disabled\:animate-progress {
+  animation: progress-frame ease normal;
+}
+
+.carousel-item .institutional-slider-left {
+  animation: zoomOutAndScrollLeft 3s ease-in-out;
+  width: 100%;
+}
+
+.carousel-item .institutional-slider-right {
+  animation: zoomOutAndScrollRight 3s ease-in-out;
+  width: 100%;
+}
+
+@keyframes progress-frame {
+  0% {
+    --dot-progress: 0%;
+  }
+
+  to {
+    --dot-progress: 100%;
+  }
+}
+
+@keyframes zoomOutAndScrollLeft {
+  0% {
+    transform: scale(1.1) translateX(0);
+  }
+  15% {
+    transform: scale(1) translateX(0);
+  }
+  100% {
+    transform: scale(1) translateX(-100%);
+  }
+}
+
+@keyframes zoomOutAndScrollRight {
+  0% {
+    transform: scale(1.1) translateX(0);
+  }
+  15% {
+    transform: scale(1) translateX(0);
+  }
+  100% {
+    transform: scale(1) translateX(100%);
+  }
+}
+
+@keyframes bullet-pulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.8);
+  }
+  50% {
+    box-shadow: 0 0 0 8px rgba(103, 33, 53, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(103, 33, 53, 0);
+  }
+}
+
+@layer components {
+  .container {
+    @apply max-w-full;
+  }
+  .btn {
+    border-radius: 1px;
+    height: 46px;
+    min-height: 46px;
+    transition: all 0.3s ease-in-out;
+  }
+  .btn-outline {
+    background-color: #00000033;
+    backdrop-filter: blur(20px);
+    color: white;
+  }
+  .btn-outline:hover {
+    @media screen and (min-width: 768px) {
+      background-color: #0000004d;
+      border-color: white;
+    }
+  }
+  .btn-circle {
+    border-radius: 999px;
+  }
+  .btn-ghost:hover {
+    @media screen and (min-width: 768px) {
+      background-color: #ffffff1a;
+      backdrop-filter: blur(20px);
+    }
+  }
+  .nobreak-text-mobile {
+    @media screen and (max-width: 1024px) {
+      br {
+        display: none;
+      }
+    }
+  }
+
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 2px;
+    background-color: #1111111a;
+    border-radius: 2px;
+    transition: transform 0.3s;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    @apply bg-primary;
+    border-radius: 2px;
+    transition: transform 0.3s;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar:hover {
+    transform: scale(1.05);
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    transform: scale(1.1);
+  }
+
+  .menu-modal {
+    inset: 0px;
+    margin: 0px;
+    display: grid;
+    height: 0;
+    max-height: none;
+    justify-items: center;
+    padding: 0px;
+    opacity: 0;
+    overscroll-behavior: contain;
+    z-index: 999;
+    background-color: transparent;
+    color: inherit;
+    transition-duration: 200ms;
+    transition-timing-function: cubic-bezier(0, 0, 0.2, 1);
+    transition-property: transform, opacity, visibility;
+    overflow-y: hidden;
+    animation: modal-pop 0.2s ease-out;
+    align-items: center;
+  }
+
+  .modal-toggle:checked + .menu-modal {
+    height: 100%;
+    visibility: visible;
+    opacity: 1;
+  }
+
+  .menu-modal .collapse-title {
+    padding: 0;
+    min-height: unset;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .menu-modal .collapse-title::after {
+    content: "";
+    display: block;
+    width: 24px;
+    height: 24px;
+    background-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDZMOCAxMEw0IDYiIHN0cm9rZT0iYmxhY2siIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8L3N2Zz4K");
+    background-repeat: no-repeat;
+    background-position: center;
+    transition: transform 0.3s;
+  }
+
+  .menu-modal .collapse input:checked + .collapse-title::after {
+    transform: rotate(180deg);
+    transition: transform 0.3s;
+  }
+
+  .menu-input-label[data-state="unchecked"] {
+    @apply opacity-40;
+  }
+
+  .menu-input-label[data-state="checked"] {
+    @apply opacity-100 text-primary;
+  }
+
+  .hide-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .hide-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .product-video-description::before {
+    content: "";
+    position: absolute;
+    top: -13px;
+    left: -27px;
+    width: 32px;
+    height: 27px;
+    background-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMjgiIHZpZXdCb3g9IjAgMCAzMiAyOCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggb3BhY2l0eT0iMC4wNCIgZD0iTTMxLjg3ODMgMS43MTYyMkMyOC43OTU5IDQuNzk3MjkgMjYuNjQ2NCA4Ljk3Mjk3IDI1LjQyOTcgMTQuMjQzMkMyNy4yOTUzIDE0LjI0MzIgMjguODc3MSAxNC44OTE5IDMwLjE3NDkgMTYuMTg5MkMzMS4zOTE2IDE3LjQ4NjUgMzIgMTkuMDY3NiAzMiAyMC45MzI0QzMyIDIyLjcxNjIgMzEuMzkxNiAyNC4yNTY4IDMwLjE3NDkgMjUuNTU0MUMyOC44NzcxIDI2Ljg1MTQgMjcuMzM1OSAyNy41IDI1LjU1MTMgMjcuNUMyMy42ODU3IDI3LjUgMjIuMTAzOSAyNi44NTE0IDIwLjgwNjEgMjUuNTU0MUMxOS41MDgyIDI0LjI1NjggMTguODU5MyAyMi43MTYyIDE4Ljg1OTMgMjAuOTMyNEMxOC44NTkzIDE2LjU1NDEgMTkuODMyNyAxMi41NDA1IDIxLjc3OTUgOC44OTE4OUMyMy43MjYyIDUuMjQzMjQgMjYuNDAzIDIuNDQ1OTUgMjkuODA5OSAwLjVMMzEuODc4MyAxLjcxNjIyWk0xMy4wMTkgMS43MTYyMkM5LjkzNjYzIDQuNzk3MjkgNy43ODcwNyA4Ljk3Mjk3IDYuNTcwMzQgMTQuMjQzMkM4LjM1NDg4IDE0LjI0MzIgOS44OTYwNyAxNC44OTE5IDExLjE5MzkgMTYuMTg5MkMxMi40OTE4IDE3LjQ4NjUgMTMuMTQwNyAxOS4wNjc2IDEzLjE0MDcgMjAuOTMyNEMxMy4xNDA3IDIyLjcxNjIgMTIuNDkxOCAyNC4yNTY4IDExLjE5MzkgMjUuNTU0MUM5Ljg5NjA3IDI2Ljg1MTQgOC4zNTQ4OCAyNy41IDYuNTcwMzQgMjcuNUM0LjcwNDY5IDI3LjUgMy4xNjM1IDI2Ljg1MTQgMS45NDY3NyAyNS41NTQxQzAuNjQ4OTIyIDI0LjI1NjggMCAyMi43MTYyIDAgMjAuOTMyNEMwIDE2LjQ3MyAxLjAxMzk0IDEyLjQxODkgMy4wNDE4MyA4Ljc3MDI3QzQuOTg4NTkgNS4xMjE2MiA3LjYyNDg0IDIuMzY0ODcgMTAuOTUwNiAwLjVMMTMuMDE5IDEuNzE2MjJaIiBmaWxsPSJibGFjayIvPgo8L3N2Zz4K");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    z-index: -1;
+  }
+
+  .product-video-description::after {
+    content: "";
+    position: absolute;
+    bottom: -8px;
+    right: -18px;
+    width: 32px;
+    height: 27px;
+    background-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMjgiIHZpZXdCb3g9IjAgMCAzMiAyOCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggb3BhY2l0eT0iMC4wNCIgZD0iTTAuMTIxNjczIDI2LjI4MzhDMy4yMDQwNiAyMy4yMDI3IDUuMzUzNjEgMTkuMDI3IDYuNTcwMzQgMTMuNzU2OEM0LjcwNDY5IDEzLjc1NjggMy4xMjI5NCAxMy4xMDgxIDEuODI1MSAxMS44MTA4QzAuNjA4MzY1IDEwLjUxMzUgMCA4LjkzMjQ0IDAgNy4wNjc1N0MwIDUuMjgzNzggMC42MDgzNjUgMy43NDMyNCAxLjgyNTEgMi40NDU5NUMzLjEyMjk0IDEuMTQ4NjUgNC42NjQxMyAwLjUgNi40NDg2NyAwLjVDOC4zMTQzMiAwLjUgOS44OTYwNyAxLjE0ODY1IDExLjE5MzkgMi40NDU5NUMxMi40OTE4IDMuNzQzMjQgMTMuMTQwNyA1LjI4Mzc4IDEzLjE0MDcgNy4wNjc1N0MxMy4xNDA3IDExLjQ0NTkgMTIuMTY3MyAxNS40NTk1IDEwLjIyMDUgMTkuMTA4MUM4LjI3Mzc2IDIyLjc1NjggNS41OTY5NiAyNS41NTQxIDIuMTkwMTEgMjcuNUwwLjEyMTY3MyAyNi4yODM4Wk0xOC45ODEgMjYuMjgzOEMyMi4wNjM0IDIzLjIwMjcgMjQuMjEyOSAxOS4wMjcgMjUuNDI5NyAxMy43NTY4QzIzLjY0NTEgMTMuNzU2OCAyMi4xMDM5IDEzLjEwODEgMjAuODA2MSAxMS44MTA4QzE5LjUwODIgMTAuNTEzNSAxOC44NTkzIDguOTMyNDQgMTguODU5MyA3LjA2NzU3QzE4Ljg1OTMgNS4yODM3OCAxOS41MDgyIDMuNzQzMjQgMjAuODA2MSAyLjQ0NTk1QzIyLjEwMzkgMS4xNDg2NSAyMy42NDUxIDAuNSAyNS40Mjk3IDAuNUMyNy4yOTUzIDAuNSAyOC44MzY1IDEuMTQ4NjUgMzAuMDUzMiAyLjQ0NTk1QzMxLjM1MTEgMy43NDMyNCAzMiA1LjI4Mzc4IDMyIDcuMDY3NTdDMzIgMTEuNTI3IDMwLjk4NjEgMTUuNTgxMSAyOC45NTgyIDE5LjIyOTdDMjcuMDExNCAyMi44Nzg0IDI0LjM3NTIgMjUuNjM1MSAyMS4wNDk0IDI3LjVMMTguOTgxIDI2LjI4MzhaIiBmaWxsPSJibGFjayIvPgo8L3N2Zz4K");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    z-index: -1;
+  }
+
+  .tab-active {
+    @apply !border-black !text-black;
+  }
+  .ecobreton-slider button {
+    background: #fff;
+    border: none;
+    color: #000;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .carousel-dots button {
+    width: 18px;
+    height: 2px;
+    background: gray;
+    transition: all 0.2s ease-in;
+  }
+  .carousel-dots button:disabled {
+    background: #000;
+    width: 40px;
+    transition: all 0.2s ease-in;
+  }
+
+  .BannerDesigner-slider .carousel-item.active > a::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background: #000;
+    opacity: 0.16;
+    z-index: 3;
+  }
+
+  .BannerDesigner-slider .carousel-item.active {
+    z-index: 2;
+  }
+
+  .BannerDesigner-slider .carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    clip-path: inset(0 100% 0 0);
+    transition: none;
+    z-index: 1;
+  }
+
+  .BannerDesigner-slider .carousel-item.active img {
+    z-index: 2;
+  }
+
+  .BannerDesigner-slider .carousel-item > div {
+    z-index: -1;
+  }
+
+  .BannerDesigner-slider .carousel-item.active > div {
+    z-index: 10;
+  }
+
+  .BannerDesigner-slider .carousel-item > div > * {
+    opacity: 0;
+    transition: opacity 1s ease;
+  }
+
+  .BannerDesigner-slider .carousel-item.active > div > * {
+    opacity: 1;
+  }
+
+  .ecobreton-slider .carousel-center .carousel-item {
+    opacity: 20%;
+  }
+  .ecobreton-slider .carousel-center .carousel-item.active-slider {
+    opacity: 1;
+  }
+  .ecobreton-slider button svg {
+    height: 30px;
+    width: 30px;
+  }
+
+  @media (max-width: 980px) {
+    .BannerDesigner-slider {
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+
+  .bullet-point-label {
+    @apply peer-checked:[&>label>div]:bg-primary peer-checked:[&>label>div]:text-white peer-checked:[&>label>div]:w-8 peer-checked:[&>label>div]:h-8 peer-checked:[&>label>div]:h-8 peer-checked:[&>label>div]:rotate-45;
+  }
+
+  .bullet-point-button {
+    box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.8);
+    animation: bullet-pulse 1.15s infinite ease-in-out;
+    animation-delay: calc(0.2s * var(--random));
+    cursor: pointer;
+    transition: box-shadow 0.3s ease, background-color 0.3s ease,
+      padding 0.3s ease;
+    box-sizing: initial;
+  }
+
+  .bullet-points-carousel-item img {
+    transition: transform 0.75s cubic-bezier(0.42, 0, 0.94, 0.75);
+    transform: scale(1.025) translateX(0) translateZ(0);
+  }
+
+  .bullet-points-carousel-item.active-slider img {
+    transform: scale(1) translateX(0) translateZ(0);
+  }
+
+  .btn-glass {
+    @apply bg-white/20 h-12 rounded-[2px] px-6 border border-black hover:!bg-[#00000008] text-black hover:!border-black;
+    backdrop-filter: blur(10px);
+  }
+
+  .store-item:nth-child(odd of :not(.hidden)) {
+    @apply md:flex-row
+  }
+
+  .store-item:nth-child(even of :not(.hidden)) {
+    @apply md:flex-row-reverse
+  }
+
+  header.scrolled .header-link, header.scrolled .header-button-label {
+    display: none;
+  }
+
+  header.scrolled #header-buttons {
+    gap: 32px;
+  }
+
+  header.scrolled .bag-badge {
+    @apply bg-primary text-white
+  }
+  .related-products-shadow-bottom {
+    background: linear-gradient(0deg, #FCF9F7 0%, rgba(252, 249, 247, 0) 100%);
+  }
+
+  .related-products-shadow-top {
+    background: linear-gradient(180deg, #FCF9F7 0%, rgba(252, 249, 247, 0) 100%);
+  }
+
+  .modal:not(dialog:not(.modal-open)), .modal::backdrop {
+    @apply bg-transparent
+  }
+}
+
+#selectCustomGroup {
+  display: flex;
+  gap: 8px;
+  position: relative;
+}
+
+.selectCustom {
+  padding-left: 16px;
+  padding-right: 32px;
+  appearance: none;
+  outline: none;
+  background: transparent;
+  z-index: 1;
+  transition: all 0.3s ease-in-out;
+}
+
+#selectCustomGroup .selectCustomAfter {
+  background: url('data:image/svg+xml,<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 24L20 16L12 8" stroke="%23111111" stroke-linecap="round" stroke-linejoin="round"/></svg>') center center no-repeat;
+  content: "";
+  width: 24px;
+  height: 24px;
+  display: flex;
+  transform: rotate(90deg);
+  position: absolute;
+  right: 0;
+  z-index: 0;
+}
+
+#selectCustomGroup .selectCustomAfter.rotate {
+  transform: rotate(270deg);
+}
+.scrollbarNew {
+  &::-webkit-scrollbar {
+    width: 2px;
+  }
+  
+  &::-webkit-scrollbar-track {
+    background: rgba(17, 17, 17, 0.1);
+    border-radius: 4px;
+  }
+  
+  &::-webkit-scrollbar-thumb {
+    background: #672135;
+    border-radius: 4px;
+  }
+  
+  &::-webkit-scrollbar-thumb:hover {
+    filter: brightness(0.8);
+  }
+}

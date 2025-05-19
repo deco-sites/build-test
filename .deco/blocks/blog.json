@@ -1,0 +1,6 @@
+{
+  "__resolveType": "blog/sections/Template.tsx",
+  "post": {
+    "__resolveType": "blog/loaders/BlogPostItem.ts"
+  }
+}

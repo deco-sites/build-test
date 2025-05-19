@@ -1,0 +1,798 @@
+{
+  "name": "Home",
+  "path": "/",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Images/Carousel.tsx",
+      "images": [
+        {
+          "desktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/456746be-6b0e-4a9a-957a-a34a2ba242e3/Rectangle-149-(4).png",
+          "mobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/c47ed134-480e-49c1-9408-9475c3e58d53/Rectangle-149-(5).png",
+          "alt": "I am Breton Brasil: Breton reafirma brasilidade em nova coleção.",
+          "action": {
+            "title": "I am Breton Brasil: Breton reafirma brasilidade em nova coleção.",
+            "href": "/",
+            "label": "Conheça a coleção",
+            "subTitle": " "
+          }
+        },
+        {
+          "desktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/0fa4a47a-5d3e-4ea0-8c2b-8d87201204b7/Rectangle-149-(6).png",
+          "mobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/139dabf2-22be-4e9e-a173-6d83c9a88090/image.png",
+          "alt": "Taís Araujo e Lázaro Ramos abrem apartamento com móveis breton",
+          "action": {
+            "title": "Taís Araujo e Lázaro Ramos abrem apartamento com móveis breton",
+            "href": "/",
+            "label": "Ver produtos",
+            "subTitle": " "
+          }
+        },
+        {
+          "desktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/456746be-6b0e-4a9a-957a-a34a2ba242e3/Rectangle-149-(4).png",
+          "mobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/c47ed134-480e-49c1-9408-9475c3e58d53/Rectangle-149-(5).png",
+          "alt": "I am Breton Brasil: Breton reafirma brasilidade em nova coleção.",
+          "action": {
+            "title": "I am Breton Brasil: Breton reafirma brasilidade em nova coleção.",
+            "href": "/",
+            "label": "Conheça a coleção",
+            "subTitle": " "
+          }
+        },
+        {
+          "desktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/0fa4a47a-5d3e-4ea0-8c2b-8d87201204b7/Rectangle-149-(6).png",
+          "mobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/139dabf2-22be-4e9e-a173-6d83c9a88090/image.png",
+          "alt": "Taís Araujo e Lázaro Ramos abrem apartamento com móveis breton",
+          "action": {
+            "title": "Taís Araujo e Lázaro Ramos abrem apartamento com móveis breton",
+            "href": "/",
+            "label": "Ver produtos",
+            "subTitle": " "
+          }
+        }
+      ],
+      "preload": true,
+      "interval": 5
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Banner/DoubleBanner.tsx",
+        "leftBanner": {
+          "title": "Lançamentos",
+          "description": "<p>Inspire-se com Breton</p>",
+          "cta": {
+            "href": "/lancamentos",
+            "label": "VER COLEÇÃO"
+          },
+          "images": {
+            "desktop": {
+              "image": "https://assets.decocache.com/breton/f5741501-6502-442a-942c-483f6915ebac/Rectangle-149.png",
+              "width": 672,
+              "height": 760
+            },
+            "mobile": {
+              "image": "https://assets.decocache.com/breton/4b15fbcb-25c6-4d6a-8982-e69e282ec4ae/Rectangle-149-(2).png"
+            }
+          }
+        },
+        "rightBanner": {
+          "title": "2024 Collection",
+          "description": "<p>Veja as principais coleções Breton</p>",
+          "cta": {
+            "href": "/collection",
+            "label": "VER COLEÇÃO"
+          },
+          "images": {
+            "desktop": {
+              "image": "https://assets.decocache.com/breton/561bbf69-8a0a-4bcd-857c-7ee96f746371/Rectangle-149-(1).png",
+              "width": 672,
+              "height": 760
+            },
+            "mobile": {
+              "image": "https://assets.decocache.com/breton/6ba21176-e98b-4ce0-b95e-0987f9fd7361/Rectangle-149-(3).png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Banner/MiddleBanner.tsx",
+        "title": "Área externa",
+        "images": {
+          "desktop": {
+            "0": "h",
+            "1": "t",
+            "2": "t",
+            "3": "p",
+            "4": "s",
+            "5": ":",
+            "6": "/",
+            "7": "/",
+            "8": "d",
+            "9": "e",
+            "10": "c",
+            "11": "o",
+            "12": "-",
+            "13": "s",
+            "14": "i",
+            "15": "t",
+            "16": "e",
+            "17": "s",
+            "18": "-",
+            "19": "a",
+            "20": "s",
+            "21": "s",
+            "22": "e",
+            "23": "t",
+            "24": "s",
+            "25": ".",
+            "26": "s",
+            "27": "3",
+            "28": ".",
+            "29": "s",
+            "30": "a",
+            "31": "-",
+            "32": "e",
+            "33": "a",
+            "34": "s",
+            "35": "t",
+            "36": "-",
+            "37": "1",
+            "38": ".",
+            "39": "a",
+            "40": "m",
+            "41": "a",
+            "42": "z",
+            "43": "o",
+            "44": "n",
+            "45": "a",
+            "46": "w",
+            "47": "s",
+            "48": ".",
+            "49": "c",
+            "50": "o",
+            "51": "m",
+            "52": "/",
+            "53": "b",
+            "54": "r",
+            "55": "e",
+            "56": "t",
+            "57": "o",
+            "58": "n",
+            "59": "/",
+            "60": "e",
+            "61": "3",
+            "62": "d",
+            "63": "6",
+            "64": "f",
+            "65": "4",
+            "66": "c",
+            "67": "d",
+            "68": "-",
+            "69": "7",
+            "70": "6",
+            "71": "2",
+            "72": "1",
+            "73": "-",
+            "74": "4",
+            "75": "0",
+            "76": "b",
+            "77": "4",
+            "78": "-",
+            "79": "9",
+            "80": "e",
+            "81": "b",
+            "82": "9",
+            "83": "-",
+            "84": "f",
+            "85": "b",
+            "86": "c",
+            "87": "e",
+            "88": "6",
+            "89": "2",
+            "90": "2",
+            "91": "0",
+            "92": "2",
+            "93": "b",
+            "94": "e",
+            "95": "f",
+            "96": "/",
+            "97": "f",
+            "98": "i",
+            "99": "n",
+            "100": "a",
+            "101": "l",
+            "102": "-",
+            "103": "b",
+            "104": "a",
+            "105": "n",
+            "106": "n",
+            "107": "e",
+            "108": "r",
+            "109": ".",
+            "110": "p",
+            "111": "n",
+            "112": "g",
+            "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/4ce6f2b8-5170-4eeb-a443-5bc27f7c3743/final-banner.png",
+            "width": 1360,
+            "height": 800
+          },
+          "mobile": {
+            "0": "h",
+            "1": "t",
+            "2": "t",
+            "3": "p",
+            "4": "s",
+            "5": ":",
+            "6": "/",
+            "7": "/",
+            "8": "d",
+            "9": "e",
+            "10": "c",
+            "11": "o",
+            "12": "-",
+            "13": "s",
+            "14": "i",
+            "15": "t",
+            "16": "e",
+            "17": "s",
+            "18": "-",
+            "19": "a",
+            "20": "s",
+            "21": "s",
+            "22": "e",
+            "23": "t",
+            "24": "s",
+            "25": ".",
+            "26": "s",
+            "27": "3",
+            "28": ".",
+            "29": "s",
+            "30": "a",
+            "31": "-",
+            "32": "e",
+            "33": "a",
+            "34": "s",
+            "35": "t",
+            "36": "-",
+            "37": "1",
+            "38": ".",
+            "39": "a",
+            "40": "m",
+            "41": "a",
+            "42": "z",
+            "43": "o",
+            "44": "n",
+            "45": "a",
+            "46": "w",
+            "47": "s",
+            "48": ".",
+            "49": "c",
+            "50": "o",
+            "51": "m",
+            "52": "/",
+            "53": "b",
+            "54": "r",
+            "55": "e",
+            "56": "t",
+            "57": "o",
+            "58": "n",
+            "59": "/",
+            "60": "d",
+            "61": "9",
+            "62": "d",
+            "63": "0",
+            "64": "d",
+            "65": "9",
+            "66": "2",
+            "67": "8",
+            "68": "-",
+            "69": "3",
+            "70": "1",
+            "71": "6",
+            "72": "9",
+            "73": "-",
+            "74": "4",
+            "75": "2",
+            "76": "f",
+            "77": "3",
+            "78": "-",
+            "79": "9",
+            "80": "4",
+            "81": "d",
+            "82": "1",
+            "83": "-",
+            "84": "9",
+            "85": "f",
+            "86": "9",
+            "87": "6",
+            "88": "a",
+            "89": "b",
+            "90": "f",
+            "91": "6",
+            "92": "d",
+            "93": "4",
+            "94": "a",
+            "95": "0",
+            "96": "/",
+            "97": "f",
+            "98": "i",
+            "99": "n",
+            "100": "a",
+            "101": "l",
+            "102": "-",
+            "103": "b",
+            "104": "a",
+            "105": "n",
+            "106": "n",
+            "107": "e",
+            "108": "r",
+            "109": "-",
+            "110": "m",
+            "111": "o",
+            "112": "b",
+            "113": "i",
+            "114": "l",
+            "115": "e",
+            "116": ".",
+            "117": "p",
+            "118": "n",
+            "119": "g",
+            "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/5e816c98-9f87-42c8-b2b7-eb7528372ce8/final-banner-mobile.png",
+            "height": 640,
+            "width": 360
+          }
+        },
+        "description": "<p>Veja os produtos de área externa Breton e se encante com<br>produtos exclusivos e personalizados para o seu ambiente.</p>",
+        "cta": {
+          "label": "ver produtos",
+          "href": "/"
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Home/BannerDesigner/BannerDesigner.tsx",
+        "title": "designer",
+        "imageLogo": "https://data.decoassets.com/breton/8ccc362b-ec1c-475d-9c0a-047af81f067e/logo-designer.svg",
+        "images": [
+          {
+            "title": "André Grippi",
+            "text": "André Grippi acredita no design como ferramenta de expressão, de construção de narrativas e de registro de memória. Curioso pelas diferentes maneiras em que corpo e mente dialogam com seu entorno.",
+            "image": "https://data.decoassets.com/breton/a4a6484f-a76f-48ed-8b70-0392c2da5419/banner-designer-1.png",
+            "thumb": "https://data.decoassets.com/breton/fcd194fa-cdd7-4567-b987-3b54c513f6da/thumb-designer-1.png",
+            "link": "/teste",
+            "imageMobile": "https://data.decoassets.com/breton/36d590c3-9c39-4fbb-83eb-ecfe324ae083/banner-designer-1-mobile.png"
+          },
+          {
+            "title": "Bianca Barbato",
+            "text": "Para Bianca Barbato, seja na vida, seja no trabalho, experimentar é fundamental. Paulistana e designer autodidata, fundou seu estúdio de criação em 2007, no Rio de Janeiro. Antes, trabalhava com cinema.",
+            "image": "https://data.decoassets.com/breton/f3fda979-9d18-44d9-857e-69c41078828f/banner-bullets.png",
+            "thumb": "https://data.decoassets.com/breton/d8148d32-8aa5-405c-b009-3457c3efa4d1/image.png",
+            "link": "/teste2",
+            "imageMobile": "https://data.decoassets.com/breton/fce1093f-cb96-42b8-adc8-84b7f17d0740/imageBG2.png"
+          },
+          {
+            "title": "André Grippi",
+            "text": "André Grippi acredita no design como ferramenta de expressão, de construção de narrativas e de registro de memória. Curioso pelas diferentes maneiras em que corpo e mente dialogam com seu entorno.",
+            "image": "https://data.decoassets.com/breton/a4a6484f-a76f-48ed-8b70-0392c2da5419/banner-designer-1.png",
+            "thumb": "https://data.decoassets.com/breton/fcd194fa-cdd7-4567-b987-3b54c513f6da/thumb-designer-1.png",
+            "link": "/teste",
+            "imageMobile": "https://data.decoassets.com/breton/36d590c3-9c39-4fbb-83eb-ecfe324ae083/banner-designer-1-mobile.png"
+          },
+          {
+            "title": "Bianca Barbato",
+            "text": "Para Bianca Barbato, seja na vida, seja no trabalho, experimentar é fundamental. Paulistana e designer autodidata, fundou seu estúdio de criação em 2007, no Rio de Janeiro. Antes, trabalhava com cinema.",
+            "image": "https://data.decoassets.com/breton/f3fda979-9d18-44d9-857e-69c41078828f/banner-bullets.png",
+            "thumb": "https://data.decoassets.com/breton/d8148d32-8aa5-405c-b009-3457c3efa4d1/image.png",
+            "link": "/teste2",
+            "imageMobile": "https://data.decoassets.com/breton/fce1093f-cb96-42b8-adc8-84b7f17d0740/imageBG2.png"
+          }
+        ],
+        "itemsToShow": 1
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Home/BulletPoints.tsx",
+        "sectionTitle": "Descubra a versatilidade da Breton",
+        "sectionSubtitle": "SEUS ESTILOS FAVORITOS",
+        "banner": [
+          {
+            "bullets": [
+              {
+                "yLocation": 68,
+                "xLocation": 8,
+                "label": "Poltrona",
+                "products": {
+                  "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                  "props": {
+                    "ids": [
+                      "4"
+                    ]
+                  }
+                }
+              },
+              {
+                "yLocation": 58,
+                "xLocation": 66,
+                "label": "Sofá",
+                "products": {
+                  "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                  "props": {
+                    "ids": [
+                      "4"
+                    ]
+                  }
+                }
+              },
+              {
+                "yLocation": 69,
+                "xLocation": 63,
+                "label": "Mesa",
+                "products": {
+                  "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                  "props": {
+                    "ids": [
+                      "4"
+                    ]
+                  }
+                }
+              },
+              {
+                "yLocation": 55,
+                "xLocation": 27,
+                "label": "Lustre",
+                "products": {
+                  "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                  "props": {
+                    "ids": [
+                      "4"
+                    ]
+                  }
+                }
+              },
+              {
+                "yLocation": 64,
+                "xLocation": 95,
+                "label": "Mesa de canto",
+                "products": {
+                  "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                  "props": {
+                    "ids": [
+                      "4"
+                    ]
+                  }
+                }
+              },
+              {
+                "yLocation": 61,
+                "xLocation": 73,
+                "label": "Apoiador",
+                "products": {
+                  "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                  "props": {
+                    "ids": [
+                      "4"
+                    ]
+                  }
+                }
+              }
+            ],
+            "title": "Moderno",
+            "image": "https://data.decoassets.com/breton/f3fda979-9d18-44d9-857e-69c41078828f/banner-bullets.png"
+          },
+          {
+            "bullets": [
+              {
+                "yLocation": 68,
+                "xLocation": 8,
+                "label": "Poltrona",
+                "products": {
+                  "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                  "props": {
+                    "ids": [
+                      "4"
+                    ]
+                  }
+                }
+              },
+              {
+                "yLocation": 58,
+                "xLocation": 66,
+                "label": "Sofá",
+                "products": {
+                  "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                  "props": {
+                    "ids": [
+                      "4"
+                    ]
+                  }
+                }
+              },
+              {
+                "yLocation": 69,
+                "xLocation": 63,
+                "label": "Mesa",
+                "products": {
+                  "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                  "props": {
+                    "ids": [
+                      "4"
+                    ]
+                  }
+                }
+              },
+              {
+                "yLocation": 55,
+                "xLocation": 27,
+                "label": "Lustre",
+                "products": {
+                  "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                  "props": {
+                    "ids": [
+                      "4"
+                    ]
+                  }
+                }
+              },
+              {
+                "yLocation": 64,
+                "xLocation": 95,
+                "label": "Mesa de canto",
+                "products": {
+                  "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                  "props": {
+                    "ids": [
+                      "4"
+                    ]
+                  }
+                }
+              },
+              {
+                "yLocation": 61,
+                "xLocation": 73,
+                "label": "Apoiador",
+                "products": {
+                  "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                  "props": {
+                    "ids": [
+                      "4"
+                    ]
+                  }
+                }
+              }
+            ],
+            "title": "Classico",
+            "image": "https://data.decoassets.com/breton/f3fda979-9d18-44d9-857e-69c41078828f/banner-bullets.png"
+          },
+          {
+            "bullets": [
+              {
+                "yLocation": 68,
+                "xLocation": 8,
+                "label": "Poltrona",
+                "products": {
+                  "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                  "props": {
+                    "ids": [
+                      "4"
+                    ]
+                  }
+                }
+              },
+              {
+                "yLocation": 58,
+                "xLocation": 66,
+                "label": "Sofá",
+                "products": {
+                  "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                  "props": {
+                    "ids": [
+                      "4"
+                    ]
+                  }
+                }
+              },
+              {
+                "yLocation": 69,
+                "xLocation": 63,
+                "label": "Mesa",
+                "products": {
+                  "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                  "props": {
+                    "ids": [
+                      "4"
+                    ]
+                  }
+                }
+              },
+              {
+                "yLocation": 55,
+                "xLocation": 27,
+                "label": "Lustre",
+                "products": {
+                  "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                  "props": {
+                    "ids": [
+                      "4"
+                    ]
+                  }
+                }
+              },
+              {
+                "yLocation": 64,
+                "xLocation": 95,
+                "label": "Mesa de canto",
+                "products": {
+                  "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                  "props": {
+                    "ids": [
+                      "4"
+                    ]
+                  }
+                }
+              },
+              {
+                "yLocation": 61,
+                "xLocation": 73,
+                "label": "Apoiador",
+                "products": {
+                  "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                  "props": {
+                    "ids": [
+                      "4"
+                    ]
+                  }
+                }
+              }
+            ],
+            "title": "Natural",
+            "image": "https://data.decoassets.com/breton/f3fda979-9d18-44d9-857e-69c41078828f/banner-bullets.png"
+          },
+          {
+            "bullets": [
+              {
+                "yLocation": 68,
+                "xLocation": 8,
+                "label": "Poltrona",
+                "products": {
+                  "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                  "props": {
+                    "ids": [
+                      "4"
+                    ]
+                  }
+                }
+              },
+              {
+                "yLocation": 58,
+                "xLocation": 66,
+                "label": "Sofá",
+                "products": {
+                  "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                  "props": {
+                    "ids": [
+                      "4"
+                    ]
+                  }
+                }
+              },
+              {
+                "yLocation": 69,
+                "xLocation": 63,
+                "label": "Mesa",
+                "products": {
+                  "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                  "props": {
+                    "ids": [
+                      "4"
+                    ]
+                  }
+                }
+              },
+              {
+                "yLocation": 55,
+                "xLocation": 27,
+                "label": "Lustre",
+                "products": {
+                  "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                  "props": {
+                    "ids": [
+                      "4"
+                    ]
+                  }
+                }
+              },
+              {
+                "yLocation": 64,
+                "xLocation": 95,
+                "label": "Mesa de canto",
+                "products": {
+                  "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                  "props": {
+                    "ids": [
+                      "4"
+                    ]
+                  }
+                }
+              },
+              {
+                "yLocation": 61,
+                "xLocation": 73,
+                "label": "Apoiador",
+                "products": {
+                  "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
+                  "props": {
+                    "ids": [
+                      "4"
+                    ]
+                  }
+                }
+              }
+            ],
+            "title": "Vintage",
+            "image": "https://data.decoassets.com/breton/f3fda979-9d18-44d9-857e-69c41078828f/banner-bullets.png"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Home/Ecobreton/Ecobreton.tsx",
+        "title": "eco",
+        "subtitle": "breton",
+        "imageLogo": "https://data.decoassets.com/breton/d37e48d7-b6d2-431f-9814-94741e08dee4/logoecobreton.svg",
+        "link": "/",
+        "logo": "https://data.decoassets.com/breton/fa4ccc39-53c4-4fe6-bc37-5c13a8b766b1/ecoBretonLogo-1.svg",
+        "images": [
+          {
+            "image": "https://data.decoassets.com/breton/9deef74e-fa15-4239-844d-a2fa15212c9f/Banner-Meio.png",
+            "titleImage": "Produção consciente",
+            "textImage": "Consciência ambiental, não é somente pensar na distinção de resíduos, mas fazer com que o fluxo produtivo reduza o impacto gerado com as sobras que são geradas.",
+            "textLink": "/"
+          },
+          {
+            "image": "https://data.decoassets.com/breton/300a450a-58a1-4bcc-8698-e9b4ca3fbe9a/Banner-Meio-(2).png",
+            "titleImage": "Insumo sustentável",
+            "textImage": "A escolha de materiais, insumos e acabamentos não é feita apenas com base em seu aspecto final e custo. O impacto ambiental e sua reciclagem são itens cruciais na tomada de decisão.",
+            "textLink": "/teste"
+          },
+          {
+            "image": "https://data.decoassets.com/breton/0c83788f-7000-4298-aacf-2bcb5f295934/Banner-Meio-(3).png",
+            "titleImage": "Carbono negativo",
+            "textImage": "A cada pedido fechado nas lojas Breton, plantamos uma árvore na Mata Atlântica. Por que a Mata Atlântica? Entre os biomas brasileiros, este foi o mais devastado, além de ter uma extrema importância ambiental.",
+            "textLink": "/teste2"
+          },
+          {
+            "image": "https://data.decoassets.com/breton/300a450a-58a1-4bcc-8698-e9b4ca3fbe9a/Banner-Meio-(2).png",
+            "titleImage": "teste",
+            "textImage": "teste teste teste",
+            "textLink": "/"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

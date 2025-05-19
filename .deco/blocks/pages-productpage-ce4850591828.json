@@ -1,0 +1,139 @@
+{
+  "name": "Product Page",
+  "path": "/:slug/p",
+  "default": {
+    "possiblePaths": []
+  },
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "commerce/sections/Seo/SeoPLPV2.tsx",
+        "jsonLD": {
+          "__resolveType": "LoaderPLP"
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Product/ProductMainBanner.tsx",
+      "page": {
+        "__resolveType": "LoaderPDP"
+      },
+      "defaultImageBanner": "https://data.decoassets.com/breton/ef2da9f0-0a84-4670-819a-1f6da2cb280c/bannerHeroPDP.png"
+    },
+    {
+      "__resolveType": "site/sections/Product/ProductSlide.tsx",
+      "page": {
+        "__resolveType": "LoaderPDP"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Product/ProductVideo.tsx",
+      "page": {
+        "__resolveType": "LoaderPDP"
+      },
+      "videos": [
+        {
+          "label": "Teste",
+          "productId": "3",
+          "description": "Macio, aconchegante e gostoso, antes eram adjetivos que pareciam abstratos, mas após esta produção são palavras que estão a um toque da mão.",
+          "video": "https://data.decoassets.com/breton/22483aae-15b5-45c6-895d-ea812f43be01/product-video-teste.mp4"
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/ProductDetails.tsx",
+        "page": {
+          "__resolveType": "LoaderPDP"
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Spacer/Spacer.tsx",
+        "heightDesktop": 80,
+        "heightMobile": 90
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/ProductDesigners.tsx",
+        "page": {
+          "__resolveType": "LoaderPDP"
+        },
+        "designerBlock": [
+          {
+            "img": {
+              "desktop": "https://assets.decocache.com/breton/e7f73de1-9ceb-457b-88a5-261aa7677952/productDesignerBannerDesk.png",
+              "mobile": "https://assets.decocache.com/breton/ae8f0c84-bc70-4e53-8b45-c2f415730cf1/productDesignerBannerMob.png"
+            },
+            "topText": "nós transformamos ideias em arte",
+            "architects": "Lilly e Renata Sarti",
+            "text": "<p>Uma seleção de móveis que promovem a experiência sensitiva de texturas e relevos que despertam o desejo do toque, enchem os olhos e convidam você a interagir com a peça.<br><br>“A gente pensou em conforto, estética, bem estar, leveza... porque o lugar que você precisa se sentir melhor é dentro da sua casa”<br></p>"
+          },
+          {
+            "img": {
+              "desktop": "https://assets.decocache.com/breton/e7f73de1-9ceb-457b-88a5-261aa7677952/productDesignerBannerDesk.png",
+              "mobile": "https://assets.decocache.com/breton/ae8f0c84-bc70-4e53-8b45-c2f415730cf1/productDesignerBannerMob.png"
+            },
+            "topText": "nós transformamos ideias em arte",
+            "architects": "Suite Arquitetos",
+            "text": "<p>Uma seleção de móveis que promovem a experiência sensitiva de texturas e relevos que despertam o desejo do toque, enchem os olhos e convidam você a interagir com a peça.<br><br>“A gente pensou em conforto, estética, bem estar, leveza... porque o lugar que você precisa se sentir melhor é dentro da sua casa”<br></p>"
+          }
+        ],
+        "stamp": "https://assets.decocache.com/breton/00cedff9-0e0b-4fb3-9517-1b2f7d06863e/productDesignerStamp.png"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/ProductInfos.tsx",
+        "page": {
+          "__resolveType": "LoaderPDP"
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/RelatedProducts.tsx",
+        "page": {
+          "__resolveType": "LoaderPDP"
+        },
+        "areas": [
+          {
+            "collectionId": 237,
+            "desktopImage": "https://assets.decocache.com/breton/22b3c3ab-1b9f-4635-8dfd-7d7526d4d2e0/banner.png",
+            "mobileImage": "https://assets.decocache.com/breton/f451da98-088d-4968-80d5-8f79781f9270/image-207.png",
+            "count": 10
+          },
+          {
+            "collectionId": 338,
+            "desktopImage": "https://assets.decocache.com/breton/22b3c3ab-1b9f-4635-8dfd-7d7526d4d2e0/banner.png",
+            "mobileImage": "https://assets.decocache.com/breton/f451da98-088d-4968-80d5-8f79781f9270/image-207.png",
+            "count": 2
+          }
+        ],
+        "title": "INSPIRE-SE PARA CRIAR UM AMBIENTE PERFEITO",
+        "subtitle": "VEJA NOSSOS PRODUTOS RELACIONADOS"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer"
+      }
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}

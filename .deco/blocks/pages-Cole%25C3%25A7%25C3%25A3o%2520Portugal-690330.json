@@ -1,0 +1,81 @@
+{
+  "name": "Coleção Portugal",
+  "path": "/collection/portugal",
+  "sections": [
+    {
+      "__resolveType": "commerce/sections/Seo/SeoPLPV2.tsx",
+      "jsonLD": {
+        "__resolveType": "LoaderPLP"
+      },
+      "title": "Collection índia"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Search/BannerCategory/BannerCategory.tsx",
+      "banners": [
+        {
+          "image": {
+            "desktop": "https://data.decoassets.com/breton/6adf08b4-59a0-4d0d-9dba-7473db3b96a3/banner2.png",
+            "mobile": "https://data.decoassets.com/breton/9de3d2e2-abc4-409f-b755-c33967de8a71/banner1.png",
+            "alt": "Breton"
+          },
+          "title": "PORTUGAL"
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/SearchResult.tsx",
+        "page": {
+          "__resolveType": "vtex/loaders/intelligentSearch/productListingPage.ts",
+          "sort": "price:desc",
+          "fuzzy": "automatic",
+          "selectedFacets": [
+            {
+              "key": "productClusterIds",
+              "value": "167"
+            }
+          ],
+          "advancedConfigs": {
+            "includeOriginalAttributes": []
+          },
+          "count": 12,
+          "useCollectionName": true
+        },
+        "layout": {
+          "columns": {
+            "mobile": 2,
+            "desktop": 4
+          },
+          "variant": "aside",
+          "pagination": "show-more"
+        },
+        "startingPage": 1
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Search/RichText/SearchRichText.tsx",
+        "richTitle": "Lorem Ipsum",
+        "richContent": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

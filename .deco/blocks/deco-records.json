@@ -1,0 +1,9 @@
+{
+  "__resolveType": "site/apps/deco/records.ts",
+  "url": "libsql://breton-decocx.turso.io",
+  "authToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "name": "DATABASE_AUTH_TOKEN",
+    "encrypted": "ca08d1cd1611526a713a6cb0e98341369623a68941c68e47a73e20987c00938c0a3a43e8db1275b3be58ff896b69fc5c6bb82e1f6b17606bbe7418aeea841d483d43a1a48a3eb3e53b9bc8f4802e6c4cd20551f61f493bca20c9ac2f3bcc405e1fc530e3e764a408879cced171d711ea7c9f847ad343501db42a5d9c3e3be9f5bedf5a4b234a5d497935a7b70568d438f31a109bb3ed7d872d58551b50a2e6097a6c4bdb8487a75e9ad3194aab1baae70e7ba09adc4595834e91153c31c66f5519e2fd6296e97c50c4bbff0b19a868275fff82ec8c9aa78ba5f7c4c7238d5e7e"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "__resolveType": "site/sections/Theme/Theme.tsx",
+  "colorScheme": "any",
+  "buttonStyle": {
+    "--border-btn": "1px",
+    "--btn-focus-scale": "1",
+    "--animation-btn": "0.25s",
+    "--rounded-btn": "0"
+  },
+  "otherStyles": {
+    "--rounded-box": "1rem",
+    "--rounded-badge": "1.9rem",
+    "--animation-input": "0.2s",
+    "--tab-border": "1px",
+    "--tab-radius": "0.5rem"
+  },
+  "font": {
+    "__resolveType": "website/loaders/fonts/googleFonts.ts",
+    "fonts": [
+      {
+        "variations": [
+          {
+            "weight": "200"
+          },
+          {
+            "weight": "300"
+          },
+          {
+            "weight": "400"
+          },
+          {
+            "weight": "500"
+          },
+          {
+            "weight": "600"
+          },
+          {
+            "weight": "700"
+          }
+        ],
+        "family": "Inter"
+      }
+    ]
+  },
+  "mainColors": {
+    "primary": "#672135",
+    "base-100": "#FCF9F7",
+    "secondary": "#B79377",
+    "success": "#39BC3E",
+    "warning": "#F8E644",
+    "error": "#E12D2D",
+    "info": "#3c4cc8",
+    "neutral": "#FFFFFF"
+  },
+  "complementaryColors": {
+    "primary-content": "#FFFFFF",
+    "base-200": "#FAFAFA",
+    "base-300": "#5C5C5C",
+    "base-400": "#C9CFCF",
+    "base-500": "#616B6B",
+    "base-content": "#000000",
+    "secondary-content": "#FFFFFF"
+  },
+  "mode": "dark"
+}

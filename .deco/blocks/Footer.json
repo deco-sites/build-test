@@ -1,0 +1,109 @@
+{
+  "__resolveType": "site/sections/Footer/Footer.tsx",
+  "links": [
+    {
+      "children": [
+        {
+          "title": "A Breton",
+          "href": "/about-us"
+        },
+        {
+          "title": "Eco Breton",
+          "href": "/ecobreton"
+        },
+        {
+          "title": "Nossas Lojas",
+          "href": "/stores"
+        },
+        {
+          "title": "Corporativo",
+          "href": "/corporate"
+        },
+        {
+          "title": "Blog Breton",
+          "href": "/blog"
+        }
+      ],
+      "title": "Institucional",
+      "href": "/#"
+    },
+    {
+      "children": [
+        {
+          "title": "Meus Pedidos",
+          "href": "/my-account"
+        },
+        {
+          "title": "Meus Dados",
+          "href": "/my-account"
+        },
+        {
+          "title": "Fale Conosco",
+          "href": "/"
+        }
+      ],
+      "title": "Ajuda",
+      "href": "/#"
+    }
+  ],
+  "social": [
+    {
+      "alt": "Instagram",
+      "href": "https://www.instagram.com/bretonoficial/",
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/d3f5b907-e3ad-4ad3-9cb7-465e00488a19/icon-instagram.png"
+    },
+    {
+      "alt": "facebook",
+      "href": "https://www.facebook.com/bretonoficial/",
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/29d857fe-dd46-4af1-828b-4d2aa93b3d4d/icon-facebook.png"
+    },
+    {
+      "alt": "Youtube",
+      "href": "https://www.youtube.com/BretonOficial",
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/2c13c2d8-8241-48d6-8820-3b67bcd792a0/icon-youtube.png"
+    },
+    {
+      "alt": "Pinterest",
+      "href": "https://br.pinterest.com/bretonoficial/",
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/ad5bd7cf-bebe-4cf5-a17b-7cb6c33e8f7a/icon-pinterest.png"
+    },
+    {
+      "alt": "Linkedin",
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/0417ed8e-ba4e-4d1c-8485-4ebd10418ae7/icon-linkedin.png",
+      "href": "https://br.linkedin.com/company/bretonoficial"
+    }
+  ],
+  "paymentMethods": [],
+  "policies": [],
+  "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/ec84088c-90fd-47a3-b9cf-388b429990db/Logo.png",
+  "trademark": "2025 Breton. Todos os direirtos reservados. Imagens meramente ilustrativas. Bioma Comércio de Móveis LTDA CNPJ 42.800.463/0001-88 IE 286.682.199.119.",
+  "contactInfo": "<p>São Paulo: 11 4055.9707<br>Outras regiões: 11 4003.1699<br>Whatsapp: 11 4055.9707<br>E-mail: crb@breton.com.br</p>",
+  "languages": {
+    "languages": [
+      {
+        "language": {
+          "label": "PT",
+          "href": "/#",
+          "isActive": true
+        },
+        "label": "PT",
+        "href": "/#",
+        "isActive": true
+      },
+      {
+        "language": {
+          "label": "EN",
+          "href": "/#",
+          "isActive": false
+        },
+        "label": "EN",
+        "href": "/#"
+      },
+      {
+        "label": "ES",
+        "href": "/#"
+      }
+    ],
+    "title": "Linguagem"
+  }
+}
