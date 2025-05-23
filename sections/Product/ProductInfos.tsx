@@ -22,10 +22,10 @@ function TechnicalInfos({
   additionalProperty: PropertyValue[];
   description: string | undefined;
 }) {
-  const largura = getPropertyValue(additionalProperty, "Largura");
-  const profundidade = getPropertyValue(additionalProperty, "Profundidade");
-  const altura = getPropertyValue(additionalProperty, "Altura");
-  const peso = getPropertyValue(additionalProperty, "Peso");
+  const largura = getPropertyValue(additionalProperty, "Width");
+  const profundidade = getPropertyValue(additionalProperty, "Depth");
+  const altura = getPropertyValue(additionalProperty, "Height");
+  const peso = getPropertyValue(additionalProperty, "Weight");
   const properties = {
     largura,
     profundidade,
@@ -34,11 +34,11 @@ function TechnicalInfos({
   };
   const dimensoesMain = getPropertyValue(
     additionalProperty,
-    "Imagem curta ficha"
+    "Thumbnail Image"
   );
   const dimensoesFull = getPropertyValue(
     additionalProperty,
-    "Imagem completa ficha"
+    "Full Image"
   );
   const hasSwitch = !!(dimensoesMain && dimensoesFull);
   return (
@@ -176,7 +176,7 @@ export default function ProductInfos({ page, defaultCares = "//assets.decocache.
   if (!additionalProperty) return null;
 
   const cares =
-    getPropertyValue(additionalProperty, "Cuidados") || `Guia de Cuidados Breton: ${defaultCares}`;
+    getPropertyValue(additionalProperty, "Care Instructions") || `Guia de Cuidados Breton: ${defaultCares}`;
   const downloads = getPropertyValue(additionalProperty, "Downloads");
   const hasCares = cares && cares.trim().length > 0;
   const hasDownloads = downloads && downloads.trim().length > 0;

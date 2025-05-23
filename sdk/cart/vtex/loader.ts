@@ -61,11 +61,11 @@ async function loader(
         );
         const name = getPropertyValue(
           product.isVariantOf.additionalProperty,
-          "Nome"
+          "Name"
         ) || product.name;
         const collection = getPropertyValue(
           product.isVariantOf.additionalProperty,
-          "Coleção"
+          "Collection"
         );
         return {
           ...item,

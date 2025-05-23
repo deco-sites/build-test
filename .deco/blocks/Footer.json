@@ -83,18 +83,18 @@
       {
         "language": {
           "label": "PT",
-          "href": "/#",
-          "isActive": true
+          "href": "pt.breton.co",
+          "isActive": false
         },
         "label": "PT",
-        "href": "/#",
-        "isActive": true
+        "href": "pt.breton.co",
+        "isActive": false
       },
       {
         "language": {
           "label": "EN",
           "href": "/#",
-          "isActive": false
+          "isActive": true
         },
         "label": "EN",
         "href": "/#"

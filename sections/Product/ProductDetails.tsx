@@ -19,8 +19,8 @@ function DetailsContent({ product }: { product: Product }) {
   const additionalProperty = product?.isVariantOf?.additionalProperty;
 
   if (!additionalProperty) return null;
-  const cover = getPropertyValue(additionalProperty, "Capa");
-  const name = getPropertyValue(additionalProperty, "Nome") || product.name;
+  const cover = getPropertyValue(additionalProperty, "Cover");
+  const name = getPropertyValue(additionalProperty, "Name") || product.name;
   const hasCover = cover === "true";
   const item = mapProductToAnalyticsItem({ product });
   const [image] = product?.isVariantOf?.image ?? product?.image ?? [];
@@ -110,7 +110,7 @@ export default function ProductDetails({ page }: Props) {
 
   const item = mapProductToAnalyticsItem({ product });
 
-  const cover = getPropertyValue(additionalProperty, "Capa");
+  const cover = getPropertyValue(additionalProperty, "Cover");
   const hasCover = cover === "true";
 
   const hasVariant = product?.isVariantOf?.hasVariant ?? [];

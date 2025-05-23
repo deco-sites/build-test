@@ -23,7 +23,7 @@ export default function ProductSlide({ page }: Props) {
 
   if (!additionalProperty) return null;
 
-  const sliderImages = getPropertyValue(additionalProperty, "Slider PDP")?.split(";");
+  const sliderImages = getPropertyValue(additionalProperty, "PDP Slider")?.split(";");
 
   if (!sliderImages || sliderImages.length === 0) return null;
 

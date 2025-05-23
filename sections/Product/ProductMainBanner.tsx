@@ -78,14 +78,14 @@ export default function ProductMainBanner({ page, defaultImageBanner }: Props) {
   if (!additionalProperty) return null;
 
   const bannerValue =
-    getPropertyValue(additionalProperty, "Imagem Banner PDP") ||
+    getPropertyValue(additionalProperty, "PDP Banner Image") ||
     defaultImageBanner;
   const bannerMobile =
-    getPropertyValue(additionalProperty, "Imagem Banner PDP Mobile") ||
+    getPropertyValue(additionalProperty, "PDP Banner Image Mobile") ||
     bannerValue;
   const designerValue = getPropertyValue(additionalProperty, "Designer");
-  const nameValue = getPropertyValue(additionalProperty, "Nome");
-  const cover = getPropertyValue(additionalProperty, "Capa");
+  const nameValue = getPropertyValue(additionalProperty, "Name");
+  const cover = getPropertyValue(additionalProperty, "Cover");
   const hasCover = cover === "true";
   const hasVariant = product?.isVariantOf?.hasVariant ?? [];
 

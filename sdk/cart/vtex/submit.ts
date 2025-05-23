@@ -37,11 +37,11 @@ const actions: CartSubmitActions<AppContext> = {
             "Designer"
           );
           const name =
-            getPropertyValue(product.isVariantOf.additionalProperty, "Nome") ||
+            getPropertyValue(product.isVariantOf.additionalProperty, "Name") ||
             product.name;
           const collection = getPropertyValue(
             product.isVariantOf.additionalProperty,
-            "Coleção"
+            "Collection"
           );
           return {
             ...item,
@@ -91,11 +91,11 @@ const actions: CartSubmitActions<AppContext> = {
             "Designer"
           );
           const name =
-            getPropertyValue(product.isVariantOf.additionalProperty, "Nome") ||
+            getPropertyValue(product.isVariantOf.additionalProperty, "Name") ||
             product.name;
           const collection = getPropertyValue(
             product.isVariantOf.additionalProperty,
-            "Coleção"
+            "Collection"
           );
           return {
             ...item,

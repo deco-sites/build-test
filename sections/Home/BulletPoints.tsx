@@ -148,7 +148,7 @@ export default function BulletPoints({
                         "Designer"
                       );
                       const nome =
-                        getPropertyValue(additionalProperty, "Nome") ||
+                        getPropertyValue(additionalProperty, "Name") ||
                         product.name;
                       const description =
                         pDescription || isVariantOf?.description;

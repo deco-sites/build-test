@@ -38,7 +38,7 @@ function ProductCard({
   const { url, image: images, offers, isVariantOf } = product;
   const additionalProperty = isVariantOf?.additionalProperty;
   const title =
-    (additionalProperty && getPropertyValue(additionalProperty, "Nome")) ??
+    (additionalProperty && getPropertyValue(additionalProperty, "Name")) ??
     isVariantOf?.name ??
     product.name;
   const [front] = images ?? [];

@@ -91,7 +91,7 @@ export default function BretonVersatilityCarousel({
           class="btn btn-ghost border border-black hidden flex self-center"
         >
           <span class="inline text-xs uppercase font-medium [.htmx-request_&]:hidden tracking-[1px]">
-            Carregar mais
+            Show more
           </span>
           <span class="loading loading-spinner hidden [.htmx-request_&]:block" />
         </button>
