@@ -4,55 +4,55 @@
   "post": {
     "authors": [
       {
-        "name": "Redação Breton",
+        "name": "Breton Editorial Team",
         "email": "diego.miguel@breton.com.br"
       }
     ],
     "categories": [
       {
-        "name": "Teste",
+        "name": "Test",
         "slug": "categoria"
       }
     ],
     "content": [
       {
         "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Após mais de vinte anos juntos, Taís Araujo e Lázaro Ramos, um dos casais mais influentes da cultura brasileira contemporânea, decidiram criar um lar do zero, que fosse capaz de representar o estilo de vida e personalidade da família.&nbsp;</p><p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\">“Quisemos nos dar o presente de ter a morada dos nossos sonhos. Afinal, merecemos”, comenta Taís Araujo para a Casa Vogue.</p>"
+        "content": "<p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\">After more than twenty years together, Taís Araujo and Lázaro Ramos, one of the most influential couples in contemporary Brazilian culture, decided to create a home from scratch that could represent their family's lifestyle and personality.&nbsp;</p><p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\">“We wanted to give ourselves the gift of having the home of our dreams. After all, we deserve it,” says Taís Araujo to Casa Vogue.</p>"
       },
       {
-        "__resolveType": "blog/sections/Blog/components/ImageTwoColumnSection.tsx",
+        "__resolveType": "blog//Blog/components/ImageTwoColumnSection.tsx",
         "imageOne": "https://assets.decocache.com/breton/34c40a86-4fe8-492d-a9ba-0e29017e8101/DSC06005.jpg",
         "imageTwo": "https://assets.decocache.com/breton/a9772c21-18db-446a-9ce4-89f6758529f2/blog-two-images-2.png"
       },
       {
         "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<h2 data-mce-style=\"text-align: center;\" style=\"text-align: center;\"><strong>Brasilidade em todos os detalhes</strong></h2><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p><p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\">O novo apartamento é uma celebração da brasilidade em sua forma mais sofisticada. Com projeto assinado pelas arquitetas Carolina Escada e Patricia Landau, do escritório Escala Arquitetura, o espaço valoriza o convívio familiar e traduz a personalidade vibrante do casal por meio de ambientes integrados, acolhedores e elegantes.</p><p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Entre os elementos centrais do projeto estão as peças de design autoral da Breton, cuidadosamente escolhidas para compor a nova morada da dupla. Os móveis aliam estilo, funcionalidade e autenticidade, e foram customizados especialmente para atender às necessidades do projeto.<br></p>"
+        "content": "<h2 data-mce-style=\"text-align: center;\" style=\"text-align: center;\"><strong>Brazilianness in every detail</strong></h2><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p><p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\">The new apartment is a celebration of Brazilianness in its most sophisticated form. With a project signed by architects Carolina Escada and Patricia Landau, from Escala Arquitetura, the space values family living and translates the couple's vibrant personality through integrated welcoming, and elegant environments.</p><p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Among the central elements of the project are Breton's exclusive design pieces, carefully chosen to compose the couple's new home. The furniture combines style, functionality, and authenticity, and was specially customized to meet the needs of the project.<br></p>"
       },
       {
         "__resolveType": "blog/sections/Blog/components/ImageAndTextSection.tsx",
         "image": "https://assets.decocache.com/breton/e0e32f42-13c5-4f2a-973c-760e2036ddbf/cv.taiselazaro_2497-copy-(1).jpg",
-        "text": "<p><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Sofá Desejo e Poltrona Sintonia: assinatura de Luisa Moysés </span></p><p><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\"><br data-mce-bogus=\"1\"></span></p><p><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Na área de estar, o sofá Desejo e a poltrona Sintonia, assinados por Luisa Moysés, se destacam pelo design orgânico e acolhedor. Com curvas suaves e proporções generosas, as peças criam um ambiente confortável e imponente ao mesmo tempo — ideal para momentos em família ou para receber amigos com elegância.</span></p>"
+        "text": "<p><span style=\"font-size: 14pt;\" data-mce=\"font-size: 14pt;\">Desejo Sofa and Sintonia Armchair: designed by Luisa Moysés </span></p><p><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\"><br data-mce-bogus=\"1\"></span></p><p><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">In the living area, the Desejo sofa and Sintonia armchair, both designed by Luisa Moysés, stand out for their organic and welcoming design. With smooth curves and generous proportions, the pieces create an environment that is both comfortable and imposing — ideal for family moments or entertaining friends with elegance.</span></p>"
       },
       {
         "__resolveType": "blog/sections/Blog/components/ImagesSlide.tsx",
         "images": [
           {
             "image": "https://assets.decocache.com/breton/bdf210ba-0e82-4068-92af-e9853d47b255/cv.taiselazaro_2713-copy-(1).jpg",
-            "alt": "Teste"
+            "alt": "Test"
           },
           {
             "image": "https://assets.decocache.com/breton/021481f6-8fb7-4456-aa1a-955c130f0708/DSC06327-Trat-(1).jpg",
-            "alt": "Teste"
+            "alt": "Test"
           },
           {
             "image": "https://assets.decocache.com/breton/ea29ff05-194c-444d-94c8-69e2e0d28f82/slide-1.jpg",
-            "alt": "Teste"
+            "alt": "Test"
           }
         ]
       },
       {
         "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<p dir=\"ltr\"><strong>A Poltrona Bumbo, por Lilly Sarti</strong></p><p dir=\"ltr\">Outra protagonista do ambiente é a poltrona Bumbo, criação da estilista Lilly Sarti para a Breton em acabamento rosa. A peça representa a união entre moda e mobiliário, trazendo sofisticação e personalidade com um traço contemporâneo marcante.</p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p>"
+        "content": "<p dir=\"ltr\"><strong>The Bumbo Armchair, by Lilly Sarti</strong></p><p dir=\"ltr\">Another highlight of the environment is the Bumbo armchair, created by designer Lilly Sarti for Breton in a pink finish. The piece represents the union between fashion and furniture, bringing sophistication and personality with a striking contemporary touch.</p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p>"
       },
       {
         "__resolveType": "blog/sections/Blog/components/ImageThreeColumnSection.tsx",
@@ -62,7 +62,7 @@
       },
       {
         "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">O projeto ainda conta com a mesa lateral Galhos, assinada por Fernanda Marques, e a mesa de centro Caetano, de Giácomo Tomazzi — duas peças que funcionam como esculturas dentro do ambiente. Ambas trazem a assinatura de nomes consagrados do design nacional e reforçam a proposta do projeto: unir estética e funcionalidade com originalidade.</p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p><p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Cada escolha feita para o novo lar de Taís e Lázaro representa um diálogo entre identidade e estilo. A presença marcante do design brasileiro contemporâneo — representado pelas coleções autorais da Breton — reforça a valorização da cultura local por meio do mobiliário.</p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><strong><br></strong></p><p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Confira todas as escolhas do casal para o apartamento clicando aqui</p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p>"
+        "content": "<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">The project also features the Galhos side table, designed by Fernanda Marques, and the Caetano coffee table, by Giácomo Tomazzi — two pieces that function as sculptures within the environment. Both bear the signature of renowned names in national design and reinforce the project's proposal: to unite aesthetics and functionality with originality.</p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p><p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Every choice made for Taís and Lázaro's new home represents a dialogue between identity and style. The strong presence of contemporary Brazilian design — represented by Breton's exclusive collections — reinforces the appreciation of local culture through furniture.</p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><strong><br></strong></p><p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Check out all the couple's choices for the apartment by clicking here</p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p>"
       },
       {
         "__resolveType": "blog/sections/Blog/components/OneImage.tsx",
@@ -70,17 +70,17 @@
       }
     ],
     "extraProps": [],
-    "title": "A casa de Taís Araujo e Lázaro Ramos: conheça o mobiliário ",
+    "title": "The home of Taís Araujo and Lázaro Ramos: discover the furniture",
     "date": "2025-04-01",
     "slug": "teste-8",
     "image": "https://assets.decocache.com/breton/8e9cdc3e-1cc8-4abb-980a-ce87277dcad6/blog-banner.png",
-    "excerpt": "Após mais de vinte anos juntos, Taís Araujo e Lázaro Ramos, um dos casais mais influentes da cultura brasileira contemporânea, decidiram criar um lar do zero, que fosse capaz de representar o estilo de vida e personalidade da família. ",
+    "excerpt": "After more than twenty years together, Taís Araujo and Lázaro Ramos, one of the most influential couples in contemporary Brazilian culture, decided to create a home from scratch that could represent their family's lifestyle and personality.",
     "seo": {
-      "title": "Taís Araujo e Lázaro Ramos abrem apartamento no Rio de Janeiro",
-      "description": "Em 20 anos de casamento, é a primeira vez que Taís Araujo e Lázaro Ramos realizam o projeto de uma casa do início ao fim com moóveis de design brasileiro da Breton",
+      "title": "Taís Araujo and Lázaro Ramos open their apartment in Rio de Janeiro",
+      "description": "In 20 years of marriage, this is the first time Taís Araujo and Lázaro Ramos have carried out a home project from start to finish with Brazilian design furniture from Breton",
       "image": "https://assets.decocache.com/breton/8e9cdc3e-1cc8-4abb-980a-ce87277dcad6/blog-banner.png"
     },
     "readTime": 8,
-    "alt": "A casa de Taís Araujo e Lázaro Ramos: conheça o mobiliário "
+    "alt": "The home of Taís Araujo and Láz Ramos: discover the furniture"
   }
 }

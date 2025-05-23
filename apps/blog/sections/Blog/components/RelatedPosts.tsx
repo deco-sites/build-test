@@ -51,7 +51,7 @@ export default function RelatedPostsSection(
               <div class="flex gap-2 text-caption uppercase max-md:justify-between max-md:2-full">
                 <span>
                   {post.date
-                    ? new Date(post.date).toLocaleDateString("pt-BR", {
+                    ? new Date(post.date).toLocaleDateString("en-US", {
                         month: "long",
                         day: "numeric",
                         year: "numeric",

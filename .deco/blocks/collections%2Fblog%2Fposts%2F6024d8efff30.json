@@ -4,20 +4,20 @@
   "post": {
     "authors": [
       {
-        "name": "Redação Breton",
+        "name": "Breton Editorial Team",
         "email": "diego.miguel@breton.com.br"
       }
     ],
     "categories": [
       {
-        "name": "Teste",
+        "name": "Test",
         "slug": "categoria"
       }
     ],
     "content": [
       {
         "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Inspirada pelas formas orgânicas da natureza e pela força dos elementos, a coleção Oceano, assinada por Fernanda Marques para a Breton, explora o encontro entre design, escultura e funcionalidade.&nbsp;</p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p>"
+        "content": "<p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Inspired by the organic shapes of nature and the strength of the elements, the Oceano collection, designed by Fernanda Marques for Breton, explores the intersection of design, sculpture, and functionality.&nbsp;</p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p>"
       },
       {
         "__resolveType": "blog/sections/Blog/components/Video.tsx",
@@ -35,7 +35,7 @@
       },
       {
         "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\">A linha foi lançada na SP-Arte 2025 e marca o retorno da arquiteta ao evento em parceria com a Breton, reforçando o papel da marca no cenário do mobiliário autoral brasileiro.</p><p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p><p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><em>\"Cada peça desta coleção foi inspirada pela grandiosidade e fluidez da natureza, buscando traduzir sua força e organicidade de maneira única e sofisticada. Ao criar essas peças, meu objetivo foi capturar a beleza do mundo natural – das penínsulas às falésias, das ilhas às enseadas, das águas – e reinterpretá-las em formas e volumes que proporcionem tanto estética quanto funcionalidade\"</em>, explica Fernanda Marques.</p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p>"
+        "content": "<p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\">The collection was launched at SP-Arte 2025 and marks the architect's return to the event in partnership with Breton, reinforcing the brand's role in the Brazilian authorial furniture scene.</p><p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p><p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><em>\"Each piece in this collection was inspired by the grandeur and fluidity of nature, seeking to translate its strength and organicity in a unique and sophisticated way. My goal was to capture the beauty of the natural world—from peninsulas to cliffs, islands to coves, and waters—and reinterpret it into forms and volumes that offer both aesthetics and functionality,\"</em> explains Fernanda Marques.</p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p>"
       },
       {
         "__resolveType": "blog/sections/Blog/components/ImageTwoColumnSection.tsx",
@@ -45,110 +45,108 @@
       {
         "__resolveType": "blog/sections/Blog/components/ImageAndTextSection.tsx",
         "image": "https://assets.decocache.com/breton/268c94e9-c092-4d86-9c82-5836401df94e/_MF01562.jpg",
-        "text": "<p><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Inspirada nas paisagens naturais que tornam o Brasil único, a linha foi desenvolvida a partir de uma profunda pesquisa sobre os elementos que definem nossa identidade cultural. Desde as cores vibrantes das florestas tropicais até a serenidade das praias, passando pelas texturas da nossa fauna e flora, cada detalhe da coleção foi projetado para transmitir o espírito do Brasil de uma forma inovadora e elegante.</span><br><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">As matérias-primas foram cuidadosamente selecionadas para valorizar a sustentabilidade, reforçando o compromisso da marca com práticas responsáveis e a valorização dos recursos locais, que são parte intrínseca da nossa identidade.</span></p>"
+        "text": "<p><span style=\"font-size: 14pt\">Inspired by the natural landscapes that make Brazil unique, the collection was developed through in-depth research into the elements that define our cultural identity. From the vibrant colors of tropical forests to the serenity of beaches, and the textures of our fauna and flora, every detail was designed to convey Brazil's spirit in an innovative and elegant way.</span><br><br><span style=\"font-size: 14pt\">Raw materials were carefully selected to prioritize sustainability, reflecting the brand's commitment to responsible practices and local resources, which are intrinsic to our identity.</span></p>",
+        "backgroundColor": "#ffffff"
       },
       {
-        "__resolveType": "website/sections/Rendering/Lazy.tsx",
-        "section": {
-          "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-          "content": "<h1 style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><span style=\"font-size: 36pt;\" data-mce-style=\"font-size: 36pt;\"><strong>Mesa de Jantar Península</strong></span></h1><p><br data-mce-bogus=\"1\"></p><p><span style=\"font-size: 12pt;\" data-mce-style=\"font-size: 12pt;\">Com design escultural, a peça remete às formações geológicas que avançam sobre o mar. O tampo, com acabamento que evoca um quebra-cabeça natural, e a base robusta que parece esculpida pelo tempo, criam uma composição de equilíbrio e imponência.</span></p>"
-        }
+        "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
+        "content": "<h1 style=\"text-align: center\"><strong><span style=\"color: #000000; font-size: 36pt\">Península Dining Table</span></strong></h1><p><br></p><p><span style=\"font-size: 12pt\">With its sculptural design, the piece evokes geological formations that extend into the sea. The tabletop, with a finish reminiscent of a natural puzzle, and the robust base, seemingly sculpted by time, create a composition of balance and grandeur.</span></p>"
       },
       {
         "__resolveType": "blog/sections/Blog/components/ImagesSlide.tsx",
         "images": [
           {
             "image": "https://assets.decocache.com/breton/aceadb11-73e7-45d6-8aa1-291795e060ee/Peninsula-(2).jpg",
-            "alt": "Teste"
+            "alt": "Test"
           },
           {
             "image": "https://assets.decocache.com/breton/bac4263a-1e04-4d60-8c7d-9fd888155a85/Peninsula.jpg",
-            "alt": "Teste"
+            "alt": "Test"
           },
           {
             "image": "https://assets.decocache.com/breton/61436a8d-3786-4e26-916a-69d6ebb7411f/Peninsula-(1).jpg",
-            "alt": "Teste"
+            "alt": "Test"
           },
           {
             "image": "https://assets.decocache.com/breton/3f4ec124-a22d-4b77-ab2a-3c089cfb297d/Peninsual.jpg",
-            "alt": "Teste"
+            "alt": "Test"
           }
         ]
       },
       {
         "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Sofá Enseada<br><br>De formas curvas e modulares, o sofá permite diferentes composições e se adapta com naturalidade a diversos ambientes. Seu desenho explora a fluidez e o conforto de maneira integrada.</p><p><br data-mce-bogus=\"1\"></p>"
+        "content": "<p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Enseada Sofa<br><br>With its curved and modular forms, the sofa allows for different configurations and adapts naturally to various spaces. Its design explores fluidity and comfort in an integrated way.</p><p><br data-mce-bogus=\"1\"></p>"
       },
       {
         "__resolveType": "blog/sections/Blog/components/ImagesSlide.tsx",
         "images": [
           {
             "image": "https://assets.decocache.com/breton/8bfbf890-6469-4092-a797-46bcc5e2f75e/Sem-nome-(940-x-728-px)-(4500-x-3000-px).png",
-            "alt": "Teste"
+            "alt": "Test"
           },
           {
             "image": "https://assets.decocache.com/breton/52272492-0271-4afd-a9e3-a42d1fd637a1/Detalhe-sofa-Enseada.jpg",
-            "alt": "Teste"
+            "alt": "Test"
           },
           {
             "image": "https://assets.decocache.com/breton/48629a21-dd3b-4717-b7f7-7a581631137e/Detalhe-Sofa-Enseada-(1).jpg",
-            "alt": "Teste"
+            "alt": "Test"
           }
         ]
       },
       {
         "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><strong>Cadeira Falésia</strong></p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br>A estrutura firme contrasta com detalhes que suavizam o conjunto. Um rasgo frontal na base e um encosto curvado aprimoram a ergonomia, enquanto a silhueta mantém um desenho refinado e expressivo.</p>"
+        "content": "<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><strong>Falésia Chair</strong></p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br>The sturdy structure contrasts with details that soften the overall look. A front slit in the base and a curved backrest enhance ergonomics, while the silhouette maintains a refined and expressive design.</p>"
       },
       {
         "__resolveType": "blog/sections/Blog/components/ImagesSlide.tsx",
         "images": [
           {
             "image": "https://assets.decocache.com/breton/32b63a72-479d-4fbc-be36-cb8b2e27c45f/BRETON_STILL0013-1_1.jpg",
-            "alt": "Teste"
+            "alt": "Test"
           },
           {
             "image": "https://assets.decocache.com/breton/de156ba2-bbe6-41c3-819c-36d4feb3645a/BRETON_STILL0080.jpg",
-            "alt": "Teste"
+            "alt": "Test"
           },
           {
             "image": "https://assets.decocache.com/breton/e9e1481e-8f17-4559-ad4a-bad47466a413/BRETON_STILL0106.jpg",
-            "alt": "Teste"
+            "alt": "Test"
           },
           {
             "image": "https://assets.decocache.com/breton/069d49fe-3333-44b3-b3ac-e93d02553866/BRETON_STILL0131.jpg",
-            "alt": "Teste"
+            "alt": "Test"
           }
         ]
       },
       {
         "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><strong id=\"docs-internal-guid-bba34bdc-7fff-203d-1c51-ec5fa5f49718\">Poltrona Enseada</strong></p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br>Com design assimétrico e proporções pensadas para o corpo, a poltrona leva o conceito do sofá a uma escala mais intimista. Une presença visual marcante e ergonomia.</p>"
+        "content": "<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><strong id=\"docs-internal-guid-bba34bdc-7fff-203d-1c51-ec5fa5f49718\">Enseada Armchair</strong></p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br>With an asymmetrical design and proportions tailored to the body, the armchair brings the sofa's concept to a more intimate scale. It combines striking visual presence with ergonomics.</p>"
       },
       {
         "__resolveType": "blog/sections/Blog/components/ImagesSlide.tsx",
         "images": [
           {
             "image": "https://assets.decocache.com/breton/d30289e1-293d-4465-a8a8-979c824d26b6/Poltrona-Enseada-(5).jpg",
-            "alt": "Teste"
+            "alt": "Test"
           },
           {
             "image": "https://assets.decocache.com/breton/d6bd0423-206e-4f50-9559-c7ec024b80e7/Sem-nome-(940-x-728-px)-(4500-x-3000-px)-(1).png",
-            "alt": "Teste"
+            "alt": "Test"
           },
           {
             "image": "https://assets.decocache.com/breton/ec325008-b4ca-4ae5-abb6-89a279fd0f63/Poltrona-Enseada-(7).jpg",
-            "alt": "Teste"
+            "alt": "Test"
           },
           {
             "image": "https://assets.decocache.com/breton/cd8d1477-19da-4871-996d-6a7f29ff6a85/Poltrona-Enseada-(4).jpg",
-            "alt": "Teste"
+            "alt": "Test"
           }
         ]
       },
       {
         "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><strong>Cadeira Falésia</strong></p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br>A estrutura firme contrasta com detalhes que suavizam o conjunto. Um rasgo frontal na base e um encosto curvado aprimoram a ergonomia, enquanto a silhueta mantém um desenho refinado e expressivo.</p>"
+        "content": "<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><strong>Falésia Chair</strong></p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br>The sturdy structure contrasts with details that soften the overall look. A front slit in the base and a curved backrest enhance ergonomics, while the silhouette maintains a refined and expressive design.</p>"
       },
       {
         "__resolveType": "blog/sections/Blog/components/ImageTwoColumnSection.tsx",
@@ -157,21 +155,21 @@
       },
       {
         "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<p dir=\"ltr\">A coleção Oceano reforça o compromisso da Breton com o design brasileiro e a busca por peças que aliam criatividade, identidade e sofisticação. Em parceria com Fernanda Marques, a marca amplia seu repertório autoral com criações que transformam o espaço com naturalidade e força estética.</p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p>"
+        "content": "<p dir=\"ltr\">The Oceano collection reinforces Breton's commitment to Brazilian design and the pursuit of pieces that combine creativity, identity, and sophistication. In partnership with Fernanda Marques, the brand expands its authorial repertoire with creations that transform spaces with naturalness and aesthetic strength.</p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p>"
       }
     ],
     "extraProps": [],
-    "title": "Conheça a coleção Oceano, assinada por Fernanda Marques",
+    "title": "Discover the Oceano Collection, Designed by Fernanda Marques",
     "date": "2025-05-27",
     "slug": "teste-7",
     "image": "https://assets.decocache.com/breton/0bb7dd3f-e974-4afc-a801-351541de290c/Sem-nome-(940-x-728-px)-(384-x-400-px)-(1360-x-560-px).png",
-    "excerpt": "Inspirada pelas formas orgânicas da natureza e pela força dos elementos, a coleção Oceano, assinada por Fernanda Marques para a Breton, explora o encontro entre design, escultura e funcionalidade. ",
+    "excerpt": "Inspired by the organic shapes of nature and the strength of the elements, the Oceano collection, designed by Fernanda Marques for Breton, explores the intersection of design, sculpture, and functionality.",
     "seo": {
-      "title": "Taís Araujo e Lázaro Ramos abrem apartamento no Rio de Janeiro",
-      "description": "Em 20 anos de casamento, é a primeira vez que Taís Araujo e Lázaro Ramos realizam o projeto de uma casa do início ao fim. “Moramos em diversos lugares e nunca quisemos encarar uma obra longa. Fazíamos apenas intervenções pontuais.",
+      "title": "Taís Araujo and Lázaro Ramos Unveil Their Apartment in Rio de Janeiro",
+      "description": "After 20 years of marriage, this is the first time Taís Araujo and Lázaro Ramos have undertaken a home project from scratch. “We’ve lived in many places but never wanted to commit to a long renovation. We only made small adjustments.",
       "image": "https://assets.decocache.com/breton/0bb7dd3f-e974-4afc-a801-351541de290c/Sem-nome-(940-x-728-px)-(384-x-400-px)-(1360-x-560-px).png"
     },
     "readTime": 8,
-    "alt": "Conheça a coleção Oceano, assinada por Fernanda Marques"
+    "alt": "Discover the Oceano Collection, Designed by Fernanda Marques"
   }
 }

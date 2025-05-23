@@ -1,4 +1,4 @@
-export default function BackButton({ text = "Voltar" }: { text?: string }) {
+export default function BackButton({ text = "Back" }: { text?: string }) {
   const handleClick = () => {
     window.history.back();
   };

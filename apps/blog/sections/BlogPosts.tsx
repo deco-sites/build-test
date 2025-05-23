@@ -91,7 +91,7 @@ export default function BlogPosts({
                 <span>
                   {post.date
                     ? new Date(`${post.date}T12:00:00`).toLocaleDateString(
-                        "pt-BR",
+                        "en-US",
                         {
                           month: "long",
                           day: "numeric",

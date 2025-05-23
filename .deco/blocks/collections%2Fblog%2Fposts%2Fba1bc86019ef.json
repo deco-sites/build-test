@@ -4,20 +4,20 @@
   "post": {
     "authors": [
       {
-        "name": "Redação Breton",
+        "name": "Breton Editorial Team",
         "email": "diego.miguel@breton.com.br"
       }
     ],
     "categories": [
       {
-        "name": "Teste",
+        "name": "Test",
         "slug": "categoria"
       }
     ],
     "content": [
       {
         "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<p dir=\"ltr\">A Breton conquistou, pelo terceiro ano seguido, o status de empresa carbono negativo. Um reconhecimento que reforça o compromisso da marca com a sustentabilidade e a preservação ambiental, indo além da neutralização de emissões e contribuindo ativamente para o equilíbrio climático do planeta.</p><p dir=\"ltr\"><br data-mce-bogus=\"1\"></p>"
+        "content": "<p dir=\"ltr\">For the third consecutive year, Breton has achieved carbon negative status. This recognition reinforces the brand's commitment to sustainability and environmental preservation, going beyond neutralizing emissions and actively contributing to the planet's climate balance.</p><p dir=\"ltr\"><br data-mce-bogus=\"1\"></p>"
       },
       {
         "__resolveType": "blog/sections/Blog/components/OneImage.tsx",
@@ -25,11 +25,11 @@
       },
       {
         "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<p>O que é ser carbono negativo?</p><p>Ser carbono negativo significa remover da atmosfera mais carbono do que se emite. É uma meta mais ambiciosa que a neutralidade, em que o impacto das emissões é totalmente compensado.&nbsp;</p><p>Ao adotar práticas que evitam, reduzem e compensam suas emissões, a Breton avança em direção a um modelo produtivo de menor impacto e mais responsabilidade.</p><p>Desde 2020, a empresa já é carbono neutro. E, a partir de 2022, passou a compensar mais do que emite, atingindo o patamar de carbono negativo. A avaliação ocorre por meio do inventário de carbono calculado pela The Planet, empresa de consultoria de sustentabilidade.</p>"
+        "content": "<p>What does it mean to be carbon negative?</p><p>Being carbon negative means removing more carbon from the atmosphere than you emit. It is a more ambitious goal than neutrality, where the impact of emissions is fully offset.&nbsp;</p><p>By adopting practices that avoid, reduce, and its emissions, Breton moves towards a production model with less impact and greater responsibility.</p><p>Since 2020, the company has been carbon neutral. And starting in 2022, it began offsetting more than it emits, reaching the level of carbon negative. The assessment is carried out through the carbon inventory calculated by The Planet, a sustainability consulting company.</p>"
       },
       {
         "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<p>Reflorestamento como ação concreta</p><p><br></p><p>Por meio da parceira com a Fundação SOS Mata Atlântica, a cada pedido realizado na Breton, uma árvore é plantada na Mata Atlântica. Ao todo, já foram mais de 33 mil mudas nativas reflorestadas.&nbsp;</p><p><br></p><p>E para compensar suas emissões em 2024, a Breton realizou o plantio de 6.734 árvores no bioma no ano. Essa ação contribuiu para a remoção de 1.098,58 toneladas de CO2 equivalente da atmosfera.</p><p><br></p><p>Em área reflorestada, esse volume representa aproximadamente 10 campos de futebol — uma dimensão significativa quando se trata da restauração da fauna e da flora de um dos biomas mais ameaçados do planeta.</p><p style=\"text-align: center\"><br></p>"
+        "content": "<p>Reforestation as concrete action</p><p><br></p><p>Through a partnership with the SOS Mata Atlântica Foundation, for every order placed at Breton, a tree is planted in the Atlantic Forest. In total, more than 33,000 native seedlings have already been reforested.&nbsp;</p><p><br></p><p>And to offset its emissions in 2024, Breton planted 6,734 trees in the biome during the year. This action contributed to the removal of 1,098.58 tons of CO2 equivalent from the atmosphere.</p><p><br></p><p>In reforested area, this volume represents approximately 10 soccer fields — a significant dimension when it comes to restoring the fauna and flora of one of the most threatened biomes on the planet.</p><p style=\"text-align: center\"><br></p>"
       },
       {
         "__resolveType": "blog/sections/Blog/components/OneImage.tsx",
@@ -37,7 +37,7 @@
       },
       {
         "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<p dir=\"ltr\">A importância da preservação da Mata Atlântica</p><p dir=\"ltr\"><br data-mce-bogus=\"1\"></p><p dir=\"ltr\">Ao investir no reflorestamento de áreas da Mata Atlântica, a Breton contribui para a proteção da biodiversidade, o equilíbrio climático e a melhoria da qualidade da água e do solo. As árvores plantadas absorvem CO2, auxiliam na regulação das chuvas e na conservação dos ecossistemas.</p><p dir=\"ltr\"><br data-mce-bogus=\"1\"></p><p dir=\"ltr\">A escolha da Mata Atlântica também tem um valor simbólico: esse é o bioma que abriga mais de 70% da população brasileira e já perdeu mais de 80% de sua vegetação original. Recuperar esse patrimônio é uma forma de gerar impacto positivo no presente e no futuro.</p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p>"
+        "content": "<p dir=\"ltr\">The importance of preserving the Atlantic Forest</p><p dir=\"ltr\"><br data-mce-bogus=\"1\"></p><p dir=\"ltr\">By investing in the reforestation of areas of the Atlantic Forest, Breton contributes to the protection of biodiversity, climate balance, and improvement of water and soil quality. The trees planted absorb CO2, help regulate rainfall, and conserve ecosystems.</p><p dir=\"ltr\"><br data-mce-bogus=\"1\"></p><p dir=\"ltr\">Choosing the Atlantic Forest also has symbolic value: this is the biome that houses more than 70% of the Brazilian population and has already lost more than 80% of its original vegetation. Recovering this heritage is a way to generate positive impact now and in the future.</p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p>"
       },
       {
         "__resolveType": "blog/sections/Blog/components/ImageTwoColumnSection.tsx",
@@ -46,7 +46,7 @@
       },
       {
         "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<p dir=\"ltr\">Sustentabilidade como prática permanente</p><p dir=\"ltr\"><br data-mce-bogus=\"1\"></p><p dir=\"ltr\">O resultado alcançado em 2024 é fruto de uma estratégia que envolve medição precisa das emissões, revisão constante dos processos e compromisso com soluções reais. A Breton segue trabalhando para reduzir o impacto em toda a sua cadeia produtiva e ampliar a compensação das emissões indiretas.</p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p>"
+        "content": "<p dir=\"ltr\">Sustainability as an ongoing practice</p><p dir=\"ltr\"><br data-mce-bogus=\"1\"></p><p dir=\"ltr\">The result achieved in 2024 is the result of a strategy that involves precise measurement of emissions, constant review of processes, and commitment to real solutions. Breton continues working to reduce the impact throughout its entire production chain and increase the compensation of indirect emissions.</p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p>"
       },
       {
         "__resolveType": "blog/sections/Blog/components/Video.tsx",
@@ -64,7 +64,7 @@
       },
       {
         "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<p dir=\"ltr\">Ser carbono negativo, pelo terceiro ano consecutivo, reafirma a convicção da marca de que sustentabilidade é um dever empresarial — e que cada árvore plantada representa um passo concreto em direção a um futuro mais equilibrado.</p><p dir=\"ltr\"><br data-mce-bogus=\"1\"></p><p dir=\"ltr\">Conheça outras práticas sustentáveis da Breton clicando aqui.</p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p>"
+        "content": "<p dir=\"ltr\">Being carbon negative for the third consecutive year reaffirms the brand's conviction that sustainability is a business duty — and that each tree planted represents a concrete step towards a more balanced future.</p><p dir=\"ltr\"><br data-mce-bogus=\"1\"></p><p dir=\"ltr\">Learn about other sustainable practices at Breton by clicking here.</p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p>"
       }
     ],
     "extraProps": [],
@@ -72,13 +72,13 @@
     "slug": "teste-6",
     "image": "https://assets.decocache.com/breton/91d41132-5216-48b0-ad74-0eb5cdbc399e/Sem-nome-(940-x-728-px)-(384-x-400-px)-(1360-x-560-px)-(1360-x-560-px).png",
     "seo": {
-      "title": "BRETON É CARBONO NEGATIVO PELO TERCEIRO ANO CONSECUTIVO",
-      "description": "A Breton conquistou, pelo terceiro ano seguido, o status de empresa carbono negativo. Um reconhecimento que reforça o compromisso da marca com a sustentabilidade e a preservação ambiental, indo além da neutralização de emissões e contribuindo ativamente para o equilíbrio climático do planeta.",
+      "title": "BRETON IS CARBON NEGATIVE FOR THE THIRD CONSECUTIVE YEAR",
+      "description": "For the third consecutive year, Breton has achieved carbon negative status. This recognition reinforces the brand's commitment to sustainability and environmental preservation, going beyond neutralizing emissions and actively contributing to the planet's climate balance.",
       "image": "https://assets.decocache.com/breton/b781ae24-63b8-40e9-a813-850da67f6302/EcoBreton_CarbonoNegativo_site.png"
     },
     "readTime": 8,
-    "alt": "Breton é carbono negativo pelo terceiro ano consecutivo",
-    "excerpt": "A Breton conquistou, pelo terceiro ano seguido, o status de empresa carbono negativo. Um reconhecimento que reforça o compromisso da marca com a sustentabilidade e a preservação ambiental, indo além da neutralização de emissões e contribuindo ativamente para o equilíbrio climático do planeta.",
-    "title": "BRETON É CARBONO NEGATIVO PELO TERCEIRO ANO CONSECUTIVO"
+    "alt": "Breton is carbon negative for the third consecutive year",
+    "excerpt": "For the third consecutive year, Breton has achieved carbon negative status. This recognition reinforces the brand's commitment to sustainability and environmental preservation, going beyond neutralizing emissions and actively contributing to the planet's climate balance.",
+    "title": "BRETON IS CARBON NEGATIVE FOR THE THIRD CONSECUTIVE YEAR"
   }
 }

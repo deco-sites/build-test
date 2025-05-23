@@ -268,7 +268,7 @@ const Desktop = ({
               className="opacity-0 absolute peer-checked:static peer-checked:opacity-100 transition-opacity duration-300"
             />
             <span class="text-button uppercase header-button-label">
-              Pesquise
+              Search
             </span>
           </label>
           <a id="account" href="/my-account" class="flex items-center gap-4">

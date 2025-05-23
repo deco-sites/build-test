@@ -106,23 +106,22 @@ import * as $$$$$$51 from "./sections/Product/ProductInfos.tsx";
 import * as $$$$$$52 from "./sections/Product/ProductMainBanner.tsx";
 import * as $$$$$$53 from "./sections/Product/ProductShelf.tsx";
 import * as $$$$$$54 from "./sections/Product/ProductSlide.tsx";
-import * as $$$$$$55 from "./sections/Product/ProductSwiper.tsx";
-import * as $$$$$$56 from "./sections/Product/ProductVideo.tsx";
-import * as $$$$$$57 from "./sections/Product/RelatedProducts.tsx";
-import * as $$$$$$58 from "./sections/Product/SearchResult.tsx";
-import * as $$$$$$59 from "./sections/Product/ShelfWithImage.tsx";
-import * as $$$$$$60 from "./sections/Product/Wishlist.tsx";
-import * as $$$$$$61 from "./sections/Search/BannerCategory/BannerCategory.tsx";
-import * as $$$$$$62 from "./sections/Search/RichText/SearchRichText.tsx";
-import * as $$$$$$63 from "./sections/Search/SearchTerm/SearchTerm.tsx";
-import * as $$$$$$64 from "./sections/Session.tsx";
-import * as $$$$$$65 from "./sections/Social/InstagramPosts.tsx";
-import * as $$$$$$66 from "./sections/Social/WhatsApp.tsx";
-import * as $$$$$$67 from "./sections/Spacer/Spacer.tsx";
-import * as $$$$$$68 from "./sections/Theme/Theme.tsx";
-import * as $$$$$$69 from "./sections/TimeLineCarousel/TimeLineCarousel.tsx";
-import * as $$$$$$70 from "./sections/Video/Video.tsx";
-import * as $$$$$$71 from "./sections/Video/VideoOrImage.tsx";
+import * as $$$$$$55 from "./sections/Product/ProductVideo.tsx";
+import * as $$$$$$56 from "./sections/Product/RelatedProducts.tsx";
+import * as $$$$$$57 from "./sections/Product/SearchResult.tsx";
+import * as $$$$$$58 from "./sections/Product/ShelfWithImage.tsx";
+import * as $$$$$$59 from "./sections/Product/Wishlist.tsx";
+import * as $$$$$$60 from "./sections/Search/BannerCategory/BannerCategory.tsx";
+import * as $$$$$$61 from "./sections/Search/RichText/SearchRichText.tsx";
+import * as $$$$$$62 from "./sections/Search/SearchTerm/SearchTerm.tsx";
+import * as $$$$$$63 from "./sections/Session.tsx";
+import * as $$$$$$64 from "./sections/Social/InstagramPosts.tsx";
+import * as $$$$$$65 from "./sections/Social/WhatsApp.tsx";
+import * as $$$$$$66 from "./sections/Spacer/Spacer.tsx";
+import * as $$$$$$67 from "./sections/Theme/Theme.tsx";
+import * as $$$$$$68 from "./sections/TimeLineCarousel/TimeLineCarousel.tsx";
+import * as $$$$$$69 from "./sections/Video/Video.tsx";
+import * as $$$$$$70 from "./sections/Video/VideoOrImage.tsx";
 
 const manifest = {
   "loaders": {
@@ -190,23 +189,22 @@ const manifest = {
     "site/sections/Product/ProductMainBanner.tsx": $$$$$$52,
     "site/sections/Product/ProductShelf.tsx": $$$$$$53,
     "site/sections/Product/ProductSlide.tsx": $$$$$$54,
-    "site/sections/Product/ProductSwiper.tsx": $$$$$$55,
-    "site/sections/Product/ProductVideo.tsx": $$$$$$56,
-    "site/sections/Product/RelatedProducts.tsx": $$$$$$57,
-    "site/sections/Product/SearchResult.tsx": $$$$$$58,
-    "site/sections/Product/ShelfWithImage.tsx": $$$$$$59,
-    "site/sections/Product/Wishlist.tsx": $$$$$$60,
-    "site/sections/Search/BannerCategory/BannerCategory.tsx": $$$$$$61,
-    "site/sections/Search/RichText/SearchRichText.tsx": $$$$$$62,
-    "site/sections/Search/SearchTerm/SearchTerm.tsx": $$$$$$63,
-    "site/sections/Session.tsx": $$$$$$64,
-    "site/sections/Social/InstagramPosts.tsx": $$$$$$65,
-    "site/sections/Social/WhatsApp.tsx": $$$$$$66,
-    "site/sections/Spacer/Spacer.tsx": $$$$$$67,
-    "site/sections/Theme/Theme.tsx": $$$$$$68,
-    "site/sections/TimeLineCarousel/TimeLineCarousel.tsx": $$$$$$69,
-    "site/sections/Video/Video.tsx": $$$$$$70,
-    "site/sections/Video/VideoOrImage.tsx": $$$$$$71,
+    "site/sections/Product/ProductVideo.tsx": $$$$$$55,
+    "site/sections/Product/RelatedProducts.tsx": $$$$$$56,
+    "site/sections/Product/SearchResult.tsx": $$$$$$57,
+    "site/sections/Product/ShelfWithImage.tsx": $$$$$$58,
+    "site/sections/Product/Wishlist.tsx": $$$$$$59,
+    "site/sections/Search/BannerCategory/BannerCategory.tsx": $$$$$$60,
+    "site/sections/Search/RichText/SearchRichText.tsx": $$$$$$61,
+    "site/sections/Search/SearchTerm/SearchTerm.tsx": $$$$$$62,
+    "site/sections/Session.tsx": $$$$$$63,
+    "site/sections/Social/InstagramPosts.tsx": $$$$$$64,
+    "site/sections/Social/WhatsApp.tsx": $$$$$$65,
+    "site/sections/Spacer/Spacer.tsx": $$$$$$66,
+    "site/sections/Theme/Theme.tsx": $$$$$$67,
+    "site/sections/TimeLineCarousel/TimeLineCarousel.tsx": $$$$$$68,
+    "site/sections/Video/Video.tsx": $$$$$$69,
+    "site/sections/Video/VideoOrImage.tsx": $$$$$$70,
   },
   "actions": {
     "site/actions/minicart/submit.ts": $$$$$$$$$0,

@@ -15,7 +15,7 @@ export default function Template({ post }: Props) {
   const { image, title, date, authors, content = [] } = post;
 
   const raw = new Date(`${date}T12:00:00`);
-  const formattedDate = new Date(raw).toLocaleDateString("pt-BR", {
+  const formattedDate = new Date(raw).toLocaleDateString("en-US", {
     day: "numeric",
     month: "long",
     year: "numeric",
@@ -43,15 +43,15 @@ export default function Template({ post }: Props) {
           })}
         >
           <img
-            alt="Voltar"
+            alt="Back"
             src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE1IDE4TDkgMTJMMTUgNiIgc3Ryb2tlPSJibGFjayIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cjwvc3ZnPgo="
           />
-          Voltar
+          Go Back
         </button>
         <p class="w-full text-center text-[10px] not-italic font-normal leading-4 tracking-[2.4px] uppercase mb-2">
           {formattedDate?.toUpperCase()} - {authors[0]?.name}
         </p>
-        <h1 class="w-full max-w-[800px] text-[22px] text-center font-semibold leading-8 tracking-[1.76px] uppercase mx-auto my-0 px-4">
+        <h1 class="w-full max-w-[800px] text-[22px] text-center font-semibold leading-8 tracking-[1.76px] uppercase mx-auto my-0 px-4 text-black">
           {title}
         </h1>
 

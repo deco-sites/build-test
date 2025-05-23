@@ -2,7 +2,7 @@
   "name": "collections/blog/categories/a3a8c80727ce",
   "__resolveType": "blog/loaders/Category.ts",
   "category": {
-    "name": "Teste",
+    "name": "Test",
     "slug": "categoria"
   }
 }

@@ -4592,9 +4592,6 @@ header.scrolled .bag-badge {
 .aspect-\[156\/87\] {
   aspect-ratio: 156/87;
 }
-.aspect-\[161\/100\] {
-  aspect-ratio: 161/100;
-}
 .aspect-\[200\/256\] {
   aspect-ratio: 200/256;
 }
@@ -7201,8 +7198,8 @@ h1 {
   display: none;
 }
 
-.before\:content-\[\'Ler_Menos\'\]::before {
-  --tw-content: 'Ler Menos';
+.before\:content-\[\'Read_Less\'\]::before {
+  --tw-content: 'Read Less';
   content: var(--tw-content);
 }
 
@@ -7221,8 +7218,8 @@ h1 {
   display: none;
 }
 
-.after\:content-\[\'Ler_Mais\'\]::after {
-  --tw-content: 'Ler Mais';
+.after\:content-\[\'Read_More\'\]::after {
+  --tw-content: 'Read More';
   content: var(--tw-content);
 }
 

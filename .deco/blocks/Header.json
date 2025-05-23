@@ -1,7 +1,7 @@
 {
   "__resolveType": "site/sections/Header/Header.tsx",
   "searchbar": {
-    "placeholder": "Pesquise Breton",
+    "placeholder": "Search",
     "loader": {
       "__resolveType": "resolved",
       "data": {
@@ -11,50 +11,48 @@
     },
     "suggestions": [
       {
-        "label": "Sofá",
+        "label": "Sofa",
         "href": "/s?q=sofa&page=1"
       },
       {
-        "label": "Cadeira",
-        "href": "/s?q=cadeira&page=1"
+        "label": "Chair",
+        "href": "/s?q=chair&page=1"
       },
       {
-        "label": "Mesa",
-        "href": "/s?q=mesa&page=1"
+        "label": "Table",
+        "href": "/s?q=table&page=1"
       },
       {
-        "label": "Aparador",
-        "href": "/s?q=aparador&page=1"
+        "label": "Sideboard",
+        "href": "/s?q=sideboard&page=1"
       },
       {
-        "label": "Banco",
-        "href": "/s?q=banco&page=1"
+        "label": "Bench",
+        "href": "/s?q=bench&page=1"
       },
       {
-        "label": "Estante",
-        "href": "/s?q=estante&page=1"
+        "label": "Bookshelf",
+        "href": "/s?q=bookshelf&page=1"
       },
       {
-        "label": "Poltrona",
-        "href": "/s?q=poltrona&page=1"
+        "label": "Armchair",
+        "href": "/s?q=armchair&page=1"
       }
     ],
     "images": [
       {
-        "label": "Área externa",
-        "href": "/area-externa",
+        "label": "Outdoor",
+        "href": "/outdoor",
         "image": "https://data.decoassets.com/breton/75887c05-414d-4d7f-990f-58bd15f7aa17/Banner-Meio.png"
       },
       {
-        "label": "Área interna",
-        "href": "/area-interna",
+        "label": "Indoor",
+        "href": "/indoor",
         "image": "https://data.decoassets.com/breton/cce37e12-f05a-44f8-b339-707abb9949b0/Banner-Meio-(1).png"
       }
     ]
   },
-  "alerts": [
-    "<p>Get 10% off today: <strong>NEW10</strong></p>"
-  ],
+  "alerts": ["<p>Get 10% off today: <strong>NEW10</strong></p>"],
   "logo": {
     "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/cca541c5-f3a5-4e4b-b2c1-451d75d3ec66/Logo.png",
     "alt": "Breton",
@@ -71,15 +69,15 @@
   },
   "links": [
     {
-      "label": "A BRETON",
+      "label": "ABOUT BRETON",
       "href": "/about-us"
     },
     {
       "href": "/corporate",
-      "label": "CORPORATIVO"
+      "label": "CORPORATE"
     },
     {
-      "label": "Nossas Lojas",
+      "label": "Our Stores",
       "href": "/stores"
     },
     {
@@ -95,153 +93,27 @@
     "menu": [
       {
         "item": {
-          "label": "Produtos",
-          "link": "/produtos",
+          "label": "Products",
+          "link": "/products",
           "submenu": [
             {
+              "title": "Indoor Area",
+              "url": "/indoor",
               "children": [
                 {
                   "item": {
                     "type": "disclosure",
+                    "label": "Accent Tables",
                     "children": [
                       {
                         "type": "link",
-                        "label": "Aparador",
-                        "link": "/area-interna/apoios/aparador"
+                        "label": "Accent Table",
+                        "link": "/indoor/accent-tables/accent-table"
                       },
                       {
                         "type": "link",
-                        "label": "Sofa Table",
-                        "link": "/area-interna/apoios/sofa-table"
-                      },
-                      {
-                        "type": "link",
-                        "label": "Buffet",
-                        "link": "/area-interna/apoios/buffet"
-                      }
-                    ],
-                    "label": "Apoios"
-                  }
-                },
-                {
-                  "item": {
-                    "type": "link",
-                    "label": "Banco",
-                    "link": "/area-interna/banco"
-                  }
-                },
-                {
-                  "item": {
-                    "type": "link",
-                    "label": "Banqueta",
-                    "link": "/area-interna/banqueta"
-                  }
-                },
-                {
-                  "item": {
-                    "type": "disclosure",
-                    "children": [
-                      {
-                        "type": "link",
-                        "label": "Carro Bar",
-                        "link": "/area-interna/bar/carro-bar"
-                      },
-                      {
-                        "type": "link",
-                        "label": "Móvel Bar",
-                        "link": "/area-interna/bar/movel-bar"
-                      }
-                    ],
-                    "label": "Bar"
-                  }
-                },
-                {
-                  "item": {
-                    "type": "link",
-                    "label": "Cadeiras",
-                    "link": "/area-interna/cadeiras"
-                  }
-                },
-                {
-                  "item": {
-                    "type": "link",
-                    "label": "Camas",
-                    "link": "/area-interna/camas"
-                  }
-                },
-                {
-                  "item": {
-                    "type": "link",
-                    "label": "Cômoda",
-                    "link": "/area-interna/comoda"
-                  }
-                },
-                {
-                  "item": {
-                    "type": "link",
-                    "label": "Cristaleira",
-                    "link": "/area-interna/cristaleira"
-                  }
-                },
-                {
-                  "item": {
-                    "type": "link",
-                    "label": "Estante",
-                    "link": "/area-interna/estante"
-                  }
-                },
-                {
-                  "item": {
-                    "type": "link",
-                    "label": "Mancebo",
-                    "link": "/area-interna/mancebo"
-                  }
-                },
-                {
-                  "item": {
-                    "type": "link",
-                    "label": "Mesa de Jantar",
-                    "link": "/area-interna/mesa-de-jantar"
-                  }
-                },
-                {
-                  "item": {
-                    "type": "link",
-                    "label": "Mesa de Jogos",
-                    "link": "/area-interna/mesa-de-jogos"
-                  }
-                },
-                {
-                  "item": {
-                    "type": "link",
-                    "label": "Mesa Office",
-                    "link": "/area-interna/mesa-office"
-                  }
-                },
-                {
-                  "item": {
-                    "type": "disclosure",
-                    "label": "Mesas Complementares",
-                    "children": [
-                      {
-                        "type": "link",
-                        "label": "Mesa de Centro",
-                        "link": "/area-interna/mesa-de-centro"
-                      },
-                      {
-                        "type": "link",
-                        "label": "Mesa Lateral",
-                        "link": "/area-interna/mesa-lateral"
-                      },
-                      {
-                        "type": "link",
-                        "label": "Mesa de Apoio",
-                        "link": "/area-interna/mesa-de-apoio"
-                      },
-                      {
-                        "type": "link",
-                        "label": "Mesa de Cabeceira",
-                        "link": "/area-interna/mesa-de-cabeceira"
+                        "label": "Side Table",
+                        "link": "/indoor/accent-tables/side-table"
                       }
                     ]
                   }
@@ -249,77 +121,19 @@
                 {
                   "item": {
                     "type": "link",
-                    "label": "Namoradeira",
-                    "link": "/area-interna/namoradeira"
+                    "label": "Armchair",
+                    "link": "/indoor/armchair"
                   }
                 },
-                {
-                  "item": {
-                    "type": "link",
-                    "label": "Ombrellone",
-                    "link": "/area-interna/ombrellone"
-                  }
-                },
-                {
-                  "item": {
-                    "type": "link",
-                    "label": "Penteadeira",
-                    "link": "/area-interna/penteadeira"
-                  }
-                },
-                {
-                  "item": {
-                    "type": "link",
-                    "label": "Poltrona",
-                    "link": "/area-interna/poltrona"
-                  }
-                },
-                {
-                  "item": {
-                    "type": "link",
-                    "label": "Puff",
-                    "link": "/area-interna/puff"
-                  }
-                },
-                {
-                  "item": {
-                    "type": "link",
-                    "label": "Recamier",
-                    "link": "/area-interna/recamier"
-                  }
-                },
-                {
-                  "item": {
-                    "type": "link",
-                    "label": "Sofá",
-                    "link": "/area-interna/sofa"
-                  }
-                }
-              ],
-              "title": "Área interna",
-              "url": "/area-interna"
-            },
-            {
-              "children": [
                 {
                   "item": {
                     "type": "disclosure",
-                    "label": "Apoios",
+                    "label": "Bar",
                     "children": [
                       {
                         "type": "link",
-                        "label": "Aparador",
-                        "link": "/area-externa/apoios/aparador"
-                      },
-                      {
-                        "type": "link",
-                        "label": "Carro Bar",
-                        "link": "/area-externa/apoios/carro-bar"
-                      },
-                      {
-                        "type": "link",
-                        "label": "Sofa Table",
-                        "link": "/area-externa/apoios/sofa-table"
+                        "label": "Trolley",
+                        "link": "/indoor/bar/trolley"
                       }
                     ]
                   }
@@ -327,71 +141,119 @@
                 {
                   "item": {
                     "type": "link",
-                    "label": "Balanço",
-                    "link": "/area-externa/balanco"
+                    "label": "Bar Table",
+                    "link": "/indoor/bar/bar-table"
                   }
                 },
                 {
                   "item": {
                     "type": "link",
-                    "label": "Banco",
-                    "link": "/area-externa/banco"
+                    "label": "Bed",
+                    "link": "/indoor/bed"
                   }
                 },
                 {
                   "item": {
                     "type": "link",
-                    "label": "Banqueta",
-                    "link": "/area-externa/banqueta"
+                    "label": "Bedside Table",
+                    "link": "/indoor/bedside-table"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Bench",
+                    "link": "/indoor/bench"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Buffet",
+                    "link": "/indoor/buffet"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Cabinet",
+                    "link": "/indoor/cabinet"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "disclosure",
+                    "label": "Chair",
+                    "children": [
+                      {
+                        "type": "link",
+                        "label": "Dining Chair Armless",
+                        "link": "/indoor/chair/dining-chair-armless"
+                      },
+                      {
+                        "type": "link",
+                        "label": "Dining Chair With Arms",
+                        "link": "/indoor/chair/dining-chair-with-arms"
+                      },
+                      {
+                        "type": "link",
+                        "label": "Dining Swivel Chair Armless",
+                        "link": "/indoor/chair/dining-swivel-chair-armless"
+                      },
+                      {
+                        "type": "link",
+                        "label": "Dining Swivel Chair With Arms",
+                        "link": "/indoor/chair/dining-swivel-chair-with-arms"
+                      }
+                    ]
                   }
                 },
                 {
                   "item": {
                     "type": "link",
                     "label": "Chaise",
-                    "link": "/area-externa/chaise"
+                    "link": "/indoor/chaise"
                   }
                 },
                 {
                   "item": {
                     "type": "link",
-                    "label": "Cadeiras",
-                    "link": "/area-externa/cadeiras"
-                  }
-                },
-                {
-                  "item": {
-                    "type": "link",
-                    "label": "Espreguiçadeira",
-                    "link": "/area-externa/espreguicadeira"
-                  }
-                },
-                {
-                  "item": {
-                    "type": "link",
-                    "label": "Mesa de Jantar",
-                    "link": "/area-externa/mesa-de-jantar"
+                    "label": "Coffee Table",
+                    "link": "/indoor/coffee-table"
                   }
                 },
                 {
                   "item": {
                     "type": "disclosure",
-                    "label": "Mesas Complementares",
+                    "label": "Console Tables",
                     "children": [
                       {
                         "type": "link",
-                        "label": "Mesa de Centro",
-                        "link": "/area-externa/mesa-de-centro"
+                        "label": "Sideboard",
+                        "link": "/indoor/console-tables/sideboard"
                       },
                       {
                         "type": "link",
-                        "label": "Mesa Lateral",
-                        "link": "/area-externa/mesa-lateral"
+                        "label": "Sideboard Base",
+                        "link": "/indoor/console-tables/sideboard-base"
                       },
                       {
                         "type": "link",
-                        "label": "Mesa de Apoio",
-                        "link": "/area-externa/mesa-de-apoio"
+                        "label": "Sofa Table",
+                        "link": "/indoor/console-tables/sofa-table"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "item": {
+                    "type": "disclosure",
+                    "label": "Dining Table",
+                    "children": [
+                      {
+                        "type": "link",
+                        "label": "Dining Table Base",
+                        "link": "/indoor/dining-table/dining-table-base"
                       }
                     ]
                   }
@@ -399,34 +261,149 @@
                 {
                   "item": {
                     "type": "link",
-                    "label": "Ombrellone",
-                    "link": "/area-externa/ombrellone"
+                    "label": "Dresser",
+                    "link": "/indoor/dresser"
                   }
                 },
                 {
                   "item": {
                     "type": "link",
-                    "label": "Poltrona",
-                    "link": "/area-externa/poltrona"
+                    "label": "Games Table",
+                    "link": "/indoor/games-table"
                   }
                 },
                 {
                   "item": {
                     "type": "link",
-                    "label": "Puff",
-                    "link": "/area-externa/puff"
+                    "label": "Loveseat",
+                    "link": "/indoor/loveseat"
                   }
                 },
                 {
                   "item": {
                     "type": "link",
-                    "label": "Sofá",
-                    "link": "/area-externa/sofa"
+                    "label": "Ottoman",
+                    "link": "/indoor/ottoman"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Recamier",
+                    "link": "/indoor/recamier"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Shelf",
+                    "link": "/indoor/shelf"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Sofa",
+                    "link": "/indoor/sofa"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Stool",
+                    "link": "/indoor/stool"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Valet Stands",
+                    "link": "/indoor/valet-stands"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Vanity Table",
+                    "link": "/indoor/vanity-table"
                   }
                 }
-              ],
-              "title": "Área externa",
-              "url": "/area-externa"
+              ]
+            },
+            {
+              "title": "Outdoor Area",
+              "url": "/outdoor",
+              "children": [
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Bar",
+                    "link": "/outdoor/bar"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Bench",
+                    "link": "/outdoor/bench"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Chair",
+                    "link": "/outdoor/chair"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Chaise",
+                    "link": "/outdoor/chaise"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Chaise Lounge",
+                    "link": "/outdoor/chaise-lounge"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "disclosure",
+                    "label": "Console Tables",
+                    "children": [
+                      {
+                        "type": "link",
+                        "label": "Sideboard",
+                        "link": "/outdoor/console-tables/sideboard"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Daybed",
+                    "link": "/outdoor/daybed"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Stool",
+                    "link": "/outdoor/stool"
+                  }
+                },
+                {
+                  "item": {
+                    "type": "link",
+                    "label": "Swing",
+                    "link": "/outdoor/swing"
+                  }
+                }
+              ]
             }
           ],
           "type": "menu"
@@ -434,21 +411,21 @@
       },
       {
         "item": {
-          "label": "Ambientes",
+          "label": "Environments",
           "images": [
             {
               "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/32697e6b-1f0e-4aa0-8c30-163c9d69c9db/Jantar.png",
-              "label": "Jantar",
+              "label": "Dining",
               "link": "/jantar"
             },
             {
               "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/ff1b0ed4-cf8c-427e-a355-d8b8b6e1ca64/Sala-de-estar.png",
-              "label": "Living",
+              "label": "Living Room",
               "link": "/living"
             },
             {
               "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/67b4e39c-a909-4b04-bb21-fcdc9bb643bf/Quarto.png",
-              "label": "Quarto",
+              "label": "Bedroom",
               "link": "/quarto"
             },
             {
@@ -462,9 +439,9 @@
               "label": "Office"
             },
             {
-              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/83733c78-3b66-4c11-858b-d354cf507a70/Area-externa.png",
-              "label": "Área Externa",
-              "link": "/area-externa"
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/83733c78-3b66-4c11-858b-d354cf507a70/outdoor.png",
+              "label": "Outdoor Area",
+              "link": "/outdoor"
             }
           ],
           "type": "menu-with-images"

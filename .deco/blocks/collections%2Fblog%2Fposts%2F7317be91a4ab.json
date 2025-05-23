@@ -10,14 +10,14 @@
     ],
     "categories": [
       {
-        "name": "Teste",
+        "name": "Test",
         "slug": "categoria"
       }
     ],
     "content": [
       {
         "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Em 20 anos de casamento, é a primeira vez que&nbsp;<span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">Taís Araujo e Lázaro Ramos</span>&nbsp;realizam o projeto de uma casa do início ao fim. “Moramos em diversos lugares e nunca quisemos encarar uma&nbsp;obra&nbsp;longa. Fazíamos apenas intervenções pontuais.<br><br>O problema é que os espaços não ficavam com a nossa cara”, conta o ator. Agora foi diferente. Após um ano de reforma, o apartamento dos anos 1950, na Zona Sul do Rio de Janeiro, se transformou no lar que eles desejavam. <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">“Apesar de ser quase tudo novo, a gente se reconhece em cada canto,</span> pois pensamos os ambientes juntos e trouxemos objetos e obras de arte ligados à nossa história”, lembra Taís.</p>"
+        "content": "<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">After 20 years of marriage, this is the first time <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">Taís Araujo and Lázaro Ramos</span> have undertaken a home project from scratch. “We’ve lived in many places but never wanted to commit to a long renovation. We only made small adjustments.<br><br>The problem was that the spaces never truly felt like us,” the actor explains. Now it’s different. After a year of renovations, their 1950s apartment in Rio de Janeiro’s South Zone became the home they’d always wanted. <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">“Even though almost everything is new, we see ourselves in every corner,</span> because we designed the spaces together and filled them with objects and art tied to our story,” Taís recalls.</p>"
       },
       {
         "__resolveType": "blog/sections/Blog/components/ImageTwoColumnSection.tsx",
@@ -26,7 +26,7 @@
       },
       {
         "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<h2 data-mce-style=\"text-align: center;\" style=\"text-align: center;\"><strong>O SONHO DE PERSONALIZAÇÃO</strong></h2><p><br data-mce-bogus=\"1\"></p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Inspirada nas paisagens naturais que tornam o <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">Brasil único</span>, a linha foi desenvolvida a partir de uma profunda pesquisa sobre os elementos que definem nossa identidade cultural. Desde as cores vibrantes das florestas tropicais até a serenidade das praias, passando pelas texturas da nossa fauna e flora, cada detalhe da coleção foi projetado para transmitir o espírito do Brasil de uma forma inovadora e elegante.<br><br>As matérias-primas foram cuidadosamente selecionadas para valorizar a sustentabilidade, reforçando o <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">compromisso da marca com práticas responsáveis e a valorização dos recursos locais</span>, que são parte intrínseca da nossa identidade.</p>"
+        "content": "<h2 data-mce-style=\"text-align: center;\" style=\"text-align: center;\"><strong>THE DREAM OF PERSONALIZATION</strong></h2><p><br data-mce-bogus=\"1\"></p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Inspired by the natural landscapes that make <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">Brazil unique</span>, this collection was born from deep research into the elements that define our cultural identity. From the vibrant colors of tropical forests to the serenity of beaches, and the textures of our fauna and flora, every detail was designed to convey Brazil’s spirit in an innovative and elegant way.<br><br>Raw materials were carefully selected to prioritize sustainability, reflecting the <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">brand’s commitment to responsible practices and local resources</span>, which are intrinsic to our identity.</p>"
       },
       {
         "__resolveType": "blog/sections/Blog/components/Video.tsx",
@@ -44,32 +44,32 @@
       {
         "__resolveType": "blog/sections/Blog/components/ImageAndTextSection.tsx",
         "image": "https://assets.decocache.com/breton/f8c3b6c7-ae93-4edb-af72-65c2f61c305d/blog-image-and-text.png",
-        "text": "<p><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Inspirada nas paisagens naturais que tornam o Brasil único, a linha foi desenvolvida a partir de uma profunda pesquisa sobre os elementos que definem nossa identidade cultural. Desde as cores vibrantes das florestas tropicais até a serenidade das praias, passando pelas texturas da nossa fauna e flora, cada detalhe da coleção foi projetado para transmitir o espírito do Brasil de uma forma inovadora e elegante.</span><br><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">As matérias-primas foram cuidadosamente selecionadas para valorizar a sustentabilidade, reforçando o compromisso da marca com práticas responsáveis e a valorização dos recursos locais, que são parte intrínseca da nossa identidade.</span></p>"
+        "text": "<p><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Inspired by the natural landscapes that make Brazil unique, this collection was born from deep research into the elements that define our cultural identity. From the vibrant colors of tropical forests to the serenity of beaches, and the textures of our fauna and flora, every detail was designed to convey Brazil’s spirit in an innovative and elegant way.</span><br><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Raw materials were carefully selected to prioritize sustainability, reflecting the brand’s commitment to responsible practices and local resources, which are intrinsic to our identity.</span></p>"
       },
       {
         "__resolveType": "blog/sections/Blog/components/ImagesSlide.tsx",
         "images": [
           {
             "image": "https://assets.decocache.com/breton/ea29ff05-194c-444d-94c8-69e2e0d28f82/slide-1.jpg",
-            "alt": "Teste"
+            "alt": "Test"
           },
           {
             "image": "https://assets.decocache.com/breton/ea29ff05-194c-444d-94c8-69e2e0d28f82/slide-1.jpg",
-            "alt": "Teste"
+            "alt": "Test"
           },
           {
             "image": "https://assets.decocache.com/breton/ea29ff05-194c-444d-94c8-69e2e0d28f82/slide-1.jpg",
-            "alt": "Teste"
+            "alt": "Test"
           },
           {
             "image": "https://assets.decocache.com/breton/ea29ff05-194c-444d-94c8-69e2e0d28f82/slide-1.jpg",
-            "alt": "Teste"
+            "alt": "Test"
           }
         ]
       },
       {
         "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Inspirada nas paisagens naturais que tornam o&nbsp;<span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">Brasil único</span>, a linha foi desenvolvida a partir de uma profunda pesquisa sobre os elementos que definem nossa identidade cultural. Desde as cores vibrantes das florestas tropicais até a serenidade das praias, passando pelas texturas da nossa fauna e flora, cada detalhe da coleção foi projetado para transmitir o espírito do Brasil de uma forma inovadora e elegante.<br><br>As matérias-primas foram cuidadosamente selecionadas para valorizar a sustentabilidade, reforçando o <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">compromisso da marca com práticas responsáveis e a valorização dos recursos locais</span>, que são parte intrínseca da nossa identidade.</p>"
+        "content": "<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Inspired by the natural landscapes that make <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">Brazil unique</span>, this collection was born from deep research into the elements that define our cultural identity. From the vibrant colors of tropical forests to the serenity of beaches, and the textures of our fauna and flora, every detail was designed to convey Brazil’s spirit in an innovative and elegant way.<br><br>Raw materials were carefully selected to prioritize sustainability, reflecting the <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">brand’s commitment to responsible practices and local resources</span>, which are intrinsic to our identity.</p>"
       },
       {
         "__resolveType": "blog/sections/Blog/components/ImageThreeColumnSection.tsx",
@@ -79,7 +79,7 @@
       },
       {
         "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Inspirada nas paisagens naturais que tornam o&nbsp;<span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">Brasil único</span>, a linha foi desenvolvida a partir de uma profunda pesquisa sobre os elementos que definem nossa identidade cultural. Desde as cores vibrantes das florestas tropicais até a serenidade das praias, passando pelas texturas da nossa fauna e flora, cada detalhe da coleção foi projetado para transmitir o espírito do Brasil de uma forma inovadora e elegante.<br><br>As matérias-primas foram cuidadosamente selecionadas para valorizar a sustentabilidade, reforçando o <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">compromisso da marca com práticas responsáveis e a valorização dos recursos locais</span>, que são parte intrínseca da nossa identidade.</p>"
+        "content": "<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Inspired by the natural landscapes that make <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">Brazil unique</span>, this collection was born from deep research into the elements that define our cultural identity. From the vibrant colors of tropical forests to the serenity of beaches, and the textures of our fauna and flora, every detail was designed to convey Brazil’s spirit in an innovative and elegant way.<br><br>Raw materials were carefully selected to prioritize sustainability, reflecting the <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">brand’s commitment to responsible practices and local resources</span>, which are intrinsic to our identity.</p>"
       },
       {
         "__resolveType": "blog/sections/Blog/components/OneImage.tsx",
@@ -90,36 +90,36 @@
         "products": [
           {
             "image": "https://assets.decocache.com/breton/af5b61a9-7aa0-4c13-a938-114d03c828a5/product-1.jpg",
-            "productName": "POLTRONA BUMBO",
+            "productName": "BUMBO ARMCHAIR",
             "designerName": "by Lilly Sarti"
           },
           {
-            "productName": "POLTRONA TRÓPICO",
+            "productName": "TROPICO ARMCHAIR",
             "designerName": "by Bruno Simões",
             "image": "https://assets.decocache.com/breton/fa55270b-adaa-435b-b7e4-a2fbe90d67c6/product-2.jpg"
           },
           {
             "image": "https://assets.decocache.com/breton/47c8104b-3649-4d77-819d-a7798f5c22e4/product-3.jpg",
-            "productName": "POLTRONA AGOGO",
+            "productName": "AGOGO ARMCHAIR",
             "designerName": "by Lilly Sarti"
           }
         ],
-        "subtitle": "Nossos produtos",
-        "title": "Confira alguns produtos"
+        "subtitle": "Our products",
+        "title": "Explore some of our products"
       }
     ],
     "extraProps": [],
-    "title": "Taís Araujo e Lázaro Ramos abrem apartamento no Rio de Janeiro",
+    "title": "Taís Araujo and Lázaro Ramos Unveil Their Apartment in Rio de Janeiro",
     "date": "2025-04-01",
     "slug": "teste-3",
     "image": "https://assets.decocache.com/breton/8e9cdc3e-1cc8-4abb-980a-ce87277dcad6/blog-banner.png",
-    "excerpt": "Em 20 anos de casamento, é a primeira vez que Taís Araujo e Lázaro Ramos realizam o projeto de uma casa do início ao fim. “Moramos em diversos lugares e nunca quisemos encarar uma obra longa. Fazíamos apenas intervenções pontuais.",
+    "excerpt": "After 20 years of marriage, this is the first time Taís Araujo and Lázaro Ramos have undertaken a home project from scratch. “We’ve lived in many places but never wanted to commit to a long renovation. We only made small adjustments.",
     "seo": {
-      "title": "Taís Araujo e Lázaro Ramos abrem apartamento no Rio de Janeiro",
-      "description": "Em 20 anos de casamento, é a primeira vez que Taís Araujo e Lázaro Ramos realizam o projeto de uma casa do início ao fim. “Moramos em diversos lugares e nunca quisemos encarar uma obra longa. Fazíamos apenas intervenções pontuais.",
+      "title": "Taís Araujo and Lázaro Ramos Unveil Their Apartment in Rio de Janeiro",
+      "description": "After 20 years of marriage, this is the first time Taís Araujo and Lázaro Ramos have undertaken a home project from scratch. “We’ve lived in many places but never wanted to commit to a long renovation. We only made small adjustments.",
       "image": "https://assets.decocache.com/breton/8e9cdc3e-1cc8-4abb-980a-ce87277dcad6/blog-banner.png"
     },
     "readTime": 8,
-    "alt": "Taís Araujo e Lázaro Ramos abrem apartamento no Rio de Janeiro"
+    "alt": "Taís Araujo and Lázaro Ramos Unveil Their Apartment in Rio de Janeiro"
   }
 }
