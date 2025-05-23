@@ -102,7 +102,7 @@ export default function ProductMainBanner({ page, defaultImageBanner }: Props) {
           <div class="hidden md:flex flex-col">
             <h5 class="text-h5 text-black">{nameValue || product.name}</h5>
             {designerValue && (
-              <span class="text-caption">por {designerValue}</span>
+              <span class="text-caption">by {designerValue}</span>
             )}
           </div>
           <div class="flex max-md:gap-1 max-md:w-full">
@@ -117,7 +117,7 @@ export default function ProductMainBanner({ page, defaultImageBanner }: Props) {
               class="flex justify-center gap-4 items-center pl-2 pr-4 md:px-6 py-3 uppercase text-button text-black"
             >
               <Icon id="icon-ruler" size={24} />
-              <span class="max-md:hidden">ficha técnica</span>
+              <span class="max-md:hidden">Technical Information</span>
             </a>
             {hasPersonalization && isMobile ? (
               <label
@@ -183,7 +183,7 @@ export default function ProductMainBanner({ page, defaultImageBanner }: Props) {
             </h1>
             {designerValue && (
               <span class="text-button text-white uppercase">
-                design por {designerValue}
+                design by {designerValue}
               </span>
             )}
             <div class="text-white">

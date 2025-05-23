@@ -75,7 +75,7 @@ export default function ProductDesigners(
               </p>
             )}
             <p class="text-h2 max-md:mb-4 md:mb-6">
-              Design por {block.architects}
+              Design by {block.architects}
             </p>
             <div
               class="text-neutral-800 text-sm font-light leading-normal tracking-wide max-md:mb-8 md:mb-10"
@@ -85,7 +85,7 @@ export default function ProductDesigners(
               href={`/designer/${block.architects.toLowerCase().replaceAll(" ", "-")}`}
               class="flex bg-white/20 rounded-[1px] backdrop-blur-[10px] w-fit rounded-sm outline outline-1 outline-offset-[-1px] outline-black py-[10px] px-6 gap-4 items-center justify-center hover:bg-white/30 transition duration-300"
             >
-              <span class="text-button">VER PRODUTOS</span>
+              <span class="text-button">SEE PRODUCTS</span>
               <Icon id="arrow-right" />
             </a>
           </div>

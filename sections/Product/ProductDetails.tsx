@@ -42,12 +42,12 @@ function DetailsContent({ product }: { product: Product }) {
           />
         </div>
         <div class="hidden md:flex flex-col gap-2">
-          <p class="uppercase text-caption">Seu produto do seu jeito</p>
+          <p class="uppercase text-caption">Your product, your way</p>
           <h4 class="text-h4 uppercase">{name}</h4>
           <p class="text-contentMini text-ui-700 max-w-[480px]">
-            Sinta-se à vontade para solicitar um orçamento deste produto
-            diretamente pelo nosso site, nossos consultores vão receber seu
-            pedido e entrar em contato.
+            Feel free to request a quote for this product directly through our
+            website. Our consultants will receive your request and get in touch
+            with you.
           </p>
         </div>
         {hasVariant.length > 1 && (
@@ -67,11 +67,11 @@ function DetailsContent({ product }: { product: Product }) {
             />
             <label for="product-cover" class="flex flex-col gap-1">
               <p class="text-contentMini">
-                Este produto tem uma capa, deseja incluir?
+                This product has a cover. Would you like to include it?
               </p>
               <p class="text-legend max-md:hidden">
-                * Incluindo a capa, a personalização de tecidos será
-                desconsiderada.
+                * By including the cover, fabric customization will be
+                disregarded.
               </p>
             </label>
           </div>
@@ -87,9 +87,13 @@ function DetailsContent({ product }: { product: Product }) {
           Request quote
         </AddToCartButton>
         <span class="text-legend text-ui-500">
-          Para mais opções de personalização,{" "}
-          <a target="_blank" class="underline" href="https://wa.me/551140559707">
-            fale com um de nossos consultores Breton.
+          For additional customization options,{" "}
+          <a
+            target="_blank"
+            class="underline"
+            href="https://wa.me/551140559707"
+          >
+            talk to one of our Breton consultants.
           </a>
         </span>
       </div>
@@ -154,7 +158,7 @@ export default function ProductDetails({ page }: Props) {
             for="sku-selector"
           >
             <Icon id="icon-filter" size={24} />
-            Personalize seu produto
+            Personalize your product
           </label>
         ) : (
           <>
@@ -169,9 +173,13 @@ export default function ProductDetails({ page }: Props) {
               Request quote
             </AddToCartButton>
             <span class="text-legend text-ui-500">
-              Para mais opções de personalização,{" "}
-              <a target="_blank" class="underline" href="https://wa.me/551140559707">
-                fale com um de nossos consultores Breton.
+              For additional customization options,{" "}
+              <a
+                target="_blank"
+                class="underline"
+                href="https://wa.me/551140559707"
+              >
+                talk to one of our Breton consultants.
               </a>
             </span>
           </>

@@ -64,25 +64,25 @@ function Notice({
 }
 function Newsletter({
   empty = {
-    title: "RECEBA AS NOVIDADES DA BRETON",
+    title: "SUBSCRIBE TO BRETON NEWS",
   },
   success = {
-    title: "OBRIGADO!",
-    description: "Agradecemos seu cadastro!",
+    title: "THANK YOU!",
+    description: "We appreciate your subscription!",
   },
   failed = {
-    title: "DESCULPE!",
+    title: "SORRY!",
     description:
-      "Houve um erro no envio dos seus dados. Por favor, tente novamente mais tarde. Caso o erro persista, favor, entre em contato com a loja.",
+      "There was an error submitting your information. Please try again later. If the error persists, please contact the store.",
   },
-  label = "Enviar",
+  label = "Submit",
   inputs = {
     email: {
-      label: "Seu email: ",
+      label: "Your email:",
       placeholder: "yourname@email.com",
     },
     name: {
-      label: "Seu nome: ",
+      label: "Your name:",
       placeholder: "Type here",
     },
   },

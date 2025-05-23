@@ -117,25 +117,25 @@ function LojaSection({ loja }: { loja: Loja }) {
         </div>
         <div class="flex flex-col gap-6">
           <div>
-            <p class="text-caption text-ui-800">Endereço</p>
+            <p class="text-caption text-ui-800">Adress</p>
             <p class="text-mini text-ui-500">{loja.address}</p>
             <a
               href={`https://www.google.com.br/maps/place/${loja.address}`}
               target="_blank"
               class="underline text-ui-600 text-mini"
             >
-              Ver no mapa
+              See on maps
             </a>
           </div>
           <div>
-            <p class="text-caption text-ui-800">Funcionamento</p>
+            <p class="text-caption text-ui-800">Operation</p>
             <div
               class="text-mini text-ui-500"
               dangerouslySetInnerHTML={{ __html: loja.opening }}
             />
           </div>
           <div>
-            <p class="text-caption text-ui-800">Telefone</p>
+            <p class="text-caption text-ui-800">Phone</p>
             <a href={`tel:${loja.phone}`} class="text-mini text-ui-500">{loja.phone}</a>
           </div>
           {loja.instagram && (
@@ -209,7 +209,7 @@ function NossasLojas({ lojas }: Props) {
       <div class="max-md:container flex flex-col gap-8 py-10 mb-[51px] md:mb-10">
         <div class="flex flex-col gap-4 md:gap-10 items-center">
           <p class="text-h5Mobile md:text-h5 uppercase">
-            Encontre a Breton mais próxima de você
+            Find the Breton closest to you
           </p>
           <div class="flex max-md:flex-col gap-6 max-md:items-end w-full md:w-[604px]">
             <input
@@ -229,7 +229,7 @@ function NossasLojas({ lojas }: Props) {
               id="search-store-button"
               class="btn bg-black/80 hover:bg-black/75 outline-none text-button uppercase text-white max-md:w-full"
             >
-              Buscar
+              Search
             </button>
           </div>
         </div>
@@ -239,7 +239,7 @@ function NossasLojas({ lojas }: Props) {
           <LojaSection key={loja.name} loja={loja} />
         ))}
         <div id="not-found" class="hidden max-md:container">
-          <span class="text-button">Nenhuma loja encontrada!</span>
+          <span class="text-button">No stores found!</span>
         </div>
       </div>
     </div>
@@ -251,7 +251,7 @@ export const LoadingFallback = () => (
     <div class="max-md:container flex flex-col gap-8 py-10 mb-[51px] md:mb-10">
       <div class="flex flex-col gap-4 md:gap-10 items-center">
         <p class="text-h5Mobile md:text-h5 uppercase">
-          Encontre a Breton mais próxima de você
+          Find the Breton closest to you
         </p>
         <div class="flex max-md:flex-col gap-6 max-md:items-end w-full md:w-[604px]">
           <input
@@ -270,7 +270,7 @@ export const LoadingFallback = () => (
             disabled
             class="btn bg-black/80 hover:bg-black/75 outline-none text-button uppercase text-white max-md:w-full"
           >
-            Buscar
+            Search
           </button>
         </div>
       </div>

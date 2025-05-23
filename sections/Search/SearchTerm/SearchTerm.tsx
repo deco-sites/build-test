@@ -11,7 +11,7 @@ function SearchTerm({ searchTerm }: SectionProps<typeof loader>) {
     <div class="grid grid-cols-1 grid-rows-1 max-h-[560px] overflow-hidden pt-[30px] pb-[50px]">
       <div class="container gap-[16px] flex flex-col items-center justify-center sm:items-start col-start-1 col-span-1 row-start-1 row-span-1 w-full">
         <p class="text-center uppercase text-[11px] font-medium text-black w-full tracking-[1px]">
-          resultado para a busca:
+          Results for your search:
         </p>
         <h1 class="text-center w-full">
           <span class="uppercase sm:text-[40px] font-medium text-black text-base-100 text-2xl tracking-[1px]">

@@ -81,7 +81,7 @@ function TechnicalInfos({
           {dimensoesMain && (
             <div class="flex flex-col">
               <span class="text-button text-ui-400 uppercase">
-                Dimensões principais
+                Main dimensions
               </span>
               <Image
                 src={dimensoesMain}
@@ -100,7 +100,7 @@ function TechnicalInfos({
               }
             >
               <span class="text-button text-ui-400 uppercase">
-                Dimensões completas
+                Full dimensions
               </span>
               <Image
                 src={dimensoesFull}
@@ -133,7 +133,7 @@ function TechnicalInfos({
 }
 
 function DownloadInfos({ downloads }: { downloads: string }) {
-  if (!downloads) return <span>Não há arquivos para download</span>;
+  if (!downloads) return <span>There are no files available for download</span>;
   const downloadsObject = downloads?.split(";").map(item => {
     const [fileName, fileLink] = item.split(": ").map(str => str.trim());
     return { fileName, fileLink };
@@ -155,7 +155,7 @@ function DownloadInfos({ downloads }: { downloads: string }) {
           ))}
         </>
       ) : (
-        <span>Não há arquivos para download</span>
+        <span>There are no files available for download</span>
       )}
     </div>
   );
@@ -176,7 +176,7 @@ export default function ProductInfos({ page, defaultCares = "//assets.decocache.
   if (!additionalProperty) return null;
 
   const cares =
-    getPropertyValue(additionalProperty, "Care Instructions") || `Guia de Cuidados Breton: ${defaultCares}`;
+    getPropertyValue(additionalProperty, "Care Instructions") || `Breton Care Instructions: ${defaultCares}`;
   const downloads = getPropertyValue(additionalProperty, "Downloads");
   const hasCares = cares && cares.trim().length > 0;
   const hasDownloads = downloads && downloads.trim().length > 0;
@@ -189,14 +189,14 @@ export default function ProductInfos({ page, defaultCares = "//assets.decocache.
     >
       <Tabs.Titles
         titles={[
-          hasTechnicalInfos && "Informações Técnicas",
+          hasTechnicalInfos && "Technical Information",
           hasDownloads && "Download",
-          hasCares && "Cuidados",
+          hasCares && "Cares",
         ].filter(Boolean)}
       />
       <Tabs>
         {hasTechnicalInfos && (
-          <Tabs.Tab title="Informações Técnicas" defaultChecked>
+          <Tabs.Tab title="Technical Information" defaultChecked>
             <TechnicalInfos
               additionalProperty={additionalProperty}
               description={description}
@@ -209,7 +209,7 @@ export default function ProductInfos({ page, defaultCares = "//assets.decocache.
           </Tabs.Tab>
         )}
         {hasCares && (
-          <Tabs.Tab title="Cuidados">
+          <Tabs.Tab title="Cares">
             <DownloadInfos downloads={cares} />
           </Tabs.Tab>
         )}

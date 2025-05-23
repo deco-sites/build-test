@@ -102,7 +102,7 @@ function RightColSustainableMaterials({
           {productName}
         </p>
         <p class="text-right text-white text-[10px] font-normal font-['F37 Neuro'] uppercase leading-[1.5] tracking-widest">
-          POR {author}
+          BY {author}
         </p>
       </div>
     </div>
