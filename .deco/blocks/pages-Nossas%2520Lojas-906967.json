@@ -682,20 +682,20 @@
         "inputs": [
           {
             "type": "text",
-            "label": "Nome:",
-            "placeholder": "Digite aqui",
+            "label": "Name:",
+            "placeholder": "Type here",
             "nameOnMasterData": "name"
           },
           {
             "type": "tel",
-            "label": "Telefone:",
+            "label": "Phone:",
             "placeholder": "(00) 00000-0000",
             "nameOnMasterData": "phone"
           },
           {
             "type": "email",
             "label": "Email:",
-            "placeholder": "seunome@email.com",
+            "placeholder": "yourname@email.com",
             "nameOnMasterData": "email"
           },
           {

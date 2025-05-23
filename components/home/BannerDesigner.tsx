@@ -93,7 +93,7 @@ function BannerDesigner(props: Banner) {
                         href={img?.link}
                         class="flex justify-center items-center w-[162px] h-[46px] uppercase font-medium text-[11px] text-white backdrop-blur-1xl border-white border tracking-widest backdrop-blur-[10px]"
                       >
-                        ver produtos
+                        see products
                       </a>
                     )}
                   </div>

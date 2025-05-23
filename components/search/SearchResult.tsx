@@ -116,7 +116,7 @@ function PageResult(props: SectionProps<typeof loader>) {
                 hx-get={partialNext}
               >
                 <span class="inline text-xs uppercase font-medium [.htmx-request_&]:hidden tracking-[1px]">
-                  Carregar mais
+                  Show more
                 </span>
                 <span class="loading loading-spinner hidden [.htmx-request_&]:block" />
               </a>
@@ -227,7 +227,7 @@ function Result(props: SectionProps<typeof loader>) {
                     <div class="bg-base-100 flex flex-col h-full divide-y overflow-y-hidden w-4/5">
                       <div class="flex justify-between items-center">
                         <h1 class="px-4 py-3">
-                          <span class="font-medium text-2xl">FILTROS</span>
+                          <span class="font-medium text-2xl">Filters</span>
                         </h1>
                         <label class="btn btn-ghost" for={controls}>
                           <Icon id="close" />
@@ -242,7 +242,7 @@ function Result(props: SectionProps<typeof loader>) {
                   <div class="flex sm:hidden gap-4 justify-between items-end">
                     <div class="flex w-full">
                       <label class="btn btn-glass text-button uppercase w-full" for={controls}>
-                        FILTRAR
+                        Filters
                       </label>
                     </div>
 

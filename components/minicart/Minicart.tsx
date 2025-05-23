@@ -51,13 +51,16 @@ const onLoad = (formID: string) => {
   );
 };
 const sendBeginCheckoutEvent = () => {
-  const quoteForm = document.querySelector('#product-quote-form');
-  const products = quoteForm &&
-  JSON.parse(
-    decodeURIComponent(
-      quoteForm.querySelector<HTMLInputElement>('input[name="products-quote"]')
-        ?.value || "[]"
-    ));
+  const quoteForm = document.querySelector("#product-quote-form");
+  const products =
+    quoteForm &&
+    JSON.parse(
+      decodeURIComponent(
+        quoteForm.querySelector<HTMLInputElement>(
+          'input[name="products-quote"]'
+        )?.value || "[]"
+      )
+    );
   window.DECO.events.dispatch({
     name: "being_checkout",
     params: window.STOREFRONT.CART.getCart(),
@@ -72,10 +75,10 @@ export function ErrorFallback() {
     <div class="flex flex-col flex-grow justify-center items-center overflow-hidden w-full gap-2">
       <div class="flex flex-col gap-1 p-6 justify-center items-center">
         <span class="font-semibold">
-          Ocorreu algum erro enquanto carregávamos seu carrinho
+          Something went wrong while loading your cart.
         </span>
         <span class="text-sm text-center">
-          Por favor, clique no botão abaixo para recarregar
+          Please click the button below to reload
         </span>
       </div>
 
@@ -85,7 +88,7 @@ export function ErrorFallback() {
         hx-swap="outerHTML"
         hx-target="closest div"
       >
-        Recarregar
+        Reload
       </button>
     </div>
   );
@@ -156,7 +159,7 @@ export default function Cart({
                       0
                     </span>
                   </div>
-                  <span>Carrinho vazio</span>
+                  <span>Empty cart</span>
                 </div>
               </div>
               <footer class="w-full p-6">
@@ -164,7 +167,7 @@ export default function Cart({
                   for={MINICART_DRAWER_ID}
                   class="btn btn-glass uppercase text-button w-full"
                 >
-                  Continuar navegando
+                  Continue browsing
                 </label>
               </footer>
             </>
@@ -192,7 +195,7 @@ export default function Cart({
                   >
                     <span class="[.htmx-request_&]:hidden flex gap-4">
                       <Icon id="icon-briefcase" size={24} />
-                      Solicitar orçamento
+                      REQUEST QUOTE
                     </span>
                     <span class="[.htmx-request_&]:inline hidden loading loading-spinner" />
                   </label>

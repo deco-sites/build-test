@@ -31,7 +31,7 @@ const onClick = (productID: string, productGroupID: string) => {
     button.classList.add("htmx-request");
     window.STOREFRONT.WISHLIST.toggle(productID, productGroupID);
   } else {
-    window.alert(`Você precisa estar logado para adicionar um produto aos favoritos`);
+    window.alert(`You need to be logged in to add a product to favorites`);
   }
 };
 function WishlistButton({ item, variant = "full" }: Props) {

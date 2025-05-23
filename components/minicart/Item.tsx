@@ -44,7 +44,7 @@ function CartItem({ item, index, showQtSelector }: Props) {
         <div class="flex flex-col">
           <legend class="text-button uppercase">{name}</legend>
           {item.designer && item.designer.length > 0 && (
-            <legend class="text-legend">Por {item.designer}</legend>
+            <legend class="text-legend">By {item.designer}</legend>
           )}
         </div>
 

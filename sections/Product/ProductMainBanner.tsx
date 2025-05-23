@@ -137,8 +137,8 @@ export default function ProductMainBanner({ page, defaultImageBanner }: Props) {
               >
                 <Icon id="icon-briefcase" size={24} />
                 <div>
-                  <span class="max-md:hidden">solicitar </span>
-                  <span>orçamento</span>
+                  <span class="max-md:hidden">request </span>
+                  <span>quote</span>
                 </div>
               </AddToCartButton>
             )}

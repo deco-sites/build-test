@@ -18,7 +18,7 @@ function FooterNewsletter() {
           type="email"
           id="footer-newsletter-email"
           required
-          placeholder="seunome@email.com"
+          placeholder="yourname@email.com"
         />
       </div>
       <div class="flex flex-col gap-2">
@@ -31,7 +31,7 @@ function FooterNewsletter() {
             type="text"
             id="footer-newsletter-nome"
             required
-            placeholder="Digite aqui"
+            placeholder="Type here"
           />
           <button
             class="btn btn-accent"

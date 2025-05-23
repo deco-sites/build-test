@@ -79,11 +79,11 @@ function Newsletter({
   inputs = {
     email: {
       label: "Seu email: ",
-      placeholder: "seunome@email.com",
+      placeholder: "yourname@email.com",
     },
     name: {
       label: "Seu nome: ",
-      placeholder: "Digite aqui",
+      placeholder: "Type here",
     },
   },
   status,

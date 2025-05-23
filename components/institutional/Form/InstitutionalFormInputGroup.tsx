@@ -33,7 +33,7 @@ export function InstitutionalFormInputGroup({
           "transition-all duration-300",
         )}
       >
-        Dados incorretos
+        Incorrect data
       </span>
     </div>
   );

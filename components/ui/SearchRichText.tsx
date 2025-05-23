@@ -28,8 +28,8 @@ function RichTextShowMore({ content }: { content: RichText }) {
         for="showMore"
         class={clx(
           "btn btn-glass text-button uppercase",
-          "before:content-['Ler_Menos'] before:hidden peer-checked:before:block",
-          "after:content-['Ler_Mais'] after:block peer-checked:after:hidden"
+          "before:content-['Read_Less'] before:hidden peer-checked:before:block",
+          "after:content-['Read_More'] after:block peer-checked:after:hidden"
         )}
       ></label>
     </>

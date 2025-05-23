@@ -84,7 +84,7 @@ function DetailsContent({ product }: { product: Product }) {
           disabled={false}
         >
           <Icon id="icon-briefcase" size={24} />
-          Solicitar orçamento
+          Request quote
         </AddToCartButton>
         <span class="text-legend text-ui-500">
           Para mais opções de personalização,{" "}
@@ -166,7 +166,7 @@ export default function ProductDetails({ page }: Props) {
               disabled={false}
             >
               <Icon id="icon-briefcase" size={24} />
-              Solicitar orçamento
+              Request quote
             </AddToCartButton>
             <span class="text-legend text-ui-500">
               Para mais opções de personalização,{" "}

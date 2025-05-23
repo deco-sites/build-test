@@ -40,7 +40,7 @@ function Ecobreton(props: Banner) {
                     <img src={imageLogo} class="mt-[0px] sm:mt-[-100px] sm:ml-[20px] sm:mb-[0px] mb-[10px] sm:order-2 order-1 sm:w-[130px] w-[100px]" />
                 </h2>
 
-                {link && <a href={link} class="sm:flex hidden justify-center items-center border-[1px] rounded-sm border-black uppercase text-[11px] w-[197px] h-[46px] font-medium">ver ações breton</a>}
+                {link && <a href={link} class="sm:flex hidden justify-center items-center border-[1px] rounded-sm border-black uppercase text-[11px] w-[197px] h-[46px] font-medium">see breton actions</a>}
             </div>
 
             <div class="w-full" id={id}>
@@ -117,7 +117,7 @@ function Ecobreton(props: Banner) {
                 <Slider.JS rootId={id} infinite={false} itemsToShow={quantityItemsSlider} />
             </div>
 
-            {link && <a href={link} class="sm:hidden mb-[50px] flex justify-center items-center border-[1px] rounded-sm border-black uppercase text-xs w-[197px] h-[46px] font-medium">ver ações breton</a>}
+            {link && <a href={link} class="sm:hidden mb-[50px] flex justify-center items-center border-[1px] rounded-sm border-black uppercase text-xs w-[197px] h-[46px] font-medium">see breton actions</a>}
         </section>
     );
 }

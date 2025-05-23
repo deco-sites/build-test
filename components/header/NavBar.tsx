@@ -158,7 +158,7 @@ function SimpleMenu({ submenu }: { submenu?: SimpleSubMenu[] }) {
           <div>
             <p class="text-button text-primary uppercase">{title}</p>
             <a href={url} class="text-legend text-primary">
-              ver tudo
+              see all
             </a>
           </div>
           <div class="flex gap-6">

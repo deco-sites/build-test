@@ -277,7 +277,7 @@ const Desktop = ({
               Login
             </span>
             <span class="text-button uppercase header-button-label hidden">
-              Conta
+              Account
             </span>
           </a>
           <Bag />

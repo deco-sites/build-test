@@ -15,14 +15,14 @@ const getUrl = (href: string, value: string) => {
 };
 
 const labels: Record<string, string> = {
-  "relevance:desc": "Relevância",
-  "price:desc": "Maior valor",
-  "price:asc": "Menor valor",
-  "orders:desc": "Mais vendidos",
-  "name:desc": "Nome - de Z a A",
-  "name:asc": "Nome - de A a Z",
-  "release:desc": "Lançamento",
-  "discount:desc": "Maior desconto",
+  "relevance:desc": "Relevance",
+"price:desc": "Highest price",
+"price:asc": "Lowest price",
+"orders:desc": "Best sellers",
+"name:desc": "Name - Z to A",
+"name:asc": "Name - A to Z",
+"release:desc": "Release",
+"discount:desc": "Highest discount",
 };
 
 function Sort({ sortOptions, url }: Props) {
@@ -42,7 +42,7 @@ function Sort({ sortOptions, url }: Props) {
         for="sort-menu"
         class="btn btn-glass text-button uppercase w-full"
       >
-        Ordenar
+        Order
       </label>
       <div
         class="absolute z-20 right-0 top-full w-full bg-white border border-gray-300 opacity-0 peer-checked:opacity-100 peer-checked:visible invisible transition-opacity"

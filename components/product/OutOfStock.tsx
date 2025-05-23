@@ -34,7 +34,7 @@ export default function Notify({ productID }: Props) {
       <span class="text-base">Este produto está indisponivel no momento</span>
       <span class="text-sm">Avise-me quando estiver disponivel</span>
 
-      <input placeholder="Nome" class="input input-bordered" name="name" />
+      <input placeholder="Name" class="input input-bordered" name="name" />
       <input placeholder="Email" class="input input-bordered" name="email" />
 
       <button class="btn btn-primary no-animation">

@@ -141,7 +141,7 @@ export default function Searchbar({
           >
             {/* <span class="loading loading-spinner loading-xs hidden [.htmx-request_&]:inline" /> */}
             <Icon id="search" class="inline" />
-            <span class="text-button">Buscar</span>
+            <span class="text-button">Search</span>
           </button>
         </form>
         {suggestions && (
@@ -162,7 +162,7 @@ export default function Searchbar({
 
       {images && (
         <div class="flex flex-col gap-4 mx-4 md:m-0">
-          <span class="uppercase text-caption text-center">Inspire-se</span>
+          <span class="uppercase text-caption text-center">Get Inspired</span>
           <div class="grid grid-cols-2 md:flex gap-4">
             {images.map(({ label, mobileLabel, href, image }) => (
               <a

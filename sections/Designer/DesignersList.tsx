@@ -69,7 +69,7 @@ const DesignerCard = ({
           href={relativeUrl}
           class="flex bg-white/20 rounded-[1px] backdrop-blur-[10px] w-fit rounded-sm outline outline-1 outline-offset-[-1px] outline-black py-[10px] px-6 gap-4 items-center justify-center hover:bg-white/30 transition duration-300"
         >
-          <span class="text-button">VER PRODUTOS</span>
+          <span class="text-button uppercase">See products</span>
           <Icon id="arrow-right" />
         </a>
         <div class="flex-grow" />

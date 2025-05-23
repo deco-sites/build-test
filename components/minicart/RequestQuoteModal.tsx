@@ -49,10 +49,9 @@ export default function RequestQuoteModal({ items }: Props) {
           class="flex-grow flex flex-col gap-10"
         >
           <div class="flex flex-col gap-4 max-w-[544px]">
-            <p class="text-h2Mobile md:text-h2">Solicite o seu orçamento</p>
+            <p class="text-h2Mobile md:text-h2">Request your quote</p>
             <p class="text-contentMini md:text-content">
-              Assim que recebermos o seu pedido, um dos nossos consultores irá
-              enviar o orçamento completo dos produtos.
+              As soon as we receive your order, one of our consultants will send you the complete quote for the products.
             </p>
           </div>
           <form id="product-quote-form" class="max-md:pb-16">
@@ -65,26 +64,26 @@ export default function RequestQuoteModal({ items }: Props) {
             <div class="flex flex-col gap-4 mb-10">
               <div class="grid md:grid-cols-2 grid-cols-1 gap-x-6 gap-y-4">
                 <InstitutionalFormInputGroup
-                  label="Nome: *"
-                  placeholder="Digite aqui"
+                  label="Name: *"
+                  placeholder="Type here"
                   type="text"
                   nameOnMasterData="name"
                 />
                 <InstitutionalFormInputGroup
                   label="Email: *"
-                  placeholder="seunome@email.com"
+                  placeholder="yourname@email.com"
                   type="email"
                   nameOnMasterData="email"
                 />
                 <InstitutionalFormInputGroup
-                  label="Telefone/Celular: *"
+                  label="Phone/Cell: *"
                   placeholder="(__) ____-____"
                   type="tel"
                   nameOnMasterData="phone"
                 />
                 <div class="flex flex-col gap-2 justify-between">
                   <label for="product-for" class="text-black text-contentMini">
-                    Essa peça é para a minha:
+                    This piece is for my:
                   </label>
                   <select
                     required
@@ -104,37 +103,37 @@ export default function RequestQuoteModal({ items }: Props) {
                       hidden
                       class="text-contentMini text-opacity-40 opacity-40"
                     >
-                      Selecione
+                      Select
                     </option>
                     <option
                       value="home"
                       class="text-contentMini text-opacity-100 hover:bg-black hover:text-white"
                     >
-                      Minha casa
+                      My home
                     </option>
                     <option
                       value="business"
                       class="text-contentMini text-opacity-100 hover:bg-black hover:text-white"
                     >
-                      Minha empresa
+                      My company
                     </option>
                     <option
                       value="client"
                       class="text-contentMini text-opacity-100 hover:bg-black hover:text-white"
                     >
-                      Meu cliente (sou arquiteto)
+                      My client (I'm an architect)
                     </option>
                   </select>
                 </div>
               </div>
               <div class="flex flex-col gap-2 justify-between">
                 <label for="observations" class="text-black text-contentMini">
-                  Observações:
+                  Notes:
                 </label>
                 <textarea
                   id="observations"
                   name="observations"
-                  placeholder="Deixe comentários sobre personalizações e outras solicitações para complementar o orçamento..."
+                  placeholder="Left comments about customizations and other requests to complement the quote."
                   style={{ resize: "none" }}
                   class={clx(
                     "py-[11px] px-[15px] placeholder:opacity-40 text-black text-content h-24 max-h-24",
@@ -148,7 +147,7 @@ export default function RequestQuoteModal({ items }: Props) {
                   class="text-black text-contentMini"
                   for="contact-preference"
                 >
-                  Como gostaria de ser atendido?
+                  How would you like to be contacted?
                 </label>
                 <div class="flex max-md:flex-col gap-4 md:gap-8">
                   <div class="flex gap-2 items-center cursor-pointer">
@@ -163,7 +162,7 @@ export default function RequestQuoteModal({ items }: Props) {
                       for="contact-preference-email"
                       class="text-black text-caption uppercase"
                     >
-                      E-mail
+                      Email
                     </label>
                   </div>
                   <div class="flex gap-2 items-center cursor-pointer">
@@ -178,7 +177,7 @@ export default function RequestQuoteModal({ items }: Props) {
                       for="contact-preference-phone"
                       class="text-black text-caption uppercase"
                     >
-                      Telefone
+                      Phone
                     </label>
                   </div>
                   <div class="flex gap-2 items-center cursor-pointer">
@@ -205,7 +204,7 @@ export default function RequestQuoteModal({ items }: Props) {
             >
               <span class="[.htmx-request_&]:hidden flex gap-4">
                 <Icon id="icon-briefcase" size={24} />
-                Solicitar orçamento
+                Request quote
               </span>
               <span class="[.htmx-request_&]:inline hidden loading loading-spinner" />
             </button>
