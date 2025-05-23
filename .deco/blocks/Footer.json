@@ -8,7 +8,7 @@
           "href": "/about-us"
         },
         {
-          "title": "Eco Breton",
+          "title": "EcoBreton",
           "href": "/ecobreton"
         },
         {
@@ -20,7 +20,7 @@
           "href": "/corporate"
         },
         {
-          "title": "Blog Breton",
+          "title": "Blog",
           "href": "/blog"
         }
       ],
@@ -31,15 +31,15 @@
       "children": [
         {
           "title": "Meus Pedidos",
-          "href": "/my-account"
+          "href": "/my-account/login"
         },
         {
           "title": "Meus Dados",
-          "href": "/my-account"
+          "href": "/my-account/login"
         },
         {
           "title": "Fale Conosco",
-          "href": "/"
+          "href": "https://ig.rdstation.com/bretonoficial"
         }
       ],
       "title": "Ajuda",
@@ -76,7 +76,7 @@
   "paymentMethods": [],
   "policies": [],
   "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/ec84088c-90fd-47a3-b9cf-388b429990db/Logo.png",
-  "trademark": "2025 Breton. Todos os direirtos reservados. Imagens meramente ilustrativas. Bioma Comércio de Móveis LTDA CNPJ 42.800.463/0001-88 IE 286.682.199.119.",
+  "trademark": "2025 Breton. Todos os direitos reservados. Imagens meramente ilustrativas. Bioma Comércio de Móveis LTDA CNPJ 42.800.463/0001-88 IE 286.682.199.119.",
   "contactInfo": "<p>São Paulo: 11 4055.9707<br>Outras regiões: 11 4003.1699<br>Whatsapp: 11 4055.9707<br>E-mail: crb@breton.com.br</p>",
   "languages": {
     "languages": [
@@ -98,12 +98,8 @@
         },
         "label": "EN",
         "href": "/#"
-      },
-      {
-        "label": "ES",
-        "href": "/#"
       }
     ],
-    "title": "Linguagem"
+    "title": "Idiomas"
   }
 }

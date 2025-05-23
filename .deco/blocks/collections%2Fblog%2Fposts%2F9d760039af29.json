@@ -4,8 +4,8 @@
   "post": {
     "authors": [
       {
-        "name": "GLOBO.COM",
-        "email": "teste@teste.com"
+        "name": "Redação Breton",
+        "email": "diego.miguel@breton.com.br"
       }
     ],
     "categories": [
@@ -17,109 +17,60 @@
     "content": [
       {
         "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Em 20 anos de casamento, é a primeira vez que&nbsp;<span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">Taís Araujo e Lázaro Ramos</span>&nbsp;realizam o projeto de uma casa do início ao fim. “Moramos em diversos lugares e nunca quisemos encarar uma&nbsp;obra&nbsp;longa. Fazíamos apenas intervenções pontuais.<br><br>O problema é que os espaços não ficavam com a nossa cara”, conta o ator. Agora foi diferente. Após um ano de reforma, o apartamento dos anos 1950, na Zona Sul do Rio de Janeiro, se transformou no lar que eles desejavam. <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">“Apesar de ser quase tudo novo, a gente se reconhece em cada canto,</span> pois pensamos os ambientes juntos e trouxemos objetos e obras de arte ligados à nossa história”, lembra Taís.</p>"
+        "content": "<p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Quando o charme do Rio de Janeiro encontra o melhor do design nacional, o resultado é uma casa com identidade, calor e autenticidade. O novo apartamento da influenciadora Silvia Braz é a personificação desse encontro: uma ode ao lifestyle praiano com alma sofisticada, onde cada detalhe fala sobre estilo, afeto e brasilidade.</p><p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p><p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Assinado por Sig Bergamin e Murilo Lomas, o projeto mistura referências tropicais com cores vibrantes, texturas marcantes e um olhar sensível para o design autoral brasileiro. No coração desse cenário, a Breton ocupa lugar de destaque com peças que refletem, com elegância, o espírito da casa e da moradora.</p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p>"
       },
       {
         "__resolveType": "blog/sections/Blog/components/ImageTwoColumnSection.tsx",
-        "imageOne": "https://assets.decocache.com/breton/5c37a682-f897-470e-9e13-67ff6b727214/blog-two-images-1.png",
-        "imageTwo": "https://assets.decocache.com/breton/a9772c21-18db-446a-9ce4-89f6758529f2/blog-two-images-2.png"
+        "imageOne": "https://assets.decocache.com/breton/cb8da503-e0c5-41d1-bb78-714d78519827/Copia-de-Copia-de-2024---ESCOLHAS_SILVIA-BRAZ-.pdf-(21.59-x-27.94-cm)-(21-x-27.5-cm).png",
+        "imageTwo": "https://assets.decocache.com/breton/b0760925-04f8-44f4-aed2-27325922a559/IMG_1708-(1).JPG"
       },
       {
         "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<h2 data-mce-style=\"text-align: center;\" style=\"text-align: center;\"><strong>O SONHO DE PERSONALIZAÇÃO</strong></h2><p><br data-mce-bogus=\"1\"></p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Inspirada nas paisagens naturais que tornam o <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">Brasil único</span>, a linha foi desenvolvida a partir de uma profunda pesquisa sobre os elementos que definem nossa identidade cultural. Desde as cores vibrantes das florestas tropicais até a serenidade das praias, passando pelas texturas da nossa fauna e flora, cada detalhe da coleção foi projetado para transmitir o espírito do Brasil de uma forma inovadora e elegante.<br><br>As matérias-primas foram cuidadosamente selecionadas para valorizar a sustentabilidade, reforçando o <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">compromisso da marca com práticas responsáveis e a valorização dos recursos locais</span>, que são parte intrínseca da nossa identidade.</p>"
-      },
-      {
-        "__resolveType": "blog/sections/Blog/components/Video.tsx",
-        "videoDesktop": {
-          "video": "https://assets.decocache.com/breton/9873d6c5-c1fd-4bcf-bc9a-75e9644595d6/Tais-Lazaro-mais-otimizado-ainda.mp4",
-          "width": 100,
-          "height": 50
-        },
-        "videoMobile": {
-          "width": 100,
-          "height": 50,
-          "video": "https://assets.decocache.com/breton/9873d6c5-c1fd-4bcf-bc9a-75e9644595d6/Tais-Lazaro-mais-otimizado-ainda.mp4"
-        }
-      },
-      {
-        "__resolveType": "blog/sections/Blog/components/ImageAndTextSection.tsx",
-        "image": "https://assets.decocache.com/breton/f8c3b6c7-ae93-4edb-af72-65c2f61c305d/blog-image-and-text.png",
-        "text": "<p><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Inspirada nas paisagens naturais que tornam o Brasil único, a linha foi desenvolvida a partir de uma profunda pesquisa sobre os elementos que definem nossa identidade cultural. Desde as cores vibrantes das florestas tropicais até a serenidade das praias, passando pelas texturas da nossa fauna e flora, cada detalhe da coleção foi projetado para transmitir o espírito do Brasil de uma forma inovadora e elegante.</span><br><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">As matérias-primas foram cuidadosamente selecionadas para valorizar a sustentabilidade, reforçando o compromisso da marca com práticas responsáveis e a valorização dos recursos locais, que são parte intrínseca da nossa identidade.</span></p>"
-      },
-      {
-        "__resolveType": "blog/sections/Blog/components/ImagesSlide.tsx",
-        "images": [
-          {
-            "image": "https://assets.decocache.com/breton/ea29ff05-194c-444d-94c8-69e2e0d28f82/slide-1.jpg",
-            "alt": "Teste"
-          },
-          {
-            "image": "https://assets.decocache.com/breton/ea29ff05-194c-444d-94c8-69e2e0d28f82/slide-1.jpg",
-            "alt": "Teste"
-          },
-          {
-            "image": "https://assets.decocache.com/breton/ea29ff05-194c-444d-94c8-69e2e0d28f82/slide-1.jpg",
-            "alt": "Teste"
-          },
-          {
-            "image": "https://assets.decocache.com/breton/ea29ff05-194c-444d-94c8-69e2e0d28f82/slide-1.jpg",
-            "alt": "Teste"
-          }
-        ]
-      },
-      {
-        "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Inspirada nas paisagens naturais que tornam o&nbsp;<span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">Brasil único</span>, a linha foi desenvolvida a partir de uma profunda pesquisa sobre os elementos que definem nossa identidade cultural. Desde as cores vibrantes das florestas tropicais até a serenidade das praias, passando pelas texturas da nossa fauna e flora, cada detalhe da coleção foi projetado para transmitir o espírito do Brasil de uma forma inovadora e elegante.<br><br>As matérias-primas foram cuidadosamente selecionadas para valorizar a sustentabilidade, reforçando o <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">compromisso da marca com práticas responsáveis e a valorização dos recursos locais</span>, que são parte intrínseca da nossa identidade.</p>"
-      },
-      {
-        "__resolveType": "blog/sections/Blog/components/ImageThreeColumnSection.tsx",
-        "imageOne": "https://assets.decocache.com/breton/9910fbaf-3a46-487e-a0c4-131ec9507a2a/blog-three-images-1.png",
-        "imageTwo": "https://assets.decocache.com/breton/e15a1b26-764f-4348-8141-748c7cc69fea/blog-three-images-2.png",
-        "imageThree": "https://assets.decocache.com/breton/11168834-32bf-4daf-b1d3-2b929686f0c2/blog-three-images-3.png"
-      },
-      {
-        "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Inspirada nas paisagens naturais que tornam o&nbsp;<span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">Brasil único</span>, a linha foi desenvolvida a partir de uma profunda pesquisa sobre os elementos que definem nossa identidade cultural. Desde as cores vibrantes das florestas tropicais até a serenidade das praias, passando pelas texturas da nossa fauna e flora, cada detalhe da coleção foi projetado para transmitir o espírito do Brasil de uma forma inovadora e elegante.<br><br>As matérias-primas foram cuidadosamente selecionadas para valorizar a sustentabilidade, reforçando o <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">compromisso da marca com práticas responsáveis e a valorização dos recursos locais</span>, que são parte intrínseca da nossa identidade.</p>"
+        "content": "<p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Silvia escolheu um lar que fosse tão caloroso quanto cheio de personalidade. A Breton marcou presença em vários ambientes com móveis que, além da estética apurada, convidam ao convívio e ao bem-estar.</p><p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p><p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\">O bar Pilotis, criado por Bruno Niz, por exemplo, é um dos destaques do living. Com sua geometria fluida e acabamento impecável, ele incorpora a descontração do carioca sem abrir mão da sofisticação.</p><h2 style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></h2>"
       },
       {
         "__resolveType": "blog/sections/Blog/components/OneImage.tsx",
-        "image": "https://assets.decocache.com/breton/3a969c3a-76ef-4d9c-b397-9ce7fe34b71f/blog-one-image.png"
+        "image": "https://assets.decocache.com/breton/8d7fb1ea-6fc8-4215-8fa4-4c0f4868aaf5/3B3A1834-(1).jpg"
       },
       {
-        "__resolveType": "blog/sections/Blog/components/ProductsSection.tsx",
-        "products": [
-          {
-            "image": "https://assets.decocache.com/breton/af5b61a9-7aa0-4c13-a938-114d03c828a5/product-1.jpg",
-            "productName": "POLTRONA BUMBO",
-            "designerName": "by Lilly Sarti"
-          },
-          {
-            "productName": "POLTRONA TRÓPICO",
-            "designerName": "by Bruno Simões",
-            "image": "https://assets.decocache.com/breton/fa55270b-adaa-435b-b7e4-a2fbe90d67c6/product-2.jpg"
-          },
-          {
-            "image": "https://assets.decocache.com/breton/47c8104b-3649-4d77-819d-a7798f5c22e4/product-3.jpg",
-            "productName": "POLTRONA AGOGO",
-            "designerName": "by Lilly Sarti"
-          }
-        ],
-        "subtitle": "Nossos produtos",
-        "title": "Confira alguns produtos"
+        "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
+        "content": "<p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Já no quarto, a cama, mesas de cabeceira e o banco da linha Joá, assinados por Giácomo Tomazzi, oferecem uma atmosfera de acolhimento com a técnica ancestral da palhinha trançada. Os volumes orgânicos, os tons naturais e o toque artesanal reforçam a sensação de refúgio urbano.</p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p>"
+      },
+      {
+        "__resolveType": "blog/sections/Blog/components/OneImage.tsx",
+        "image": "https://assets.decocache.com/breton/b28f26b8-39e1-496a-b33f-8bccc3954b12/3B3A1585-(1).jpg"
+      },
+      {
+        "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
+        "content": "<p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\">A área social ainda conta com a mesa de jantar Floripa, da designer Luisa Moysés, que se impõe com leveza e presença com seu tampo em mármore. Ideal para uma proposta contemporânea que define o novo morar brasileiro.</p>"
+      },
+      {
+        "__resolveType": "blog/sections/Blog/components/ImageTwoColumnSection.tsx",
+        "imageOne": "https://assets.decocache.com/breton/8a751ac9-c960-4cc7-bc0d-8adbb9e7b626/3B3A1764-(1).jpg",
+        "imageTwo": "https://assets.decocache.com/breton/268389a4-4546-413f-9440-64044d32f70a/3B3A1867.jpg"
+      },
+      {
+        "__resolveType": "blog/sections/Blog/components/OneImage.tsx",
+        "image": "https://assets.decocache.com/breton/b5b2263d-914b-45a9-aee7-f7155c1e4927/Sem-nome-(940-x-728-px)-(384-x-400-px)-(1360-x-560-px)-(3).png"
+      },
+      {
+        "__resolveType": "blog/sections/Blog/components/ImageTwoColumnSection.tsx",
+        "imageOne": "https://assets.decocache.com/breton/1ddaa2d2-c669-4a3b-940f-c003bd838a80/3B3A1850.jpeg",
+        "imageTwo": "https://assets.decocache.com/breton/98c60928-5f4a-479d-af38-d8af685d07ca/3B3A1836-copiar.jpeg"
       }
     ],
     "extraProps": [],
-    "title": "Taís Araujo e Lázaro Ramos abrem apartamento no Rio de Janeiro",
-    "date": "2025-04-01",
+    "title": "Alma carioca, design brasileiro: o apartamento de Silvia Braz no Rio",
+    "date": "2025-05-27",
     "slug": "teste-5",
-    "image": "https://assets.decocache.com/breton/8e9cdc3e-1cc8-4abb-980a-ce87277dcad6/blog-banner.png",
-    "excerpt": "Em 20 anos de casamento, é a primeira vez que Taís Araujo e Lázaro Ramos realizam o projeto de uma casa do início ao fim. “Moramos em diversos lugares e nunca quisemos encarar uma obra longa. Fazíamos apenas intervenções pontuais.",
+    "image": "https://assets.decocache.com/breton/e234e208-26e3-4d62-9a85-7552b13afff6/Sem-nome-(940-x-728-px)-(384-x-400-px)-(1360-x-560-px)-(2).png",
+    "excerpt": "Assinado por Sig Bergamin e Murilo Lomas, o projeto mistura referências tropicais com cores vibrantes, texturas marcantes e um olhar sensível para o design autoral brasileiro.",
     "seo": {
-      "title": "Taís Araujo e Lázaro Ramos abrem apartamento no Rio de Janeiro",
-      "description": "Em 20 anos de casamento, é a primeira vez que Taís Araujo e Lázaro Ramos realizam o projeto de uma casa do início ao fim. “Moramos em diversos lugares e nunca quisemos encarar uma obra longa. Fazíamos apenas intervenções pontuais.",
+      "title": "Alma carioca, design brasileiro: o apartamento de Silvia Braz no Rio",
+      "description": "Assinado por Sig Bergamin e Murilo Lomas, o projeto mistura referências tropicais com cores vibrantes, texturas marcantes e um olhar sensível para o design autoral brasileiro.",
       "image": "https://assets.decocache.com/breton/8e9cdc3e-1cc8-4abb-980a-ce87277dcad6/blog-banner.png"
     },
     "readTime": 8,
-    "alt": "Taís Araujo e Lázaro Ramos abrem apartamento no Rio de Janeiro"
+    "alt": "Assinado por Sig Bergamin e Murilo Lomas, o projeto mistura referências tropicais com cores vibrantes, texturas marcantes e um olhar sensível para o design autoral brasileiro."
   }
 }

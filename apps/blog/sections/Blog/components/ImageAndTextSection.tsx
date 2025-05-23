@@ -1,22 +1,23 @@
 // deno-lint-ignore-file react-no-danger
 import { Picture } from "apps/website/components/Picture.tsx";
-import { type ImageWidget } from "apps/admin/widgets.ts";
-import { type HTMLWidget } from "apps/admin/widgets.ts";
+import type { ImageWidget, RichText, Color } from "apps/admin/widgets.ts";
 
 /** @title Imagem e Texto */
 export interface ImageAndTextSectionProps {
+  backgroundColor: Color;
   image: ImageWidget;
-  text: HTMLWidget;
+  text: RichText;
 }
 
 export default function ImageAndTextSection({
+  backgroundColor,
   image,
   text,
 }: ImageAndTextSectionProps) {
   if (!image || !text) return null;
 
   return (
-    <div class="flex max-lg:flex-wrap items-center gap-4 mb-4 lg:px-4">
+    <div class="flex max-lg:flex-wrap items-center gap-4 mb-4 lg:px-4" style={{backgroundColor}}>
       <Picture class="w-full lg:w-1/2">
         <img class="w-full" src={image} alt="Imagem 1" />
       </Picture>

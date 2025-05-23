@@ -13,7 +13,7 @@
       "principalBanner": true,
       "background": {
         "mobile": {
-          "image": "https://data.decoassets.com/breton/8f747969-b4d6-4e71-866c-ffc71bcd5072/MOBILE-(1).jpg"
+          "image": "https://assets.decocache.com/breton/5fa72337-ea58-49b5-ae87-2c01e951cf6d/bem-vindo-mobile.png"
         },
         "desktop": {
           "image": "https://assets.decocache.com/breton/7c9a17bf-4361-4aeb-9f5b-b159f59705da/01.png",
@@ -24,10 +24,10 @@
       "content": {
         "titleImage": {
           "image": "https://data.decoassets.com/breton/58ff28c9-8537-46ab-a98d-1762ecc201fe/about-us-desktop-logo.svg",
-          "width": 584,
+          "width": 500,
           "height": 99
         },
-        "description": "<h2 style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><span style=\"font-size: 24px; letter-spacing: 3.84px; line-height: 32px; font-weight: 600;\" data-mce-style=\"font-size: 24px; letter-spacing: 3.84px; line-height: 32px; font-weight: 600;\">WELCOME TO</span></h2>",
+        "description": "<h2 style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><span style=\"font-size: 24px; letter-spacing: 3.84px; line-height: 32px; font-weight: 600;\" data-mce-style=\"font-size: 24px; letter-spacing: 3.84px; line-height: 32px; font-weight: 600;\">BEM-VINDO À</span></h2>",
         "paddingBottom": 140
       }
     },
@@ -44,8 +44,8 @@
       "section": {
         "__resolveType": "site/sections/Institutional/InstitutionalText.tsx",
         "title": "<h3 style=\"text-align: center; font-size: clamp(12px, 2vw, 16px); font-weight: 600; line-height: 24px; letter-spacing: 3.84px; margin-bottom: 24px;\" data-mce-style=\"text-align: center; font-size: clamp(12px, 2vw, 16px); font-weight: 600; line-height: 24px; letter-spacing: 3.84px; margin-bottom: 24px;\">A BRETON</h3>",
-        "description": "<p style=\"text-align: center; font-size: 14px; color: rgb(36, 36, 36); font-weight: 300; line-height: 24px; letter-spacing: 0.84px;\" data-mce-style=\"text-align: center; font-size: 14px; color: rgb(36, 36, 36); font-weight: 300; line-height: 24px; letter-spacing: 0.84px;\">Com quase 60 anos de história, a Breton é referência na criação de móveis com design original e identidade brasileira. Cada peça carrega sofisticação, excelência artesanal e um compromisso genuíno com a responsabilidade socioambiental — valores que nos tornaram pioneiros no setor ao conquistar o selo de empresa carbono negativo. Nossa atuação é centrada no cliente. Por isso, unimos uma curadoria afiada a uma equipe multidisciplinar, preparada para entregar soluções personalizadas que atendem às mais diversas demandas do mercado com excelência. Com 19 lojas no Brasil, uma flagship internacional em Dubai e quatro novas unidades previstas até 2026, a Breton se destaca pela personalização. Cada móvel é 100% customizável, com uma ampla variedade de medidas, tecidos e acabamentos. .</p>",
-        "subTitle": "<h4 style=\"text-align: center; font-size: 10px; line-height: 15px; font-weight: 400; margin-bottom: 8px;\" data-mce-style=\"text-align: center; font-size: 10px; line-height: 15px; font-weight: 400; margin-bottom: 8px;\">NOSSA ESSÊNCIA</h4>"
+        "description": "<p class=\"md:text-center\" style=\"font-size: 15px; font-weight: 300; line-height: 24px; letter-spacing: 0.9px; margin-top: 24px;\" data-mce-style=\"font-size: 15px; font-weight: 300; line-height: 24px; letter-spacing: 0.9px; margin-top: 24px;\">Há quase seis décadas, a Breton é movida pelo propósito de materializar sonhos. Nascemos com o olhar voltado para o design brasileiro autoral e seguimos, ao longo dos anos, celebrando a riqueza cultural do nosso país em cada curva, textura e acabamento. Cada móvel que criamos carrega a alma do Brasil: ousado, acolhedor, diverso e humano.<br>&nbsp;<br>Nosso compromisso vai além da estética. Acreditamos que o design pode, e deve, ser uma ferramenta de transformação. Por isso, unimos tradição artesanal e inovação com responsabilidade ambiental, tornando-nos pioneiros no setor ao conquistar o selo de empresa carbono negativo. É assim que desenhamos o futuro: com consciência, beleza e propósito.<br><br>No coração de tudo está o cliente. Criamos móveis e experiências personalizadas, com uma curadoria cuidadosa de uma equipe multidisciplinar dedicada a ouvir com atenção e entregar soluções sob medida. Cada peça conta com infinitas possibilidades de personalização em medidas, tecidos e acabamentos.<br><br>Hoje, somos 19 lojas espalhadas pelo Brasil, além da nossa flagship internacional em Dubai — uma ponte entre o design brasileiro e o mundo. E seguimos crescendo: até 2026, mais quatro unidades vão reforçar esse movimento de expansão, sempre com o mesmo compromisso com a excelência, a sustentabilidade e a valorização da identidade nacional.</p><p><br data-mce-bogus=\"1\"></p>",
+        "subTitle": "<h4 style=\"text-align: center; font-size: 10px; line-height: 15px; font-weight: 400; margin-bottom: 8px;\" data-mce-style=\"text-align: center; font-size: 10px; line-height: 15px; font-weight: 400; margin-bottom: 8px;\">N O S S A&nbsp; E S S Ê N C I A</h4>"
       }
     },
     {
@@ -75,7 +75,8 @@
             "video": "https://data.decoassets.com/breton/ea0cc3b0-1370-42f7-bbb1-8997d40a9ae2/aboutUs-video1-mob.mp4",
             "width": 360,
             "height": 200
-          }
+          },
+          "autoplay": true
         },
         "videoInfo": {
           "videoDesktop": {
@@ -104,9 +105,9 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Institutional/InstitutionalText.tsx",
-        "title": "<h3 style=\"text-align: center; font-size: clamp(12px, 2vw, 16px); font-weight: 600; line-height: 24px; letter-spacing: 3.84px; margin-bottom: 24px;\" data-mce-style=\"text-align: center; font-size: clamp(12px, 2vw, 16px); font-weight: 600; line-height: 24px; letter-spacing: 3.84px; margin-bottom: 24px;\">NOSSA FÁBRICA</h3>",
-        "subTitle": "<h4 style=\"text-align: center; font-size: 10px; line-height: 15px; font-weight: 400; margin-bottom: 8px;\" data-mce-style=\"text-align: center; font-size: 10px; line-height: 15px; font-weight: 400; margin-bottom: 8px;\">ONDE MATERIALIZAMOS SONHOS</h4>",
-        "description": "<p style=\"text-align: center; font-size: 14px; color: rgb(36, 36, 36); font-weight: 300; line-height: 24px; letter-spacing: 0.84px;\" data-mce-style=\"text-align: center; font-size: 14px; color: rgb(36, 36, 36); font-weight: 300; line-height: 24px; letter-spacing: 0.84px;\">Inaugurado em 2018, nosso parque fabril em Diadema – São Paulo foi criado para oferecer estrutura completa para a produção da Breton. Liderado pelo presidente do conselho da marca, Marcel Rivkind, e assinado pelo arquiteto XXX, o projeto de 15mil m² centraliza as operações fabris, de logística e administrativas da marca. Unindo o cuidado artesanal e a alta tecnologia, a fábrica onde nascem nossos produtos também é o lugar onde reafirmamos nosso compromisso com a sustentabilidade. Todo o projeto foi executado com o intuito de mitigar ao máximo os impactos ao meio ambiente e minimizar o desperdício de materiais e matérias primas que não podem ser reaproveitadas.</p>"
+        "title": "<h3 style=\"text-align: center; font-size: clamp(12px, 2vw, 16px); font-weight: 600; line-height: 24px; letter-spacing: 3.84px; margin-bottom: 24px;\" data-mce-style=\"text-align: center; font-size: clamp(12px, 2vw, 16px); font-weight: 600; line-height: 24px; letter-spacing: 3.84px; margin-bottom: 24px;\">ONDE MATERIALIZAMOS NOSSOS SONHOS</h3>",
+        "subTitle": "<h4 style=\"text-align: center; font-size: 10px; line-height: 15px; font-weight: 400; margin-bottom: 8px;\" data-mce-style=\"text-align: center; font-size: 10px; line-height: 15px; font-weight: 400; margin-bottom: 8px;\">N O S S A&nbsp; F Á B R I C A</h4>",
+        "description": "<p class=\"md:text-center\" style=\"font-size: 15px; font-weight: 300; line-height: 24px; letter-spacing: 0.9px; margin-top: 24px;\" data-mce-style=\"font-size: 15px; font-weight: 300; line-height: 24px; letter-spacing: 0.9px; margin-top: 24px;\">Inaugurada em 2018, nossa fábrica, em Diadema – São Paulo, foi criada para oferecer estrutura completa para a produção da Breton. Liderado pelo presidente do conselho da marca, Marcel Rivkind, o projeto com cerca de 15 mil m² centraliza as operações fabris, de logística e administrativas da marca. <br><br>Unindo o cuidado artesanal e a alta tecnologia, a fábrica onde nascem nossos produtos também é o lugar onde reafirmamos nosso compromisso com a sustentabilidade. Todo o projeto foi executado com o intuito de mitigar ao máximo os impactos ao meio ambiente e minimizar o desperdício de materiais e matérias primas que não podem ser reaproveitadas.</p>"
       }
     },
     {
@@ -124,7 +125,7 @@
         "images": [
           {
             "desktop": "https://assets.decocache.com/breton/2e6021d8-d62f-433c-8b92-4b4392d826d3/02.png",
-            "mobile": "https://data.decoassets.com/breton/ca39b8ba-7a4a-45cc-a25a-52a778d3b3ba/institutional-slide-mobile-1.png",
+            "mobile": "https://assets.decocache.com/breton/869f25e5-047b-4563-9bbe-76374e9a1ac9/fabrica-02-mobile.png",
             "alt": "institutional-slide-1",
             "action": {
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
@@ -132,16 +133,16 @@
             "description": "Aliamos tecnologia e artesanato em uma fábrica comprometida com a sustentabilidade. O projeto foi concebido para minimizar impactos ambientais e desperdícios."
           },
           {
-            "desktop": "https://assets.decocache.com/breton/3240cc52-e6e1-4fd9-a100-6992972fd781/Desktop.carrossel.fabrica2.png",
-            "mobile": "https://assets.decocache.com/breton/1ae28db1-b959-4b93-9d87-33033d462eb7/Mobile.carrossel.fabrica2.png",
+            "desktop": "https://assets.decocache.com/breton/ec984c3c-522c-4436-9c0f-44a57e3fe7ea/desktop.2.png",
+            "mobile": "https://assets.decocache.com/breton/811c12d7-5f51-482e-82a2-deb8668fcc76/M.2.png",
             "alt": "institutional-slide-2",
-            "description": "Aliamos tecnologia e artesanato em uma fábrica comprometida com a sustentabilidade. O projeto foi concebido para minimizar impactos ambientais e desperdícios."
+            "description": "Nossa equipe reúne marceneiros, carpinteiros, tecelões e tramadores que, por meio do cuidado artesanal e criatividade em cada detalhe, carregam o saber ancestral que atravessa gerações e a capacidade de unir tradição e inovação para criar peças atemporais."
           },
           {
-            "desktop": "https://assets.decocache.com/breton/7e82e1e5-3f6c-45f9-a71d-7289fc6c4b8e/Desktop.carrossel.fabrica3.png",
-            "mobile": "https://assets.decocache.com/breton/dd531d63-9506-45c9-814e-df8fba692ecb/Mobile.carrossel.fabrica3.png",
+            "desktop": "https://assets.decocache.com/breton/aea2c127-740c-4bac-bccb-9db769561c90/desktop.3.png",
+            "mobile": "https://assets.decocache.com/breton/1a229406-1f97-41da-9c73-75430fd5e3ad/M.3.png",
             "alt": "institutional-slide-3",
-            "description": "Aliamos tecnologia e artesanato em uma fábrica comprometida com a sustentabilidade. O projeto foi concebido para minimizar impactos ambientais e desperdícios."
+            "description": "Criamos móveis e experiências personalizadas, com uma curadoria cuidadosa de uma equipe multidisciplinar dedicada a ouvir com atenção e entregar soluções sob medida. Cada peça conta com infinitas possibilidades de personalização em medidas, tecidos e acabamentos."
           }
         ]
       }
@@ -158,8 +159,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Institutional/InstitutionalText.tsx",
-        "title": "<h3 style=\"text-align: center; font-size: clamp(12px, 2vw, 16px); font-weight: 600; line-height: 24px; letter-spacing: 3.84px;\" data-mce-style=\"text-align: center; font-size: clamp(12px, 2vw, 16px); font-weight: 600; line-height: 24px; letter-spacing: 3.84px;\">HÁ MAIS DE 50 ANOS DE HISTÓRIA E SONHOS REALIZADOS</h3>",
-        "subTitle": "<h4 style=\"text-align: center; font-size: 10px; line-height: 15px; font-weight: 400; margin-bottom: 8px;\" data-mce-style=\"text-align: center; font-size: 10px; line-height: 15px; font-weight: 400; margin-bottom: 8px;\">Nossa Trajetória</h4>"
+        "title": "<h3 style=\"text-align: center; font-size: clamp(12px, 2vw, 16px); font-weight: 600; line-height: 24px; letter-spacing: 3.84px;\" data-mce-style=\"text-align: center; font-size: clamp(12px, 2vw, 16px); font-weight: 600; line-height: 24px; letter-spacing: 3.84px;\">LINHA DO TEMPO</h3>",
+        "subTitle": "<h4 style=\"text-align: center; font-size: 10px; line-height: 15px; font-weight: 400; margin-bottom: 8px;\" data-mce-style=\"text-align: center; font-size: 10px; line-height: 15px; font-weight: 400; margin-bottom: 8px;\">N O S S A&nbsp; T R A J E T Ó R I A</h4>"
       }
     },
     {
@@ -269,12 +270,12 @@
               "89": "n",
               "90": "g",
               "textBox": {
-                "title": "1967 - Julio Rivkind inaugura a 1ª loja na zona norte de São Paulo",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation.",
+                "title": "1967",
+                "description": "Julio Rivkind inaugura a 1ª loja na zona norte de São Paulo",
                 "background": "#ffffffa3",
                 "align": "bottom"
               },
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png"
+              "image": "https://assets.decocache.com/breton/2f4aa265-f8da-41a9-881c-cbe1b2881cbc/01.png"
             },
             "mobile": {
               "0": "h",
@@ -367,12 +368,12 @@
               "87": "p",
               "88": "n",
               "89": "g",
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png",
+              "image": "https://assets.decocache.com/breton/aa70d4a8-46bc-42fe-b702-644f15cbd04b/01-mobile.png",
               "textBox": {
-                "background": "#0000008f",
-                "title": "1967 - Julio Rivkind inaugura a 1ª loja na zona norte de São Paulo",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation.",
-                "textColor": "#ffffff"
+                "background": "#ffffffa3",
+                "title": "1967",
+                "description": "Julio Rivkind inaugura a 1ª loja na zona norte de São Paulo",
+                "textColor": "#000000"
               }
             },
             "title": "1970 - O início de tudo",
@@ -473,12 +474,12 @@
               "89": "n",
               "90": "g",
               "textBox": {
-                "title": "1978 - BRETON inaugura a 2ª loja no bairro de Santana",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation.",
+                "title": "1978",
+                "description": "Inauguração da 2ª loja no bairro de Santana",
                 "background": "#ffffffa3",
                 "align": "bottom"
               },
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png"
+              "image": "https://assets.decocache.com/breton/abd48eb3-e988-4f1a-a9c4-234f4e2de484/02.png"
             },
             "mobile": {
               "0": "h",
@@ -571,11 +572,12 @@
               "87": "p",
               "88": "n",
               "89": "g",
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png",
+              "image": "https://assets.decocache.com/breton/68b7d40e-af32-4b34-ad28-907919c29426/02-mobile.png",
               "textBox": {
-                "background": "#0000008f",
-                "title": "1978 - BRETON inaugura a 2ª loja no bairro de Santana",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation."
+                "background": "#ffffffa3",
+                "title": "1978",
+                "description": "BRETON inaugura a 2ª loja no bairro de Santana",
+                "textColor": "#000000"
               }
             },
             "title": "1970 - O início de tudo",
@@ -676,12 +678,12 @@
               "89": "n",
               "90": "g",
               "textBox": {
-                "title": "1988 - BRETON inaugura loja no Shopping Lar Center",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation.",
+                "title": "1988",
+                "description": "Breton chega ao Shopping Lar Center, primeiro centro de compras de decoração e design de São Paulo, consolidando a Breton como uma marca de design e mobiliário de alto valor agregado",
                 "background": "#ffffffa3",
                 "align": "bottom"
               },
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png"
+              "image": "https://assets.decocache.com/breton/27d0d153-1622-4198-9ad4-e5ec9b7f600b/03.png"
             },
             "mobile": {
               "0": "h",
@@ -774,11 +776,12 @@
               "87": "p",
               "88": "n",
               "89": "g",
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png",
+              "image": "https://assets.decocache.com/breton/395c6582-2d6a-48b5-b5ad-5419c6b96cab/03-mobile.png",
               "textBox": {
-                "background": "#0000008f",
-                "title": "1988 - BRETON inaugura loja no Shopping Lar Center",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation."
+                "background": "#ffffffa3",
+                "title": "1988",
+                "description": "BRETON inaugura loja no Shopping Lar Center",
+                "textColor": "#000000"
               }
             },
             "title": "1970 - O início de tudo",
@@ -879,12 +882,12 @@
               "89": "n",
               "90": "g",
               "textBox": {
-                "title": "2000 - BRETON inaugura loja no Shopping D&D",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation.",
+                "title": "2000",
+                "description": " Nova loja no Shopping D&D",
                 "background": "#ffffffa3",
                 "align": "bottom"
               },
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png"
+              "image": "https://assets.decocache.com/breton/4a79880a-1689-435a-b3f5-778191810d4f/04.png"
             },
             "mobile": {
               "0": "h",
@@ -977,11 +980,11 @@
               "87": "p",
               "88": "n",
               "89": "g",
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png",
+              "image": "https://assets.decocache.com/breton/4326175d-b793-4195-8877-c56bc1bd147c/04-mobile.png",
               "textBox": {
-                "background": "#0000008f",
-                "title": "2000 - BRETON inaugura loja no Shopping D&D",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation."
+                "background": "#ffffffa3",
+                "title": "2000",
+                "description": "BRETON inaugura loja no Shopping D&D"
               }
             },
             "title": "1970 - O início de tudo",
@@ -1082,12 +1085,12 @@
               "89": "n",
               "90": "g",
               "textBox": {
-                "title": "2001 - BRETON inaugura loja na Alameda Gabriel Monteiro da Silva",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation.",
+                "title": "2001",
+                "description": "Inauguração da unidade na Alameda Gabriel Monteiro da Silva",
                 "background": "#ffffffa3",
                 "align": "bottom"
               },
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png"
+              "image": "https://assets.decocache.com/breton/b3fa8fde-6dd7-4c5d-bdbc-5ffc1e01b0b9/05.png"
             },
             "mobile": {
               "0": "h",
@@ -1180,11 +1183,11 @@
               "87": "p",
               "88": "n",
               "89": "g",
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png",
+              "image": "https://assets.decocache.com/breton/e6a8fbe7-38cc-4cab-af2d-b1819758e40d/05-mobile.png",
               "textBox": {
-                "background": "#0000008f",
-                "title": "2001 - BRETON inaugura loja na Alameda Gabriel Monteiro da Silva",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation."
+                "background": "#ffffffa3",
+                "title": "2001",
+                "description": "BRETON inaugura loja na Alameda Gabriel Monteiro da Silva"
               }
             },
             "title": "1970 - O início de tudo",
@@ -1285,12 +1288,12 @@
               "89": "n",
               "90": "g",
               "textBox": {
-                "title": "2003 - Marcel Rivkind assume a Presidência da Breton",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation.",
+                "title": "2003",
+                "description": "Marcel Rivkind assume a Presidência",
                 "background": "#ffffffa3",
                 "align": "bottom"
               },
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png"
+              "image": "https://assets.decocache.com/breton/1afbc3f0-b1a9-4930-97e9-a0edc12f9a4c/06.png"
             },
             "mobile": {
               "0": "h",
@@ -1383,11 +1386,11 @@
               "87": "p",
               "88": "n",
               "89": "g",
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png",
+              "image": "https://assets.decocache.com/breton/02a83db7-df60-40c7-8413-08dc96e45325/06-mobile.png",
               "textBox": {
-                "background": "#0000008f",
-                "title": "2003 - Marcel Rivkind assume a Presidência da Breton",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation."
+                "background": "#ffffffa3",
+                "title": "2003",
+                "description": "Marcel Rivkind assume a Presidência da Breton"
               }
             },
             "title": "1970 - O início de tudo",
@@ -1488,12 +1491,12 @@
               "89": "n",
               "90": "g",
               "textBox": {
-                "title": "2004 - BRETON amplia a oferta de produtos com a entrada de móveis para área externa",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation.",
+                "title": "2004",
+                "description": "Ampliação do portfólio com a entrada de móveis para área externa",
                 "background": "#ffffffa3",
                 "align": "bottom"
               },
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png"
+              "image": "https://assets.decocache.com/breton/1a0da4b3-add3-4221-8c35-c789171d9f06/07.png"
             },
             "mobile": {
               "0": "h",
@@ -1586,11 +1589,11 @@
               "87": "p",
               "88": "n",
               "89": "g",
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png",
+              "image": "https://assets.decocache.com/breton/aea8b102-9830-4fee-a230-ab139fa51a56/07-mobile.png",
               "textBox": {
-                "background": "#0000008f",
-                "title": "2004 - BRETON amplia a oferta de produtos com a entrada de móveis para área externa",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation."
+                "background": "#ffffffa3",
+                "title": "2004",
+                "description": "BRETON amplia a oferta de produtos com a entrada de móveis para área externa"
               }
             },
             "title": "1970 - O início de tudo",
@@ -1691,12 +1694,12 @@
               "89": "n",
               "90": "g",
               "textBox": {
-                "title": "2006 - BRETON inaugura Outlet",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation.",
+                "title": "2006",
+                "description": "Inauguração do Outlet",
                 "background": "#ffffffa3",
                 "align": "bottom"
               },
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png"
+              "image": "https://assets.decocache.com/breton/74b2c3b4-5c83-4fa7-894b-81b6c4d0e0d6/08.png"
             },
             "mobile": {
               "0": "h",
@@ -1789,11 +1792,11 @@
               "87": "p",
               "88": "n",
               "89": "g",
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png",
+              "image": "https://assets.decocache.com/breton/b6a6b760-1f8e-45e9-9405-92436a81aad3/08-mobile.png",
               "textBox": {
-                "background": "#0000008f",
-                "title": "2006 - BRETON inaugura Outlet",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation."
+                "background": "#ffffffa3",
+                "title": "2006",
+                "description": "BRETON inaugura Outlet"
               }
             },
             "title": "1970 - O início de tudo",
@@ -1894,12 +1897,12 @@
               "89": "n",
               "90": "g",
               "textBox": {
-                "title": "2007 - BRETON inaugura loja e Centro de Distribuição na Cidade do Rio de Janeiro",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation.",
+                "title": "2007",
+                "description": "Nova loja e Centro de Distribuição na cidade do Rio de Janeiro",
                 "background": "#ffffffa3",
                 "align": "bottom"
               },
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png"
+              "image": "https://assets.decocache.com/breton/933f1359-2673-4049-8045-3133a85b2f78/09.png"
             },
             "mobile": {
               "0": "h",
@@ -1992,11 +1995,11 @@
               "87": "p",
               "88": "n",
               "89": "g",
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png",
+              "image": "https://assets.decocache.com/breton/b1fcba90-a2b5-4b2f-81ad-b432a9668808/09-mobile.png",
               "textBox": {
-                "background": "#0000008f",
-                "title": "2007 - BRETON inaugura loja e Centro de Distribuição na Cidade do Rio de Janeiro",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation."
+                "background": "#ffffffa3",
+                "title": "2007",
+                "description": "BRETON inaugura loja e Centro de Distribuição na Cidade do Rio de Janeiro"
               }
             },
             "title": "1970 - O início de tudo",
@@ -2097,12 +2100,12 @@
               "89": "n",
               "90": "g",
               "textBox": {
-                "title": "2015 - BRETON inicia expansão via Franchising e inaugura a primeira franquia em Campinas",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation.",
+                "title": "2015",
+                "description": "Início da expansão nacional e inauguração da unidade em Campinas",
                 "background": "#ffffffa3",
                 "align": "bottom"
               },
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png"
+              "image": "https://assets.decocache.com/breton/0a82d282-9a95-4028-9cf0-7c223eb77da8/10.png"
             },
             "mobile": {
               "0": "h",
@@ -2195,11 +2198,11 @@
               "87": "p",
               "88": "n",
               "89": "g",
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png",
+              "image": "https://assets.decocache.com/breton/2d32fab7-e484-45bf-b2eb-7b0e1e786165/10-mobile.png",
               "textBox": {
-                "background": "#0000008f",
-                "title": "2015 - BRETON inicia expansão via Franchising e inaugura a primeira franquia em Campinas",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation."
+                "background": "#ffffffa3",
+                "description": "BRETON inicia expansão via Franchising e inaugura a primeira franquia em Campinas",
+                "title": "2015"
               }
             },
             "title": "1970 - O início de tudo",
@@ -2300,12 +2303,12 @@
               "89": "n",
               "90": "g",
               "textBox": {
-                "title": "2016 - BRETON realiza o Mobiliza Breton, primeiro passo para uma cultura sustentável e inaugura a franquia em São José dos Campos",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation.",
+                "title": "2016",
+                "description": "Inauguração da unidade em São José dos Campos",
                 "background": "#ffffffa3",
                 "align": "bottom"
               },
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png"
+              "image": "https://assets.decocache.com/breton/c1340f45-d930-4693-b143-b6aa8db4dfcc/11.png"
             },
             "mobile": {
               "0": "h",
@@ -2398,11 +2401,11 @@
               "87": "p",
               "88": "n",
               "89": "g",
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png",
+              "image": "https://assets.decocache.com/breton/3329086a-96d3-4215-a7bf-58018e750a8d/11-mobile.png",
               "textBox": {
-                "background": "#0000008f",
-                "title": "2016 - BRETON realiza o Mobiliza Breton, primeiro passo para uma cultura sustentável e inaugura a franquia em São José dos Campos",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation."
+                "background": "#ffffffa3",
+                "title": "2016",
+                "description": "BRETON realiza o Mobiliza Breton, primeiro passo para uma cultura sustentável e inaugura franquia em São José dos Campos"
               }
             },
             "title": "1970 - O início de tudo",
@@ -2503,12 +2506,12 @@
               "89": "n",
               "90": "g",
               "textBox": {
-                "title": "2018 - BRETON se muda para novo Centro de Distribuição e Fábrica em Diadema com 15 mil m² e inaugura franquia em Salvador e lança o projeto ECOBRETON",
+                "title": "2018",
                 "background": "#ffffffa3",
                 "align": "bottom",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation."
+                "description": "Mudança para novo Centro de Distribuição e Fábrica em Diadema, com 15 mil m², e inauguração da unidade em Salvador. Lançamento do projeto ECOBRETON"
               },
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png"
+              "image": "https://assets.decocache.com/breton/768bf6e1-2382-447b-af90-45f707b48dcd/12.png"
             },
             "mobile": {
               "0": "h",
@@ -2601,11 +2604,11 @@
               "87": "p",
               "88": "n",
               "89": "g",
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png",
+              "image": "https://assets.decocache.com/breton/ac498435-c633-4e7e-bd03-1b60db5e9fe8/12-mobile.png",
               "textBox": {
-                "background": "#0000008f",
-                "title": "2018 - BRETON se muda para novo Centro de Distribuição e Fábrica em Diadema com 15 mil m² e inaugura franquia em Salvador e lança o projeto ECOBRETON",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation."
+                "background": "#ffffffa3",
+                "title": "2018",
+                "description": "BRETON se muda para novo Centro de Distribuição e Fábrica em Diadema com 15 mil m², inaugura franquia em Salvador e lança o projeto ECOBRETON"
               }
             },
             "title": "1970 - O início de tudo",
@@ -2706,12 +2709,12 @@
               "89": "n",
               "90": "g",
               "textBox": {
-                "title": "2019 - BRETON inaugura loja de Brasília",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation.",
+                "title": "2019",
+                "description": "Nova loja em Brasília",
                 "background": "#ffffffa3",
                 "align": "bottom"
               },
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png"
+              "image": "https://assets.decocache.com/breton/a1fff6de-ce0c-4a3a-8fd1-e83c615833a7/13.png"
             },
             "mobile": {
               "0": "h",
@@ -2804,11 +2807,11 @@
               "87": "p",
               "88": "n",
               "89": "g",
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png",
+              "image": "https://assets.decocache.com/breton/b960f369-8409-4e75-9f70-da9ace72f332/13-mobile.png",
               "textBox": {
-                "background": "#0000008f",
-                "title": "2019 - BRETON inaugura loja de Brasília",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation."
+                "background": "#ffffffa3",
+                "title": "2019",
+                "description": "BRETON inaugura loja de Brasília"
               }
             },
             "title": "1970 - O início de tudo",
@@ -2909,12 +2912,12 @@
               "89": "n",
               "90": "g",
               "textBox": {
-                "title": "2020 - André Rivkind assume a Presidência da Breton e BRETON inaugura franquia em Roraima",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation.",
+                "title": "2020",
+                "description": "Certificação como empresa Carbono Neutro. André Rivkind assume a Presidência. Inauguração da unidade em Roraima",
                 "background": "#ffffffa3",
                 "align": "bottom"
               },
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png"
+              "image": "https://assets.decocache.com/breton/5add8f4d-c35d-4069-88e7-3619c280883b/14.png"
             },
             "mobile": {
               "0": "h",
@@ -3007,11 +3010,11 @@
               "87": "p",
               "88": "n",
               "89": "g",
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png",
+              "image": "https://assets.decocache.com/breton/627cf5e7-ea87-46cd-a706-71b79cb91afd/14-mobile.png",
               "textBox": {
-                "background": "#0000008f",
-                "title": "2020 - André Rivkind assume a Presidência da Breton e BRETON inaugura franquia em Roraima",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation."
+                "background": "#ffffffa3",
+                "title": "2020",
+                "description": "André Rivkind assume a Presidência da empresa, e BRETON inaugura franquia em Roraima"
               }
             },
             "title": "1970 - O início de tudo",
@@ -3112,12 +3115,12 @@
               "89": "n",
               "90": "g",
               "textBox": {
-                "title": "2021 - BRETON recebe a certificação de Carbono Neutro e inaugura franquias em Manaus, Balneário Camboriú e Porto Alegre",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation.",
+                "title": "2021",
+                "description": "Novas unidades em Manaus, Balneário Camboriú e Porto Alegre",
                 "background": "#ffffffa3",
                 "align": "bottom"
               },
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png"
+              "image": "https://assets.decocache.com/breton/e1480927-57f4-4f12-a0d7-1e765ad52583/15.png"
             },
             "mobile": {
               "0": "h",
@@ -3210,11 +3213,11 @@
               "87": "p",
               "88": "n",
               "89": "g",
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png",
+              "image": "https://assets.decocache.com/breton/16c40af4-62fa-4a38-a403-ef38daf671fd/15-mobile.png",
               "textBox": {
-                "background": "#0000008f",
-                "title": "2021 - BRETON recebe a certificação de Carbono Neutro e inaugura franquias em Manaus, Balneário Camboriú e Porto Alegre",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation."
+                "background": "#ffffffa3",
+                "title": "2021",
+                "description": "BRETON recebe a certificação de Carbono Neutro e inaugura franquias em Manaus, Balneário Camboriú e Porto Alegre"
               }
             },
             "title": "1970 - O início de tudo",
@@ -3315,12 +3318,12 @@
               "89": "n",
               "90": "g",
               "textBox": {
-                "title": "2022 - BRETON inaugura franquia em Belém",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation.",
+                "title": "2022",
+                "description": " Certificação ampliada como empresa Carbono Negativo. Chegada ao Norte com a unidade em Belém.",
                 "background": "#ffffffa3",
                 "align": "bottom"
               },
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png"
+              "image": "https://assets.decocache.com/breton/577004d8-6926-4b26-984b-54eb2434cb91/16.png"
             },
             "mobile": {
               "0": "h",
@@ -3413,11 +3416,11 @@
               "87": "p",
               "88": "n",
               "89": "g",
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png",
+              "image": "https://assets.decocache.com/breton/a90d41ac-4185-4f5a-828b-95c7c9ee5d3d/16-mobile.png",
               "textBox": {
-                "background": "#0000008f",
-                "title": "2022 - BRETON inaugura franquia em Belém",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation."
+                "background": "#ffffffa3",
+                "title": "2022",
+                "description": "BRETON inaugura franquia em Belém"
               }
             },
             "title": "1970 - O início de tudo",
@@ -3518,12 +3521,12 @@
               "89": "n",
               "90": "g",
               "textBox": {
-                "title": "2023 - BRETON amplia sua certificação como Carbono Negativo, inaugura franquias em Ribeirão Preto, Cuiabá e Santos e conquista a medalha de ouro no International Design Awards com a Chaise Longue Aor.",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation.",
+                "title": "2023",
+                "description": "Novas unidades em Ribeirão Preto, Cuiabá e Santos. Conquista da medalha de ouro no International Design Awards com a Chaise Longue Aor.",
                 "background": "#ffffffa3",
                 "align": "bottom"
               },
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png"
+              "image": "https://assets.decocache.com/breton/ea68d2e8-237e-4994-9c0e-361865a64fc4/17.png"
             },
             "mobile": {
               "0": "h",
@@ -3616,11 +3619,11 @@
               "87": "p",
               "88": "n",
               "89": "g",
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png",
+              "image": "https://assets.decocache.com/breton/d59de3bc-2c26-49d3-8eee-a0557c06caa9/17-mobile.png",
               "textBox": {
-                "background": "#0000008f",
-                "title": "2023 - BRETON amplia sua certificação como Carbono Negativo, inaugura franquias em Ribeirão Preto, Cuiabá e Santos e conquista a medalha de ouro no International Design Awards com a Chaise Longue Aor.",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation."
+                "background": "#ffffffa3",
+                "title": "2023",
+                "description": "BRETON amplia sua certificação como Carbono Negativo, inaugura franquias em Ribeirão Preto, Cuiabá e Santos, e conquista a medalha de ouro no International Design Awards com a Chaise Longue Aor."
               }
             },
             "title": "1970 - O início de tudo",
@@ -3721,12 +3724,12 @@
               "89": "n",
               "90": "g",
               "textBox": {
-                "title": "2024 - BRETON inaugura sua primeira loja internacional em Dubai",
+                "title": "2024",
                 "background": "#ffffffa3",
                 "align": "bottom",
-                "description": "BRETON inaugura sua primeira loja internacional em Dubai, lança sua nova Cultura e novo Propósito, inaugura franquia em Curitiba, conquista o prêmio EDIDA BR 2024 com o sofá Sonho, apresenta a primeira edição da mostra Breton Signature, inaugura franquia em Palmas e conquista o prêmio European Product Design Awards"
+                "description": "Inauguração da primeira unidade internacional em Dubai e  novas unidades em Curitiba e Palmas. Conquista do prêmio EDIDA BR 2024 com o sofá Sonho.  Primeira edição da mostra Signature. Reconhecimento no European Product Design Awards com a chaise Fly."
               },
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png"
+              "image": "https://assets.decocache.com/breton/fe06b7cf-4cf7-4904-a274-c1bd1dfe575e/18.png"
             },
             "mobile": {
               "0": "h",
@@ -3819,11 +3822,11 @@
               "87": "p",
               "88": "n",
               "89": "g",
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png",
+              "image": "https://assets.decocache.com/breton/087aea0a-6bfe-4f45-a73e-c905933be977/18-mobile.png",
               "textBox": {
-                "background": "#0000008f",
-                "title": "2024 - BRETON inaugura sua primeira loja internacional em Dubai",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation."
+                "background": "#ffffffa3",
+                "title": "2024",
+                "description": "BRETON inaugura sua primeira loja internacional em Dubai, lança sua nova Cultura e novo Propósito, inaugura franquia em Curitiba, conquista o prêmio EDIDA BR 2024 com o sofá Sonho, apresenta a primeira edição da mostra Breton Signature, inaugura franquia em Palmas, e conquista o prêmio European Product Design Awards"
               }
             },
             "title": "1970 - O início de tudo",
@@ -3924,12 +3927,12 @@
               "89": "n",
               "90": "g",
               "textBox": {
-                "title": "2025 - BRETON lança sua nova plataforma online: Breton.co",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation.",
+                "title": "2025",
+                "description": "Lançamento da nova plataforma online: Breton.co e expansão da unidade no Lar Center",
                 "background": "#ffffffa3",
                 "align": "bottom"
               },
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png"
+              "image": "https://assets.decocache.com/breton/79060bba-19e9-4c97-8f04-3b255d268dcf/19.png"
             },
             "mobile": {
               "0": "h",
@@ -4022,11 +4025,11 @@
               "87": "p",
               "88": "n",
               "89": "g",
-              "image": "https://data.decoassets.com/breton/681d64fc-9243-4f06-a3f2-2ace826e6e0e/timeline-desk-1.png",
+              "image": "https://assets.decocache.com/breton/9fa109bb-2ee9-4ab0-94eb-79c85b45fb56/19-mobile.png",
               "textBox": {
-                "background": "#0000008f",
-                "title": "2025 - BRETON lança sua nova plataforma online: Breton.co",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation."
+                "background": "#ffffffa3",
+                "title": "2025",
+                "description": "BRETON lança sua nova plataforma online: Breton.co"
               }
             },
             "title": "1970 - O início de tudo",
@@ -4048,7 +4051,6 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Banner/BannerZoom.tsx",
-        "description": "Nossos embaixadores: Como resultado da experiência do cliente Breton, conquistamos embaixadores que personificam valores fundamentais para nós, reforçando a conexão com o público e destacando os pilares de ESG e lifestyle da marca.",
         "content": {
           "titleImage": {
             "image": "https://data.decoassets.com/breton/c5ecb1e0-8c0d-47b6-8612-aef8153b280e/bannerzoom-desk.png"
@@ -4056,17 +4058,241 @@
         },
         "background": {
           "mobile": {
-            "image": "https://data.decoassets.com/breton/f570d9a6-c904-4880-8e96-bea234a1f27d/bannerzoom-mob.png",
+            "image": "https://assets.decocache.com/breton/0823c874-5b57-4c3e-b3c6-9e019ca771ef/designers-jd-botanico.png",
             "width": 360,
             "height": 302
           },
           "desktop": {
-            "image": "https://assets.decocache.com/breton/bad68b35-efa1-4c22-8524-7494542a0e9a/03.png",
+            "image": "https://assets.decocache.com/breton/0823c874-5b57-4c3e-b3c6-9e019ca771ef/designers-jd-botanico.png",
             "width": 1232,
             "height": 474
           },
-          "hoverZoom": true
+          "hoverZoom": false
+        },
+        "boxPaddingBottom": {
+          "desktop": 0,
+          "mobile": 0
         }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Spacer/Spacer.tsx",
+        "heightDesktop": 80,
+        "heightMobile": 64
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutional/InstitutionalText.tsx",
+        "description": "<p class=\"md:text-center\" style=\"font-size: 15px; font-weight: 300; line-height: 24px; letter-spacing: 0.9px; margin-top: 24px;\" data-mce-style=\"font-size: 15px; font-weight: 300; line-height: 24px; letter-spacing: 0.9px; margin-top: 24px;\">Fomentar a cultura e valorizar a criação nacional está no DNA da Breton. Por isso, ao longo dos anos, reunimos uma curadoria de colaborações que refletem a riqueza e a pluralidade do Brasil, unindo nomes consagrados, além de novos talentos de diferentes áreas do saber para desenvolver peças assinadas. Cada colaboração resulta em peças exclusivas, que celebram a identidade brasileira e traduzem a essência inovadora da nossa marca.</p>",
+        "title": "<h3 style=\"text-align: center; font-size: clamp(12px, 2vw, 16px); font-weight: 600; line-height: 24px; letter-spacing: 3.84px; margin-bottom: 24px;\" data-mce-style=\"text-align: center; font-size: clamp(12px, 2vw, 16px); font-weight: 600; line-height: 24px; letter-spacing: 3.84px; margin-bottom: 24px;\">DESIGN ASSINADO BRETON</h3>",
+        "subTitle": "<h4 style=\"text-align: center; font-size: 10px; line-height: 15px; font-weight: 400; margin-bottom: 8px;\" data-mce-style=\"text-align: center; font-size: 10px; line-height: 15px; font-weight: 400; margin-bottom: 8px;\">N O S S O S&nbsp; &nbsp;P A R C E I R O S</h4>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Home/BannerDesigner/BannerDesigner.tsx",
+        "title": "designer",
+        "imageLogo": "https://data.decoassets.com/breton/8ccc362b-ec1c-475d-9c0a-047af81f067e/logo-designer.svg",
+        "images": [
+          {
+            "image": "https://assets.decocache.com/breton/4f19e55a-6a68-4b90-baab-3605d48bbdc7/a-la-garconne-desktop.png",
+            "title": "A La Garçonne",
+            "text": "A La Garçonne tem o reuso como a palavra de ordem. Sustentável e inspirada no cenário streetwear, a marca reaproveita tecidos com tecnologia que transitam entre o vintage e contemporâneo, criando um visual único e cheio de personalidade, traduzindo isso para a coleção produzida em collab com a Breton. ",
+            "thumb": "https://assets.decocache.com/breton/03537913-fa3f-4bb6-bbde-d53882fce2ab/a-la-garconne.png",
+            "imageMobile": "https://assets.decocache.com/breton/1616451a-347e-455e-af40-ab3571d833ed/a-la-garconne-mobile-png.png"
+          },
+          {
+            "image": "https://assets.decocache.com/breton/f42c652d-9a46-4e29-82d0-8961452175b8/ale-alvarenga-Desktop.png",
+            "title": "Ále Alvarenga",
+            "text": "Une o pensamento criativo e seu profundo conhecimento industrial para desenvolver, com estética sofisticada, móveis simples e funcionais. Sua inspiração é alimentada por incansáveis pesquisas e por um olhar atento ao mercado e ao comportamento humano. ",
+            "thumb": "https://assets.decocache.com/breton/31a93d55-9e16-44e7-8667-861ea6f37919/ale-desktop.png",
+            "imageMobile": "https://assets.decocache.com/breton/abb35ae9-56d3-42e7-86ca-da3166d7dee0/Ale-alvarenga-mobile.png"
+          },
+          {
+            "image": "https://assets.decocache.com/breton/47b494b2-ba29-4508-bd69-537ab8a93421/Andre-grippi-Desktop.png",
+            "title": "André Grippi",
+            "text": "Acredita no design como ferramenta de expressão, de construção de narrativas e de registro de memória. Curioso pelas diferentes maneiras em que corpo e mente dialogam com seu entorno, o designer busca relacionar a simplicidade formal à matéria, a fim de propor emoções e questionamentos que despertem o usuário da inércia cotidiana. ",
+            "thumb": "https://assets.decocache.com/breton/aa704777-2b05-437b-a542-4dd1e1bdaece/andre-desktop.png",
+            "imageMobile": "https://assets.decocache.com/breton/8897dfcf-8875-444f-a779-1be091a89b85/andre-mobile.png"
+          },
+          {
+            "image": "https://assets.decocache.com/breton/e70a9e72-5356-4036-ada9-d10642378ddf/bianca-barbato-Desktop.png",
+            "title": "Bianca Barbato ",
+            "text": "É designer autodidata com foco no desenho de móveis. Sua pesquisa se aprimora constantemente em diferentes tipos de matérias-primas e tecnologias, que vão do artesanal ao industrial, como o corte a laser, resina moldada, marchetaria, fundição de metal entre diversos caminhos  que abrangem suas criações.",
+            "thumb": "https://assets.decocache.com/breton/1d8395a6-13d9-4a4e-83f0-14b3c9f7d09d/bianca-mobile.png",
+            "imageMobile": "https://assets.decocache.com/breton/919da8bf-2bac-47c9-b066-8eb9b9141abf/bianca-mobile.png"
+          },
+          {
+            "title": "Bruno Niz",
+            "image": "https://assets.decocache.com/breton/422e058a-1813-4d45-9a41-5352b6ac6d64/Designers-Desktop.png",
+            "imageMobile": "https://assets.decocache.com/breton/33f41fcf-aadf-4592-accc-821a962eb070/Bruno-Niz-mobile.png",
+            "thumb": "https://assets.decocache.com/breton/a6587512-5b3b-4dc0-a38f-bde3c78930df/bruno-niz.png",
+            "text": "Bruno Niz desenvolve mobiliário e objetos a partir de uma linguagem que articula formas precisas, estruturas limpas e escolhas materiais cuidadosas. O modernismo, o design gráfico e a arquitetura são referências recorrentes em seu processo criativo, refletindo um pensamento visual que se desdobra com clareza e coerência."
+          },
+          {
+            "title": "Bruno Simões",
+            "image": "https://assets.decocache.com/breton/9263ed05-91bf-4e6b-bca3-d158e90b9734/bruno-simoes-desktop.png",
+            "imageMobile": "https://assets.decocache.com/breton/01e3e3f5-4b9e-40ad-ba73-b06ebfbe9eb0/bruno-simoes-mobile.png",
+            "thumb": "https://assets.decocache.com/breton/a97e58a1-a3fc-410b-9a5e-3c4a1d122c5e/bruno-simoes.png",
+            "text": "Vivendo entre Rio e São Paulo, onde tem seu ateliê voltado para o desenvolvimento de projetos de arquitetura e de design de mobiliário, Bruno Simões é curador e desenvolve peças de mobiliário atemporais. Com olhar apurado, sua formação diversificada – arquitetura, fotografia, jornalismo – é elemento determinante em seu design."
+          },
+          {
+            "title": "Brunno Jahara",
+            "image": "https://assets.decocache.com/breton/ee9c7b6a-1c73-4416-a88f-e1a3ce1c0ee5/Brunno-Jahara-Desktop.png",
+            "imageMobile": "https://assets.decocache.com/breton/760877c4-bfb2-4c77-a1f3-0b8dd536f043/Brunno-Jahara-mobile.png",
+            "thumb": "https://assets.decocache.com/breton/40667e24-9dd1-4a7d-89f3-32161513a31d/Brunno-Jahara-bio-desk.png",
+            "text": "É designer de produto com trabalhos apresentados em vários lugares do mundo. Levando suas experiências cosmopolitas, o pluralismo cultural da sociedade hoje e o desejo de criar desenhos que expressam a universalidade sem perder um sabor local, as obras de Jahara seguem uma linha estilística marcada."
+          },
+          {
+            "title": "Caio e Carlos Carvalho",
+            "imageMobile": "https://assets.decocache.com/breton/194e0d2c-7678-4958-9e3c-51d52568ea7a/Caio-carlos-mobile.png",
+            "thumb": "https://assets.decocache.com/breton/234feb4c-7aae-4b29-8d45-feabf2ce2c32/caio-carlos-bio.png",
+            "image": "https://assets.decocache.com/breton/f649c5c2-7941-42ed-a637-930df7512d7e/Caio-carlos-Desktop.png",
+            "text": "Arquitetos formados pela UFRJ, Carlos Carvalho e Caio Carvalho complementaram seus estudos no Politecnico de Milão. Os irmãos estão à frente do renomado escritório de arquitetura Studio RO+CA, e decidiram criar suas próprias peças, uma vez que não encontravam no mercado de mobiliário algo que representasse a personalidade do escritório."
+          },
+          {
+            "title": "Carol Gay",
+            "thumb": "https://assets.decocache.com/breton/d9a72f43-b1ae-44db-83d0-1106d0adb68b/carol.png",
+            "image": "https://assets.decocache.com/breton/01844144-7807-49f6-9b7f-94393ea4a24b/carol-Desktop.png",
+            "imageMobile": "https://assets.decocache.com/breton/6cbdf0a5-2ac9-4d0b-b567-46b9183ec26d/carol-mobile.png",
+            "text": "Arquiteta por formação, Carol sempre focou sua atenção no design de produtos. Desde cedo, cursou e ministrou workshops dentro e fora do Brasil, concorreu a prêmios e estampou diversas publicações do segmento. Hoje, atua em seu ateliê na capital paulista, da qual, aliás, se sente parte indissociável"
+          },
+          {
+            "title": "Choque Design",
+            "image": "https://assets.decocache.com/breton/d49ecb7c-50f2-40cd-bf07-7fdc4a443b71/choque-Desktop.png",
+            "imageMobile": "https://assets.decocache.com/breton/6bbb681c-d84b-4c7a-9831-6d37965836b3/choque-mobile.png",
+            "thumb": "https://assets.decocache.com/breton/b0a8d527-dcc7-42a0-9432-2df1a1d88d5c/choque-designe.png",
+            "text": "É um estúdio criativo que acredita não haver fronteiras entre arquitetura, design e gestão estratégica. A integração dessas três áreas é a aposta do escritório. Composta por uma equipe multidisciplinar, a CHOQUE investe dedicação e muita criatividade em projetos de marcas, embalagens, produtos, arquitetura comercial, treinamentos e gestão estratégica."
+          },
+          {
+            "title": "Diego Revollo",
+            "image": "https://assets.decocache.com/breton/a030992a-b25f-4a3d-8b88-489cf8c27f81/diegorevolo-deskpng.png",
+            "imageMobile": "https://assets.decocache.com/breton/ee8476fa-fa1c-404f-8ca4-6c11facedbda/diegorevolulo-mobile.png",
+            "thumb": "https://assets.decocache.com/breton/6808b82b-353c-4495-b6f5-9d5eb2fdced1/diego-desk.png",
+            "text": "Engenheiro e arquiteto, Diego Revollo valoriza em suas criações, acima de tudo, o belo e tem como principais virtudes o rigor estético e a busca pelo equilíbrio. Com olhar apurado e identidade autêntica, Diego tem seu trabalho reconhecido nas diferentes áreas de atuação, da arquitetura ao design."
+          },
+          {
+            "title": "Edu Bortolai ",
+            "image": "https://assets.decocache.com/breton/d047292f-c906-4e3a-ba20-f36797385c2b/edu-Desktop.png",
+            "imageMobile": "https://assets.decocache.com/breton/c1df4976-0f47-4132-9ee7-d67079fdeb9c/edu-mobile.png",
+            "thumb": "https://assets.decocache.com/breton/b5e59813-8bfb-4bf1-840d-cb6e1f009009/Edu-bort.png",
+            "text": "O traço contemporâneo do designer mostra que a cultura criada por tantas outras, pode gerar um desenho único. Edu acredita que ao design deve estar intrínseco todo o conhecimento estético, técnico e comercial e tudo o que o encanta contribui para suas criações. Conquistou importantes prêmios e participações em feiras e exposições nacionais e internacionais."
+          },
+          {
+            "title": "Estúdio Rain",
+            "image": "https://assets.decocache.com/breton/cc206c21-f484-4abb-973b-705a4f70d304/rain-amb-Desktop.png",
+            "imageMobile": "https://assets.decocache.com/breton/f8f72a36-fbcc-4a1d-91e5-b6d82a741a71/rain-mobile.png",
+            "thumb": "https://assets.decocache.com/breton/675b03f2-5a8a-4683-a90b-8cf05f264f12/rain-desk.png",
+            "text": "foi criado pela designer de produto Mariana Ramos e o arquiteto Ricardo Innecco. Seu trabalho contempla uma variedade de projetos. Os dois nasceram e estudaram em Brasília, capital do País, tendo vivenciado um contexto urbanístico e arquitetônico modernistas - referências que refletem no vocabulário do Estúdio."
+          },
+          {
+            "title": "Faska Rivkind ",
+            "thumb": "https://assets.decocache.com/breton/c42d8c4e-0406-4516-abdf-47bbd35cb5b1/faska-desk.png",
+            "imageMobile": "https://assets.decocache.com/breton/3a0fb566-394c-4fd5-9430-2cb2e9c391a0/faska-mobile.png",
+            "image": "https://assets.decocache.com/breton/e171f540-0066-49f4-93a0-c6704b7ad19d/Designers-Desktop.png",
+            "text": "Natalie Rivkind e Telma Faska estão à frente do escritório de arquitetura e design que leva o sobrenome das duas sócias. Arquitetas de formação, as talentosas profissionais se inspiram no cotidiano para a criação de seus desenhos, sempre levando em consideração, estética, forma, funcionalidade e afetividade"
+          },
+          {
+            "title": "Fernanda Marques",
+            "image": "https://assets.decocache.com/breton/484c8a5a-c809-4a43-90b0-78f308320d8a/Fernanda-Desktop.png",
+            "imageMobile": "https://assets.decocache.com/breton/c61c1513-a92b-49c1-bace-f04a9dafebe0/fernanda-mobile.png",
+            "thumb": "https://assets.decocache.com/breton/bee93df7-3a56-450e-a07b-d66b5a7d0d44/FERNANA-MARKQUES-DESK.png",
+            "text": "Arquitetura, interiores e design de produto estão entre as áreas de atuação da profissional. Em todas elas, a manutenção de um único estilo: limpo e contemporâneo, sintonizado com o melhor da arte e do design internacionais. Apenas na última década, o escritório comandado por Fernanda conquistou dezenas de prêmios."
+          },
+          {
+            "title": "Fetiche Design",
+            "image": "https://assets.decocache.com/breton/f8d5a6c6-de82-4a1d-953e-17f4b7888545/fetiche-Desktop.png",
+            "imageMobile": "https://assets.decocache.com/breton/c17ded5d-612a-41cd-825d-1997850e0087/fetiche-mobile.png",
+            "thumb": "https://assets.decocache.com/breton/ec04a734-e33f-4cfc-b1c3-8677375ea8e3/fetiche-desk.png",
+            "text": "O estúdio Fetiche Design foi fundado por Carolina Armellini e Paulo Biacchi. Fetiche é um objeto animado ou inanimado, feito pelo homem ou produzido pela natureza, ao qual se atribui poder sobrenatural e se presta culto. Esse conceito é intrínseco aos seus produtos: nos quais os designers buscam referências e significados além do formal e funcional para as peças. "
+          },
+          {
+            "image": "https://assets.decocache.com/breton/4f6436e6-83b7-4d0f-a05d-c651accf6016/GloriaCoelho-Desktop.png",
+            "imageMobile": "https://assets.decocache.com/breton/26e9d9f1-8016-42e8-a23b-5f6ece589f0e/GloriaCoelho-mobile.png",
+            "thumb": "https://assets.decocache.com/breton/b522ea26-fa50-43f4-a741-d59732b04633/gloria-coelho.png",
+            "title": "Gloria Coelho",
+            "text": "Com 50 anos de moda autoral, Gloria Coelho conquistou importantes prêmios nacionais e internacionais. Suas criações já foram tema de  quatro exposições e de dois livros dedicados à sua obra. Conhecida como uma  grande mente criativa que busca ordem, pelo rigor ético, elegância  e precisão , leva ao design de mobiliário a mesma visão que une arte, tecnologia e minimalismo."
+          },
+          {
+            "title": "Giacomo Tomazzi Studio",
+            "image": "https://assets.decocache.com/breton/2844e97d-0e24-42b7-95d8-f9480e21d692/giacomo-Desktop.png",
+            "imageMobile": "https://assets.decocache.com/breton/bb6e8756-9538-4218-b3c3-c8db264340e2/giacomo-mobile.png",
+            "thumb": "https://assets.decocache.com/breton/2209d479-b0e7-4b7a-8f21-3cb76a1179cb/Giacomo-bio-desk.png",
+            "text": "Arquiteto e designer, Diogo Giácomo Tomazzi inspira-se nos grandes mestres do design brasileiro e nas paisagens do país. Com peças que valorizam a funcionalidade, sem deixar de lado a poesia do desenho, o designer acredita na fusão entre produção industrial e técnicas artesanais como o alicerce para a criação de produtos com autêntica essência brasileira."
+          },
+          {
+            "title": "Karol Suguikawa",
+            "image": "https://assets.decocache.com/breton/78b2771e-d028-4d24-8652-7982e4be2ffe/karol-Desktop.png",
+            "imageMobile": "https://assets.decocache.com/breton/430b3d8f-a05a-4ca0-977f-916b2b326d62/karol-mobile.png",
+            "thumb": "https://assets.decocache.com/breton/a9df79fb-e081-48f6-b90b-3051dacbd794/karol-bio-desk.png",
+            "text": "Inquieta criativa e propositiva, a arquiteta e designer tem sua produção autoral um olhar para o comportamento e para as artes, em especial o neoconcretismo. Suas memórias visuais e afetivas, são o combustível para suas criações que são corroboradas por pesquisas de comportamento."
+          },
+          {
+            "title": "Lilly Sarti",
+            "thumb": "https://assets.decocache.com/breton/2cf25525-2cbf-44f4-b5ae-b4bf0e35f112/lily-bio-desk.png",
+            "imageMobile": "https://assets.decocache.com/breton/211bd389-12fc-4eb0-a210-b05f4818f0e1/Lily-mobile.png",
+            "image": "https://assets.decocache.com/breton/dedc09fb-f43e-4b8b-8fd9-0f59625aca8a/Lily-Desktop.png",
+            "text": "A marca Lilly Sarti ficou conhecida pelos badalados desfiles e coleções memoráveis. Com preocupação rara para uma marca jovem, Lilly e Renata não descuidam de detalhes e acabamento.  As irmãs não limitam seus temas e pesquisas. Suas criações são baseadas em filmes, livros de moda e arte e, no comportamento atual. "
+          },
+          {
+            "title": "Linda Martins",
+            "text": "Com criações que ressaltam elementos minimalistas contrapostos com detalhes únicos, a designer Linda Martins imprime em suas peças traços contemporâneos, lúdicos e femininos. Formada em Interiores, cursou Tendências para Designers Profissionais e especializou-se em Design de Produtos pelo Instituto Marangoni, em Milão",
+            "thumb": "https://assets.decocache.com/breton/3ae6ee38-f536-4e88-b15c-e6c21556095d/linda-bio-desk.png",
+            "image": "https://assets.decocache.com/breton/56cd9eb6-5230-46c4-ab44-1591c91b442e/linda-Desktop.png",
+            "imageMobile": "https://assets.decocache.com/breton/472fb199-cda3-4f53-8fb4-b6fea47cefd2/linda-mobile.png"
+          },
+          {
+            "title": "Luisa Moysés",
+            "thumb": "https://assets.decocache.com/breton/d6a49b75-ca2f-46b0-8cb3-5077a8d79a98/Luisa-Moyses.png",
+            "text": "Formada em Desenho Industrial pela FAAP e  pós-graduada em design de mobiliário na universidade Elisava em Barcelona, a designer Luisa Moysés é uma das principais vertentes que impulsiona a produção da Breton. Inspirada em lugares onde possa se conectar, capta detalhes e formas para criação de peças autorais com identidade única e marcantes.",
+            "image": "https://assets.decocache.com/breton/41dcba00-93c5-4677-bb40-cfe3c20ec17c/luisa-Desktop.png",
+            "imageMobile": "https://assets.decocache.com/breton/4f6208cd-713f-404a-aafd-9e5d11e08e1e/Designers-mobile.png",
+            "link": "https://deco-sites-breton--teste.deno.dev/area-interna?sort=price%3Adesc&filter.category-1=area-interna&filter.designer=luisa-moyses&page=1"
+          },
+          {
+            "title": "Murilo Weitz",
+            "text": "É formado em Arquitetura e Urbanismo pela Universidade Mackenzie e em Design de Criação e Moda na University Arts of London. Em 2015, lançou sua marca homônima em São Paulo, onde vive e atua, e, desde então, tem se dedicado à produção de objetos únicos ou seriados, dentro de um vasto arco de interesses, que vão do design têxtil à cerâmica.",
+            "imageMobile": "https://assets.decocache.com/breton/355f34a0-0873-4c43-bbb8-17eb7d3ac864/murilo-mobile.png",
+            "image": "https://assets.decocache.com/breton/ad33b450-196b-4bbb-8cc2-2dcc1be55c71/murilo-Desktop.png",
+            "thumb": "https://assets.decocache.com/breton/ce3d0323-8e2e-419f-b16b-bd2664e3668a/murilo-bio-desk.png",
+            "link": "/teste2"
+          },
+          {
+            "title": "Reinaldo Lourenço",
+            "text": "Um dos mais reconhecidos estilistas do Brasil, Reinaldo Lourenço sempre respirou moda. Fez dela uma grande paixão e a sua maior contribuição pessoal para deixar o mundo mais interessante. Para o estilista, a tendência é menos importante do que a individualidade: \"A elegância e o poder estão dentro de cada pessoa. Basta ter atitude para se expressar.\" ",
+            "image": "https://assets.decocache.com/breton/0de25fdc-6e6a-4d17-a14c-be4c7343323d/C_CLA_BC_Verus_SF_New_Faro_MC_Rei.png",
+            "imageMobile": "https://assets.decocache.com/breton/7c4ce51b-e003-4f1b-b9ea-e40064582247/rei-mobile.png",
+            "thumb": "https://assets.decocache.com/breton/b59a7b23-adcc-45b9-947d-409aa335fd7d/RETRATO_REINALO.png",
+            "link": "/teste"
+          },
+          {
+            "title": "Suite Design ",
+            "text": "É  focado em surpreender e superar as expectativas de seus clientes. Fundado em 2008, em São Paulo, por Carolina Mauro, Daniela Frugiuele e Filipe Troncon, os profissionais unem experiências distintas, conhecimento técnico e muita criatividade para desenvolver uma arquitetura moderna, sofisticada e cosmopolita. ",
+            "image": "https://assets.decocache.com/breton/bfa2bcef-4650-4407-bf0b-136f37a12f5f/suite-Desktop.png",
+            "imageMobile": "https://assets.decocache.com/breton/821dda5d-163d-4b47-b359-739aa6293d11/suite-mobile.png",
+            "thumb": "https://assets.decocache.com/breton/5e315025-6f3c-469b-bf4e-a478605bd8ef/suite-bio-desk.png"
+          },
+          {
+            "title": "Tiie Design",
+            "image": "https://assets.decocache.com/breton/9b9e9e33-44d8-4685-87e1-2556e186692e/tieebanner2-Desktop.png",
+            "imageMobile": "https://assets.decocache.com/breton/1102f4e4-6449-4fce-aebd-969419cd1e75/tiie-mobile.png",
+            "thumb": "https://assets.decocache.com/breton/8df5c3b4-c8ad-4f4c-9f81-07153af17649/Tiie-Design-bio-desk.png",
+            "text": "A dupla criativa Julyana Hilgenstieler e Nicole Liz Salvatierra, à frente da Tiie Design, cria mobiliários com autoralidade industrial brasileira transmitindo o cuidado artesanal, mesmo produzidos em escala industrial, e contando histórias da infância ou recriando peças do cotidiano com funcionalidade e leveza. "
+          },
+          {
+            "title": "Victor Vasconcelos",
+            "image": "https://assets.decocache.com/breton/499761b2-75a6-4c63-bc8a-7a2cb7b950a4/victor_Desktop.png",
+            "imageMobile": "https://assets.decocache.com/breton/f9a85cf2-bd64-409f-90f6-8dd3fd82007b/victor-mobile.png",
+            "thumb": "https://assets.decocache.com/breton/1d526908-e09f-4871-abf3-e6dd8271bbba/victor-bio-desk.png",
+            "text": "Victor Vasconcelos defende que suas criações não se restrinjam apenas às suas conjunções formais. E justamente por hipervalorizar o poder das formas, suas peças são capazes de produzir diferentes sensações que variam de acordo com a subjetividade de quem entra em contato com elas."
+          }
+        ],
+        "itemsToShow": 1
       }
     },
     {
@@ -4091,10 +4317,11 @@
           "height": 760
         },
         "videoMobile": {
-          "video": "https://data.decoassets.com/breton/4638020a-d66e-4f9a-ac83-f691cd9e489e/aboutUs-video2-mob.mp4",
+          "video": "https://data.decoassets.com/breton/8b1dcad8-9cfb-42c5-bbfc-08c9814b0de0/aboutUs-video2-desk.mp4",
           "width": 360,
           "height": 605
-        }
+        },
+        "autoplay": true
       },
       "videoInfo": {
         "videoDesktop": {
@@ -4138,8 +4365,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Institutional/InstitutionalText.tsx",
-        "title": "<h3 style=\"color: rgb(103, 33, 53); font-size: clamp(12px, 2vw, 16px); line-height: 24px; font-weight: 600; text-align: center; margin-bottom: 24px;\" data-mce-style=\"color: rgb(103, 33, 53); font-size: clamp(12px, 2vw, 16px); line-height: 24px; font-weight: 600; text-align: center; margin-bottom: 24px;\">MANIFESTO BRETON</h3>",
-        "description": "<p style=\"font-size: 15px; text-align: center; line-height: 24px; letter-spacing: 0.9px; font-weight: 300;\" data-mce-style=\"font-size: 15px; text-align: center; line-height: 24px; letter-spacing: 0.9px; font-weight: 300;\">Temos como base a nossa familia! E como uma empresa familiar, <span style=\"background-color: rgb(103, 33, 53); color: rgb(252, 249, 247);\" data-mce-style=\"background-color: rgb(103, 33, 53); color: rgb(252, 249, 247);\">o acolher bem</span> faz parte da nossa essência. Colocamos o cliente como peça central das nossas ações, buscando traduzir o que há de melhor nos nossos produtos e no nosso atendimento<span style=\"background-color: rgb(103, 33, 53); color: rgb(252, 249, 247);\" data-mce-style=\"background-color: rgb(103, 33, 53); color: rgb(252, 249, 247);\"> para que ele consiga realizar o seu sonho!</span><br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore <span style=\"background-color: rgb(103, 33, 53); color: rgb(252, 249, 247);\" data-mce-style=\"background-color: rgb(103, 33, 53); color: rgb(252, 249, 247);\">magna aliqua.</span> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat <span style=\"background-color: rgb(103, 33, 53); color: rgb(252, 249, 247);\" data-mce-style=\"background-color: rgb(103, 33, 53); color: rgb(252, 249, 247);\">cupidatat non proident,</span> sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+        "title": "<h3 style=\"color: rgb(103, 33, 53); font-size: clamp(12px, 2vw, 16px); line-height: 24px; font-weight: 600; text-align: center; margin-bottom: 24px;\" data-mce-style=\"color: rgb(103, 33, 53); font-size: clamp(12px, 2vw, 16px); line-height: 24px; font-weight: 600; text-align: center; margin-bottom: 24px;\">C R I E .&nbsp; V I V A .&nbsp; C E L E B R E .</h3>",
+        "description": "<p class=\"md:text-center\" style=\"font-size: 15px; font-weight: 300; line-height: 24px; letter-spacing: 0.9px; margin-top: 24px;\" data-mce-style=\"font-size: 15px; font-weight: 300; line-height: 24px; letter-spacing: 0.9px; margin-top: 24px;\">Você não é quem foi ontem e nem quem será amanhã.<br>Somos feitos de mudanças!<br>Nossas experiências. Nossas conexões.<br>São elas que transformam.<br>Cada interação. Cada desafio. Cada alegria vivida.<br>É o que nos faz ser quem somos.<br>E assim, construímos quem seremos no futuro.<br>A vida é sobre se conectar.<br>Com pessoas.<br>Com lugares.<br>Com momentos.<br>Com sensações.<br>Com o passado e com o presente.<br>Não os deixe passar despercebidos.<br>Então, levante-se. Converse. Ria.<br>Viva a intensidade de cada segundo.<br>Abrace quem você ama. Reúna a família. Caminhe sem destino. Passeie com o seu pet.<br>Convide os amigos para uma conversa sem hora para acabar.<br>Abra a mente. Abra as janelas.<br>Plante uma árvore. Sonhe o futuro.<br>Aproveite a liberdade de estar presente e agora.<br>Valorize o que está dentro de você.<br>Porque a sua essência tem algo que o mundo inteiro quer sentir.<br>É isso que transforma.<br>Que a alegria seja compartilhada. Que as relações sejam cultivadas.<br>Que nosso lar não seja apenas o lugar onde vivemos, mas onde realmente habitamos.<br>Esse é o nosso desejo.<br>Breton. Crie. Viva. Celebre.<br></p>"
       }
     },
     {
@@ -4147,87 +4374,42 @@
       "section": {
         "__resolveType": "site/sections/Home/Ecobreton/Ecobreton.tsx",
         "title": "eco",
-        "imageLogo": "https://data.decoassets.com/breton/d37e48d7-b6d2-431f-9814-94741e08dee4/logoecobreton.svg",
         "images": [
           {
-            "image": "https://data.decoassets.com/breton/9deef74e-fa15-4239-844d-a2fa15212c9f/Banner-Meio.png",
-            "titleImage": "Produção consciente",
-            "textImage": "Consciência ambiental, não é somente pensar na distinção de resíduos, mas fazer com que o fluxo produtivo reduza o impacto gerado com as sobras que são geradas.",
-            "textLink": "/"
+            "image": "https://assets.decocache.com/breton/21d58faf-a429-47c8-b524-2c6f0f85a684/bnneeco.png",
+            "titleImage": "Carbono negativo pelo terceiro ano",
+            "textImage": "Somos uma marca pioneira no segmento a conquistar o selo carbono negativo três vezes consecutivas. A certificação reconhece empresas que removem da atmosfera mais carbono do que emite, contribuindo ativamente para a manutenção do meio ambiente. Uma herança da Breton para as próximas gerações.",
+            "textLink": "/ecobreton"
           },
           {
-            "image": "https://data.decoassets.com/breton/300a450a-58a1-4bcc-8698-e9b4ca3fbe9a/Banner-Meio-(2).png",
-            "titleImage": "Insumo sustentável",
-            "textImage": "A escolha de materiais, insumos e acabamentos não é feita apenas com base em seu aspecto final e custo. O impacto ambiental e sua reciclagem são itens cruciais na tomada de decisão.",
-            "textLink": "/teste"
+            "image": "https://assets.decocache.com/breton/8ac9b3c9-4d32-4d54-8389-f38ba37a60e1/bnneeco2.png",
+            "titleImage": "Breton Circular",
+            "textImage": "Uma iniciativa pioneira de economia circular no segmento. Por meio de uma plataforma exclusiva para a revenda de móveis seminovos da Breton, peças em bom estado ganham a chance de fazer parte de novas histórias. Faça parte dessa corrente!",
+            "textLink": "https://www.circular.breton.com.br/"
           },
           {
-            "image": "https://data.decoassets.com/breton/0c83788f-7000-4298-aacf-2bcb5f295934/Banner-Meio-(3).png",
-            "titleImage": "Carbono negativo",
-            "textImage": "A cada pedido fechado nas lojas Breton, plantamos uma árvore na Mata Atlântica. Por que a Mata Atlântica? Entre os biomas brasileiros, este foi o mais devastado, além de ter uma extrema importância ambiental.",
-            "textLink": "/teste2"
+            "image": "https://assets.decocache.com/breton/4b8bb8d6-0920-476f-9d1b-ca274d212893/ref-banner-ecobreto-homepage.png",
+            "titleImage": "Nossa produção",
+            "textImage": "Unindo o cuidado artesanal e a alta tecnologia, a fábrica onde nascem nossos produtos foi projetada para mitigar ao máximo os impactos ao meio ambiente e minimizar o desperdício de materiais e matérias primas que não podem ser reaproveitadas.",
+            "textLink": "/ecobreton"
           },
           {
-            "image": "https://data.decoassets.com/breton/300a450a-58a1-4bcc-8698-e9b4ca3fbe9a/Banner-Meio-(2).png",
-            "titleImage": "teste",
-            "textImage": "teste teste teste",
-            "textLink": "/"
+            "image": "https://assets.decocache.com/breton/a84dfe3d-514a-4c2c-b2b2-3c79eb90f3d0/Sem-nome-(940-x-728-px)-(384-x-400-px)-(1360-x-560-px)-(1360-x-728-px)-(5).png",
+            "textImage": "Estamos comprometidos a recuperar um dos biomas mais importantes do Brasil. Por isso, a cada pedido fechado na Breton, plantamos uma árvore na Mata Atlântica. O plantio ocorre por meio da nossa parceria com a Fundação S.O.S Mata Atlântica.",
+            "titleImage": "Parceria com a SOS Mata Atlântica"
           }
         ],
         "subtitle": "breton",
-        "link": "/",
+        "link": "/ecobreton",
         "logo": "https://data.decoassets.com/breton/fa4ccc39-53c4-4fe6-bc37-5c13a8b766b1/ecoBretonLogo-1.svg"
       }
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "site/sections/Home/BannerDesigner/BannerDesigner.tsx",
-        "title": "designer",
-        "imageLogo": "https://data.decoassets.com/breton/8ccc362b-ec1c-475d-9c0a-047af81f067e/logo-designer.svg",
-        "images": [
-          {
-            "image": "https://data.decoassets.com/breton/a4a6484f-a76f-48ed-8b70-0392c2da5419/banner-designer-1.png",
-            "title": "André Grippi",
-            "text": "André Grippi acredita no design como ferramenta de expressão, de construção de narrativas e de registro de memória. Curioso pelas diferentes maneiras em que corpo e mente dialogam com seu entorno.",
-            "thumb": "https://data.decoassets.com/breton/fcd194fa-cdd7-4567-b987-3b54c513f6da/thumb-designer-1.png",
-            "link": "/teste",
-            "imageMobile": "https://data.decoassets.com/breton/36d590c3-9c39-4fbb-83eb-ecfe324ae083/banner-designer-1-mobile.png"
-          },
-          {
-            "image": "https://data.decoassets.com/breton/f3fda979-9d18-44d9-857e-69c41078828f/banner-bullets.png",
-            "title": "Bianca Barbato",
-            "text": "Para Bianca Barbato, seja na vida, seja no trabalho, experimentar é fundamental. Paulistana e designer autodidata, fundou seu estúdio de criação em 2007, no Rio de Janeiro. Antes, trabalhava com cinema.",
-            "thumb": "https://data.decoassets.com/breton/d8148d32-8aa5-405c-b009-3457c3efa4d1/image.png",
-            "link": "/teste2",
-            "imageMobile": "https://data.decoassets.com/breton/36d590c3-9c39-4fbb-83eb-ecfe324ae083/banner-designer-1-mobile.png"
-          },
-          {
-            "image": "https://data.decoassets.com/breton/a4a6484f-a76f-48ed-8b70-0392c2da5419/banner-designer-1.png",
-            "title": "André Grippi",
-            "text": "André Grippi acredita no design como ferramenta de expressão, de construção de narrativas e de registro de memória. Curioso pelas diferentes maneiras em que corpo e mente dialogam com seu entorno.",
-            "thumb": "https://data.decoassets.com/breton/fcd194fa-cdd7-4567-b987-3b54c513f6da/thumb-designer-1.png",
-            "link": "/teste",
-            "imageMobile": "https://data.decoassets.com/breton/36d590c3-9c39-4fbb-83eb-ecfe324ae083/banner-designer-1-mobile.png"
-          },
-          {
-            "image": "https://data.decoassets.com/breton/f3fda979-9d18-44d9-857e-69c41078828f/banner-bullets.png",
-            "title": "Bianca Barbato",
-            "text": "Para Bianca Barbato, seja na vida, seja no trabalho, experimentar é fundamental. Paulistana e designer autodidata, fundou seu estúdio de criação em 2007, no Rio de Janeiro. Antes, trabalhava com cinema.",
-            "thumb": "https://data.decoassets.com/breton/d8148d32-8aa5-405c-b009-3457c3efa4d1/image.png",
-            "link": "/teste2",
-            "imageMobile": "https://data.decoassets.com/breton/36d590c3-9c39-4fbb-83eb-ecfe324ae083/banner-designer-1-mobile.png"
-          }
-        ],
-        "itemsToShow": 1
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
         "__resolveType": "site/sections/Spacer/Spacer.tsx",
-        "heightDesktop": 184,
-        "heightMobile": 104
+        "heightDesktop": 160,
+        "heightMobile": 56
       }
     },
     {
@@ -4240,21 +4422,21 @@
           {
             "imageDesktop": "https://data.decoassets.com/breton/d25cce84-4ae7-4691-a4a2-2a5fb1ade4ef/InstitutionalFooterNavigatorDesk-1.png",
             "imageMobile": "https://data.decoassets.com/breton/6a4f8740-9119-4866-9c2b-18988300a57a/InstitutionalFooterNavigatorMob-1.png",
-            "title": "Lojas Breton",
-            "label": "Ver lojas",
-            "link": "/"
+            "title": "Nossas Lojas",
+            "label": "Endereços",
+            "link": "/stores"
           },
           {
-            "title": "Eco Breton",
+            "title": "EcoBreton",
             "label": "Saiba mais",
-            "link": "/",
+            "link": "/ecobreton",
             "imageDesktop": "https://data.decoassets.com/breton/29da7b3e-4793-4d45-9c91-2a6fa22557c8/InstitutionalFooterNavigatorDesk-2.png",
             "imageMobile": "https://data.decoassets.com/breton/6a4f8740-9119-4866-9c2b-18988300a57a/InstitutionalFooterNavigatorMob-1.png"
           },
           {
-            "title": "Blog Breton",
+            "title": "Blog",
             "label": "Saiba mais",
-            "link": "/",
+            "link": "/blog",
             "imageDesktop": "https://data.decoassets.com/breton/80daf5e5-02c8-48ac-b44a-069e3d8b0657/InstitutionalFooterNavigatorDesk-3.png",
             "imageMobile": "https://data.decoassets.com/breton/6a4f8740-9119-4866-9c2b-18988300a57a/InstitutionalFooterNavigatorMob-1.png"
           }

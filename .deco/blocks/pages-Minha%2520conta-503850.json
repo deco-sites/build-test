@@ -10,7 +10,7 @@
     },
     {
       "__resolveType": "site/sections/Iframe/ProxyIframe.tsx",
-      "src": "/account"
+      "src": "/login?returnUrl=%2Faccount"
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",

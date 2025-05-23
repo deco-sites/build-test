@@ -1,0 +1,77 @@
+{
+  "name": "Designers",
+  "path": "/designers",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "commerce/sections/Seo/SeoPLPV2.tsx",
+        "jsonLD": {
+          "__resolveType": "LoaderPLP"
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Search/BannerCategory/BannerCategory.tsx",
+      "banners": [
+        {
+          "image": {
+            "desktop": "https://assets.decocache.com/breton/0823c874-5b57-4c3e-b3c6-9e019ca771ef/designers-jd-botanico.png",
+            "mobile": "https://assets.decocache.com/breton/0823c874-5b57-4c3e-b3c6-9e019ca771ef/designers-jd-botanico.png",
+            "alt": "Breton"
+          },
+          "title": "Designers",
+          "matcher": "/designers"
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Spacer/Spacer.tsx",
+        "heightDesktop": 40,
+        "heightMobile": 16
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Designer/DesignersList.tsx",
+        "designers": [
+          {
+            "name": "Bruno Niz",
+            "image": "https://assets.decocache.com/breton/5e901101-51b4-4ed3-9b5f-1559b34b6bc5/pdp-designer-bruno-niz-mobile-pequeno.png"
+          },
+          {
+            "name": "Estudio Breton",
+            "image": "https://assets.decocache.com/breton/b601f2eb-e49f-4ff9-be50-4796f4febeae/370358966_696290685873096_8674129696491704804_n.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Spacer/Spacer.tsx",
+        "heightDesktop": 40,
+        "heightMobile": 16
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

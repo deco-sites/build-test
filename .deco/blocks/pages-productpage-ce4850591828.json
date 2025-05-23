@@ -25,7 +25,7 @@
       "page": {
         "__resolveType": "LoaderPDP"
       },
-      "defaultImageBanner": "https://data.decoassets.com/breton/ef2da9f0-0a84-4670-819a-1f6da2cb280c/bannerHeroPDP.png"
+      "defaultImageBanner": "https://assets.decocache.com/breton/e44c5b7d-6f90-4156-b3e1-f2ea6d89c4a9/ref-banner-hero-produto-desktop-neutro.png"
     },
     {
       "__resolveType": "site/sections/Product/ProductSlide.tsx",
@@ -41,7 +41,7 @@
       "videos": [
         {
           "label": "Teste",
-          "productId": "3",
+          "productId": "64",
           "description": "Macio, aconchegante e gostoso, antes eram adjetivos que pareciam abstratos, mas após esta produção são palavras que estão a um toque da mão.",
           "video": "https://data.decoassets.com/breton/22483aae-15b5-45c6-895d-ea812f43be01/product-video-teste.mp4"
         }
@@ -74,21 +74,11 @@
         "designerBlock": [
           {
             "img": {
-              "desktop": "https://assets.decocache.com/breton/e7f73de1-9ceb-457b-88a5-261aa7677952/productDesignerBannerDesk.png",
-              "mobile": "https://assets.decocache.com/breton/ae8f0c84-bc70-4e53-8b45-c2f415730cf1/productDesignerBannerMob.png"
+              "desktop": "https://assets.decocache.com/breton/ed3c5d13-6b29-4712-b269-5f26ffcf15c7/pdp-designer-bruno-niz-desktop.png",
+              "mobile": "https://assets.decocache.com/breton/873391de-0b63-4ff4-b1cf-abbf541cd19c/pdp-designer-bruno-niz-mobile.png"
             },
-            "topText": "nós transformamos ideias em arte",
-            "architects": "Lilly e Renata Sarti",
-            "text": "<p>Uma seleção de móveis que promovem a experiência sensitiva de texturas e relevos que despertam o desejo do toque, enchem os olhos e convidam você a interagir com a peça.<br><br>“A gente pensou em conforto, estética, bem estar, leveza... porque o lugar que você precisa se sentir melhor é dentro da sua casa”<br></p>"
-          },
-          {
-            "img": {
-              "desktop": "https://assets.decocache.com/breton/e7f73de1-9ceb-457b-88a5-261aa7677952/productDesignerBannerDesk.png",
-              "mobile": "https://assets.decocache.com/breton/ae8f0c84-bc70-4e53-8b45-c2f415730cf1/productDesignerBannerMob.png"
-            },
-            "topText": "nós transformamos ideias em arte",
-            "architects": "Suite Arquitetos",
-            "text": "<p>Uma seleção de móveis que promovem a experiência sensitiva de texturas e relevos que despertam o desejo do toque, enchem os olhos e convidam você a interagir com a peça.<br><br>“A gente pensou em conforto, estética, bem estar, leveza... porque o lugar que você precisa se sentir melhor é dentro da sua casa”<br></p>"
+            "architects": "Bruno Niz",
+            "text": "<p class=\"p1\">Bruno Niz iniciou sua carreira no design gráfico e editorial, mas encontrou sua verdadeira paixão no design de produtos e mobiliário. </p><p class=\"p1\">Seu estilo combina modernismo e minimalismo, inspirando-se em diversas fontes que vão desde a geometria do design gráfico, passando pela arquitetura até a natureza.</p>"
           }
         ],
         "stamp": "https://assets.decocache.com/breton/00cedff9-0e0b-4fb3-9517-1b2f7d06863e/productDesignerStamp.png"
@@ -100,7 +90,8 @@
         "__resolveType": "site/sections/Product/ProductInfos.tsx",
         "page": {
           "__resolveType": "LoaderPDP"
-        }
+        },
+        "defaultCares": "//assets.decocache.com/breton/61a91ed1-76a0-4e6f-9227-833a762a2224/Guia-de-Cuidados-BRETON.pdf"
       }
     },
     {
@@ -115,7 +106,13 @@
             "collectionId": 237,
             "desktopImage": "https://assets.decocache.com/breton/22b3c3ab-1b9f-4635-8dfd-7d7526d4d2e0/banner.png",
             "mobileImage": "https://assets.decocache.com/breton/f451da98-088d-4968-80d5-8f79781f9270/image-207.png",
-            "count": 10
+            "count": 2
+          },
+          {
+            "collectionId": 235,
+            "desktopImage": "https://assets.decocache.com/breton/22b3c3ab-1b9f-4635-8dfd-7d7526d4d2e0/banner.png",
+            "mobileImage": "https://assets.decocache.com/breton/f451da98-088d-4968-80d5-8f79781f9270/image-207.png",
+            "count": 16
           },
           {
             "collectionId": 338,

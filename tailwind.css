@@ -438,3 +438,7 @@
     filter: brightness(0.8);
   }
 }
+
+h1 {
+  @apply md:text-h1 text-h1Mobile uppercase text-white text-center
+}

@@ -1,0 +1,7 @@
+{
+  "__resolveType": "site/sections/Video/VideoOrImage.tsx",
+  "mediaType": {
+    "videoDesktop": {},
+    "videoMobile": {}
+  }
+}

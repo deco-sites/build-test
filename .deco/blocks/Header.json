@@ -12,31 +12,31 @@
     "suggestions": [
       {
         "label": "Sofá",
-        "href": "/sofa"
+        "href": "/s?q=sofa&page=1"
       },
       {
         "label": "Cadeira",
-        "href": "/cadeira"
+        "href": "/s?q=cadeira&page=1"
       },
       {
         "label": "Mesa",
-        "href": "/mesa"
+        "href": "/s?q=mesa&page=1"
       },
       {
         "label": "Aparador",
-        "href": "/aparador"
+        "href": "/s?q=aparador&page=1"
       },
       {
         "label": "Banco",
-        "href": "/banco"
+        "href": "/s?q=banco&page=1"
       },
       {
         "label": "Estante",
-        "href": "/estante"
+        "href": "/s?q=estante&page=1"
       },
       {
         "label": "Poltrona",
-        "href": "/poltrona"
+        "href": "/s?q=poltrona&page=1"
       }
     ],
     "images": [
@@ -49,17 +49,6 @@
         "label": "Área interna",
         "href": "/area-interna",
         "image": "https://data.decoassets.com/breton/cce37e12-f05a-44f8-b339-707abb9949b0/Banner-Meio-(1).png"
-      },
-      {
-        "label": "Coleções especiais",
-        "href": "/colecoes",
-        "image": "https://data.decoassets.com/breton/0efc3fc9-412c-41c4-af8a-cbf9110bad74/Banner-Meio-(2).png"
-      },
-      {
-        "label": "Produtos casa vogue",
-        "href": "/casa-vogue",
-        "image": "https://data.decoassets.com/breton/00e7201f-d30e-4bbf-be5b-c53fbd9a938c/Banner-Meio-(3).png",
-        "mobileLabel": "Casa Vogue"
       }
     ]
   },
@@ -448,49 +437,34 @@
           "label": "Ambientes",
           "images": [
             {
-              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/67b4e39c-a909-4b04-bb21-fcdc9bb643bf/Quarto.png",
-              "label": "Quarto",
-              "link": "/quarto"
-            },
-            {
               "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/32697e6b-1f0e-4aa0-8c30-163c9d69c9db/Jantar.png",
               "label": "Jantar",
               "link": "/jantar"
             },
             {
-              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/dac12ce5-f9d2-422f-a3a8-3deab85602ac/Escritorios.png",
-              "label": "Escritórios",
-              "link": "/escritorios"
-            },
-            {
               "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/ff1b0ed4-cf8c-427e-a355-d8b8b6e1ca64/Sala-de-estar.png",
-              "label": "Sala de Estar",
-              "link": "/sala-de-estar"
+              "label": "Living",
+              "link": "/living"
             },
             {
-              "label": "Cozinha",
-              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/4103b588-e6d6-4da5-8c24-9ef42147ea0b/Cozinha.png",
-              "link": "/cozinha"
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/67b4e39c-a909-4b04-bb21-fcdc9bb643bf/Quarto.png",
+              "label": "Quarto",
+              "link": "/quarto"
+            },
+            {
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/65f2150e-9fc9-4345-81ef-e399d1d5eec3/Bar.png",
+              "label": "Home Theater",
+              "link": "/home-theater"
+            },
+            {
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/dac12ce5-f9d2-422f-a3a8-3deab85602ac/Escritorios.png",
+              "link": "/escritorios",
+              "label": "Office"
             },
             {
               "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/83733c78-3b66-4c11-858b-d354cf507a70/Area-externa.png",
               "label": "Área Externa",
               "link": "/area-externa"
-            },
-            {
-              "label": "Garden",
-              "link": "/garden",
-              "image": "https://data.decoassets.com/breton/c8548540-5caf-4a4d-a732-5ecf53015340/Garden.png"
-            },
-            {
-              "label": "Bar",
-              "link": "/bar",
-              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/65f2150e-9fc9-4345-81ef-e399d1d5eec3/Bar.png"
-            },
-            {
-              "label": "Banheiro",
-              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/9971c6fd-1b0e-4f4f-a3f8-9c153761757b/Banheiro.png",
-              "link": "/banheiro"
             }
           ],
           "type": "menu-with-images"
@@ -501,7 +475,7 @@
   "headerLinks": [
     {
       "label": "Designers",
-      "href": "#banner-designer"
+      "href": "/designers"
     }
   ],
   "languages": [
@@ -511,10 +485,6 @@
     },
     {
       "label": "EN",
-      "link": "/"
-    },
-    {
-      "label": "ES",
       "link": "/"
     }
   ]

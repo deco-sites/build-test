@@ -4,8 +4,8 @@
   "post": {
     "authors": [
       {
-        "name": "GLOBO.COM",
-        "email": "teste@teste.com"
+        "name": "Redação Breton",
+        "email": "diego.miguel@breton.com.br"
       }
     ],
     "categories": [
@@ -17,109 +17,161 @@
     "content": [
       {
         "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Em 20 anos de casamento, é a primeira vez que&nbsp;<span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">Taís Araujo e Lázaro Ramos</span>&nbsp;realizam o projeto de uma casa do início ao fim. “Moramos em diversos lugares e nunca quisemos encarar uma&nbsp;obra&nbsp;longa. Fazíamos apenas intervenções pontuais.<br><br>O problema é que os espaços não ficavam com a nossa cara”, conta o ator. Agora foi diferente. Após um ano de reforma, o apartamento dos anos 1950, na Zona Sul do Rio de Janeiro, se transformou no lar que eles desejavam. <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">“Apesar de ser quase tudo novo, a gente se reconhece em cada canto,</span> pois pensamos os ambientes juntos e trouxemos objetos e obras de arte ligados à nossa história”, lembra Taís.</p>"
-      },
-      {
-        "__resolveType": "blog/sections/Blog/components/ImageTwoColumnSection.tsx",
-        "imageOne": "https://assets.decocache.com/breton/5c37a682-f897-470e-9e13-67ff6b727214/blog-two-images-1.png",
-        "imageTwo": "https://assets.decocache.com/breton/a9772c21-18db-446a-9ce4-89f6758529f2/blog-two-images-2.png"
-      },
-      {
-        "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<h2 data-mce-style=\"text-align: center;\" style=\"text-align: center;\"><strong>O SONHO DE PERSONALIZAÇÃO</strong></h2><p><br data-mce-bogus=\"1\"></p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Inspirada nas paisagens naturais que tornam o <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">Brasil único</span>, a linha foi desenvolvida a partir de uma profunda pesquisa sobre os elementos que definem nossa identidade cultural. Desde as cores vibrantes das florestas tropicais até a serenidade das praias, passando pelas texturas da nossa fauna e flora, cada detalhe da coleção foi projetado para transmitir o espírito do Brasil de uma forma inovadora e elegante.<br><br>As matérias-primas foram cuidadosamente selecionadas para valorizar a sustentabilidade, reforçando o <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">compromisso da marca com práticas responsáveis e a valorização dos recursos locais</span>, que são parte intrínseca da nossa identidade.</p>"
+        "content": "<p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Inspirada pelas formas orgânicas da natureza e pela força dos elementos, a coleção Oceano, assinada por Fernanda Marques para a Breton, explora o encontro entre design, escultura e funcionalidade.&nbsp;</p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p>"
       },
       {
         "__resolveType": "blog/sections/Blog/components/Video.tsx",
         "videoDesktop": {
-          "video": "https://assets.decocache.com/breton/9873d6c5-c1fd-4bcf-bc9a-75e9644595d6/Tais-Lazaro-mais-otimizado-ainda.mp4",
+          "video": "https://assets.decocache.com/breton/acdd114d-045f-4f8f-80a2-ab8f6de9cac0/20250331_TEASER_BRETON_FERNANDA_H_LR_003.mp4",
           "width": 100,
           "height": 50
         },
         "videoMobile": {
           "width": 100,
           "height": 50,
-          "video": "https://assets.decocache.com/breton/9873d6c5-c1fd-4bcf-bc9a-75e9644595d6/Tais-Lazaro-mais-otimizado-ainda.mp4"
-        }
+          "video": "https://assets.decocache.com/breton/acdd114d-045f-4f8f-80a2-ab8f6de9cac0/20250331_TEASER_BRETON_FERNANDA_H_LR_003.mp4"
+        },
+        "autoplay": true
+      },
+      {
+        "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
+        "content": "<p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\">A linha foi lançada na SP-Arte 2025 e marca o retorno da arquiteta ao evento em parceria com a Breton, reforçando o papel da marca no cenário do mobiliário autoral brasileiro.</p><p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p><p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><em>\"Cada peça desta coleção foi inspirada pela grandiosidade e fluidez da natureza, buscando traduzir sua força e organicidade de maneira única e sofisticada. Ao criar essas peças, meu objetivo foi capturar a beleza do mundo natural – das penínsulas às falésias, das ilhas às enseadas, das águas – e reinterpretá-las em formas e volumes que proporcionem tanto estética quanto funcionalidade\"</em>, explica Fernanda Marques.</p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p>"
+      },
+      {
+        "__resolveType": "blog/sections/Blog/components/ImageTwoColumnSection.tsx",
+        "imageOne": "https://assets.decocache.com/breton/b436f081-8e43-4cd3-9fa2-15a0a8a74f97/_MF01352.jpg",
+        "imageTwo": "https://assets.decocache.com/breton/cc1c217b-7130-4615-82d8-0d74a8f39610/BretonFMSPArte-18.jpg"
       },
       {
         "__resolveType": "blog/sections/Blog/components/ImageAndTextSection.tsx",
-        "image": "https://assets.decocache.com/breton/f8c3b6c7-ae93-4edb-af72-65c2f61c305d/blog-image-and-text.png",
+        "image": "https://assets.decocache.com/breton/268c94e9-c092-4d86-9c82-5836401df94e/_MF01562.jpg",
         "text": "<p><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Inspirada nas paisagens naturais que tornam o Brasil único, a linha foi desenvolvida a partir de uma profunda pesquisa sobre os elementos que definem nossa identidade cultural. Desde as cores vibrantes das florestas tropicais até a serenidade das praias, passando pelas texturas da nossa fauna e flora, cada detalhe da coleção foi projetado para transmitir o espírito do Brasil de uma forma inovadora e elegante.</span><br><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">As matérias-primas foram cuidadosamente selecionadas para valorizar a sustentabilidade, reforçando o compromisso da marca com práticas responsáveis e a valorização dos recursos locais, que são parte intrínseca da nossa identidade.</span></p>"
+      },
+      {
+        "__resolveType": "website/sections/Rendering/Lazy.tsx",
+        "section": {
+          "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
+          "content": "<h1 style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><span style=\"font-size: 36pt;\" data-mce-style=\"font-size: 36pt;\"><strong>Mesa de Jantar Península</strong></span></h1><p><br data-mce-bogus=\"1\"></p><p><span style=\"font-size: 12pt;\" data-mce-style=\"font-size: 12pt;\">Com design escultural, a peça remete às formações geológicas que avançam sobre o mar. O tampo, com acabamento que evoca um quebra-cabeça natural, e a base robusta que parece esculpida pelo tempo, criam uma composição de equilíbrio e imponência.</span></p>"
+        }
       },
       {
         "__resolveType": "blog/sections/Blog/components/ImagesSlide.tsx",
         "images": [
           {
-            "image": "https://assets.decocache.com/breton/ea29ff05-194c-444d-94c8-69e2e0d28f82/slide-1.jpg",
+            "image": "https://assets.decocache.com/breton/aceadb11-73e7-45d6-8aa1-291795e060ee/Peninsula-(2).jpg",
             "alt": "Teste"
           },
           {
-            "image": "https://assets.decocache.com/breton/ea29ff05-194c-444d-94c8-69e2e0d28f82/slide-1.jpg",
+            "image": "https://assets.decocache.com/breton/bac4263a-1e04-4d60-8c7d-9fd888155a85/Peninsula.jpg",
             "alt": "Teste"
           },
           {
-            "image": "https://assets.decocache.com/breton/ea29ff05-194c-444d-94c8-69e2e0d28f82/slide-1.jpg",
+            "image": "https://assets.decocache.com/breton/61436a8d-3786-4e26-916a-69d6ebb7411f/Peninsula-(1).jpg",
             "alt": "Teste"
           },
           {
-            "image": "https://assets.decocache.com/breton/ea29ff05-194c-444d-94c8-69e2e0d28f82/slide-1.jpg",
+            "image": "https://assets.decocache.com/breton/3f4ec124-a22d-4b77-ab2a-3c089cfb297d/Peninsual.jpg",
             "alt": "Teste"
           }
         ]
       },
       {
         "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Inspirada nas paisagens naturais que tornam o&nbsp;<span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">Brasil único</span>, a linha foi desenvolvida a partir de uma profunda pesquisa sobre os elementos que definem nossa identidade cultural. Desde as cores vibrantes das florestas tropicais até a serenidade das praias, passando pelas texturas da nossa fauna e flora, cada detalhe da coleção foi projetado para transmitir o espírito do Brasil de uma forma inovadora e elegante.<br><br>As matérias-primas foram cuidadosamente selecionadas para valorizar a sustentabilidade, reforçando o <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">compromisso da marca com práticas responsáveis e a valorização dos recursos locais</span>, que são parte intrínseca da nossa identidade.</p>"
+        "content": "<p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Sofá Enseada<br><br>De formas curvas e modulares, o sofá permite diferentes composições e se adapta com naturalidade a diversos ambientes. Seu desenho explora a fluidez e o conforto de maneira integrada.</p><p><br data-mce-bogus=\"1\"></p>"
       },
       {
-        "__resolveType": "blog/sections/Blog/components/ImageThreeColumnSection.tsx",
-        "imageOne": "https://assets.decocache.com/breton/9910fbaf-3a46-487e-a0c4-131ec9507a2a/blog-three-images-1.png",
-        "imageTwo": "https://assets.decocache.com/breton/e15a1b26-764f-4348-8141-748c7cc69fea/blog-three-images-2.png",
-        "imageThree": "https://assets.decocache.com/breton/11168834-32bf-4daf-b1d3-2b929686f0c2/blog-three-images-3.png"
+        "__resolveType": "blog/sections/Blog/components/ImagesSlide.tsx",
+        "images": [
+          {
+            "image": "https://assets.decocache.com/breton/8bfbf890-6469-4092-a797-46bcc5e2f75e/Sem-nome-(940-x-728-px)-(4500-x-3000-px).png",
+            "alt": "Teste"
+          },
+          {
+            "image": "https://assets.decocache.com/breton/52272492-0271-4afd-a9e3-a42d1fd637a1/Detalhe-sofa-Enseada.jpg",
+            "alt": "Teste"
+          },
+          {
+            "image": "https://assets.decocache.com/breton/48629a21-dd3b-4717-b7f7-7a581631137e/Detalhe-Sofa-Enseada-(1).jpg",
+            "alt": "Teste"
+          }
+        ]
       },
       {
         "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Inspirada nas paisagens naturais que tornam o&nbsp;<span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">Brasil único</span>, a linha foi desenvolvida a partir de uma profunda pesquisa sobre os elementos que definem nossa identidade cultural. Desde as cores vibrantes das florestas tropicais até a serenidade das praias, passando pelas texturas da nossa fauna e flora, cada detalhe da coleção foi projetado para transmitir o espírito do Brasil de uma forma inovadora e elegante.<br><br>As matérias-primas foram cuidadosamente selecionadas para valorizar a sustentabilidade, reforçando o <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">compromisso da marca com práticas responsáveis e a valorização dos recursos locais</span>, que são parte intrínseca da nossa identidade.</p>"
+        "content": "<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><strong>Cadeira Falésia</strong></p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br>A estrutura firme contrasta com detalhes que suavizam o conjunto. Um rasgo frontal na base e um encosto curvado aprimoram a ergonomia, enquanto a silhueta mantém um desenho refinado e expressivo.</p>"
       },
       {
-        "__resolveType": "blog/sections/Blog/components/OneImage.tsx",
-        "image": "https://assets.decocache.com/breton/3a969c3a-76ef-4d9c-b397-9ce7fe34b71f/blog-one-image.png"
-      },
-      {
-        "__resolveType": "blog/sections/Blog/components/ProductsSection.tsx",
-        "products": [
+        "__resolveType": "blog/sections/Blog/components/ImagesSlide.tsx",
+        "images": [
           {
-            "image": "https://assets.decocache.com/breton/af5b61a9-7aa0-4c13-a938-114d03c828a5/product-1.jpg",
-            "productName": "POLTRONA BUMBO",
-            "designerName": "by Lilly Sarti"
+            "image": "https://assets.decocache.com/breton/32b63a72-479d-4fbc-be36-cb8b2e27c45f/BRETON_STILL0013-1_1.jpg",
+            "alt": "Teste"
           },
           {
-            "productName": "POLTRONA TRÓPICO",
-            "designerName": "by Bruno Simões",
-            "image": "https://assets.decocache.com/breton/fa55270b-adaa-435b-b7e4-a2fbe90d67c6/product-2.jpg"
+            "image": "https://assets.decocache.com/breton/de156ba2-bbe6-41c3-819c-36d4feb3645a/BRETON_STILL0080.jpg",
+            "alt": "Teste"
           },
           {
-            "image": "https://assets.decocache.com/breton/47c8104b-3649-4d77-819d-a7798f5c22e4/product-3.jpg",
-            "productName": "POLTRONA AGOGO",
-            "designerName": "by Lilly Sarti"
+            "image": "https://assets.decocache.com/breton/e9e1481e-8f17-4559-ad4a-bad47466a413/BRETON_STILL0106.jpg",
+            "alt": "Teste"
+          },
+          {
+            "image": "https://assets.decocache.com/breton/069d49fe-3333-44b3-b3ac-e93d02553866/BRETON_STILL0131.jpg",
+            "alt": "Teste"
           }
-        ],
-        "subtitle": "Nossos produtos",
-        "title": "Confira alguns produtos"
+        ]
+      },
+      {
+        "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
+        "content": "<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><strong id=\"docs-internal-guid-bba34bdc-7fff-203d-1c51-ec5fa5f49718\">Poltrona Enseada</strong></p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br>Com design assimétrico e proporções pensadas para o corpo, a poltrona leva o conceito do sofá a uma escala mais intimista. Une presença visual marcante e ergonomia.</p>"
+      },
+      {
+        "__resolveType": "blog/sections/Blog/components/ImagesSlide.tsx",
+        "images": [
+          {
+            "image": "https://assets.decocache.com/breton/d30289e1-293d-4465-a8a8-979c824d26b6/Poltrona-Enseada-(5).jpg",
+            "alt": "Teste"
+          },
+          {
+            "image": "https://assets.decocache.com/breton/d6bd0423-206e-4f50-9559-c7ec024b80e7/Sem-nome-(940-x-728-px)-(4500-x-3000-px)-(1).png",
+            "alt": "Teste"
+          },
+          {
+            "image": "https://assets.decocache.com/breton/ec325008-b4ca-4ae5-abb6-89a279fd0f63/Poltrona-Enseada-(7).jpg",
+            "alt": "Teste"
+          },
+          {
+            "image": "https://assets.decocache.com/breton/cd8d1477-19da-4871-996d-6a7f29ff6a85/Poltrona-Enseada-(4).jpg",
+            "alt": "Teste"
+          }
+        ]
+      },
+      {
+        "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
+        "content": "<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><strong>Cadeira Falésia</strong></p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br>A estrutura firme contrasta com detalhes que suavizam o conjunto. Um rasgo frontal na base e um encosto curvado aprimoram a ergonomia, enquanto a silhueta mantém um desenho refinado e expressivo.</p>"
+      },
+      {
+        "__resolveType": "blog/sections/Blog/components/ImageTwoColumnSection.tsx",
+        "imageOne": "https://assets.decocache.com/breton/0c6881d9-9b6b-42f0-9f14-d36421d4de82/Cadeira-Falesia.jpg",
+        "imageTwo": "https://assets.decocache.com/breton/fd27e46d-2fa1-4e02-a8a0-315c53153a92/Cadeira-Falesia-(1).jpg"
+      },
+      {
+        "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
+        "content": "<p dir=\"ltr\">A coleção Oceano reforça o compromisso da Breton com o design brasileiro e a busca por peças que aliam criatividade, identidade e sofisticação. Em parceria com Fernanda Marques, a marca amplia seu repertório autoral com criações que transformam o espaço com naturalidade e força estética.</p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p>"
       }
     ],
     "extraProps": [],
-    "title": "Taís Araujo e Lázaro Ramos abrem apartamento no Rio de Janeiro",
-    "date": "2025-04-01",
+    "title": "Conheça a coleção Oceano, assinada por Fernanda Marques",
+    "date": "2025-05-27",
     "slug": "teste-7",
-    "image": "https://assets.decocache.com/breton/8e9cdc3e-1cc8-4abb-980a-ce87277dcad6/blog-banner.png",
-    "excerpt": "Em 20 anos de casamento, é a primeira vez que Taís Araujo e Lázaro Ramos realizam o projeto de uma casa do início ao fim. “Moramos em diversos lugares e nunca quisemos encarar uma obra longa. Fazíamos apenas intervenções pontuais.",
+    "image": "https://assets.decocache.com/breton/0bb7dd3f-e974-4afc-a801-351541de290c/Sem-nome-(940-x-728-px)-(384-x-400-px)-(1360-x-560-px).png",
+    "excerpt": "Inspirada pelas formas orgânicas da natureza e pela força dos elementos, a coleção Oceano, assinada por Fernanda Marques para a Breton, explora o encontro entre design, escultura e funcionalidade. ",
     "seo": {
       "title": "Taís Araujo e Lázaro Ramos abrem apartamento no Rio de Janeiro",
       "description": "Em 20 anos de casamento, é a primeira vez que Taís Araujo e Lázaro Ramos realizam o projeto de uma casa do início ao fim. “Moramos em diversos lugares e nunca quisemos encarar uma obra longa. Fazíamos apenas intervenções pontuais.",
-      "image": "https://assets.decocache.com/breton/8e9cdc3e-1cc8-4abb-980a-ce87277dcad6/blog-banner.png"
+      "image": "https://assets.decocache.com/breton/0bb7dd3f-e974-4afc-a801-351541de290c/Sem-nome-(940-x-728-px)-(384-x-400-px)-(1360-x-560-px).png"
     },
     "readTime": 8,
-    "alt": "Taís Araujo e Lázaro Ramos abrem apartamento no Rio de Janeiro"
+    "alt": "Conheça a coleção Oceano, assinada por Fernanda Marques"
   }
 }

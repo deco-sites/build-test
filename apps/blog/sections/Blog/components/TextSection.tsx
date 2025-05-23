@@ -1,10 +1,10 @@
 // deno-lint-ignore-file react-no-danger
-import { HTMLWidget } from "apps/admin/widgets.ts";
+import { RichText } from "apps/admin/widgets.ts";
 
 /** @title Bloco de texto */
 export interface TextSectionProps {
   /** @title Conteúdo */
-  content: HTMLWidget;
+  content: RichText;
 }
 
 export default function TextSectionBlog({ content }: TextSectionProps) {

@@ -4,8 +4,8 @@
   "post": {
     "authors": [
       {
-        "name": "GLOBO.COM",
-        "email": "teste@teste.com"
+        "name": "Redação Breton",
+        "email": "diego.miguel@breton.com.br"
       }
     ],
     "categories": [
@@ -17,48 +17,31 @@
     "content": [
       {
         "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Em 20 anos de casamento, é a primeira vez que&nbsp;<span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">Taís Araujo e Lázaro Ramos</span>&nbsp;realizam o projeto de uma casa do início ao fim. “Moramos em diversos lugares e nunca quisemos encarar uma&nbsp;obra&nbsp;longa. Fazíamos apenas intervenções pontuais.<br><br>O problema é que os espaços não ficavam com a nossa cara”, conta o ator. Agora foi diferente. Após um ano de reforma, o apartamento dos anos 1950, na Zona Sul do Rio de Janeiro, se transformou no lar que eles desejavam. <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">“Apesar de ser quase tudo novo, a gente se reconhece em cada canto,</span> pois pensamos os ambientes juntos e trouxemos objetos e obras de arte ligados à nossa história”, lembra Taís.</p>"
+        "content": "<p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Após mais de vinte anos juntos, Taís Araujo e Lázaro Ramos, um dos casais mais influentes da cultura brasileira contemporânea, decidiram criar um lar do zero, que fosse capaz de representar o estilo de vida e personalidade da família.&nbsp;</p><p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\">“Quisemos nos dar o presente de ter a morada dos nossos sonhos. Afinal, merecemos”, comenta Taís Araujo para a Casa Vogue.</p>"
       },
       {
         "__resolveType": "blog/sections/Blog/components/ImageTwoColumnSection.tsx",
-        "imageOne": "https://assets.decocache.com/breton/5c37a682-f897-470e-9e13-67ff6b727214/blog-two-images-1.png",
+        "imageOne": "https://assets.decocache.com/breton/34c40a86-4fe8-492d-a9ba-0e29017e8101/DSC06005.jpg",
         "imageTwo": "https://assets.decocache.com/breton/a9772c21-18db-446a-9ce4-89f6758529f2/blog-two-images-2.png"
       },
       {
         "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<h2 data-mce-style=\"text-align: center;\" style=\"text-align: center;\"><strong>O SONHO DE PERSONALIZAÇÃO</strong></h2><p><br data-mce-bogus=\"1\"></p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Inspirada nas paisagens naturais que tornam o <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">Brasil único</span>, a linha foi desenvolvida a partir de uma profunda pesquisa sobre os elementos que definem nossa identidade cultural. Desde as cores vibrantes das florestas tropicais até a serenidade das praias, passando pelas texturas da nossa fauna e flora, cada detalhe da coleção foi projetado para transmitir o espírito do Brasil de uma forma inovadora e elegante.<br><br>As matérias-primas foram cuidadosamente selecionadas para valorizar a sustentabilidade, reforçando o <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">compromisso da marca com práticas responsáveis e a valorização dos recursos locais</span>, que são parte intrínseca da nossa identidade.</p>"
-      },
-      {
-        "__resolveType": "blog/sections/Blog/components/Video.tsx",
-        "videoDesktop": {
-          "video": "https://assets.decocache.com/breton/9873d6c5-c1fd-4bcf-bc9a-75e9644595d6/Tais-Lazaro-mais-otimizado-ainda.mp4",
-          "width": 100,
-          "height": 50
-        },
-        "videoMobile": {
-          "width": 100,
-          "height": 50,
-          "video": "https://assets.decocache.com/breton/9873d6c5-c1fd-4bcf-bc9a-75e9644595d6/Tais-Lazaro-mais-otimizado-ainda.mp4"
-        }
+        "content": "<h2 data-mce-style=\"text-align: center;\" style=\"text-align: center;\"><strong>Brasilidade em todos os detalhes</strong></h2><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p><p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\">O novo apartamento é uma celebração da brasilidade em sua forma mais sofisticada. Com projeto assinado pelas arquitetas Carolina Escada e Patricia Landau, do escritório Escala Arquitetura, o espaço valoriza o convívio familiar e traduz a personalidade vibrante do casal por meio de ambientes integrados, acolhedores e elegantes.</p><p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Entre os elementos centrais do projeto estão as peças de design autoral da Breton, cuidadosamente escolhidas para compor a nova morada da dupla. Os móveis aliam estilo, funcionalidade e autenticidade, e foram customizados especialmente para atender às necessidades do projeto.<br></p>"
       },
       {
         "__resolveType": "blog/sections/Blog/components/ImageAndTextSection.tsx",
-        "image": "https://assets.decocache.com/breton/f8c3b6c7-ae93-4edb-af72-65c2f61c305d/blog-image-and-text.png",
-        "text": "<p><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Inspirada nas paisagens naturais que tornam o Brasil único, a linha foi desenvolvida a partir de uma profunda pesquisa sobre os elementos que definem nossa identidade cultural. Desde as cores vibrantes das florestas tropicais até a serenidade das praias, passando pelas texturas da nossa fauna e flora, cada detalhe da coleção foi projetado para transmitir o espírito do Brasil de uma forma inovadora e elegante.</span><br><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">As matérias-primas foram cuidadosamente selecionadas para valorizar a sustentabilidade, reforçando o compromisso da marca com práticas responsáveis e a valorização dos recursos locais, que são parte intrínseca da nossa identidade.</span></p>"
+        "image": "https://assets.decocache.com/breton/e0e32f42-13c5-4f2a-973c-760e2036ddbf/cv.taiselazaro_2497-copy-(1).jpg",
+        "text": "<p><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Sofá Desejo e Poltrona Sintonia: assinatura de Luisa Moysés </span></p><p><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\"><br data-mce-bogus=\"1\"></span></p><p><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Na área de estar, o sofá Desejo e a poltrona Sintonia, assinados por Luisa Moysés, se destacam pelo design orgânico e acolhedor. Com curvas suaves e proporções generosas, as peças criam um ambiente confortável e imponente ao mesmo tempo — ideal para momentos em família ou para receber amigos com elegância.</span></p>"
       },
       {
         "__resolveType": "blog/sections/Blog/components/ImagesSlide.tsx",
         "images": [
           {
-            "image": "https://assets.decocache.com/breton/ea29ff05-194c-444d-94c8-69e2e0d28f82/slide-1.jpg",
+            "image": "https://assets.decocache.com/breton/bdf210ba-0e82-4068-92af-e9853d47b255/cv.taiselazaro_2713-copy-(1).jpg",
             "alt": "Teste"
           },
           {
-            "image": "https://assets.decocache.com/breton/ea29ff05-194c-444d-94c8-69e2e0d28f82/slide-1.jpg",
-            "alt": "Teste"
-          },
-          {
-            "image": "https://assets.decocache.com/breton/ea29ff05-194c-444d-94c8-69e2e0d28f82/slide-1.jpg",
+            "image": "https://assets.decocache.com/breton/021481f6-8fb7-4456-aa1a-955c130f0708/DSC06327-Trat-(1).jpg",
             "alt": "Teste"
           },
           {
@@ -69,57 +52,35 @@
       },
       {
         "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Inspirada nas paisagens naturais que tornam o&nbsp;<span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">Brasil único</span>, a linha foi desenvolvida a partir de uma profunda pesquisa sobre os elementos que definem nossa identidade cultural. Desde as cores vibrantes das florestas tropicais até a serenidade das praias, passando pelas texturas da nossa fauna e flora, cada detalhe da coleção foi projetado para transmitir o espírito do Brasil de uma forma inovadora e elegante.<br><br>As matérias-primas foram cuidadosamente selecionadas para valorizar a sustentabilidade, reforçando o <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">compromisso da marca com práticas responsáveis e a valorização dos recursos locais</span>, que são parte intrínseca da nossa identidade.</p>"
+        "content": "<p dir=\"ltr\"><strong>A Poltrona Bumbo, por Lilly Sarti</strong></p><p dir=\"ltr\">Outra protagonista do ambiente é a poltrona Bumbo, criação da estilista Lilly Sarti para a Breton em acabamento rosa. A peça representa a união entre moda e mobiliário, trazendo sofisticação e personalidade com um traço contemporâneo marcante.</p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p>"
       },
       {
         "__resolveType": "blog/sections/Blog/components/ImageThreeColumnSection.tsx",
-        "imageOne": "https://assets.decocache.com/breton/9910fbaf-3a46-487e-a0c4-131ec9507a2a/blog-three-images-1.png",
-        "imageTwo": "https://assets.decocache.com/breton/e15a1b26-764f-4348-8141-748c7cc69fea/blog-three-images-2.png",
-        "imageThree": "https://assets.decocache.com/breton/11168834-32bf-4daf-b1d3-2b929686f0c2/blog-three-images-3.png"
+        "imageOne": "https://assets.decocache.com/breton/a12b053e-068e-4c00-8f05-2956971d096f/cv.taiselazaro_2421-copy-(1).jpg",
+        "imageTwo": "https://assets.decocache.com/breton/4b7225c0-1095-4d5d-bbe3-98fa7c4de5d0/cv.taiselazaro_2699-copy.jpg",
+        "imageThree": "https://assets.decocache.com/breton/943f5171-f66d-473c-8064-52ab81d1d868/DSC06034.jpg"
       },
       {
         "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Inspirada nas paisagens naturais que tornam o&nbsp;<span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">Brasil único</span>, a linha foi desenvolvida a partir de uma profunda pesquisa sobre os elementos que definem nossa identidade cultural. Desde as cores vibrantes das florestas tropicais até a serenidade das praias, passando pelas texturas da nossa fauna e flora, cada detalhe da coleção foi projetado para transmitir o espírito do Brasil de uma forma inovadora e elegante.<br><br>As matérias-primas foram cuidadosamente selecionadas para valorizar a sustentabilidade, reforçando o <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">compromisso da marca com práticas responsáveis e a valorização dos recursos locais</span>, que são parte intrínseca da nossa identidade.</p>"
+        "content": "<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">O projeto ainda conta com a mesa lateral Galhos, assinada por Fernanda Marques, e a mesa de centro Caetano, de Giácomo Tomazzi — duas peças que funcionam como esculturas dentro do ambiente. Ambas trazem a assinatura de nomes consagrados do design nacional e reforçam a proposta do projeto: unir estética e funcionalidade com originalidade.</p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p><p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Cada escolha feita para o novo lar de Taís e Lázaro representa um diálogo entre identidade e estilo. A presença marcante do design brasileiro contemporâneo — representado pelas coleções autorais da Breton — reforça a valorização da cultura local por meio do mobiliário.</p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><strong><br></strong></p><p dir=\"ltr\" style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Confira todas as escolhas do casal para o apartamento clicando aqui</p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p>"
       },
       {
         "__resolveType": "blog/sections/Blog/components/OneImage.tsx",
-        "image": "https://assets.decocache.com/breton/3a969c3a-76ef-4d9c-b397-9ce7fe34b71f/blog-one-image.png"
-      },
-      {
-        "__resolveType": "blog/sections/Blog/components/ProductsSection.tsx",
-        "products": [
-          {
-            "image": "https://assets.decocache.com/breton/af5b61a9-7aa0-4c13-a938-114d03c828a5/product-1.jpg",
-            "productName": "POLTRONA BUMBO",
-            "designerName": "by Lilly Sarti"
-          },
-          {
-            "productName": "POLTRONA TRÓPICO",
-            "designerName": "by Bruno Simões",
-            "image": "https://assets.decocache.com/breton/fa55270b-adaa-435b-b7e4-a2fbe90d67c6/product-2.jpg"
-          },
-          {
-            "image": "https://assets.decocache.com/breton/47c8104b-3649-4d77-819d-a7798f5c22e4/product-3.jpg",
-            "productName": "POLTRONA AGOGO",
-            "designerName": "by Lilly Sarti"
-          }
-        ],
-        "subtitle": "Nossos produtos",
-        "title": "Confira alguns produtos"
+        "image": "https://assets.decocache.com/breton/6502f2d9-56a9-49e2-91d9-b6ab47ac57fa/DSC06014.jpg"
       }
     ],
     "extraProps": [],
-    "title": "Taís Araujo e Lázaro Ramos abrem apartamento no Rio de Janeiro",
+    "title": "A casa de Taís Araujo e Lázaro Ramos: conheça o mobiliário ",
     "date": "2025-04-01",
     "slug": "teste-8",
     "image": "https://assets.decocache.com/breton/8e9cdc3e-1cc8-4abb-980a-ce87277dcad6/blog-banner.png",
-    "excerpt": "Em 20 anos de casamento, é a primeira vez que Taís Araujo e Lázaro Ramos realizam o projeto de uma casa do início ao fim. “Moramos em diversos lugares e nunca quisemos encarar uma obra longa. Fazíamos apenas intervenções pontuais.",
+    "excerpt": "Após mais de vinte anos juntos, Taís Araujo e Lázaro Ramos, um dos casais mais influentes da cultura brasileira contemporânea, decidiram criar um lar do zero, que fosse capaz de representar o estilo de vida e personalidade da família. ",
     "seo": {
       "title": "Taís Araujo e Lázaro Ramos abrem apartamento no Rio de Janeiro",
-      "description": "Em 20 anos de casamento, é a primeira vez que Taís Araujo e Lázaro Ramos realizam o projeto de uma casa do início ao fim. “Moramos em diversos lugares e nunca quisemos encarar uma obra longa. Fazíamos apenas intervenções pontuais.",
+      "description": "Em 20 anos de casamento, é a primeira vez que Taís Araujo e Lázaro Ramos realizam o projeto de uma casa do início ao fim com moóveis de design brasileiro da Breton",
       "image": "https://assets.decocache.com/breton/8e9cdc3e-1cc8-4abb-980a-ce87277dcad6/blog-banner.png"
     },
     "readTime": 8,
-    "alt": "Taís Araujo e Lázaro Ramos abrem apartamento no Rio de Janeiro"
+    "alt": "A casa de Taís Araujo e Lázaro Ramos: conheça o mobiliário "
   }
 }

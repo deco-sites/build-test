@@ -1,0 +1,17 @@
+{
+  "__resolveType": "site/sections/Header/Header.tsx",
+  "languages": [],
+  "links": [],
+  "headerLinks": [],
+  "navBar": {
+    "menu": []
+  },
+  "searchbar": {
+    "placeholder": "What are you looking for?",
+    "suggestions": [],
+    "images": []
+  },
+  "logo": {},
+  "altLogo": {},
+  "loading": "eager"
+}

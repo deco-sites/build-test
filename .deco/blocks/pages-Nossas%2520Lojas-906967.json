@@ -14,7 +14,7 @@
         "content": {
           "titleImageDesktop": {},
           "titleImageMobile": {},
-          "title": "<h1 style=\"color: rgb(255, 255, 255); font-size: clamp(34px, 3.5vw, 40px); line-height: clamp(40px, 4vw, 48px); font-weight: 500; letter-spacing: clamp(5.44px, 0.5vw, 6.4px); text-transform: uppercase;\" data-mce-style=\"color: rgb(255, 255, 255); font-size: clamp(34px, 3.5vw, 40px); line-height: clamp(40px, 4vw, 48px); font-weight: 500; letter-spacing: clamp(5.44px, 0.5vw, 6.4px); text-transform: uppercase;\">NOSSAS LOJAS</h1>"
+          "title": "<h1>N O S S A S   L O J A S</h1>"
         },
         "background": {
           "mobile": {
@@ -219,19 +219,7 @@
             "images": [
               {
                 "alt": "Fachada",
-                "image": "https://data.decoassets.com/breton/2ae208d1-9832-462f-8f48-79f9768ac667/Breton_Outlet_(RafaelRenzo)-44.jpg",
-                "width": 1920,
-                "height": 1280
-              },
-              {
-                "alt": "Fachada",
-                "image": "https://data.decoassets.com/breton/5c6e0a13-1a1d-4b89-b23a-02e2a045974e/Breton_Outlet_(RafaelRenzo)-45.jpg",
-                "width": 1920,
-                "height": 1280
-              },
-              {
-                "alt": "Fachada",
-                "image": "https://data.decoassets.com/breton/f41d2269-bf48-474f-ba95-28e096ada5ba/Breton_Outlet_(RafaelRenzo)-46.jpg",
+                "image": "https://assets.decocache.com/breton/61ff523b-3ff1-4b83-917a-3ca99491cc45/Outlet-com-corte.png",
                 "width": 1920,
                 "height": 1280
               }
@@ -317,43 +305,7 @@
             "images": [
               {
                 "alt": "Fachada",
-                "image": "https://data.decoassets.com/breton/0d54f854-1ad6-4236-a179-c7cd91326b06/Fachada-Breton-Brasilia-(1).JPG",
-                "width": 1920,
-                "height": 1280
-              },
-              {
-                "alt": "Fachada",
-                "image": "https://data.decoassets.com/breton/597f977a-374a-4764-a00f-7ef5677f33ed/Fachada-Breton-Brasilia-(2).JPG",
-                "width": 1920,
-                "height": 1280
-              },
-              {
-                "alt": "Fachada",
-                "image": "https://data.decoassets.com/breton/65c03848-0d2f-4943-a318-598537915941/Fachada-Breton-Brasilia-(3).JPG",
-                "width": 1920,
-                "height": 1280
-              },
-              {
-                "alt": "Fachada",
-                "image": "https://data.decoassets.com/breton/be5412ed-d8b0-4451-b03b-363990436d9b/Fachada-Breton-Brasilia-(4).JPG",
-                "width": 1920,
-                "height": 1280
-              },
-              {
-                "alt": "Fachada",
-                "image": "https://data.decoassets.com/breton/5b946bd0-e9cd-4870-a7d9-497dbc3b21c0/Fachada-Breton-Brasilia-(5).JPG",
-                "width": 1920,
-                "height": 1280
-              },
-              {
-                "alt": "Fachada",
-                "image": "https://data.decoassets.com/breton/087d8c5f-4b23-44dc-b14e-ca842f6d4217/Fachada-Breton-Brasilia-(6).JPG",
-                "width": 1920,
-                "height": 1280
-              },
-              {
-                "alt": "Fachada",
-                "image": "https://data.decoassets.com/breton/36b38c7b-7b33-426d-8077-0dcec7005f5d/Fachada-Breton-Brasilia-(7).JPG",
+                "image": "https://assets.decocache.com/breton/c9e9fbbd-22a0-4a3c-a276-6720e4018692/BSB.png",
                 "width": 1920,
                 "height": 1280
               }
@@ -395,22 +347,6 @@
             "address": "Avenida Iguatemi 524, Vila Brandina",
             "opening": "<p>Seg-Sex 9h-18h<br>Sáb 9h-17h</p>",
             "phone": "19 3253-1206",
-            "instagram": "@bretoncampinas"
-          },
-          {
-            "images": [
-              {
-                "alt": "Fachada",
-                "image": "https://data.decoassets.com/breton/7897265e-9f48-416a-91f3-80417f76eaf5/loja_outlet.webp",
-                "width": 1920,
-                "height": 1280
-              }
-            ],
-            "city": "Campinas",
-            "name": "Breton Outlet Campinas",
-            "address": "Avenida Doutor Jesuíno Marcondes Machado, 1229",
-            "opening": "<p>Seg-Sex 9h-18h<br>Sáb 9h-17h</p>",
-            "phone": "19 99924-5082",
             "instagram": "@bretoncampinas"
           },
           {
@@ -581,25 +517,7 @@
             "images": [
               {
                 "alt": "Fachada",
-                "image": "https://data.decoassets.com/breton/3ff8b282-9a2b-4403-b794-3c090f5a6926/Fachada-Santos.JPG",
-                "width": 1920,
-                "height": 1280
-              },
-              {
-                "alt": "Fachada",
-                "image": "https://data.decoassets.com/breton/0c71ca66-488e-4a69-ac16-9b7136f8f32a/Fachada-Santos.jpg",
-                "width": 1920,
-                "height": 1280
-              },
-              {
-                "alt": "Fachada",
-                "image": "https://data.decoassets.com/breton/4486acb7-7271-4a1a-bff7-4270a6a4c599/Fachada-Santos(1).JPG",
-                "width": 1920,
-                "height": 1280
-              },
-              {
-                "alt": "Fachada",
-                "image": "https://data.decoassets.com/breton/740c84b3-53f5-4ccf-a373-c4cddd64fd78/Inauguracao_13.jpg",
+                "image": "https://assets.decocache.com/breton/324a72b5-2a8b-496d-bea2-aff5caa487f6/Nossas-lojas.png",
                 "width": 1920,
                 "height": 1280
               }
@@ -615,13 +533,7 @@
             "images": [
               {
                 "alt": "Fachada",
-                "image": "https://data.decoassets.com/breton/a759d3b2-c046-41ae-9e01-fef17e09b462/Breton-Cuiaba1.jpg",
-                "width": 1920,
-                "height": 1280
-              },
-              {
-                "alt": "Fachada",
-                "image": "https://data.decoassets.com/breton/749ca648-f08d-4908-a01b-6890916d3667/Fachada-Cuiaba.jpeg",
+                "image": "https://assets.decocache.com/breton/658e035c-778f-4297-b104-3d4d6ce92e73/CUIABA.png",
                 "width": 1920,
                 "height": 1280
               }
@@ -686,20 +598,8 @@
           {
             "images": [
               {
-                "alt": "Fachada",
-                "image": "https://data.decoassets.com/breton/d78c87e6-88ac-43fc-89e8-c6e8f012792a/Fachada-Curitiba1.jpg",
-                "width": 1920,
-                "height": 1280
-              },
-              {
-                "alt": "Fachada noturna",
-                "image": "https://data.decoassets.com/breton/5d23e7ad-81c8-4dd4-a1d7-3018931269a5/Fachada-Curitiba2.jpg",
-                "width": 1920,
-                "height": 1280
-              },
-              {
                 "alt": "Loja",
-                "image": "https://data.decoassets.com/breton/b0996d52-d5ae-4818-b55d-c29e157adf57/Fachada-Curitiba3.jpg",
+                "image": "https://assets.decocache.com/breton/1c211638-e278-4e07-bce5-560014477b04/Curitiba.png",
                 "width": 1920,
                 "height": 1280
               }
@@ -715,31 +615,7 @@
             "images": [
               {
                 "alt": "Fachada",
-                "image": "https://data.decoassets.com/breton/daa9b948-f925-4161-9aa7-77a8d14f20c2/Breton-Roraima.jfif",
-                "width": 1920,
-                "height": 1280
-              },
-              {
-                "alt": "Fachada",
-                "image": "https://data.decoassets.com/breton/24b6549c-21e6-44fa-b5ba-3253d0af6d82/Breton-Roraima.JPG",
-                "width": 1920,
-                "height": 1280
-              },
-              {
-                "alt": "Fachada",
-                "image": "https://data.decoassets.com/breton/2254095a-ca2f-44ce-8327-73c6f6bd984f/Fachada-Breton-RORAIMA.jpg",
-                "width": 1920,
-                "height": 1280
-              },
-              {
-                "alt": "Fachada",
-                "image": "https://data.decoassets.com/breton/e85281a3-3fcb-4a8f-9c7d-739eae67a8ab/fachada-roraima-2.png",
-                "width": 1920,
-                "height": 1280
-              },
-              {
-                "alt": "Fachada",
-                "image": "https://data.decoassets.com/breton/75fabae3-c4dc-4ffb-8cf0-d32e3eb36da2/Fachada-Roraima.png",
+                "image": "https://assets.decocache.com/breton/1f270088-f6b1-4bd7-83dd-2d3e9b179461/Roraima.png",
                 "width": 1920,
                 "height": 1280
               }
@@ -861,19 +737,19 @@
           {
             "imageDesktop": "https://data.decoassets.com/breton/d25cce84-4ae7-4691-a4a2-2a5fb1ade4ef/InstitutionalFooterNavigatorDesk-1.png",
             "imageMobile": "https://data.decoassets.com/breton/6a4f8740-9119-4866-9c2b-18988300a57a/InstitutionalFooterNavigatorMob-1.png",
-            "title": "Lojas Breton",
-            "label": "Ver lojas",
+            "title": "Nossas Lojas",
+            "label": "Endereços",
             "link": "/"
           },
           {
-            "title": "Eco Breton",
+            "title": "EcoBreton",
             "label": "Saiba mais",
             "link": "/",
             "imageDesktop": "https://data.decoassets.com/breton/29da7b3e-4793-4d45-9c91-2a6fa22557c8/InstitutionalFooterNavigatorDesk-2.png",
             "imageMobile": "https://data.decoassets.com/breton/6a4f8740-9119-4866-9c2b-18988300a57a/InstitutionalFooterNavigatorMob-1.png"
           },
           {
-            "title": "Blog Breton",
+            "title": "Blog",
             "label": "Saiba mais",
             "link": "/",
             "imageDesktop": "https://data.decoassets.com/breton/80daf5e5-02c8-48ac-b44a-069e3d8b0657/InstitutionalFooterNavigatorDesk-3.png",

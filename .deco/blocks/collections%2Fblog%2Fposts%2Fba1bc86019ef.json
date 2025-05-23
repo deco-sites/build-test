@@ -4,8 +4,8 @@
   "post": {
     "authors": [
       {
-        "name": "GLOBO.COM",
-        "email": "teste@teste.com"
+        "name": "Redação Breton",
+        "email": "diego.miguel@breton.com.br"
       }
     ],
     "categories": [
@@ -17,21 +17,41 @@
     "content": [
       {
         "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Em 20 anos de casamento, é a primeira vez que&nbsp;<span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">Taís Araujo e Lázaro Ramos</span>&nbsp;realizam o projeto de uma casa do início ao fim. “Moramos em diversos lugares e nunca quisemos encarar uma&nbsp;obra&nbsp;longa. Fazíamos apenas intervenções pontuais.<br><br>O problema é que os espaços não ficavam com a nossa cara”, conta o ator. Agora foi diferente. Após um ano de reforma, o apartamento dos anos 1950, na Zona Sul do Rio de Janeiro, se transformou no lar que eles desejavam. <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">“Apesar de ser quase tudo novo, a gente se reconhece em cada canto,</span> pois pensamos os ambientes juntos e trouxemos objetos e obras de arte ligados à nossa história”, lembra Taís.</p>"
+        "content": "<p dir=\"ltr\">A Breton conquistou, pelo terceiro ano seguido, o status de empresa carbono negativo. Um reconhecimento que reforça o compromisso da marca com a sustentabilidade e a preservação ambiental, indo além da neutralização de emissões e contribuindo ativamente para o equilíbrio climático do planeta.</p><p dir=\"ltr\"><br data-mce-bogus=\"1\"></p>"
       },
       {
-        "__resolveType": "blog/sections/Blog/components/ImageTwoColumnSection.tsx",
-        "imageOne": "https://assets.decocache.com/breton/5c37a682-f897-470e-9e13-67ff6b727214/blog-two-images-1.png",
-        "imageTwo": "https://assets.decocache.com/breton/a9772c21-18db-446a-9ce4-89f6758529f2/blog-two-images-2.png"
+        "__resolveType": "blog/sections/Blog/components/OneImage.tsx",
+        "image": "https://assets.decocache.com/breton/86f4d690-6083-4a3e-a582-99cd20be79cf/Sem-nome-(940-x-728-px)-(4500-x-3000-px)-(2).png"
       },
       {
         "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<h2 data-mce-style=\"text-align: center;\" style=\"text-align: center;\"><strong>O SONHO DE PERSONALIZAÇÃO</strong></h2><p><br data-mce-bogus=\"1\"></p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Inspirada nas paisagens naturais que tornam o <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">Brasil único</span>, a linha foi desenvolvida a partir de uma profunda pesquisa sobre os elementos que definem nossa identidade cultural. Desde as cores vibrantes das florestas tropicais até a serenidade das praias, passando pelas texturas da nossa fauna e flora, cada detalhe da coleção foi projetado para transmitir o espírito do Brasil de uma forma inovadora e elegante.<br><br>As matérias-primas foram cuidadosamente selecionadas para valorizar a sustentabilidade, reforçando o <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">compromisso da marca com práticas responsáveis e a valorização dos recursos locais</span>, que são parte intrínseca da nossa identidade.</p>"
+        "content": "<p>O que é ser carbono negativo?</p><p>Ser carbono negativo significa remover da atmosfera mais carbono do que se emite. É uma meta mais ambiciosa que a neutralidade, em que o impacto das emissões é totalmente compensado.&nbsp;</p><p>Ao adotar práticas que evitam, reduzem e compensam suas emissões, a Breton avança em direção a um modelo produtivo de menor impacto e mais responsabilidade.</p><p>Desde 2020, a empresa já é carbono neutro. E, a partir de 2022, passou a compensar mais do que emite, atingindo o patamar de carbono negativo. A avaliação ocorre por meio do inventário de carbono calculado pela The Planet, empresa de consultoria de sustentabilidade.</p>"
+      },
+      {
+        "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
+        "content": "<p>Reflorestamento como ação concreta</p><p><br></p><p>Por meio da parceira com a Fundação SOS Mata Atlântica, a cada pedido realizado na Breton, uma árvore é plantada na Mata Atlântica. Ao todo, já foram mais de 33 mil mudas nativas reflorestadas.&nbsp;</p><p><br></p><p>E para compensar suas emissões em 2024, a Breton realizou o plantio de 6.734 árvores no bioma no ano. Essa ação contribuiu para a remoção de 1.098,58 toneladas de CO2 equivalente da atmosfera.</p><p><br></p><p>Em área reflorestada, esse volume representa aproximadamente 10 campos de futebol — uma dimensão significativa quando se trata da restauração da fauna e da flora de um dos biomas mais ameaçados do planeta.</p><p style=\"text-align: center\"><br></p>"
+      },
+      {
+        "__resolveType": "blog/sections/Blog/components/OneImage.tsx",
+        "image": "https://assets.decocache.com/breton/fbbee00d-5304-4313-bf63-212e4dace26b/Sem-nome-(940-x-728-px)-(384-x-400-px)-(1360-x-560-px)-(1360-x-728-px)-(940-x-728-px)-(1360-x-728-px).png"
+      },
+      {
+        "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
+        "content": "<p dir=\"ltr\">A importância da preservação da Mata Atlântica</p><p dir=\"ltr\"><br data-mce-bogus=\"1\"></p><p dir=\"ltr\">Ao investir no reflorestamento de áreas da Mata Atlântica, a Breton contribui para a proteção da biodiversidade, o equilíbrio climático e a melhoria da qualidade da água e do solo. As árvores plantadas absorvem CO2, auxiliam na regulação das chuvas e na conservação dos ecossistemas.</p><p dir=\"ltr\"><br data-mce-bogus=\"1\"></p><p dir=\"ltr\">A escolha da Mata Atlântica também tem um valor simbólico: esse é o bioma que abriga mais de 70% da população brasileira e já perdeu mais de 80% de sua vegetação original. Recuperar esse patrimônio é uma forma de gerar impacto positivo no presente e no futuro.</p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p>"
+      },
+      {
+        "__resolveType": "blog/sections/Blog/components/ImageTwoColumnSection.tsx",
+        "imageOne": "https://assets.decocache.com/breton/2df39fd4-6ea4-492e-bb39-1be0dacb90f3/MATAARVORE.jpg",
+        "imageTwo": "https://assets.decocache.com/breton/a0b14fae-bb5e-4da5-905e-7ca1956ad574/MATAFAUNA.jpg"
+      },
+      {
+        "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
+        "content": "<p dir=\"ltr\">Sustentabilidade como prática permanente</p><p dir=\"ltr\"><br data-mce-bogus=\"1\"></p><p dir=\"ltr\">O resultado alcançado em 2024 é fruto de uma estratégia que envolve medição precisa das emissões, revisão constante dos processos e compromisso com soluções reais. A Breton segue trabalhando para reduzir o impacto em toda a sua cadeia produtiva e ampliar a compensação das emissões indiretas.</p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p>"
       },
       {
         "__resolveType": "blog/sections/Blog/components/Video.tsx",
         "videoDesktop": {
-          "video": "https://assets.decocache.com/breton/9873d6c5-c1fd-4bcf-bc9a-75e9644595d6/Tais-Lazaro-mais-otimizado-ainda.mp4",
+          "video": "https://assets.decocache.com/breton/36734f18-df33-44b6-9bfd-836f5ab0feeb/ECO-BRETON_TAIS-LAZARO-_CURTO_VERSAO01-(1).mp4",
           "width": 100,
           "height": 50
         },
@@ -39,87 +59,26 @@
           "width": 100,
           "height": 50,
           "video": "https://assets.decocache.com/breton/9873d6c5-c1fd-4bcf-bc9a-75e9644595d6/Tais-Lazaro-mais-otimizado-ainda.mp4"
-        }
-      },
-      {
-        "__resolveType": "blog/sections/Blog/components/ImageAndTextSection.tsx",
-        "image": "https://assets.decocache.com/breton/f8c3b6c7-ae93-4edb-af72-65c2f61c305d/blog-image-and-text.png",
-        "text": "<p><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Inspirada nas paisagens naturais que tornam o Brasil único, a linha foi desenvolvida a partir de uma profunda pesquisa sobre os elementos que definem nossa identidade cultural. Desde as cores vibrantes das florestas tropicais até a serenidade das praias, passando pelas texturas da nossa fauna e flora, cada detalhe da coleção foi projetado para transmitir o espírito do Brasil de uma forma inovadora e elegante.</span><br><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">As matérias-primas foram cuidadosamente selecionadas para valorizar a sustentabilidade, reforçando o compromisso da marca com práticas responsáveis e a valorização dos recursos locais, que são parte intrínseca da nossa identidade.</span></p>"
-      },
-      {
-        "__resolveType": "blog/sections/Blog/components/ImagesSlide.tsx",
-        "images": [
-          {
-            "image": "https://assets.decocache.com/breton/ea29ff05-194c-444d-94c8-69e2e0d28f82/slide-1.jpg",
-            "alt": "Teste"
-          },
-          {
-            "image": "https://assets.decocache.com/breton/ea29ff05-194c-444d-94c8-69e2e0d28f82/slide-1.jpg",
-            "alt": "Teste"
-          },
-          {
-            "image": "https://assets.decocache.com/breton/ea29ff05-194c-444d-94c8-69e2e0d28f82/slide-1.jpg",
-            "alt": "Teste"
-          },
-          {
-            "image": "https://assets.decocache.com/breton/ea29ff05-194c-444d-94c8-69e2e0d28f82/slide-1.jpg",
-            "alt": "Teste"
-          }
-        ]
+        },
+        "autoplay": true
       },
       {
         "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Inspirada nas paisagens naturais que tornam o&nbsp;<span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">Brasil único</span>, a linha foi desenvolvida a partir de uma profunda pesquisa sobre os elementos que definem nossa identidade cultural. Desde as cores vibrantes das florestas tropicais até a serenidade das praias, passando pelas texturas da nossa fauna e flora, cada detalhe da coleção foi projetado para transmitir o espírito do Brasil de uma forma inovadora e elegante.<br><br>As matérias-primas foram cuidadosamente selecionadas para valorizar a sustentabilidade, reforçando o <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">compromisso da marca com práticas responsáveis e a valorização dos recursos locais</span>, que são parte intrínseca da nossa identidade.</p>"
-      },
-      {
-        "__resolveType": "blog/sections/Blog/components/ImageThreeColumnSection.tsx",
-        "imageOne": "https://assets.decocache.com/breton/9910fbaf-3a46-487e-a0c4-131ec9507a2a/blog-three-images-1.png",
-        "imageTwo": "https://assets.decocache.com/breton/e15a1b26-764f-4348-8141-748c7cc69fea/blog-three-images-2.png",
-        "imageThree": "https://assets.decocache.com/breton/11168834-32bf-4daf-b1d3-2b929686f0c2/blog-three-images-3.png"
-      },
-      {
-        "__resolveType": "blog/sections/Blog/components/TextSection.tsx",
-        "content": "<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Inspirada nas paisagens naturais que tornam o&nbsp;<span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">Brasil único</span>, a linha foi desenvolvida a partir de uma profunda pesquisa sobre os elementos que definem nossa identidade cultural. Desde as cores vibrantes das florestas tropicais até a serenidade das praias, passando pelas texturas da nossa fauna e flora, cada detalhe da coleção foi projetado para transmitir o espírito do Brasil de uma forma inovadora e elegante.<br><br>As matérias-primas foram cuidadosamente selecionadas para valorizar a sustentabilidade, reforçando o <span style=\"background-color: rgb(248, 202, 198);\" data-mce-style=\"background-color: rgb(248, 202, 198);\">compromisso da marca com práticas responsáveis e a valorização dos recursos locais</span>, que são parte intrínseca da nossa identidade.</p>"
-      },
-      {
-        "__resolveType": "blog/sections/Blog/components/OneImage.tsx",
-        "image": "https://assets.decocache.com/breton/3a969c3a-76ef-4d9c-b397-9ce7fe34b71f/blog-one-image.png"
-      },
-      {
-        "__resolveType": "blog/sections/Blog/components/ProductsSection.tsx",
-        "products": [
-          {
-            "image": "https://assets.decocache.com/breton/af5b61a9-7aa0-4c13-a938-114d03c828a5/product-1.jpg",
-            "productName": "POLTRONA BUMBO",
-            "designerName": "by Lilly Sarti"
-          },
-          {
-            "productName": "POLTRONA TRÓPICO",
-            "designerName": "by Bruno Simões",
-            "image": "https://assets.decocache.com/breton/fa55270b-adaa-435b-b7e4-a2fbe90d67c6/product-2.jpg"
-          },
-          {
-            "image": "https://assets.decocache.com/breton/47c8104b-3649-4d77-819d-a7798f5c22e4/product-3.jpg",
-            "productName": "POLTRONA AGOGO",
-            "designerName": "by Lilly Sarti"
-          }
-        ],
-        "subtitle": "Nossos produtos",
-        "title": "Confira alguns produtos"
+        "content": "<p dir=\"ltr\">Ser carbono negativo, pelo terceiro ano consecutivo, reafirma a convicção da marca de que sustentabilidade é um dever empresarial — e que cada árvore plantada representa um passo concreto em direção a um futuro mais equilibrado.</p><p dir=\"ltr\"><br data-mce-bogus=\"1\"></p><p dir=\"ltr\">Conheça outras práticas sustentáveis da Breton clicando aqui.</p><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br data-mce-bogus=\"1\"></p>"
       }
     ],
     "extraProps": [],
-    "title": "Taís Araujo e Lázaro Ramos abrem apartamento no Rio de Janeiro",
-    "date": "2025-04-01",
+    "date": "2025-05-27",
     "slug": "teste-6",
-    "image": "https://assets.decocache.com/breton/8e9cdc3e-1cc8-4abb-980a-ce87277dcad6/blog-banner.png",
-    "excerpt": "Em 20 anos de casamento, é a primeira vez que Taís Araujo e Lázaro Ramos realizam o projeto de uma casa do início ao fim. “Moramos em diversos lugares e nunca quisemos encarar uma obra longa. Fazíamos apenas intervenções pontuais.",
+    "image": "https://assets.decocache.com/breton/91d41132-5216-48b0-ad74-0eb5cdbc399e/Sem-nome-(940-x-728-px)-(384-x-400-px)-(1360-x-560-px)-(1360-x-560-px).png",
     "seo": {
-      "title": "Taís Araujo e Lázaro Ramos abrem apartamento no Rio de Janeiro",
-      "description": "Em 20 anos de casamento, é a primeira vez que Taís Araujo e Lázaro Ramos realizam o projeto de uma casa do início ao fim. “Moramos em diversos lugares e nunca quisemos encarar uma obra longa. Fazíamos apenas intervenções pontuais.",
-      "image": "https://assets.decocache.com/breton/8e9cdc3e-1cc8-4abb-980a-ce87277dcad6/blog-banner.png"
+      "title": "BRETON É CARBONO NEGATIVO PELO TERCEIRO ANO CONSECUTIVO",
+      "description": "A Breton conquistou, pelo terceiro ano seguido, o status de empresa carbono negativo. Um reconhecimento que reforça o compromisso da marca com a sustentabilidade e a preservação ambiental, indo além da neutralização de emissões e contribuindo ativamente para o equilíbrio climático do planeta.",
+      "image": "https://assets.decocache.com/breton/b781ae24-63b8-40e9-a813-850da67f6302/EcoBreton_CarbonoNegativo_site.png"
     },
     "readTime": 8,
-    "alt": "Taís Araujo e Lázaro Ramos abrem apartamento no Rio de Janeiro"
+    "alt": "Breton é carbono negativo pelo terceiro ano consecutivo",
+    "excerpt": "A Breton conquistou, pelo terceiro ano seguido, o status de empresa carbono negativo. Um reconhecimento que reforça o compromisso da marca com a sustentabilidade e a preservação ambiental, indo além da neutralização de emissões e contribuindo ativamente para o equilíbrio climático do planeta.",
+    "title": "BRETON É CARBONO NEGATIVO PELO TERCEIRO ANO CONSECUTIVO"
   }
 }

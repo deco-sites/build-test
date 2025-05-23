@@ -1,0 +1,37 @@
+{
+  "name": "Designer Page",
+  "path": "/designer/:designerName",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Designer/DesignerProductList.tsx",
+      "specificationId": 41,
+      "banners": [
+        {
+          "image": {
+            "desktop": "https://assets.decocache.com/breton/9263ed05-91bf-4e6b-bca3-d158e90b9734/bruno-simoes-desktop.png",
+            "mobile": "https://assets.decocache.com/breton/01e3e3f5-4b9e-40ad-ba73-b06ebfbe9eb0/bruno-simoes-mobile.png",
+            "alt": "Bruno Niz"
+          },
+          "title": "Bruno Niz",
+          "subtitle": "<p style=\"text-align: center\">Bruno Niz iniciou sua carreira no design gráfico e editorial, mas encontrou sua verdadeira paixão no design de produtos e mobiliário.</p><p style=\"text-align: center\">Seu estilo combina modernismo e minimalismo, inspirando-se em diversas fontes que vão desde a geometria do design gráfico, passando pela arquitetura até a natureza.</p>"
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

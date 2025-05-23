@@ -1,0 +1,8 @@
+{
+  "name": "collections/blog/authors/facbd1a857d3",
+  "__resolveType": "blog/loaders/Author.ts",
+  "author": {
+    "name": "Redação Breton",
+    "email": "diego.miguel@breton.com.br"
+  }
+}

@@ -19,7 +19,12 @@ export interface Props extends WebsiteProps {
    */
   platform: Platform;
   theme?: Section;
+  lang: Language;
 }
+export type Language =
+  | "pt-BR"
+  | "en-US"
+  | "es-ES"
 export type Platform =
   | "vtex"
   | "vnda"
@@ -29,6 +34,7 @@ export type Platform =
   | "nuvemshop"
   | "custom";
 export let _platform: Platform = "custom";
+export let _lang: Language = "pt-BR";
 export type App = ReturnType<typeof Site>;
 export type BlogApp = ReturnType<typeof blog>;
 // @ts-ignore somehow deno task check breaks, I have no idea why
@@ -65,6 +71,7 @@ export default function Site({ ...state }: Props): A<Manifest, Props, [
   BlogApp,
 ]> {
   _platform = state.platform || "custom";
+  _lang = state.lang || "pt-BR";
   // Prevent console.logging twice
   if (firstRun) {
     firstRun = false;
