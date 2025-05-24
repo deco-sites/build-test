@@ -36,8 +36,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Institutional/InstitutionalText.tsx",
-        "title": "<p class=\"md:text-center\" style=\"font-size: clamp(12px, 2vw, 16px); font-weight: 600; line-height: 24px; letter-spacing: 3.84px; text-transform: uppercase;\" data-mce-style=\"font-size: clamp(12px, 2vw, 16px); font-weight: 600; line-height: 24px; letter-spacing: 3.84px; text-transform: uppercase;\">O que é EcoBreton</p>",
-        "description": "<p style=\"text-align: center\"><br>Como empresa comprometida com a inovação responsável, a Breton entende que sustentabilidade deve ser um princípio orientador, integrado ao nosso jeito de pensar, criar e agir.</p><p style=\"text-align: center\"><br></p><p style=\"text-align: center\">Foi com esse olhar que, em 2016, criamos o EcoBreton: um programa que traduz nosso compromisso com o planeta e com as futuras gerações. Ele reflete nossa forma de conduzir os negócios, baseada em responsabilidade, ética e consciência ambiental.</p><p style=\"text-align: center\"><br></p><p style=\"text-align: center\">O EcoBreton envolve todas as etapas da nossa cadeia. Começa na escolha criteriosa de matérias-primas e fornecedores alinhados com práticas sustentáveis. Passa por processos produtivos mais eficientes e com menor impacto ambiental. Inclui o treinamento contínuo das nossas equipes para fortalecer a cultura ESG. E se estende até ações concretas de regeneração ambiental, como o apoio à restauração de biomas nativos.</p><p style=\"text-align: center\"><br></p><p style=\"text-align: center\">Tudo isso com um propósito claro: deixar, por meio das nossas escolhas e ações, uma herança da Breton para as próximas gerações.</p>"
+        "title": "<p class=\"md:text-center\" style=\"font-size: clamp(12px, 2vw, 16px); font-weight: 600; line-height: 24px; letter-spacing: 3.84px; text-transform: uppercase;\" data-mce-style=\"font-size: clamp(12px, 2vw, 16px); font-weight: 600; line-height: 24px; letter-spacing: 3.84px; text-transform: uppercase;\">What is EcoBreton</p>",
+        "description": "<p style=\"text-align: center\"><br>As a company committed to responsible innovation, Breton understands that sustainability must be a guiding principle, integrated into our way of thinking, creating, and acting.</p><p style=\"text-align: center\"><br></p><p style=\"text-align: center\">It was with this perspective that, in 2016, we created EcoBreton: a program that reflects our commitment to the planet and to future generations. It reflects our way of conducting business, based on responsibility, ethics, and environmental awareness.</p><p style=\"text-align: center\"><br></p><p style=\"text-align: center\">EcoBreton involves all stages of our chain. It begins with the careful selection of raw materials and suppliers aligned with sustainable practices. It goes through more efficient production processes with less environmental impact. It includes continuous training of our teams to strengthen the ESG culture. And it extends to concrete environmental regeneration actions, such as supporting the restoration of native biomes.</p><p style=\"text-align: center\"><br></p><p style=\"text-align: center\">All this with a clear purpose: to leave, through our choices and actions, a Breton legacy for the next generations.</p>"
       }
     },
     {
@@ -53,19 +53,19 @@
       "section": {
         "__resolveType": "site/sections/Institutional/InstitutionalInfoHighlight.tsx",
         "contentInfo": {
-          "title": "A cada pedido uma árvore é plantada na Mata Atlântica - uma herança da Breton para as próximas gerações",
-          "description": "<p><span style=\"color: rgb(0, 0, 0); font-size: 11pt\">A cada pedido fechado na Breton, plantamos uma árvore na Mata Atlântica. A ação ocorre por meio da nossa parceria com a Fundação S.O.S Mata Atlântica.</span><br></p><p><strong>Por que a Mata Atlântica?</strong></p><p>Um dos principais biomas do Brasil, a escolha da Mata Atlântica também tem um valor simbólico: esse é o bioma que abriga mais de 70% da população brasileira e já perdeu mais de 80% de sua vegetação original. <br><br>Recuperar esse patrimônio é uma forma de gerar impacto positivo no presente e no futuro, uma vez que ele também é fundamental para serviços e atividades essenciais como regulação do clima, abastecimento de água e energia, agricultura, pesca e turismo.</p>"
+          "title": "For every order, a tree is planted in the Atlantic Forest - a Breton legacy for future generations",
+          "description": "<p><span style=\"color: rgb(0, 0, 0); font-size: 11pt\">For every order placed at Breton, we plant a tree in the Atlantic Forest. This action takes place through our partnership with the S.O.S Atlantic Forest Foundation.</span><br></p><p><strong>Why the Atlantic Forest?</strong></p><p>One of Brazil's main biomes, the choice of the Atlantic Forest also has symbolic value: this is the biome that is home to more than 70% of the Brazilian population and has already lost more than 80% of its original vegetation. <br><br>Restoring this heritage is a way to generate a positive impact in the present and future, as it is also fundamental for essential services and activities such as climate regulation, water and energy supply, agriculture, fishing, and tourism.</p>"
         },
         "contentHightlight": {
           "info": {
-            "paragraph_primary": "Mais de",
+            "paragraph_primary": "More than",
             "paragraph_secondary": "1.000",
-            "paragraph_tertiary": "árvores plantadas até Novembro de 2024",
+            "paragraph_tertiary": "trees planted by November 2024",
             "initialValue": 1000,
             "endValue": 33716,
             "time": 5,
-            "textBeforeCounter": "Mais de",
-            "textAfterCounter": "Árvores plantadas até Março de 2025",
+            "textBeforeCounter": "More than",
+            "textAfterCounter": "Trees planted by March 2025",
             "step": 1000
           },
           "background": {
@@ -95,12 +95,12 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Institutional/InstitutionalOrdenatedList.tsx",
-        "title": "Breton é Carbono Negativo",
+        "title": "Breton is Carbon Negative",
         "backgroundColor": "#12340F",
-        "description": "Somos a única marca do mundo  no setor a conquistar o reconhecimento como carbono negativo pelo terceiro ano seguido.",
+        "description": "We are the only brand in the world in the sector to achieve recognition as carbon negative for the third consecutive year.",
         "bannerImage": "https://assets.decocache.com/breton/147b5994-b11f-407f-bc48-c5af1ac80270/selo-carbono-negativo.png",
         "list": [
-          "Desde 2020, compensamos 100% de nossas emissões de CO². E, a partir de 2022, demos um passo além: passamos a compensar mais do que geramos, nos tornando oficialmente uma marca Carbono Negativo.  A avaliação das emissões de gases do efeito estufa (GEE) da Breton é anualmente realizada pela The Planet, que realiza um inventário preciso do carbono emitido pela marca,  seguindo os padrões do GHG Protocol Corporate Standard e a norma 14064-1. "
+          "Since 2020, we have offset 100% of our CO² emissions. And, starting in 2022, we went a step further: we began to offset more than we generate, officially becoming a Carbon Negative brand. The assessment of Breton's greenhouse gas (GHG) emissions is carried out annually by The Planet, which conducts a precise inventory of the carbon emitted by the brand, following the standards of the GHG Protocol Corporate Standard and norm 14064-1."
         ],
         "textColor": "#ffffff"
       }
@@ -119,7 +119,7 @@
         "__resolveType": "blog/sections/Blog/components/ImageAndTextSection.tsx",
         "backgroundColor": "#e7e3dc",
         "image": "https://assets.decocache.com/breton/0b7de275-1ade-477a-acdb-34007dfbf09e/BretonCircular.png",
-        "text": "<p><span style=\"color: rgb(114, 106, 47);\" data-mce-style=\"color: rgb(114, 106, 47);\">O Breton Circular é uma iniciativa pioneira de economia circular no segmento de mobiliário de luxo. &nbsp;Por meio de uma plataforma exclusiva para a revenda de móveis seminovos da Breton, gerenciada pelo Garimpo na Casa, peças em bom estado ganham a chance de fazer parte de novas histórias, prolongando sua vida útil e reduzindo o desperdício.</span></p>",
+        "text": "<p><span style=\"color: rgb(114, 106, 47);\" data-mce-style=\"color: rgb(114, 106, 47);\">Breton Circular is a pioneering circular economy initiative in the luxury furniture segment. &nbsp;Through an exclusive platform for reselling used Breton furniture, managed by Garimpo na Casa, pieces in good condition get a chance to be part of new stories, extending their useful life and reducing waste.</span></p>",
         "imageStyle": {
           "width": "320px",
           "height": "240px",
@@ -140,8 +140,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Institutional/InstitutionalText.tsx",
-        "title": "<p class=\"md:text-center\" style=\"font-size: clamp(12px, 2vw, 16px); font-weight: 600; line-height: 24px; letter-spacing: 3.84px; text-transform: uppercase;\" data-mce-style=\"font-size: clamp(12px, 2vw, 16px); font-weight: 600; line-height: 24px; letter-spacing: 3.84px; text-transform: uppercase;\">Práticas sustentáveis de produção</p>",
-        "description": "<p class=\"md:text-center\" style=\"font-size: 15px; font-weight: 300; line-height: 24px; letter-spacing: 0.9px; margin-top: 24px;\" data-mce-style=\"font-size: 15px; font-weight: 300; line-height: 24px; letter-spacing: 0.9px; margin-top: 24px;\">Buscamos sempre novas soluções para integrar boas práticas em todos os aspectos do nosso negócio. Por isso, apresentamos uma ampla gama de iniciativas para reduzir os impactos ambientais em toda cadeia produtiva.</p>"
+        "title": "<p class=\"md:text-center\" style=\"font-size: clamp(12px, 2vw, 16px); font-weight: 600; line-height: 24px; letter-spacing: 3.84px; text-transform: uppercase;\" data-mce-style=\"font-size: clamp(12px, 2vw, 16px); font-weight: 600; line-height: 24px; letter-spacing: 3.84px; text-transform: uppercase;\">Sustainable Production Practices</p>",
+        "description": "<p class=\"md:text-center\" style=\"font-size: 15px; font-weight: 300; line-height: 24px; letter-spacing: 0.9px; margin-top: 24px;\" data-mce-style=\"font-size: 15px; font-weight: 300; line-height: 24px; letter-spacing: 0.9px; margin-top: 24px;\">We are always looking for new solutions to integrate good practices into all aspects of our business. Therefore, we present a wide range of initiatives to reduce environmental impacts throughout the entire production chain.</p>"
       }
     },
     {
@@ -158,12 +158,12 @@
         "__resolveType": "site/sections/Institutional/InstitutionalTranslucid.tsx",
         "mediaType": {
           "cardBackground": "#fcf9f7e6",
-          "title": "iluminação consciente",
-          "subtitle": "Cuidados Breton",
+          "title": "Conscious lighting",
+          "subtitle": "Breton Care",
           "description": [
-            "Para cobrir os pontos onde a iluminação natural não é efetiva, a Breton conta com um sistema de iluminação por lâmpadas de LED.",
-            "A opção pelo LED, no lugar da tradicional vapor de mercúrio, vai além da economia energética e durabilidade.",
-            "As lâmpadas de vapor de mercúrio possuem metais e gases pesados em sua composição que contaminam o meio ambiente em sua fabricação e descarte."
+            "To cover areas where natural light is not effective, Breton uses an LED lighting system.",
+            "The choice of LED, instead of traditional mercury vapor, goes beyond energy savings and durability.",
+            "Mercury vapor lamps have heavy metals and gases in their composition that contaminate the environment during their manufacturing and disposal."
           ],
           "backgroundImageDesktop": "https://data.decoassets.com/breton/ee654c96-de56-4f90-bf94-f5af48ca4a36/eco-breton-translucid-banner-desk.png",
           "backgroundImageMobile": "https://data.decoassets.com/breton/cc7c1891-8726-41e6-aa60-427402c2ec37/translucid-banner-mobile.png"
@@ -182,39 +182,39 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Institutional/InstitutionalOurActions.tsx",
-        "title": "Nossas ações sustentáveis",
+        "title": "Our sustainable actions",
         "backgroundColor": "#12340F",
-        "subtitle": "Fábrica Breton",
+        "subtitle": "Breton Factory",
         "images": [
           {
             "desktop": "https://data.decoassets.com/breton/1776329b-1791-460e-8ce9-bcd2191548b1/InstutionalOurActionsItemProps-desktop-1.png",
             "icon": "https://assets.decocache.com/breton/d4daca8f-d5b8-443d-8bc7-45e59f629ce4/Screenshot-2025-04-26-at-11.49.21.png",
             "mobile": "https://data.decoassets.com/breton/524247b9-deed-40b7-aadc-96c876ac4e20/InstutionalOurActionsItemProps-mob-1.png",
             "alt": "ecobreton actions",
-            "title": "Fábrica sustentável",
-            "description": "A sustentabilidade na fábrica da Breton se inicia desde o seu projeto construtivo, passando pela gestão interna de insumos e destinação final de materiais."
+            "title": "Sustainable factory",
+            "description": "Sustainability at the Breton factory begins with its construction project, continuing with the internal management of inputs and the final disposal of materials."
           },
           {
             "desktop": "https://assets.decocache.com/breton/4d569c54-a2a6-47a3-a23b-7bcb71b2fec4/eco02.png",
             "icon": "https://assets.decocache.com/breton/f249f5a1-f010-4414-a52a-2d331108736d/Screenshot-2025-04-26-at-11.49.33.png",
             "mobile": "https://assets.decocache.com/breton/4d569c54-a2a6-47a3-a23b-7bcb71b2fec4/eco02.png",
             "alt": "ecobreton actions",
-            "title": "ILUMINAÇÃO NATURAL",
-            "description": "A Breton conta com um sistema de iluminação natural que, sem o auxílio de lâmpadas artificiais, atende quase em sua totalidade as áreas comuns e produtivas da unidade."
+            "title": "NATURAL LIGHTING",
+            "description": "Breton has a natural lighting system that, without the aid of artificial lamps, covers almost entirely the common and productive areas of the unit."
           },
           {
             "desktop": "https://assets.decocache.com/breton/ca5c2d77-6cc3-4d4c-9aba-59f4695fca26/eco01.png",
             "icon": "https://assets.decocache.com/breton/144dd08e-3e67-49cb-8835-1d1165dc6a6d/Screenshot-2025-04-26-at-11.49.43.png",
             "mobile": "https://assets.decocache.com/breton/ca5c2d77-6cc3-4d4c-9aba-59f4695fca26/eco01.png",
             "alt": "ecobreton actions",
-            "title": "Cuidado no detalhe",
-            "description": "Sustentabilidade e redução de impacto são temas que afetam nossa vida diretamente. Exemplo disso é o sistema de aspiração integrado estrategicamente distribuídos pela fábrica. Ele é responsável por coletar o pó e fuligem de madeira no momento exato do corte. Além de coletar o resíduo de madeira, a aspiração mantém o ambiente propício para respiração e limpo, aumentando a qualidade do espaço de trabalho para o colaborador. Todo material coletado é enviado a uma empresa especializada em compostagem de sólidos provenientes de processos fabril."
+            "title": "Attention to detail",
+            "description": "Sustainability and impact reduction are topics that directly affect our lives. An example of this is the strategically distributed integrated aspiration system throughout the factory. It is responsible for collecting wood dust and soot at the exact moment of cutting. In addition to collecting wood residue, the aspiration keeps the environment suitable for breathing and clean, increasing the quality of the workspace for the employee. All collected material is sent to a company specializing in composting solids from manufacturing processes."
           },
           {
             "desktop": "https://assets.decocache.com/breton/8a2048fe-c067-4469-85e7-fed7f6d04f43/eco03.png",
             "mobile": "https://assets.decocache.com/breton/8a2048fe-c067-4469-85e7-fed7f6d04f43/eco03.png",
-            "title": "Produção Consciente",
-            "description": "Na Breton, todo processo produtivo é pensado e executado com essa missão sustentável. Um exemplo prático, é a reciclagem de espumas. Todas as aparas e sobras de espumas gerados na fábrica, são passados pela máquina que, por um processo de corte e moagem, transtormam essas placas em enchimento para almofadas. Essa mixagem de espuma, além de diminuir o descarte confere à fibra sintética uma maciez que promove um maior conforto. Sustentabilidade e acolhimento traduzidos no produto.",
+            "title": "Conscious Production",
+            "description": "At Breton, every production process is designed and executed with this sustainable mission. A practical example is foam recycling. All foam scraps and leftovers generated in the factory are passed through a machine that, through a cutting and grinding process, transforms these sheets into cushion filling. This foam mix, in addition to reducing waste, gives the synthetic fiber a softness that promotes greater comfort. Sustainability and comfort translated into the product.",
             "icon": "https://assets.decocache.com/breton/1115b48b-be58-4356-925a-d42ddd72bfbb/Screenshot-2025-04-26-at-11.49.52.png",
             "alt": "ecobreton actions"
           }
@@ -242,17 +242,17 @@
       "section": {
         "__resolveType": "site/sections/Institutional/InstitutionalSustainableMaterials.tsx",
         "leftCol": {
-          "title": "Insumo Sustentável",
-          "text": "A escolha de materiais, insumos e acabamentos não é feita apenas com base em seu aspecto final e custo. O impacto ambiental e sua reciclagem são itens cruciais na tomada de decisão.  A Breton conta hoje com o maior portifólio de lâminas naturais de madeira de reflorestamento do mercado moveleiro nacional.",
+          "title": "Sustainable Input",
+          "text": "The choice of materials, inputs, and finishes is not made solely based on their final appearance and cost. Environmental impact and recycling are crucial items in decision-making. Breton currently has the largest portfolio of natural reforestation wood veneers in the national furniture market.",
           "image": "https://data.decoassets.com/breton/74a07de5-f82a-45f6-8298-2f03a4c24d0c/InstitutionalSustainableMaterials-icon.svg",
           "texts": [
-            "O impacto ambiental e sua reciclagem são itens cruciais na tomada de decisão.",
-            "A Breton conta hoje com o maior portifólio de lâminas naturais de madeira de reflorestamento do mercado moveleiro nacional."
+            "Environmental impact and recycling are crucial items in decision-making.",
+            "Breton currently has the largest portfolio of natural reforestation wood veneers in the national furniture market."
           ]
         },
         "rightCol": {
           "background": "#703143",
-          "productName": "BUFFET ESTACA",
+          "productName": "STAKE BUFFET",
           "author": "BRUNO NIZ",
           "image": "https://data.decoassets.com/breton/191153ff-7107-4f0b-aadd-df8bbf4082b1/InstitutionalSustainableMaterials.png"
         },
@@ -264,52 +264,52 @@
       "section": {
         "__resolveType": "site/sections/Institutional/InstitutionalResponsabilities.tsx",
         "texts": [
-          "O cuidado e responsabilidade ambiental vai desde a compra e manuseio de insumos até a destinação final.",
-          "A Breton conta com parceiros para a gestão de cada perfil de resíduo gerado durante a produção dos móveis."
+          "Environmental care and responsibility extend from the purchase and handling of inputs to final disposal.",
+          "Breton works with partners for the management of each type of waste generated during furniture production."
         ],
-        "title": "RESPONSABILIDADE DE PONTA A PONTA",
+        "title": "END-TO-END RESPONSIBILITY",
         "responsabilities": [
           {
             "image": "https://assets.decocache.com/breton/354caf73-3a98-4b6b-be01-1db843a07f3d/Screenshot-2025-04-26-at-11.46.22.png",
             "width": "52",
             "height": "56",
-            "resposability": "Sobra de tinta",
-            "text": "A Breton conta com parceiros especializados na remoção, separação e destinação correta dos excedentes de tinta."
+            "resposability": "Paint residue",
+            "text": "Breton works with specialized partners for the removal, separation, and correct disposal of paint surpluses."
           },
           {
             "image": "https://assets.decocache.com/breton/cc5b9375-95f1-4ce5-82cf-fe6566ac15fd/Screenshot-2025-04-26-at-11.46.34.png",
-            "resposability": "Pó de madeira",
+            "resposability": "Wood dust",
             "width": "52",
             "height": "56",
-            "text": "O pó de madeira gerado na Breton é tratado e descartado de maneira legal e consciente por uma empresa certificada."
+            "text": "The wood dust generated at Breton is treated and disposed of legally and consciously by a certified company."
           },
           {
             "image": "https://assets.decocache.com/breton/93128d93-f5c6-4b63-8c1e-e0b5868076a7/Screenshot-2025-04-26-at-11.46.44.png",
             "width": "52",
             "height": "56",
-            "resposability": "Sobra de metais",
-            "text": "Essas pequenas sobras de materiais metálicos, como inox, alumínio e aço carbono são 100% recicláveis. Eles são derretidos e moldados em novas formas e voltam para a cadeia produtiva."
+            "resposability": "Metal scraps",
+            "text": "These small scraps of metallic materials, such as stainless steel, aluminum, and carbon steel, are 100% recyclable. They are melted and molded into new shapes and returned to the production chain."
           },
           {
             "image": "https://assets.decocache.com/breton/a7383a3f-93f0-4c15-a39d-45d971bd9c0c/Screenshot-2025-04-26-at-11.46.55.png",
             "width": "52",
             "height": "56",
-            "resposability": "Produtos Químicos",
-            "text": "Agentes químicos são extremamente nocivos a natureza, por isso, a Breton contrata empresas especializadas e certificadas que atuam na destinação correta desses agentes químicos, evitando que eles entrem em contato com o solo e com a natureza."
+            "resposability": "Chemical Products",
+            "text": "Chemical agents are extremely harmful to nature, which is why Breton hires specialized and certified companies that work on the correct disposal of these chemical agents, preventing them from coming into contact with the soil and nature."
           },
           {
             "image": "https://assets.decocache.com/breton/10c41317-0f9b-4a2f-a335-895f1bf8149e/Screenshot-2025-04-26-at-11.47.03.png",
             "width": "52",
             "height": "56",
-            "resposability": "APARAS DE CORDA E MADEIRA",
-            "text": "Por se tratar de um material muito diverso com mais variados tipos de acabamentos, a reciclagem das aparas é feita por meio de uma empresa que coleta, realiza a separação das peças e, de acordo com cada perfil, realiza o encaminhamento correto para cada tipo."
+            "resposability": "ROPE AND WOOD SCRAPS",
+            "text": "As it is a very diverse material with a wide variety of finishes, the recycling of scraps is done by a company that collects, separates the pieces, and, according to each profile, correctly disposes of each type."
           },
           {
             "image": "https://assets.decocache.com/breton/dac1bab6-b452-450a-b4b4-21fa1ffb60dd/Screenshot-2025-04-26-at-11.47.10.png",
             "width": "52",
             "height": "56",
-            "resposability": "Papéis e papelão",
-            "text": "Mesmo com a logística reversa de embalagens que diminui a geração de lixo e a redução ao máximo na utilização de plástico, todo material em algum momento precisa ser descartado. E para esta destinação final, a Breton conta com políticas sérias de separação e reciclagem."
+            "resposability": "Paper and cardboard",
+            "text": "Even with reverse logistics for packaging, which reduces waste generation and minimizes plastic use, all material eventually needs to be discarded. And for this final disposal, Breton has serious policies for separation and recycling."
           }
         ]
       }
@@ -335,8 +335,8 @@
       "section": {
         "__resolveType": "site/sections/Institutional/InstitutionalPDF.tsx",
         "bannerImage": "https://data.decoassets.com/breton/1e60fa70-7258-4155-b193-a99c29a8d7af/sustentabilityBannerPDF.png",
-        "title": "Veja o nosso relatório de sustentabilidade",
-        "label": "Clique para visualizar",
+        "title": "See our sustainability report",
+        "label": "Click to view",
         "image": "https://data.decoassets.com/breton/1e1a4b42-a14b-43f2-9beb-49be5a2cbb27/sustentabilityBannerPDF-icon.svg",
         "gradientColor": "#12340f",
         "pdfLink": "https://drive.google.com/uc?export=download&id=1Dag4pz_te1L3NbLD_ykGRCtoDaMukK4i",
@@ -361,7 +361,7 @@
         "width": 406,
         "height": 440,
         "texts": [
-          "A sustentabilidade é a herança que a Breton deseja oferecer para as próximas gerações e para sua família!",
+          "Sustainability is the legacy Breton wants to offer to future generations and your family!",
           null
         ],
         "widthMobile": 284,
@@ -381,25 +381,25 @@
       "section": {
         "__resolveType": "site/sections/Institutional/InstitutionalFooterNavigator.tsx",
         "background": "#672135",
-        "text": "<p style=\"text-align: center; font-size: 16px; line-height: 24px; font-weight: 600; color: rgb(255, 255, 255); letter-spacing: 3.84px;\" data-mce-style=\"text-align: center; font-size: 16px; line-height: 24px; font-weight: 600; color: rgb(255, 255, 255); letter-spacing: 3.84px;\">VEJA TAMBÉM:</p>",
+        "text": "<p style=\"text-align: center; font-size: 16px; line-height: 24px; font-weight: 600; color: rgb(255, 255, 255); letter-spacing: 3.84px;\" data-mce-style=\"text-align: center; font-size: 16px; line-height: 24px; font-weight: 600; color: rgb(255, 255, 255); letter-spacing: 3.84px;\">SEE ALSO:</p>",
         "navigationList": [
           {
             "imageDesktop": "https://data.decoassets.com/breton/d25cce84-4ae7-4691-a4a2-2a5fb1ade4ef/InstitutionalFooterNavigatorDesk-1.png",
             "imageMobile": "https://data.decoassets.com/breton/6a4f8740-9119-4866-9c2b-18988300a57a/InstitutionalFooterNavigatorMob-1.png",
-            "title": "Nossas Lojas",
-            "label": "Endereços",
+            "title": "Our Stores",
+            "label": "Addresses",
             "link": "/stores"
           },
           {
-            "title": "Sobre Nós",
-            "label": "Saiba mais",
+            "title": "About Us",
+            "label": "Learn more",
             "link": "/",
             "imageDesktop": "https://data.decoassets.com/breton/616a5858-4ed6-4e9c-aca1-79599cf23489/sobre-nos-desk.png",
             "imageMobile": "https://data.decoassets.com/breton/6a4f8740-9119-4866-9c2b-18988300a57a/InstitutionalFooterNavigatorMob-1.png"
           },
           {
             "title": "Blog",
-            "label": "Saiba mais",
+            "label": "Learn more",
             "link": "/",
             "imageDesktop": "https://data.decoassets.com/breton/80daf5e5-02c8-48ac-b44a-069e3d8b0657/InstitutionalFooterNavigatorDesk-3.png",
             "imageMobile": "https://data.decoassets.com/breton/6a4f8740-9119-4866-9c2b-18988300a57a/InstitutionalFooterNavigatorMob-1.png"

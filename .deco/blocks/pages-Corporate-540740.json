@@ -17,7 +17,7 @@
             "image": {
               "desktop": "https://assets.decocache.com/breton/6d17ef2c-e235-496a-8a8c-2710f85202e3/corporativo-banner.png"
             },
-            "title": "C O R P O R A T I V O"
+            "title": "C O R P O R A T E"
           }
         ]
       }
@@ -34,14 +34,14 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/BretonVersatilityCarousel/BretonVersatilityCarousel.tsx",
-        "subtitle": "ambientes por breton",
+        "subtitle": "environments by breton",
         "places": [
           {
             "history": {
               "topics": [
                 {
-                  "title": "SOBRE O ESPAÇO",
-                  "text": "O restaurante Giu Giu, localizado no CJ Shops, é um dos destinos gastronômicos mais elegantes da cidade de São Paulo. Desenvolvido para ser um local de encontro onde amigos e familiares possam criar e compartilhar memórias, a proposta do restaurante tem como inspiração a arquitetura de Milão e Londres.    Com assinatura da arquiteta Karina Afonso, o ambiente revela uma atmosfera cosmopolita e acolhedora, em uma escolha primorosa de matérias, que vão de mármores, madeira laqueada, latão e tecidos especiais, combinados à natureza. Os móveis assinados pela Breton reforçam a sofisticação e conforto do local."
+                  "title": "ABOUT THE SPACE",
+                  "text": "Giu Giu restaurant, located at CJ Shops, is one of the most elegant gastronomic destinations in the city of São Paulo. Developed to be a meeting place where friends and family can create and share memories, the restaurant's proposal is inspired by the architecture of Milan and London. With the signature of architect Karina Afonso, the environment reveals a cosmopolitan and welcoming atmosphere, in an exquisite choice of materials, ranging from marble, lacquered wood, brass and special fabrics, combined with nature. The furniture designed by Breton reinforces the sophistication and comfort of the place."
                 }
               ],
               "title": "Giugiu",
@@ -57,7 +57,7 @@
                 },
                 "mobileImage": {
                   "image": "https://assets.decocache.com/breton/ee17302c-8d06-4c05-99d3-d85f90d2ad89/banner2-mobile-giugiu.png",
-                  "alt": "Giugiu norma slide 2",
+                  "alt": "Giugiu normal slide 2",
                   "width": 360,
                   "height": 640
                 }
@@ -71,17 +71,17 @@
                 },
                 "mobileImage": {
                   "image": "https://assets.decocache.com/breton/da933c54-cbe2-4d14-801f-7327af693918/banner4-mobile-giugiu.png",
-                  "alt": "Giugiu  norma slide 3",
+                  "alt": "Giugiu normal slide 3",
                   "width": 360,
                   "height": 640
                 }
               }
             ],
-            "type": "Restaurante",
+            "type": "Restaurant",
             "cover": {
               "title": "Giugiu",
               "link": "/",
-              "label": "SABER MAIS",
+              "label": "LEARN MORE",
               "image": {
                 "desktopImg": "https://data.decoassets.com/breton/dd828d80-c753-41d6-99c3-fe08bdd021b5/Sushi-Nouveau-desk.png",
                 "mobileImg": "https://data.decoassets.com/breton/316ba494-0748-421d-a758-2eef6ab15358/Sushi-Nouveau-mob.png"
@@ -94,7 +94,7 @@
               },
               "mobileImage": {
                 "image": "https://assets.decocache.com/breton/78ea24b3-f7f3-452c-9e99-2212288ec2ed/banner-mobile-giugiu.png",
-                "alt": "Giugiu  Mobile",
+                "alt": "Giugiu Mobile",
                 "width": 360,
                 "height": 640
               }
@@ -112,11 +112,11 @@
             "history": {
               "topics": [
                 {
-                  "title": "SOBRE O ESPAÇO",
-                  "text": "Uma paisagem imponente no bairro de Santana, zona norte de São Paulo, o Edifício K1, projeto do arquiteto Alexandre Milleu, conta com peças exclusivas da Breton em todo o espaço do hall.  Com estilo contemporâneo, o ambiente combina móveis com elegância atemporal e a funcionalidade que um ambiente de circulação exige, garantindo mais sofisticação e conforto a todos os visitantes e moradores do empreendimento."
+                  "title": "ABOUT THE SPACE",
+                  "text": "An imposing landscape in the Santana neighborhood, north of São Paulo, the K1 Building, designed by architect Alexandre Milleu, features exclusive Breton pieces throughout the hall space. With a contemporary style, the environment combines furniture with timeless elegance and the functionality that a circulation environment demands, ensuring more sophistication and comfort for all visitors and residents of the development."
                 }
               ],
-              "title": "Edifício K1",
+              "title": "K1 Building",
               "subtitle": "Santana | São Paulo | 2017"
             },
             "normalSlide": [
@@ -129,7 +129,7 @@
                 },
                 "mobileImage": {
                   "image": "https://assets.decocache.com/breton/342fd181-607d-492a-a101-da7360ddf2a1/2mobile.png",
-                  "alt": "k1  slide 1",
+                  "alt": "k1 slide 1",
                   "width": 360,
                   "height": 640
                 }
@@ -137,13 +137,13 @@
               {
                 "desktopImage": {
                   "image": "https://assets.decocache.com/breton/40ecf791-10d3-4c14-b635-aa51e1fd2693/3desk.png",
-                  "alt": "k1  slide 2",
+                  "alt": "k1 slide 2",
                   "width": 940,
                   "height": 728
                 },
                 "mobileImage": {
                   "image": "https://assets.decocache.com/breton/cd0f0efb-cc36-477e-9a7f-48e5450a8ee4/3mobile.png",
-                  "alt": "k1  slide 2",
+                  "alt": "k1 slide 2",
                   "width": 360,
                   "height": 640
                 }
@@ -151,7 +151,7 @@
               {
                 "desktopImage": {
                   "image": "https://assets.decocache.com/breton/06385adb-2a2c-4e26-84ea-06a0f75332b0/4desk.png",
-                  "alt": "k1  slide 3",
+                  "alt": "k1 slide 3",
                   "width": 940,
                   "height": 728
                 },
@@ -165,13 +165,13 @@
               {
                 "desktopImage": {
                   "image": "https://assets.decocache.com/breton/937f340f-05aa-48da-8f4d-698cdd5e825c/5desk.png",
-                  "alt": "k1 ",
+                  "alt": "k1",
                   "width": 940,
                   "height": 728
                 },
                 "mobileImage": {
                   "image": "https://assets.decocache.com/breton/766707c7-75be-451c-b8f0-10b9c895d24d/5mobile.png",
-                  "alt": "k1 ",
+                  "alt": "k1",
                   "width": 360,
                   "height": 240
                 }
@@ -187,50 +187,50 @@
               }
             },
             "cover": {
-              "title": "Edifício K1",
+              "title": "K1 Building",
               "link": "/",
-              "label": "SABER MAIS",
+              "label": "LEARN MORE",
               "image": {
                 "desktopImg": "https://data.decoassets.com/breton/dd828d80-c753-41d6-99c3-fe08bdd021b5/Sushi-Nouveau-desk.png",
                 "mobileImg": "https://data.decoassets.com/breton/316ba494-0748-421d-a758-2eef6ab15358/Sushi-Nouveau-mob.png"
               },
               "desktopImage": {
                 "image": "https://assets.decocache.com/breton/6e77f663-a490-43db-91de-db64d401c063/desk1-corporativo.png",
-                "alt": "Edifício K1 Desktop",
+                "alt": "K1 Building Desktop",
                 "width": 1360,
                 "height": 728
               },
               "mobileImage": {
                 "image": "https://assets.decocache.com/breton/51f643b3-6ab3-4e10-81eb-950448bf8b1b/mobile1-corporativo.png",
-                "alt": "Edifício K1 Mobile",
+                "alt": "K1 Building Mobile",
                 "width": 360,
                 "height": 640
               }
             },
-            "type": "Empreendimento"
+            "type": "Development"
           },
           {
             "history": {
               "topics": [
                 {
-                  "title": "SOBRE O PROJETO",
-                  "text": "O Nelita é um dos restaurantes mais prestigiados de São Paulo, comandado pela chef Tássia Magalhães e sua equipe exclusivamente feminina. Com uma proposta intimista e contemporânea, foi eleito o melhor restaurante de São Paulo pela Folha de S.Paulo, integra a lista dos 50 Melhores Restaurantes da América Latina e recebeu reconhecimento do Guia Michelin e da La Liste. O projeto assinado por Herbert Holdefer valoriza elementos originais como tijolos aparentes e piso de ardósia, criando um ambiente acolhedor e sofisticado. Os móveis, desenvolvidos sob medida pela Breton Corporativo, reforçam essa atmosfera, combinando conforto, resistência e um design que convida ao encontro e à permanência."
+                  "title": "ABOUT THE PROJECT",
+                  "text": "Nelita is one of the most prestigious restaurants in São Paulo, led by chef Tássia Magalhães and her exclusively female team. With an intimate and contemporary proposal, it was elected the best restaurant in São Paulo by Folha de S.Paulo, is on the list of the 50 Best Restaurants in Latin America, and received recognition from the Michelin Guide and La Liste. The project signed by Herbert Holdefer values original elements such as exposed bricks and slate flooring, creating a cozy and sophisticated atmosphere. The custom-made furniture by Breton Corporativo reinforces this atmosphere, combining comfort, resistance, and a design that invites meeting and staying."
                 }
               ],
               "subtitle": "Pinheiros | São Paulo | 2024",
-              "title": "Restaurante Nelita"
+              "title": "Nelita Restaurant"
             },
             "normalSlide": [
               {
                 "desktopImage": {
                   "image": "https://assets.decocache.com/breton/130c27e3-acdd-44a7-98be-21b9b9ee70ea/Design-sem-nome-(1).png",
-                  "alt": "Sushi Nouveau norma slide 1",
+                  "alt": "Sushi Nouveau normal slide 1",
                   "width": 940,
                   "height": 728
                 },
                 "mobileImage": {
                   "image": "https://assets.decocache.com/breton/bdd6e678-82e2-42ee-b4fa-3dfd5b77b260/2.png",
-                  "alt": "Sushi Nouveau norma slide 1",
+                  "alt": "Sushi Nouveau normal slide 1",
                   "width": 360,
                   "height": 640
                 }
@@ -238,13 +238,13 @@
               {
                 "desktopImage": {
                   "image": "https://assets.decocache.com/breton/fd6b33ef-2674-4c67-b0d1-8cb58ac9c421/Breton_Nelita(RafaelRenzo)-29.jpg",
-                  "alt": "Sushi Nouveau norma slide 2",
+                  "alt": "Sushi Nouveau normal slide 2",
                   "width": 940,
                   "height": 728
                 },
                 "mobileImage": {
                   "image": "https://assets.decocache.com/breton/d17893cc-23bf-478a-aa89-bcdd3f168988/3.png",
-                  "alt": "Sushi Nouveau norma slide 2",
+                  "alt": "Sushi Nouveau normal slide 2",
                   "width": 360,
                   "height": 640
                 }
@@ -252,13 +252,13 @@
               {
                 "desktopImage": {
                   "image": "https://assets.decocache.com/breton/b8318e9f-dbfe-4787-b1d7-94c161cb9770/Design-sem-nome-(4).png",
-                  "alt": "Sushi Nouveau norma slide 3",
+                  "alt": "Sushi Nouveau normal slide 3",
                   "width": 940,
                   "height": 728
                 },
                 "mobileImage": {
                   "image": "https://assets.decocache.com/breton/1c994dde-7391-4c7e-a562-fd7f2d8e1a66/1.png",
-                  "alt": "Sushi Nouveau norma slide 3",
+                  "alt": "Sushi Nouveau normal slide 3",
                   "width": 940,
                   "height": 728
                 }
@@ -271,14 +271,14 @@
                   "3"
                 ]
               },
-              "title": "PRODUTOS APRESENTADOS",
+              "title": "FEATURED PRODUCTS",
               "active": true
             },
-            "type": "Restaurante",
+            "type": "Restaurant",
             "cover": {
               "title": "Nelita",
               "link": "/",
-              "label": "SABER MAIS",
+              "label": "LEARN MORE",
               "image": {
                 "desktopImg": "https://data.decoassets.com/breton/dd828d80-c753-41d6-99c3-fe08bdd021b5/Sushi-Nouveau-desk.png",
                 "mobileImg": "https://data.decoassets.com/breton/316ba494-0748-421d-a758-2eef6ab15358/Sushi-Nouveau-mob.png"
@@ -301,24 +301,24 @@
             "history": {
               "topics": [
                 {
-                  "title": "DESCRIÇÃO",
-                  "text": "O salão giratório na cobertura do edifício K1 foi o endereço escolhido por Ricardo Trevisan para criar o Lassù. Do italiano, lá em cima,  o restaurante localizado na zona norte de São Paulo combina com cardápio italiano e toque brasileiro, os chefes Lucas Campos e Henrique Schoendorfer  elevam a mistura de  ingredientes à obras de artes. Com capacidade para 90 lugares, o projeto favoreceu as formas circulares presentes nos principais elementos da decoração, como nas mesas de jantar, poltronas, cadeiras e mesas laterais da Breton."
+                  "title": "DESCRIPTION",
+                  "text": "The revolving lounge on the rooftop of the K1 building was the chosen address for Ricardo Trevisan to create Lassù. From Italian, 'up there', the restaurant located in the north zone of São Paulo combines an Italian menu with a Brazilian touch. Chefs Lucas Campos and Henrique Schoendorfer elevate the mix of ingredients to works of art. With capacity for 90 seats, the project favored the circular shapes present in the main decorative elements, such as the dining tables, armchairs, chairs, and side tables from Breton."
                 }
               ],
-              "subtitle": "Santana | São paulo | 2017",
-              "title": "Restaurante Lassú"
+              "subtitle": "Santana | São Paulo | 2017",
+              "title": "Lassú Restaurant"
             },
             "normalSlide": [
               {
                 "desktopImage": {
                   "image": "https://assets.decocache.com/breton/ecf39ed3-3518-40fb-b553-c4a8ea6fd0e7/Breton_Lassu_(RafaelRenzo)-26.jpg",
-                  "alt": "Sushi Nouveau norma slide 1",
+                  "alt": "Sushi Nouveau normal slide 1",
                   "width": 940,
                   "height": 728
                 },
                 "mobileImage": {
                   "image": "https://assets.decocache.com/breton/4b095331-096a-4f32-9940-446187ebf06d/2.png",
-                  "alt": "Sushi Nouveau norma slide 1",
+                  "alt": "Sushi Nouveau normal slide 1",
                   "width": 360,
                   "height": 640
                 }
@@ -326,13 +326,13 @@
               {
                 "desktopImage": {
                   "image": "https://assets.decocache.com/breton/395de278-85be-447c-b937-6a4fa64cfc71/Breton_Lassu_(RafaelRenzo)-23.jpg",
-                  "alt": "Sushi Nouveau norma slide 2",
+                  "alt": "Sushi Nouveau normal slide 2",
                   "width": 940,
                   "height": 728
                 },
                 "mobileImage": {
                   "image": "https://assets.decocache.com/breton/5ef0b4e9-d03c-45c2-aee8-d6503a50999f/3.png",
-                  "alt": "Sushi Nouveau norma slide 2",
+                  "alt": "Sushi Nouveau normal slide 2",
                   "width": 360,
                   "height": 640
                 }
@@ -340,13 +340,13 @@
               {
                 "desktopImage": {
                   "image": "https://assets.decocache.com/breton/395de278-85be-447c-b937-6a4fa64cfc71/Breton_Lassu_(RafaelRenzo)-23.jpg",
-                  "alt": "Sushi Nouveau norma slide 3",
+                  "alt": "Sushi Nouveau normal slide 3",
                   "width": 940,
                   "height": 728
                 },
                 "mobileImage": {
                   "image": "https://assets.decocache.com/breton/d0ba8b58-86bd-4668-8f2c-d153fa35cd7f/5.png",
-                  "alt": "Sushi Nouveau norma slide 3",
+                  "alt": "Sushi Nouveau normal slide 3",
                   "width": 360,
                   "height": 640
                 }
@@ -357,13 +357,13 @@
               "products": {
                 "collectionId": "235"
               },
-              "title": "PRODUTOS APRESENTADOS",
+              "title": "FEATURED PRODUCTS",
               "active": false
             },
-            "type": "Restaurante",
+            "type": "Restaurant",
             "cover": {
               "link": "/",
-              "label": "SABER MAIS",
+              "label": "LEARN MORE",
               "image": {
                 "desktopImg": "https://data.decoassets.com/breton/dd828d80-c753-41d6-99c3-fe08bdd021b5/Sushi-Nouveau-desk.png",
                 "mobileImg": "https://data.decoassets.com/breton/316ba494-0748-421d-a758-2eef6ab15358/Sushi-Nouveau-mob.png"
@@ -387,24 +387,24 @@
             "history": {
               "topics": [
                 {
-                  "title": "DESCRIÇÃO",
-                  "text": "Localizado no Shopping Iguatemi Alphaville, com ambiente acolhedor e descontraído, surge um novo conceito em culinária japonesa: o Restaurante Sushi Nouveau reúne a combinação de sabores, cores e aromas a um projeto de interiores intimista, com tons neutros e mix de texturas."
+                  "title": "DESCRIPTION",
+                  "text": "Located in Shopping Iguatemi Alphaville, with a welcoming and relaxed atmosphere, a new concept in Japanese cuisine emerges: Sushi Nouveau Restaurant combines flavors, colors, and aromas with an intimate interior design, featuring neutral tones and a mix of textures."
                 }
               ],
-              "title": "Sushi Noveau",
+              "title": "Sushi Nouveau",
               "subtitle": "São Caetano do Sul | São Paulo | 2023"
             },
             "normalSlide": [
               {
                 "desktopImage": {
                   "image": "https://assets.decocache.com/breton/ec727c78-de99-4681-9718-15e8a375e22a/3.png",
-                  "alt": "Sushi Nouveau norma slide 1",
+                  "alt": "Sushi Nouveau normal slide 1",
                   "width": 940,
                   "height": 728
                 },
                 "mobileImage": {
                   "image": "https://assets.decocache.com/breton/d162b7e6-74ac-4495-a0e4-f6354a20a8a9/3.png",
-                  "alt": "Sushi Nouveau norma slide 1",
+                  "alt": "Sushi Nouveau normal slide 1",
                   "width": 360,
                   "height": 640
                 }
@@ -412,13 +412,13 @@
               {
                 "desktopImage": {
                   "image": "https://assets.decocache.com/breton/736be4c6-c10f-4f14-a63a-dba990adff54/2.png",
-                  "alt": "Sushi Nouveau norma slide 2",
+                  "alt": "Sushi Nouveau normal slide 2",
                   "width": 940,
                   "height": 728
                 },
                 "mobileImage": {
                   "image": "https://assets.decocache.com/breton/09d60e31-8a7c-46ed-a782-b79b1c31ea94/5.png",
-                  "alt": "Sushi Nouveau norma slide 2",
+                  "alt": "Sushi Nouveau normal slide 2",
                   "width": 360,
                   "height": 640
                 }
@@ -426,13 +426,13 @@
               {
                 "desktopImage": {
                   "image": "https://assets.decocache.com/breton/90e483d2-012e-48d7-a40a-9813899f4dcf/4.png",
-                  "alt": "Sushi Nouveau norma slide 3",
+                  "alt": "Sushi Nouveau normal slide 3",
                   "width": 940,
                   "height": 728
                 },
                 "mobileImage": {
                   "image": "https://assets.decocache.com/breton/88fa805e-9173-4011-8998-d915c5dbfca6/4.png",
-                  "alt": "Sushi Nouveau norma slide 3",
+                  "alt": "Sushi Nouveau normal slide 3",
                   "width": 360,
                   "height": 640
                 }
@@ -443,14 +443,14 @@
               "products": {
                 "collectionId": "235"
               },
-              "title": "PRODUTOS APRESENTADOS",
+              "title": "FEATURED PRODUCTS",
               "active": false
             },
-            "type": "Restaurante",
+            "type": "Restaurant",
             "cover": {
-              "title": "Sushi Noveau",
+              "title": "Sushi Nouveau",
               "link": "/",
-              "label": "SABER MAIS",
+              "label": "LEARN MORE",
               "image": {
                 "desktopImg": "https://data.decoassets.com/breton/dd828d80-c753-41d6-99c3-fe08bdd021b5/Sushi-Nouveau-desk.png",
                 "mobileImg": "https://data.decoassets.com/breton/316ba494-0748-421d-a758-2eef6ab15358/Sushi-Nouveau-mob.png"
@@ -473,8 +473,8 @@
             "history": {
               "topics": [
                 {
-                  "title": "DESCRIÇÃO",
-                  "text": "Em busca de mais sofisticação para seus espaços, a Instituição Oswaldo Cruz deu início a uma ampla renovação de seus ambientes internos. Consultórios e o auditório da diretoria clínica ganharam novos layouts, com mobiliário contemporâneo assinado pela Breton Corporativo. Com linhas retas e elegância atemporal, os móveis escolhidos foram cuidadosamente adaptados para unir a funcionalidade que o ambiente hospitalar demanda, sem deixar de lado a sofisticação e personalidade do projeto."
+                  "title": "DESCRIPTION",
+                  "text": "In search of more sophistication for its spaces, the Oswaldo Cruz Institution began a broad renovation of its internal environments. Consulting rooms and the clinical director's auditorium gained new layouts, with contemporary furniture designed by Breton Corporativo. With straight lines and timeless elegance, the chosen furniture was carefully adapted to combine the functionality that the hospital environment demands, without neglecting the sophistication and personality of the project."
                 }
               ],
               "title": "Hospital Alemão Oswaldo Cruz",
@@ -529,14 +529,14 @@
               "products": {
                 "collectionId": "235"
               },
-              "title": "PRODUTOS APRESENTADOS",
+              "title": "FEATURED PRODUCTS",
               "active": false
             },
             "type": "Hospital",
             "cover": {
               "title": "Hospital Alemão Oswaldo Cruz",
               "link": "/",
-              "label": "SABER MAIS",
+              "label": "LEARN MORE",
               "image": {
                 "desktopImg": "https://data.decoassets.com/breton/dd828d80-c753-41d6-99c3-fe08bdd021b5/Sushi-Nouveau-desk.png",
                 "mobileImg": "https://data.decoassets.com/breton/316ba494-0748-421d-a758-2eef6ab15358/Sushi-Nouveau-mob.png"
@@ -559,24 +559,24 @@
             "history": {
               "topics": [
                 {
-                  "title": "DESCRIÇÃO",
-                  "text": "O espaço  Esplanada, que fica entre o lounge, o teatro e os restaurantes do clube Hebraica, em São Paulo, levou alguns meses de estudo para que pudesse, não só seguir na dinâmica de modernização do clube mas, também, virar um grande lounge de convivência para todos. O verdadeiro coração da Hebraica de SP. O projeto assinado pela arquiteta Adine Woda Moraes, apresenta um grande vão livre, com mesas, sofás, espaço para circular, deck de madeira, bar, mesas entre outros itens que tornaram a Esplanada um espaço de convivência, versátil, moderno e acolhedor. "
+                  "title": "DESCRIPTION",
+                  "text": "The Esplanada space, located between the lounge, theater, and restaurants of the Hebraica club in São Paulo, underwent several months of study to not only continue the club's modernization dynamic but also become a large social lounge for everyone. The true heart of Hebraica in São Paulo. The project, signed by architect Adine Woda Moraes, features a large open space, with tables, sofas, circulation area, wooden deck, bar, tables, and other items that made the Esplanada a versatile, modern, and welcoming social space."
                 }
               ],
-              "title": "Clube Hebraica",
-              "subtitle": "Pinheiros | São paulo | 2022"
+              "title": "Hebraica Club",
+              "subtitle": "Pinheiros | São Paulo | 2022"
             },
             "normalSlide": [
               {
                 "desktopImage": {
                   "image": "https://assets.decocache.com/breton/12942133-727c-4858-b6d7-080139a3ed2f/4.png",
-                  "alt": "Sushi Nouveau norma slide 1",
+                  "alt": "Sushi Nouveau normal slide 1",
                   "height": 728,
                   "width": 940
                 },
                 "mobileImage": {
                   "image": "https://assets.decocache.com/breton/5c6aaf2c-b7a5-4a7c-b6f5-60983fab3813/5.png",
-                  "alt": "Sushi Nouveau norma slide 1",
+                  "alt": "Sushi Nouveau normal slide 1",
                   "width": 360,
                   "height": 640
                 }
@@ -584,13 +584,13 @@
               {
                 "desktopImage": {
                   "image": "https://assets.decocache.com/breton/52144467-4f34-4a02-8b6a-1f3b4e1b5fd6/1.png",
-                  "alt": "Sushi Nouveau norma slide 2",
+                  "alt": "Sushi Nouveau normal slide 2",
                   "width": 940,
                   "height": 728
                 },
                 "mobileImage": {
                   "image": "https://assets.decocache.com/breton/a6d7cb59-eb30-4e93-bf0f-7f0de1ee8b12/3.png",
-                  "alt": "Sushi Nouveau norma slide 2",
+                  "alt": "Sushi Nouveau normal slide 2",
                   "width": 360,
                   "height": 640
                 }
@@ -598,13 +598,13 @@
               {
                 "desktopImage": {
                   "image": "https://assets.decocache.com/breton/589c303b-fcce-4b6f-9d3c-25ed4af0701c/2.png",
-                  "alt": "Sushi Nouveau norma slide 3",
+                  "alt": "Sushi Nouveau normal slide 3",
                   "width": 940,
                   "height": 728
                 },
                 "mobileImage": {
                   "image": "https://assets.decocache.com/breton/48459811-e0be-40a7-bb57-442980c66428/2.png",
-                  "alt": "Sushi Nouveau norma slide 3",
+                  "alt": "Sushi Nouveau normal slide 3",
                   "width": 360,
                   "height": 640
                 }
@@ -615,14 +615,14 @@
               "products": {
                 "collectionId": "235"
               },
-              "title": "PRODUTOS APRESENTADOS",
+              "title": "FEATURED PRODUCTS",
               "active": false
             },
-            "type": "Clube",
+            "type": "Club",
             "cover": {
               "title": "Hebraica",
               "link": "/",
-              "label": "SABER MAIS",
+              "label": "LEARN MORE",
               "image": {
                 "desktopImg": "https://data.decoassets.com/breton/dd828d80-c753-41d6-99c3-fe08bdd021b5/Sushi-Nouveau-desk.png",
                 "mobileImg": "https://data.decoassets.com/breton/316ba494-0748-421d-a758-2eef6ab15358/Sushi-Nouveau-mob.png"
@@ -645,24 +645,24 @@
             "history": {
               "topics": [
                 {
-                  "title": "DESCRIÇÃO",
-                  "text": "A companhia aérea LATAM inaugurou, em novembro de 2014, a primeira sala vip do grupo. O espaço de 1835m², no Aeroporto Internacional de Guarulhos, em São Paulo, pode receber até 450 jet setters e está disponível para os clientes de classe executiva.  A Breton foi responsável por mobiliar todo o ambiente projetado em parceria com os escritórios Athié Wohnrath e Andree Putman. Moderno e acolhedor,  visual sofisticado do local foi garantido graças aos mobiliários exclusivos da marca, todos fabricados a partir de materiais nobres, como couro, mármore, madeira selecionada e ônix.  Já a paleta  de cores, eleita para realçar a elegância do ambiente, contempla tons neutros que contrastam com o verde presente no estofado das poltronas - uma alusão à riqueza e à diversidade do continente latino americano."
+                  "title": "DESCRIPTION",
+                  "text": "LATAM Airlines inaugurated, in November 2014, the group's first VIP lounge. The 1835m² space, at Guarulhos International Airport in São Paulo, can host up to 450 jet setters and is available to business class customers. Breton was responsible for furnishing the entire environment designed in partnership with Athié Wohnrath and Andree Putman offices. Modern and welcoming, the sophisticated look of the place was guaranteed thanks to the brand's exclusive furniture, all made from noble materials, such as leather, marble, selected wood, and onyx. The color palette, chosen to enhance the elegance of the environment, includes neutral tones that contrast with the green present in the armchair upholstery - an allusion to the richness and diversity of the Latin American continent."
                 }
               ],
-              "title": "Lounge LATAM",
-              "subtitle": "Aeroporto Internacional de Guarulhos | São Paulo | 2014"
+              "title": "LATAM Lounge",
+              "subtitle": "Guarulhos International Airport | São Paulo | 2014"
             },
             "normalSlide": [
               {
                 "desktopImage": {
                   "image": "https://assets.decocache.com/breton/b8a01f1e-456a-4c26-b1a9-936fd9b0c36d/2.png",
-                  "alt": "Sushi Nouveau norma slide 1",
+                  "alt": "Sushi Nouveau normal slide 1",
                   "width": 940,
                   "height": 728
                 },
                 "mobileImage": {
                   "image": "https://assets.decocache.com/breton/0f9cd7b8-d75e-40d0-9815-8af60d4421a0/2.png",
-                  "alt": "Sushi Nouveau norma slide 1",
+                  "alt": "Sushi Nouveau normal slide 1",
                   "width": 360,
                   "height": 640
                 }
@@ -670,13 +670,13 @@
               {
                 "desktopImage": {
                   "image": "https://assets.decocache.com/breton/d3ff1795-98ec-402e-8f77-d704c652edb1/1.png",
-                  "alt": "Sushi Nouveau norma slide 2",
+                  "alt": "Sushi Nouveau normal slide 2",
                   "width": 940,
                   "height": 728
                 },
                 "mobileImage": {
                   "image": "https://assets.decocache.com/breton/31438017-47f4-4a40-a822-f146e0e8a98a/3.png",
-                  "alt": "Sushi Nouveau norma slide 2",
+                  "alt": "Sushi Nouveau normal slide 2",
                   "width": 360,
                   "height": 640
                 }
@@ -684,13 +684,13 @@
               {
                 "desktopImage": {
                   "image": "https://assets.decocache.com/breton/cb1058b4-a638-4699-92c9-46a818e9f585/4.png",
-                  "alt": "Sushi Nouveau norma slide 3",
+                  "alt": "Sushi Nouveau normal slide 3",
                   "width": 940,
                   "height": 728
                 },
                 "mobileImage": {
                   "image": "https://assets.decocache.com/breton/279e8693-7442-4f1c-a624-b824fbe25db0/5.png",
-                  "alt": "Sushi Nouveau norma slide 3",
+                  "alt": "Sushi Nouveau normal slide 3",
                   "width": 360,
                   "height": 640
                 }
@@ -700,7 +700,7 @@
                   "image": "https://assets.decocache.com/breton/8c8eea4d-a8c2-45d0-99b5-e46ce67fb571/5.png",
                   "width": 940,
                   "height": 728,
-                  "alt": "Aeroporto Internacional de Guarulhos"
+                  "alt": "Guarulhos International Airport"
                 },
                 "mobileImage": {
                   "image": "https://assets.decocache.com/breton/3dc2a68b-b311-4c31-92e8-adac3345f52e/4.png",
@@ -715,14 +715,14 @@
               "products": {
                 "collectionId": "235"
               },
-              "title": "PRODUTOS APRESENTADOS",
+              "title": "FEATURED PRODUCTS",
               "active": false
             },
-            "type": "Restaurante",
+            "type": "Restaurant",
             "cover": {
-              "title": "Lounge LATAM",
+              "title": "LATAM Lounge",
               "link": "/",
-              "label": "SABER MAIS",
+              "label": "LEARN MORE",
               "image": {
                 "desktopImg": "https://data.decoassets.com/breton/dd828d80-c753-41d6-99c3-fe08bdd021b5/Sushi-Nouveau-desk.png",
                 "mobileImg": "https://data.decoassets.com/breton/316ba494-0748-421d-a758-2eef6ab15358/Sushi-Nouveau-mob.png"
@@ -742,7 +742,7 @@
             }
           }
         ],
-        "title": "Projetos Corporativos"
+        "title": "Corporate Projects"
       }
     },
     {
@@ -757,11 +757,11 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Institutional/InstitutionalForm.tsx",
-        "title": "FALE CONOSCO",
-        "description": "Temos uma equipe especializada para te atender e desenvolver um projeto que atenda todas as necessidades da sua empresa.",
-        "labelSendButton": "ENVIAR",
-        "sucessMessage": "Entraremos em contato assim que possível",
-        "errorMessage": "Houve algum erro, por favor entre em contato",
+        "title": "CONTACT US",
+        "description": "We have a specialized team to assist you and develop a project that meets all your company's needs.",
+        "labelSendButton": "SEND",
+        "sucessMessage": "We will contact you as soon as possible",
+        "errorMessage": "There was an error, please contact us",
         "inputs": [
           {
             "type": "text",
@@ -783,16 +783,16 @@
           }
         ],
         "error": {
-          "title": "Desculpe!",
-          "text": "Houve um erro no envio dos seus dados. Por favor, tente novamente mais tarde."
+          "title": "Sorry!",
+          "text": "There was an error submitting your data. Please try again later."
         },
         "sucess": {
-          "title": "Obrigado!",
-          "text": "Em breve entraremos em contato com você!"
+          "title": "Thank you!",
+          "text": "We will contact you shortly!"
         },
         "success": {
-          "title": "OBRIGADO!",
-          "text": "Em breve entraremos em contato com você!"
+          "title": "THANK YOU!",
+          "text": "We will contact you shortly!"
         },
         "entityName": "CO",
         "type": 2
@@ -852,25 +852,25 @@
       "section": {
         "__resolveType": "site/sections/Institutional/InstitutionalFooterNavigator.tsx",
         "background": "#672135",
-        "text": "<p style=\"text-align: center; font-size: 16px; line-height: 24px; font-weight: 600; color: rgb(255, 255, 255); letter-spacing: 3.84px;\" data-mce-style=\"text-align: center; font-size: 16px; line-height: 24px; font-weight: 600; color: rgb(255, 255, 255); letter-spacing: 3.84px;\">VEJA TAMBÉM:</p>",
+        "text": "<p style=\"text-align: center; font-size: 16px; line-height: 24px; font-weight: 600; color: rgb(255, 255, 255); letter-spacing: 3.84px;\" data-mce-style=\"text-align: center; font-size: 16px; line-height: 24px; font-weight: 600; color: rgb(255, 255, 255); letter-spacing: 3.84px;\">ALSO SEE:</p>",
         "navigationList": [
           {
             "imageDesktop": "https://data.decoassets.com/breton/d25cce84-4ae7-4691-a4a2-2a5fb1ade4ef/InstitutionalFooterNavigatorDesk-1.png",
             "imageMobile": "https://data.decoassets.com/breton/6a4f8740-9119-4866-9c2b-18988300a57a/InstitutionalFooterNavigatorMob-1.png",
-            "label": "Endereços",
+            "label": "Addresses",
             "link": "/stores",
-            "title": "Nossas Lojas"
+            "title": "Our Stores"
           },
           {
             "title": "Eco Breton",
-            "label": "Saiba mais",
+            "label": "Learn more",
             "link": "/ecobreton",
             "imageDesktop": "https://data.decoassets.com/breton/29da7b3e-4793-4d45-9c91-2a6fa22557c8/InstitutionalFooterNavigatorDesk-2.png",
             "imageMobile": "https://data.decoassets.com/breton/6a4f8740-9119-4866-9c2b-18988300a57a/InstitutionalFooterNavigatorMob-1.png"
           },
           {
             "title": "Blog",
-            "label": "Saiba mais",
+            "label": "Learn more",
             "link": "/",
             "imageDesktop": "https://data.decoassets.com/breton/80daf5e5-02c8-48ac-b44a-069e3d8b0657/InstitutionalFooterNavigatorDesk-3.png",
             "imageMobile": "https://data.decoassets.com/breton/6a4f8740-9119-4866-9c2b-18988300a57a/InstitutionalFooterNavigatorMob-1.png"

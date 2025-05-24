@@ -22,15 +22,15 @@ function TechnicalInfos({
   additionalProperty: PropertyValue[];
   description: string | undefined;
 }) {
-  const largura = getPropertyValue(additionalProperty, "Width");
-  const profundidade = getPropertyValue(additionalProperty, "Depth");
-  const altura = getPropertyValue(additionalProperty, "Height");
-  const peso = getPropertyValue(additionalProperty, "Weight");
+  const width = getPropertyValue(additionalProperty, "Width");
+  const depth = getPropertyValue(additionalProperty, "Depth");
+  const height = getPropertyValue(additionalProperty, "Height");
+  const weight = getPropertyValue(additionalProperty, "Weight");
   const properties = {
-    largura,
-    profundidade,
-    altura,
-    peso,
+    width,
+    depth,
+    height,
+    weight,
   };
   const dimensoesMain = getPropertyValue(
     additionalProperty,

@@ -21,7 +21,7 @@ const onLoad = (id: string, productID: string) =>
     button.dataset["inwishlist"] = `${inWishlist}`;
     const span = button.querySelector("span");
     if (span) {
-      span.innerHTML = inWishlist ? "Remover" : "Favoritar";
+      span.innerHTML = inWishlist ? "Remove" : "Favorite";
     }
   });
 const onClick = (productID: string, productGroupID: string) => {
@@ -63,7 +63,7 @@ function WishlistButton({ item, variant = "full" }: Props) {
       >
         <Icon id="icon-heart" class="[.htmx-request_&]:hidden" fill="none" />
         {variant === "full" && (
-          <span class="[.htmx-request_&]:hidden text-button uppercase">Favoritar</span>
+          <span class="[.htmx-request_&]:hidden text-button uppercase">Favorite</span>
         )}
         <span class="[.htmx-request_&]:inline hidden loading loading-spinner" />
       </button>

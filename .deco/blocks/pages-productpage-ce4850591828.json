@@ -40,9 +40,9 @@
       },
       "videos": [
         {
-          "label": "Teste",
+          "label": "Test",
           "productId": "64",
-          "description": "Macio, aconchegante e gostoso, antes eram adjetivos que pareciam abstratos, mas após esta produção são palavras que estão a um toque da mão.",
+          "description": "Soft, cozy, and pleasant—these were once abstract adjectives, but after this production, they are words that feel just within reach.",
           "video": "https://data.decoassets.com/breton/22483aae-15b5-45c6-895d-ea812f43be01/product-video-teste.mp4"
         }
       ]
@@ -78,7 +78,7 @@
               "mobile": "https://assets.decocache.com/breton/873391de-0b63-4ff4-b1cf-abbf541cd19c/pdp-designer-bruno-niz-mobile.png"
             },
             "architects": "Bruno Niz",
-            "text": "<p class=\"p1\">Bruno Niz iniciou sua carreira no design gráfico e editorial, mas encontrou sua verdadeira paixão no design de produtos e mobiliário. </p><p class=\"p1\">Seu estilo combina modernismo e minimalismo, inspirando-se em diversas fontes que vão desde a geometria do design gráfico, passando pela arquitetura até a natureza.</p>"
+            "text": "<p class=\"p1\">Bruno Niz started his career in graphic and editorial design but found his true passion in product and furniture design.</p><p class=\"p1\">His style combines modernism and minimalism, drawing inspiration from various sources, ranging from the geometry of graphic design and architecture to nature.</p>"
           }
         ],
         "stamp": "https://assets.decocache.com/breton/00cedff9-0e0b-4fb3-9517-1b2f7d06863e/productDesignerStamp.png"
@@ -121,8 +121,8 @@
             "count": 2
           }
         ],
-        "title": "INSPIRE-SE PARA CRIAR UM AMBIENTE PERFEITO",
-        "subtitle": "VEJA NOSSOS PRODUTOS RELACIONADOS"
+        "title": "GET INSPIRED TO CREATE THE PERFECT SPACE",
+        "subtitle": "CHECK OUT OUR RELATED PRODUCTS"
       }
     },
     {
