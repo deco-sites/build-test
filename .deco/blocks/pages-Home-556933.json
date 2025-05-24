@@ -13,9 +13,9 @@
           "desktop": "https://assets.decocache.com/breton/88ea985b-5a78-4efc-a8b1-0b72a2f23575/ambientelazaro.png",
           "mobile": "https://assets.decocache.com/breton/45f7d065-dda0-414d-b5a0-5ca0dd4e9821/thais.png",
           "action": {
-            "label": "CONFIRA ",
+            "label": "CHECK IT OUT ",
             "href": "https://deco-sites-breton--teste.deno.dev/blog/teste-8",
-            "title": "A CASA DE TAÍS ARAUJO E LÁZARO RAMOS"
+            "title": "THE HOME OF TAÍS ARAUJO AND LÁZARO RAMOS"
           },
           "alt": "home-banner-breton"
         },
@@ -23,9 +23,9 @@
           "desktop": "https://assets.decocache.com/breton/609704b1-8a73-4998-9aeb-d1b3d6cb3dfd/capa.cabononegativo.png",
           "mobile": "https://assets.decocache.com/breton/609704b1-8a73-4998-9aeb-d1b3d6cb3dfd/capa.cabononegativo.png",
           "action": {
-            "label": "SAIBA MAIS",
+            "label": "LEARN MORE",
             "href": "https://deco-sites-breton--teste.deno.dev/blog/teste-6",
-            "title": "BRETON É CARBONO NEGATIVO PELO TERCEIRO ANO CONSECUTIVO"
+            "title": "BRETON IS CARBON NEGATIVE FOR THE THIRD CONSECUTIVE YEAR"
           },
           "alt": "home-banner-breton"
         }
@@ -62,10 +62,10 @@
       "section": {
         "__resolveType": "site/sections/Banner/DoubleBanner.tsx",
         "leftBanner": {
-          "title": "Coleção Oceano",
+          "title": "Oceano Collection",
           "description": "<p>By Fernanda Marques</p>",
           "cta": {
-            "label": "CONFIRA ",
+            "label": "CHECK IT OUT ",
             "href": "https://sites-breton--1tn2mr.decocdn.com/blog/teste-7"
           },
           "images": {
@@ -83,7 +83,7 @@
           "title": "Choices",
           "description": "<p>By Silvia Braz</p>",
           "cta": {
-            "label": "CONFIRA",
+            "label": "CHECK IT OUT",
             "href": "https://sites-breton--1tn2mr.decocdn.com/blog/teste-5"
           },
           "images": {
@@ -111,255 +111,22 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Banner/MiddleBanner.tsx",
-        "title": "Sofisticação e Resistência ao Ar Livre",
+        "title": "Outdoor Sophistication and Durability",
         "images": {
           "desktop": {
-            "0": "h",
-            "1": "t",
-            "2": "t",
-            "3": "p",
-            "4": "s",
-            "5": ":",
-            "6": "/",
-            "7": "/",
-            "8": "d",
-            "9": "e",
-            "10": "c",
-            "11": "o",
-            "12": "-",
-            "13": "s",
-            "14": "i",
-            "15": "t",
-            "16": "e",
-            "17": "s",
-            "18": "-",
-            "19": "a",
-            "20": "s",
-            "21": "s",
-            "22": "e",
-            "23": "t",
-            "24": "s",
-            "25": ".",
-            "26": "s",
-            "27": "3",
-            "28": ".",
-            "29": "s",
-            "30": "a",
-            "31": "-",
-            "32": "e",
-            "33": "a",
-            "34": "s",
-            "35": "t",
-            "36": "-",
-            "37": "1",
-            "38": ".",
-            "39": "a",
-            "40": "m",
-            "41": "a",
-            "42": "z",
-            "43": "o",
-            "44": "n",
-            "45": "a",
-            "46": "w",
-            "47": "s",
-            "48": ".",
-            "49": "c",
-            "50": "o",
-            "51": "m",
-            "52": "/",
-            "53": "b",
-            "54": "r",
-            "55": "e",
-            "56": "t",
-            "57": "o",
-            "58": "n",
-            "59": "/",
-            "60": "e",
-            "61": "3",
-            "62": "d",
-            "63": "6",
-            "64": "f",
-            "65": "4",
-            "66": "c",
-            "67": "d",
-            "68": "-",
-            "69": "7",
-            "70": "6",
-            "71": "2",
-            "72": "1",
-            "73": "-",
-            "74": "4",
-            "75": "0",
-            "76": "b",
-            "77": "4",
-            "78": "-",
-            "79": "9",
-            "80": "e",
-            "81": "b",
-            "82": "9",
-            "83": "-",
-            "84": "f",
-            "85": "b",
-            "86": "c",
-            "87": "e",
-            "88": "6",
-            "89": "2",
-            "90": "2",
-            "91": "0",
-            "92": "2",
-            "93": "b",
-            "94": "e",
-            "95": "f",
-            "96": "/",
-            "97": "f",
-            "98": "i",
-            "99": "n",
-            "100": "a",
-            "101": "l",
-            "102": "-",
-            "103": "b",
-            "104": "a",
-            "105": "n",
-            "106": "n",
-            "107": "e",
-            "108": "r",
-            "109": ".",
-            "110": "p",
-            "111": "n",
-            "112": "g",
             "image": "https://assets.decocache.com/breton/012f6784-b6d6-48df-bbae-67a4440ecf76/1-A04-Natural-HR.png",
             "width": 1360,
             "height": 800
           },
           "mobile": {
-            "0": "h",
-            "1": "t",
-            "2": "t",
-            "3": "p",
-            "4": "s",
-            "5": ":",
-            "6": "/",
-            "7": "/",
-            "8": "d",
-            "9": "e",
-            "10": "c",
-            "11": "o",
-            "12": "-",
-            "13": "s",
-            "14": "i",
-            "15": "t",
-            "16": "e",
-            "17": "s",
-            "18": "-",
-            "19": "a",
-            "20": "s",
-            "21": "s",
-            "22": "e",
-            "23": "t",
-            "24": "s",
-            "25": ".",
-            "26": "s",
-            "27": "3",
-            "28": ".",
-            "29": "s",
-            "30": "a",
-            "31": "-",
-            "32": "e",
-            "33": "a",
-            "34": "s",
-            "35": "t",
-            "36": "-",
-            "37": "1",
-            "38": ".",
-            "39": "a",
-            "40": "m",
-            "41": "a",
-            "42": "z",
-            "43": "o",
-            "44": "n",
-            "45": "a",
-            "46": "w",
-            "47": "s",
-            "48": ".",
-            "49": "c",
-            "50": "o",
-            "51": "m",
-            "52": "/",
-            "53": "b",
-            "54": "r",
-            "55": "e",
-            "56": "t",
-            "57": "o",
-            "58": "n",
-            "59": "/",
-            "60": "d",
-            "61": "9",
-            "62": "d",
-            "63": "0",
-            "64": "d",
-            "65": "9",
-            "66": "2",
-            "67": "8",
-            "68": "-",
-            "69": "3",
-            "70": "1",
-            "71": "6",
-            "72": "9",
-            "73": "-",
-            "74": "4",
-            "75": "2",
-            "76": "f",
-            "77": "3",
-            "78": "-",
-            "79": "9",
-            "80": "4",
-            "81": "d",
-            "82": "1",
-            "83": "-",
-            "84": "9",
-            "85": "f",
-            "86": "9",
-            "87": "6",
-            "88": "a",
-            "89": "b",
-            "90": "f",
-            "91": "6",
-            "92": "d",
-            "93": "4",
-            "94": "a",
-            "95": "0",
-            "96": "/",
-            "97": "f",
-            "98": "i",
-            "99": "n",
-            "100": "a",
-            "101": "l",
-            "102": "-",
-            "103": "b",
-            "104": "a",
-            "105": "n",
-            "106": "n",
-            "107": "e",
-            "108": "r",
-            "109": "-",
-            "110": "m",
-            "111": "o",
-            "112": "b",
-            "113": "i",
-            "114": "l",
-            "115": "e",
-            "116": ".",
-            "117": "p",
-            "118": "n",
-            "119": "g",
             "image": "https://assets.decocache.com/breton/3c3505e8-e1fa-4c71-bfa2-95712f02dcd1/1-A04-Natural-HR_mobile.png",
             "height": 640,
             "width": 360
           }
         },
-        "description": "<p>Os móveis para áreas externas da Breton<br>unem design contemporâneo, conforto, durabilidade.</p><p><br></p>",
+        "description": "<p>Breton's outdoor furniture<br>combines contemporary design, comfort, and durability.</p><p><br></p>",
         "cta": {
-          "label": "ver produtos",
+          "label": "View Products",
           "href": "https://deco-sites-breton--teste.deno.dev/area-externa?page=1"
         }
       }
@@ -368,223 +135,199 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Home/BannerDesigner/BannerDesigner.tsx",
-        "title": "designer",
+        "title": "Designers",
         "images": [
           {
             "image": "https://assets.decocache.com/breton/4f19e55a-6a68-4b90-baab-3605d48bbdc7/a-la-garconne-desktop.png",
             "title": "A La Garçonne",
-            "text": "A La Garçonne tem o reuso como a palavra de ordem. Sustentável e inspirada no cenário streetwear, a marca reaproveita tecidos com tecnologia que transitam entre o vintage e contemporâneo, criando um visual único e cheio de personalidade, traduzindo isso para a coleção produzida em collab com a Breton. ",
+            "text": "A La Garçonne is led by Alexandre Herchcovitch and Fabio Souza and has reuse as its watchword. Sustainable and inspired by the streetwear scene, the brand reuses fabrics with technology that transition between vintage and contemporary, creating a unique look full of personality, translating this into the collection produced in collab with Breton.",
             "thumb": "https://assets.decocache.com/breton/03537913-fa3f-4bb6-bbde-d53882fce2ab/a-la-garconne.png",
-            "imageMobile": "https://assets.decocache.com/breton/1616451a-347e-455e-af40-ab3571d833ed/a-la-garconne-mobile-png.png",
-            "link": "/breton?filter.brand=breton&filter.designer=A%20La%20Garconne&page=1"
+            "imageMobile": "https://assets.decocache.com/breton/1616451a-347e-455e-af40-ab3571d833ed/a-la-garconne-mobile-png.png"
           },
           {
             "image": "https://assets.decocache.com/breton/f42c652d-9a46-4e29-82d0-8961452175b8/ale-alvarenga-Desktop.png",
             "title": "Ále Alvarenga",
+            "text": "Ále Alvarenga combines creative thinking and his deep industrial knowledge to develop, with sophisticated aesthetics, simple and functional furniture. His inspiration is fueled by tireless research and a keen eye on the market and human behavior.",
             "thumb": "https://assets.decocache.com/breton/31a93d55-9e16-44e7-8667-861ea6f37919/ale-desktop.png",
-            "imageMobile": "https://assets.decocache.com/breton/abb35ae9-56d3-42e7-86ca-da3166d7dee0/Ale-alvarenga-mobile.png",
-            "text": "Une o pensamento criativo e seu profundo conhecimento industrial para desenvolver, com estética sofisticada, móveis simples e funcionais. Sua inspiração é alimentada por incansáveis pesquisas e por um olhar atento ao mercado e ao comportamento humano. ",
-            "link": "/breton?filter.brand=breton&filter.designer=Ale%20Alvarenga&page=1"
+            "imageMobile": "https://assets.decocache.com/breton/abb35ae9-56d3-42e7-86ca-da3166d7dee0/Ale-alvarenga-mobile.png"
           },
           {
             "image": "https://assets.decocache.com/breton/47b494b2-ba29-4508-bd69-537ab8a93421/Andre-grippi-Desktop.png",
             "title": "André Grippi",
+            "text": "André Grippi believes in design as a tool for expression, for building narratives, and for recording memory. Curious about the different ways in which body and mind dialogue with their surroundings, the designer seeks to relate formal simplicity to matter, in order to propose emotions and questions that awaken the user from everyday inertia.",
             "thumb": "https://assets.decocache.com/breton/aa704777-2b05-437b-a542-4dd1e1bdaece/andre-desktop.png",
-            "imageMobile": "https://assets.decocache.com/breton/8897dfcf-8875-444f-a779-1be091a89b85/andre-mobile.png",
-            "text": "Acredita no design como ferramenta de expressão, de construção de narrativas e de registro de memória. Curioso pelas diferentes maneiras em que corpo e mente dialogam com seu entorno, o designer busca relacionar a simplicidade formal à matéria, a fim de propor emoções e questionamentos que despertem o usuário da inércia cotidiana. ",
-            "link": "/breton?filter.brand=breton&filter.designer=Andre%20Grippi&page=1"
+            "imageMobile": "https://assets.decocache.com/breton/8897dfcf-8875-444f-a779-1be091a89b85/andre-mobile.png"
           },
           {
             "image": "https://assets.decocache.com/breton/e70a9e72-5356-4036-ada9-d10642378ddf/bianca-barbato-Desktop.png",
             "title": "Bianca Barbato ",
+            "text": "Bianca is a self-taught designer with a focus on furniture design. Her research is constantly refined in different types of raw materials and technologies, ranging from artisanal to industrial, such as laser cutting, molded resin, marquetry, metal casting, among various paths that encompass her creations.",
             "thumb": "https://assets.decocache.com/breton/1d8395a6-13d9-4a4e-83f0-14b3c9f7d09d/bianca-mobile.png",
-            "imageMobile": "https://assets.decocache.com/breton/919da8bf-2bac-47c9-b066-8eb9b9141abf/bianca-mobile.png",
-            "text": "É designer autodidata com foco no desenho de móveis. Sua pesquisa se aprimora constantemente em diferentes tipos de matérias-primas e tecnologias, que vão do artesanal ao industrial, como o corte a laser, resina moldada, marchetaria, fundição de metal entre diversos caminhos  que abrangem suas criações.",
-            "link": "/breton?filter.brand=breton&filter.designer=Bianca%20Barbato&page=1"
+            "imageMobile": "https://assets.decocache.com/breton/919da8bf-2bac-47c9-b066-8eb9b9141abf/bianca-mobile.png"
           },
           {
             "title": "Bruno Niz",
             "image": "https://assets.decocache.com/breton/422e058a-1813-4d45-9a41-5352b6ac6d64/Designers-Desktop.png",
             "imageMobile": "https://assets.decocache.com/breton/33f41fcf-aadf-4592-accc-821a962eb070/Bruno-Niz-mobile.png",
             "thumb": "https://assets.decocache.com/breton/a6587512-5b3b-4dc0-a38f-bde3c78930df/bruno-niz.png",
-            "text": "Bruno Niz desenvolve mobiliário e objetos a partir de uma linguagem que articula formas precisas, estruturas limpas e escolhas materiais cuidadosas. O modernismo, o design gráfico e a arquitetura são referências recorrentes em seu processo criativo, refletindo um pensamento visual que se desdobra com clareza e coerência.",
-            "link": "/breton?filter.brand=breton&filter.designer=Bruno%20Niz&page=1"
+            "text": "Bruno Niz began his career in graphic and editorial design, but found his true passion in product and furniture design. His style combines modernism and minimalism, drawing inspiration from various sources ranging from the geometry of graphic design, through architecture, to nature."
           },
           {
             "title": "Bruno Simões",
             "image": "https://assets.decocache.com/breton/9263ed05-91bf-4e6b-bca3-d158e90b9734/bruno-simoes-desktop.png",
             "imageMobile": "https://assets.decocache.com/breton/01e3e3f5-4b9e-40ad-ba73-b06ebfbe9eb0/bruno-simoes-mobile.png",
             "thumb": "https://assets.decocache.com/breton/a97e58a1-a3fc-410b-9a5e-3c4a1d122c5e/bruno-simoes.png",
-            "text": "Vivendo entre Rio e São Paulo, onde tem seu ateliê voltado para o desenvolvimento de projetos de arquitetura e de design de mobiliário, Bruno Simões é curador e desenvolve peças de mobiliário atemporais. Com olhar apurado, sua formação diversificada – arquitetura, fotografia, jornalismo – é elemento determinante em seu design.",
-            "link": "/breton?filter.brand=breton&filter.designer=Bruno%20Simoes&page=1"
+            "text": "Living in the capital of São Paulo, where he maintains a studio focused on the development of architecture and furniture design projects, Bruno Simões is a curator and develops timeless furniture pieces. With a keen eye, his diverse background – architecture, photography, journalism – is a determining element in his design."
           },
           {
             "title": "Brunno Jahara",
             "image": "https://assets.decocache.com/breton/ee9c7b6a-1c73-4416-a88f-e1a3ce1c0ee5/Brunno-Jahara-Desktop.png",
             "imageMobile": "https://assets.decocache.com/breton/760877c4-bfb2-4c77-a1f3-0b8dd536f043/Brunno-Jahara-mobile.png",
             "thumb": "https://assets.decocache.com/breton/40667e24-9dd1-4a7d-89f3-32161513a31d/Brunno-Jahara-bio-desk.png",
-            "text": "É designer de produto com trabalhos apresentados em vários lugares do mundo. Levando suas experiências cosmopolitas, o pluralismo cultural da sociedade hoje e o desejo de criar desenhos que expressam a universalidade sem perder um sabor local, as obras de Jahara seguem uma linha estilística marcada.",
-            "link": "/breton?filter.brand=breton&filter.designer=Brunno%20Jahara&page=1"
+            "text": "Brunno Jahara is a product designer with works presented in various parts of the world. Bringing his cosmopolitan experiences, the cultural pluralism of today's society, and the desire to create designs that express universality without losing a local flavor, Jahara's works follow a marked stylistic line."
           },
           {
             "title": "Caio e Carlos Carvalho",
             "imageMobile": "https://assets.decocache.com/breton/194e0d2c-7678-4958-9e3c-51d52568ea7a/Caio-carlos-mobile.png",
             "thumb": "https://assets.decocache.com/breton/234feb4c-7aae-4b29-8d45-feabf2ce2c32/caio-carlos-bio.png",
             "image": "https://assets.decocache.com/breton/f649c5c2-7941-42ed-a637-930df7512d7e/Caio-carlos-Desktop.png",
-            "text": "Arquitetos formados pela UFRJ, Carlos Carvalho e Caio Carvalho complementaram seus estudos no Politecnico de Milão. Os irmãos estão à frente do renomado escritório de arquitetura Studio RO+CA, e decidiram criar suas próprias peças, uma vez que não encontravam no mercado de mobiliário algo que representasse a personalidade do escritório.",
-            "link": "/breton?filter.brand=breton&filter.designer=Caio%20e%20Carlos%20Carvalho&page=1"
+            "text": "Architects graduated from UFRJ, Carlos Carvalho and Caio Carvalho complemented their studies at Politecnico di Milano. The brothers lead the renowned architecture firm Studio RO+CA, and decided to create their own pieces, as they could not find anything in the furniture market that represented the firm's personality."
           },
           {
             "title": "Carol Gay",
             "thumb": "https://assets.decocache.com/breton/d9a72f43-b1ae-44db-83d0-1106d0adb68b/carol.png",
             "image": "https://assets.decocache.com/breton/01844144-7807-49f6-9b7f-94393ea4a24b/carol-Desktop.png",
             "imageMobile": "https://assets.decocache.com/breton/6cbdf0a5-2ac9-4d0b-b567-46b9183ec26d/carol-mobile.png",
-            "text": "Arquiteta por formação, Carol sempre focou sua atenção no design de produtos. Desde cedo, cursou e ministrou workshops dentro e fora do Brasil, concorreu a prêmios e estampou diversas publicações do segmento. Hoje, atua em seu ateliê na capital paulista, da qual, aliás, se sente parte indissociável",
-            "link": "/breton?filter.brand=breton&filter.designer=Carol%20Gay&page=1"
+            "text": "An architect by training, Carol has always focused her attention on product design. From an early age, she attended and taught workshops in Brazil and abroad, competed for awards, and was featured in several publications in the segment. Today, she works in her studio in the capital of São Paulo, of which, incidentally, she feels an inseparable part."
           },
           {
             "title": "Choque Design",
             "image": "https://assets.decocache.com/breton/d49ecb7c-50f2-40cd-bf07-7fdc4a443b71/choque-Desktop.png",
             "imageMobile": "https://assets.decocache.com/breton/6bbb681c-d84b-4c7a-9831-6d37965836b3/choque-mobile.png",
             "thumb": "https://assets.decocache.com/breton/b0a8d527-dcc7-42a0-9432-2df1a1d88d5c/choque-designe.png",
-            "text": "É um estúdio criativo que acredita não haver fronteiras entre arquitetura, design e gestão estratégica. A integração dessas três áreas é a aposta do escritório. Composta por uma equipe multidisciplinar, a CHOQUE investe dedicação e muita criatividade em projetos de marcas, embalagens, produtos, arquitetura comercial, treinamentos e gestão estratégica.",
-            "link": "/breton?filter.brand=breton&filter.designer=Choque%20Design&page=1"
+            "text": "It is a creative studio that believes there are no borders between architecture, design, and strategic management. The integration of these three areas is the firm's bet. Composed of a multidisciplinary team, CHOQUE invests dedication and great creativity in brand projects, packaging, products, commercial architecture, training, and strategic management."
           },
           {
             "title": "Diego Revollo",
             "image": "https://assets.decocache.com/breton/a030992a-b25f-4a3d-8b88-489cf8c27f81/diegorevolo-deskpng.png",
             "imageMobile": "https://assets.decocache.com/breton/ee8476fa-fa1c-404f-8ca4-6c11facedbda/diegorevolulo-mobile.png",
             "thumb": "https://assets.decocache.com/breton/6808b82b-353c-4495-b6f5-9d5eb2fdced1/diego-desk.png",
-            "text": "Engenheiro e arquiteto, Diego Revollo valoriza em suas criações, acima de tudo, o belo e tem como principais virtudes o rigor estético e a busca pelo equilíbrio. Com olhar apurado e identidade autêntica, Diego tem seu trabalho reconhecido nas diferentes áreas de atuação, da arquitetura ao design.",
-            "link": "/breton?filter.brand=breton&filter.designer=Diego%20Revollo&page=1"
+            "text": "An engineer and architect, Diego Revollo values beauty above all in his creations and has aesthetic rigor and the search for balance as his main virtues. With a keen eye and authentic identity, Diego's work is recognized in different areas of expertise, from architecture to design."
           },
           {
             "title": "Edu Bortolai ",
             "image": "https://assets.decocache.com/breton/d047292f-c906-4e3a-ba20-f36797385c2b/edu-Desktop.png",
             "imageMobile": "https://assets.decocache.com/breton/c1df4976-0f47-4132-9ee7-d67079fdeb9c/edu-mobile.png",
             "thumb": "https://assets.decocache.com/breton/b5e59813-8bfb-4bf1-840d-cb6e1f009009/Edu-bort.png",
-            "text": "O traço contemporâneo do designer mostra que a cultura criada por tantas outras, pode gerar um desenho único. Edu acredita que ao design deve estar intrínseco todo o conhecimento estético, técnico e comercial e tudo o que o encanta contribui para suas criações. Conquistou importantes prêmios e participações em feiras e exposições nacionais e internacionais.",
-            "link": "/breton?filter.brand=breton&filter.designer=Edu%20Bortolai&page=1"
+            "text": "The designer's contemporary line shows that the culture created by many others can generate a unique design. Edu believes that all aesthetic, technical, and commercial knowledge should be intrinsic to design, and everything that enchants him contributes to his creations. He has won important awards and participated in national and international fairs and exhibitions."
           },
           {
             "title": "Estúdio Rain",
             "image": "https://assets.decocache.com/breton/cc206c21-f484-4abb-973b-705a4f70d304/rain-amb-Desktop.png",
             "imageMobile": "https://assets.decocache.com/breton/f8f72a36-fbcc-4a1d-91e5-b6d82a741a71/rain-mobile.png",
             "thumb": "https://assets.decocache.com/breton/675b03f2-5a8a-4683-a90b-8cf05f264f12/rain-desk.png",
-            "text": "foi criado pela designer de produto Mariana Ramos e o arquiteto Ricardo Innecco. Seu trabalho contempla uma variedade de projetos. Os dois nasceram e estudaram em Brasília, capital do País, tendo vivenciado um contexto urbanístico e arquitetônico modernistas - referências que refletem no vocabulário do Estúdio.",
-            "link": "/breton?filter.brand=breton&filter.designer=Estudio%20Rain&page=1"
+            "text": "Estúdio Rain was created by product designer Mariana Ramos and architect Ricardo Innecco. Their work encompasses a variety of projects. Both were born and studied in Brasília, the country's capital, having experienced a modernist urban and architectural context - references that are reflected in the Studio's vocabulary."
           },
           {
             "title": "Faska Rivkind ",
             "thumb": "https://assets.decocache.com/breton/c42d8c4e-0406-4516-abdf-47bbd35cb5b1/faska-desk.png",
             "imageMobile": "https://assets.decocache.com/breton/3a0fb566-394c-4fd5-9430-2cb2e9c391a0/faska-mobile.png",
             "image": "https://assets.decocache.com/breton/e171f540-0066-49f4-93a0-c6704b7ad19d/Designers-Desktop.png",
-            "text": "Natalie Rivkind e Telma Faska estão à frente do escritório de arquitetura e design que leva o sobrenome das duas sócias. Arquitetas de formação, as talentosas profissionais se inspiram no cotidiano para a criação de seus desenhos, sempre levando em consideração, estética, forma, funcionalidade e afetividade",
-            "link": "/breton?filter.brand=breton&filter.designer=Faska%20Rivkind &page=1"
+            "text": "Natalie Rivkind and Telma Faska lead the architecture and design firm that bears the last name of the two partners. Architects by training, the talented professionals are inspired by everyday life for the creation of their designs, always taking into account aesthetics, form, functionality, and affectivity."
           },
           {
             "title": "Fernanda Marques",
             "image": "https://assets.decocache.com/breton/484c8a5a-c809-4a43-90b0-78f308320d8a/Fernanda-Desktop.png",
             "imageMobile": "https://assets.decocache.com/breton/c61c1513-a92b-49c1-bace-f04a9dafebe0/fernanda-mobile.png",
             "thumb": "https://assets.decocache.com/breton/bee93df7-3a56-450e-a07b-d66b5a7d0d44/FERNANA-MARKQUES-DESK.png",
-            "text": "Arquitetura, interiores e design de produto estão entre as áreas de atuação da profissional. Em todas elas, a manutenção de um único estilo: limpo e contemporâneo, sintonizado com o melhor da arte e do design internacionais. Apenas na última década, o escritório comandado por Fernanda conquistou dezenas de prêmios.",
-            "link": "/breton?filter.brand=breton&filter.designer=Fernanda%20Marques&page=1"
+            "text": "Architecture, interiors, and product design are among the professional's areas of expertise. In all of them, the maintenance of a single style: clean and contemporary, in tune with the best of international art and design. In the last decade alone, the office led by Fernanda has won dozens of awards."
           },
           {
             "title": "Fetiche Design",
             "image": "https://assets.decocache.com/breton/f8d5a6c6-de82-4a1d-953e-17f4b7888545/fetiche-Desktop.png",
             "imageMobile": "https://assets.decocache.com/breton/c17ded5d-612a-41cd-825d-1997850e0087/fetiche-mobile.png",
             "thumb": "https://assets.decocache.com/breton/ec04a734-e33f-4cfc-b1c3-8677375ea8e3/fetiche-desk.png",
-            "text": "O estúdio Fetiche Design foi fundado por Carolina Armellini e Paulo Biacchi. Fetiche é um objeto animado ou inanimado, feito pelo homem ou produzido pela natureza, ao qual se atribui poder sobrenatural e se presta culto. Esse conceito é intrínseco aos seus produtos: nos quais os designers buscam referências e significados além do formal e funcional para as peças. ",
-            "link": "/breton?filter.brand=breton&filter.designer=Fetiche%20Design&page=1"
+            "text": "The Fetiche Design studio was founded by Carolina Armellini and Paulo Biacchi. A fetish is an animated or inanimate object, made by man or produced by nature, to which supernatural power is attributed and worship is paid. This concept is intrinsic to their products: in which the designers seek references and meanings beyond the formal and functional for the pieces. "
           },
           {
             "image": "https://assets.decocache.com/breton/4f6436e6-83b7-4d0f-a05d-c651accf6016/GloriaCoelho-Desktop.png",
             "imageMobile": "https://assets.decocache.com/breton/26e9d9f1-8016-42e8-a23b-5f6ece589f0e/GloriaCoelho-mobile.png",
             "thumb": "https://assets.decocache.com/breton/b522ea26-fa50-43f4-a741-d59732b04633/gloria-coelho.png",
             "title": "Gloria Coelho",
-            "text": "Com 48 anos de história, a marca de moda Gloria Coelho conta com dezenas de premiações nacionais e internacionais. Em suas criações para o design de mobiliário, a marca ressalta as principais características das produções da estilista, unindo arte, design e tecnologia em peças minimalistas e contemporâneas.",
-            "link": "/breton?filter.brand=breton&filter.designer=Gloria%20Coelho&page=1"
+            "text": "With 48 years of history, the Gloria Coelho fashion brand has dozens of national and international awards. In her creations for furniture design, the brand highlights the main characteristics of the stylist's productions, combining art, design, and technology in minimalist and contemporary pieces."
           },
           {
             "title": "Giacomo Tomazzi Studio",
             "image": "https://assets.decocache.com/breton/2844e97d-0e24-42b7-95d8-f9480e21d692/giacomo-Desktop.png",
             "imageMobile": "https://assets.decocache.com/breton/bb6e8756-9538-4218-b3c3-c8db264340e2/giacomo-mobile.png",
             "thumb": "https://assets.decocache.com/breton/2209d479-b0e7-4b7a-8f21-3cb76a1179cb/Giacomo-bio-desk.png",
-            "text": "Arquiteto e designer, Diogo Giácomo Tomazzi inspira-se nos grandes mestres do design brasileiro e nas paisagens do país. Com peças que valorizam a funcionalidade, sem deixar de lado a poesia do desenho, o designer acredita na fusão entre produção industrial e técnicas artesanais como o alicerce para a criação de produtos com autêntica essência brasileira.",
-            "link": "/breton?filter.brand=breton&filter.designer=Giacomo%20Tomazzi%20Studio&page=1"
+            "text": "Architect and designer, Diogo Giácomo Tomazzi is inspired by the great masters of Brazilian design and the country's landscapes. With pieces that value functionality, without neglecting the poetry of the design, the designer believes in the fusion between industrial production and artisanal techniques as the foundation for the creation of products with authentic Brazilian essence."
           },
           {
             "title": "Karol Suguikawa",
             "image": "https://assets.decocache.com/breton/78b2771e-d028-4d24-8652-7982e4be2ffe/karol-Desktop.png",
             "imageMobile": "https://assets.decocache.com/breton/430b3d8f-a05a-4ca0-977f-916b2b326d62/karol-mobile.png",
             "thumb": "https://assets.decocache.com/breton/a9df79fb-e081-48f6-b90b-3051dacbd794/karol-bio-desk.png",
-            "text": "Inquieta criativa e propositiva, a arquiteta e designer tem sua produção autoral um olhar para o comportamento e para as artes, em especial o neoconcretismo. Suas memórias visuais e afetivas, são o combustível para suas criações que são corroboradas por pesquisas de comportamento.",
-            "link": "/breton?filter.brand=breton&filter.designer=Karol%20Suguikawa&page=1"
+            "text": "Restless, creative, and proactive, the architect and designer has in her authorial production a look at behavior and the arts, especially neoconcretism. Her visual and affective memories are the fuel for her creations, which are corroborated by behavioral research."
           },
           {
             "title": "Lilly Sarti",
             "thumb": "https://assets.decocache.com/breton/2cf25525-2cbf-44f4-b5ae-b4bf0e35f112/lily-bio-desk.png",
             "imageMobile": "https://assets.decocache.com/breton/211bd389-12fc-4eb0-a210-b05f4818f0e1/Lily-mobile.png",
             "image": "https://assets.decocache.com/breton/dedc09fb-f43e-4b8b-8fd9-0f59625aca8a/Lily-Desktop.png",
-            "text": "A marca Lilly Sarti ficou conhecida pelos badalados desfiles e coleções memoráveis. Com preocupação rara para uma marca jovem, Lilly e Renata não descuidam de detalhes e acabamento.  As irmãs não limitam seus temas e pesquisas. Suas criações são baseadas em filmes, livros de moda e arte e, no comportamento atual. ",
-            "link": "/breton?filter.brand=breton&filter.designer=Lilly%20Sarti&page=1"
+            "text": "The Lilly Sarti brand became known for its popular fashion shows and memorable collections. With a rare concern for a young brand, Lilly and Renata do not neglect details and finishing. The sisters do not limit their themes and research. Their creations are based on films, fashion and art books, and current behavior. "
           },
           {
             "title": "Linda Martins",
-            "text": "Com criações que ressaltam elementos minimalistas contrapostos com detalhes únicos, a designer Linda Martins imprime em suas peças traços contemporâneos, lúdicos e femininos. Formada em Interiores, cursou Tendências para Designers Profissionais e especializou-se em Design de Produtos pelo Instituto Marangoni, em Milão",
+            "text": "With creations that highlight minimalist elements contrasted with unique details, designer Linda Martins imprints contemporary, playful, and feminine traits on her pieces. Graduated in Interiors, she studied Trends for Professional Designers and specialized in Product Design at Istituto Marangoni, in Milan.",
             "thumb": "https://assets.decocache.com/breton/3ae6ee38-f536-4e88-b15c-e6c21556095d/linda-bio-desk.png",
             "image": "https://assets.decocache.com/breton/56cd9eb6-5230-46c4-ab44-1591c91b442e/linda-Desktop.png",
-            "imageMobile": "https://assets.decocache.com/breton/472fb199-cda3-4f53-8fb4-b6fea47cefd2/linda-mobile.png",
-            "link": "/breton?filter.brand=breton&filter.designer=Linda%20Martins&page=1"
+            "imageMobile": "https://assets.decocache.com/breton/472fb199-cda3-4f53-8fb4-b6fea47cefd2/linda-mobile.png"
           },
           {
             "title": "Luisa Moysés",
             "thumb": "https://assets.decocache.com/breton/d6a49b75-ca2f-46b0-8cb3-5077a8d79a98/Luisa-Moyses.png",
-            "text": "Formada em Desenho Industrial pela FAAP e  pós-graduada em design de mobiliário na universidade Elisava em Barcelona, a designer Luisa Moysés é uma das principais vertentes que impulsiona a produção da Breton. Inspirada em lugares onde possa se conectar, capta detalhes e formas para criação de peças autorais com identidade única e marcantes.",
+            "text": "Graduated in Industrial Design from FAAP and with a postgraduate degree in furniture design from Elisava university in Barcelona, designer Luisa Moysés is one of the main forces driving Breton's production. Inspired by places where she can connect, she captures details and forms to create authorial pieces with unique and striking identity.",
             "image": "https://assets.decocache.com/breton/41dcba00-93c5-4677-bb40-cfe3c20ec17c/luisa-Desktop.png",
             "imageMobile": "https://assets.decocache.com/breton/4f6208cd-713f-404a-aafd-9e5d11e08e1e/Designers-mobile.png",
-            "link": "/area-interna?sort=price%3Adesc&filter.category-1=area-interna&filter.designer=luisa-moyses&page=1"
+            "link": "https://deco-sites-breton--teste.deno.dev/area-interna?sort=price%3Adesc&filter.category-1=area-interna&filter.designer=luisa-moyses&page=1"
           },
           {
             "title": "Murilo Weitz",
-            "text": "É formado em Arquitetura e Urbanismo pela Universidade Mackenzie e em Design de Criação e Moda na University Arts of London. Em 2015, lançou sua marca homônima em São Paulo, onde vive e atua, e, desde então, tem se dedicado à produção de objetos únicos ou seriados, dentro de um vasto arco de interesses, que vão do design têxtil à cerâmica.",
+            "text": "Murilo Weitz holds a degree in Architecture and Urbanism from Universidade Mackenzie and in Creation and Fashion Design from University Arts of London. In 2015, he launched his eponymous brand in São Paulo, where he lives and works, and since then, he has dedicated himself to the production of unique or serial objects, within a vast range of interests, from textile design to ceramics.",
             "imageMobile": "https://assets.decocache.com/breton/355f34a0-0873-4c43-bbb8-17eb7d3ac864/murilo-mobile.png",
             "image": "https://assets.decocache.com/breton/ad33b450-196b-4bbb-8cc2-2dcc1be55c71/murilo-Desktop.png",
             "thumb": "https://assets.decocache.com/breton/ce3d0323-8e2e-419f-b16b-bd2664e3668a/murilo-bio-desk.png",
-            "link": "/breton?filter.brand=breton&filter.designer=Murilo%20Weitz&page=1"
+            "link": "/teste2"
           },
           {
             "title": "Reinaldo Lourenço",
-            "text": "Um dos mais reconhecidos estilistas do Brasil, Reinaldo Lourenço sempre respirou moda. Fez dela uma grande paixão e a sua maior contribuição pessoal para deixar o mundo mais interessante. Para o estilista, a tendência é menos importante do que a individualidade: \"A elegância e o poder estão dentro de cada pessoa. Basta ter atitude para se expressar.\" ",
+            "text": "One of Brazil's most renowned stylists, Reinaldo Lourenço has always breathed fashion. He made it a great passion and his greatest personal contribution to making the world more interesting. For the stylist, trend is less important than individuality: \"Elegance and power are within each person. You just need to have the attitude to express yourself.\"",
             "image": "https://assets.decocache.com/breton/0de25fdc-6e6a-4d17-a14c-be4c7343323d/C_CLA_BC_Verus_SF_New_Faro_MC_Rei.png",
             "imageMobile": "https://assets.decocache.com/breton/7c4ce51b-e003-4f1b-b9ea-e40064582247/rei-mobile.png",
             "thumb": "https://assets.decocache.com/breton/b59a7b23-adcc-45b9-947d-409aa335fd7d/RETRATO_REINALO.png",
-            "link": "/breton?filter.brand=breton&filter.designer=Reinaldo%20Lourenco&page=1"
+            "link": "/teste"
           },
           {
             "title": "Suite Design ",
-            "text": "É  focado em surpreender e superar as expectativas de seus clientes. Fundado em 2008, em São Paulo, por Carolina Mauro, Daniela Frugiuele e Filipe Troncon, os profissionais unem experiências distintas, conhecimento técnico e muita criatividade para desenvolver uma arquitetura moderna, sofisticada e cosmopolita. ",
+            "text": "Suite Design is focused on surprising and exceeding its clients' expectations. Founded in 2008, in São Paulo, by Carolina Mauro, Daniela Frugiuele, and Filipe Troncon, the professionals combine distinct experiences, technical knowledge, and great creativity to develop modern, sophisticated, and cosmopolitan architecture.",
             "image": "https://assets.decocache.com/breton/bfa2bcef-4650-4407-bf0b-136f37a12f5f/suite-Desktop.png",
             "imageMobile": "https://assets.decocache.com/breton/821dda5d-163d-4b47-b359-739aa6293d11/suite-mobile.png",
-            "thumb": "https://assets.decocache.com/breton/5e315025-6f3c-469b-bf4e-a478605bd8ef/suite-bio-desk.png",
-            "link": "/breton?filter.brand=breton&filter.designer=Suite%20Design&page=1"
+            "thumb": "https://assets.decocache.com/breton/5e315025-6f3c-469b-bf4e-a478605bd8ef/suite-bio-desk.png"
           },
           {
             "title": "Tiie Design",
             "image": "https://assets.decocache.com/breton/9b9e9e33-44d8-4685-87e1-2556e186692e/tieebanner2-Desktop.png",
             "imageMobile": "https://assets.decocache.com/breton/1102f4e4-6449-4fce-aebd-969419cd1e75/tiie-mobile.png",
             "thumb": "https://assets.decocache.com/breton/8df5c3b4-c8ad-4f4c-9f81-07153af17649/Tiie-Design-bio-desk.png",
-            "text": "A dupla criativa Julyana Hilgenstieler e Nicole Liz Salvatierra, à frente da Tiie Design, cria mobiliários com autoralidade industrial brasileira transmitindo o cuidado artesanal, mesmo produzidos em escala industrial, e contando histórias da infância ou recriando peças do cotidiano com funcionalidade e leveza. ",
-            "link": "/breton?filter.brand=breton&filter.designer=Tiie%20Design&page=1"
+            "text": "The creative duo Julyana Hilgenstieler and Nicole Liz Salvatierra, leading Tiie Design, create furniture with Brazilian industrial authorship, transmitting artisanal care, even when produced on an industrial scale, and telling childhood stories or recreating everyday pieces with functionality and lightness. "
           },
           {
             "title": "Victor Vasconcelos",
             "image": "https://assets.decocache.com/breton/499761b2-75a6-4c63-bc8a-7a2cb7b950a4/victor_Desktop.png",
             "imageMobile": "https://assets.decocache.com/breton/f9a85cf2-bd64-409f-90f6-8dd3fd82007b/victor-mobile.png",
             "thumb": "https://assets.decocache.com/breton/1d526908-e09f-4871-abf3-e6dd8271bbba/victor-bio-desk.png",
-            "text": "Victor Vasconcelos defende que suas criações não se restrinjam apenas às suas conjunções formais. E justamente por hipervalorizar o poder das formas, suas peças são capazes de produzir diferentes sensações que variam de acordo com a subjetividade de quem entra em contato com elas.",
-            "link": "/breton?filter.brand=breton&filter.designer=Victor%20Vasconcelos&page=1"
+            "text": "Victor Vasconcelos argues that his creations should not be restricted only to their formal conjunctions. And precisely by overvaluing the power of forms, his pieces are capable of producing different sensations that vary according to the subjectivity of those who come into contact with them."
           }
         ],
         "imageLogo": "https://data.decoassets.com/breton/8ccc362b-ec1c-475d-9c0a-047af81f067e/logo-designer.svg",
@@ -595,15 +338,15 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Home/BulletPoints.tsx",
-        "sectionTitle": "Descubra a versatilidade da Breton",
-        "sectionSubtitle": "ESTILOS",
+        "sectionTitle": "Discover Breton's versatility",
+        "sectionSubtitle": "STYLES",
         "banner": [
           {
             "bullets": [
               {
                 "yLocation": 65,
                 "xLocation": 82,
-                "label": "Sofá Bacio",
+                "label": "Bacio Sofa",
                 "products": {
                   "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
                   "props": {
@@ -616,7 +359,7 @@
               {
                 "yLocation": 56,
                 "xLocation": 64,
-                "label": "Poltrona Filó",
+                "label": "Filó Armchair",
                 "products": {
                   "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
                   "props": {
@@ -629,7 +372,7 @@
               {
                 "yLocation": 54,
                 "xLocation": 18,
-                "label": "Mesa de Jantar Artigas",
+                "label": "Artigas Dining Table",
                 "products": {
                   "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
                   "props": {
@@ -650,12 +393,12 @@
                     ]
                   }
                 },
-                "label": "Cadeira Manali"
+                "label": "Manali Chair"
               },
               {
                 "yLocation": 54,
                 "xLocation": 29,
-                "label": "Buffet Golden",
+                "label": "Golden Buffet",
                 "products": {
                   "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
                   "props": {
@@ -666,7 +409,7 @@
                 }
               }
             ],
-            "title": "Clássico",
+            "title": "Classic",
             "image": "https://assets.decocache.com/breton/7c59942a-d264-4774-b907-dd00e066fa4c/Classico.png"
           },
           {
@@ -674,7 +417,7 @@
               {
                 "yLocation": 68,
                 "xLocation": 7,
-                "label": "Poltrona Tiffany",
+                "label": "Tiffany Armchair",
                 "products": {
                   "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
                   "props": {
@@ -688,7 +431,7 @@
               {
                 "yLocation": 61,
                 "xLocation": 79,
-                "label": "Cadeira Dumbo",
+                "label": "Dumbo Chair",
                 "products": {
                   "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
                   "props": {
@@ -701,7 +444,7 @@
               {
                 "yLocation": 70,
                 "xLocation": 63,
-                "label": "Poltrona Aor",
+                "label": "Aor Armchair",
                 "products": {
                   "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
                   "props": {
@@ -714,7 +457,7 @@
               {
                 "yLocation": 50,
                 "xLocation": 47,
-                "label": "Sofá Netuno",
+                "label": "Netuno Sofa",
                 "products": {
                   "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
                   "props": {
@@ -727,7 +470,7 @@
               {
                 "yLocation": 50,
                 "xLocation": 81,
-                "label": "Mesa de Jantar Ronchamp",
+                "label": "Ronchamp Dining Table",
                 "products": {
                   "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
                   "props": {
@@ -740,7 +483,7 @@
               {
                 "yLocation": 61,
                 "xLocation": 41,
-                "label": "Mesa de Centro Balanço",
+                "label": "Balanço Coffee Table",
                 "products": {
                   "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
                   "props": {
@@ -753,7 +496,7 @@
               {
                 "yLocation": 56,
                 "xLocation": 59,
-                "label": "Mesa Lateral Saturno",
+                "label": "Saturno Side Table",
                 "products": {
                   "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
                   "props": {
@@ -774,10 +517,10 @@
                     ]
                   }
                 },
-                "label": "Mesa Lateral Medialuna"
+                "label": "Medialuna Side Table"
               }
             ],
-            "title": "Moderno",
+            "title": "Modern",
             "image": "https://assets.decocache.com/breton/b12a9510-b035-45dd-98a5-f324a9850609/Moderno.png"
           },
           {
@@ -785,7 +528,7 @@
               {
                 "yLocation": 65,
                 "xLocation": 53,
-                "label": "Mesa de Centro Calma",
+                "label": "Calma Coffee Table",
                 "products": {
                   "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
                   "props": {
@@ -798,7 +541,7 @@
               {
                 "yLocation": 41,
                 "xLocation": 61,
-                "label": "Poltrona Suspensa Folha",
+                "label": "Folha Hanging Armchair",
                 "products": {
                   "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
                   "props": {
@@ -811,7 +554,7 @@
               {
                 "yLocation": 49,
                 "xLocation": 33,
-                "label": "Sofá Santa Clara",
+                "label": "Santa Clara Sofa",
                 "products": {
                   "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
                   "props": {
@@ -824,7 +567,7 @@
               {
                 "yLocation": 59,
                 "xLocation": 84,
-                "label": "Cadeira Reencontro",
+                "label": "Reencontro Chair",
                 "products": {
                   "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
                   "props": {
@@ -837,7 +580,7 @@
               {
                 "yLocation": 48,
                 "xLocation": 78,
-                "label": "Mesa de Jantar Mantiqueira",
+                "label": "Mantiqueira Dining Table",
                 "products": {
                   "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
                   "props": {
@@ -856,7 +599,7 @@
               {
                 "yLocation": 63,
                 "xLocation": 6,
-                "label": "Cadeira Maitê",
+                "label": "Maitê Chair",
                 "products": {
                   "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
                   "props": {
@@ -869,7 +612,7 @@
               {
                 "yLocation": 61,
                 "xLocation": 66,
-                "label": "Mesa de Centro Self",
+                "label": "Self Coffee Table",
                 "products": {
                   "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
                   "props": {
@@ -882,7 +625,7 @@
               {
                 "yLocation": 44,
                 "xLocation": 59,
-                "label": "Sofá Afeto",
+                "label": "Afeto Sofa",
                 "products": {
                   "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
                   "props": {
@@ -895,7 +638,7 @@
               {
                 "yLocation": 63,
                 "xLocation": 30,
-                "label": "Poltrona Poe",
+                "label": "Poe Armchair",
                 "products": {
                   "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
                   "props": {
@@ -908,7 +651,7 @@
               {
                 "yLocation": 66,
                 "xLocation": 46,
-                "label": "Puff Poe",
+                "label": "Poe Pouf",
                 "products": {
                   "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
                   "props": {
@@ -921,7 +664,7 @@
               {
                 "yLocation": 64,
                 "xLocation": 93,
-                "label": "Mesa Lateral Emoções",
+                "label": "Emoções Side Table",
                 "products": {
                   "__resolveType": "vtex/loaders/intelligentSearch/productList.ts",
                   "props": {
@@ -942,7 +685,7 @@
                     ]
                   }
                 },
-                "label": "Mesa de Jantar Teorema"
+                "label": "Teorema Dining Table"
               },
               {
                 "yLocation": 48,
@@ -955,7 +698,7 @@
                     ]
                   }
                 },
-                "label": "Mesa Lateral Myumi"
+                "label": "Myumi Side Table"
               },
               {
                 "yLocation": 58,
@@ -968,7 +711,7 @@
                     ]
                   }
                 },
-                "label": "Poltrona Volare"
+                "label": "Volare Armchair"
               }
             ],
             "title": "Vintage",
@@ -981,34 +724,33 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Home/Ecobreton/Ecobreton.tsx",
-        "title": "eco",
+        "title": "Eco",
         "images": [
           {
             "image": "https://assets.decocache.com/breton/21d58faf-a429-47c8-b524-2c6f0f85a684/bnneeco.png",
-            "textLink": "/ecobreton",
-            "titleImage": "Carbono negativo pelo terceiro ano",
-            "textImage": "Somos a única marca do mundo no segmento a conquistar a certificação carbono negativo três vezes consecutivas, que reconhece empresas que removem da atmosfera mais carbono do que emite, contribuindo ativamente para a manutenção do meio ambiente."
-          },
-          {
-            "image": "https://assets.decocache.com/breton/4b8bb8d6-0920-476f-9d1b-ca274d212893/ref-banner-ecobreto-homepage.png",
-            "titleImage": "Nossa produção",
-            "textImage": "Unindo o cuidado artesanal e a alta tecnologia, a fábrica onde nascem nossos produtos foi projetada para mitigar ao máximo os impactos ao meio ambiente e minimizar o desperdício de materiais e matérias primas que não podem ser reaproveitadas.",
+            "titleImage": "Carbon negative for the third year",
+            "textImage": "We are a pioneering brand in the segment to achieve the carbon negative seal three times consecutively. The certification recognizes companies that remove more carbon from the atmosphere than they emit, actively contributing to the preservation of the environment. A Breton legacy for future generations.",
             "textLink": "/ecobreton"
           },
           {
             "image": "https://assets.decocache.com/breton/8ac9b3c9-4d32-4d54-8389-f38ba37a60e1/bnneeco2.png",
             "titleImage": "Breton Circular",
-            "textLink": "https://www.circular.breton.com.br/",
-            "textImage": "Uma iniciativa pioneira de economia circular no segmento. Por meio de uma plataforma exclusiva para a revenda de móveis seminovos da Breton, peças em bom estado ganham a chance de fazer parte de novas histórias. Faça parte dessa corrente!"
+            "textImage": "A pioneering circular economy initiative in the segment. Through an exclusive platform for reselling pre-owned Breton furniture, pieces in good condition get a chance to be part of new stories. Be part of this movement!",
+            "textLink": "https://www.circular.breton.com.br/"
+          },
+          {
+            "image": "https://assets.decocache.com/breton/4b8bb8d6-0920-476f-9d1b-ca274d212893/ref-banner-ecobreto-homepage.png",
+            "titleImage": "Our production",
+            "textImage": "Combining artisanal care and high technology, the factory where our products are born was designed to mitigate environmental impacts as much as possible and minimize the waste of materials and raw materials that cannot be reused.",
+            "textLink": "/ecobreton"
           },
           {
             "image": "https://assets.decocache.com/breton/a84dfe3d-514a-4c2c-b2b2-3c79eb90f3d0/Sem-nome-(940-x-728-px)-(384-x-400-px)-(1360-x-560-px)-(1360-x-728-px)-(5).png",
-            "textImage": "Estamos comprometidos a recuperar um dos biomas mais importantes do Brasil. Por isso, a cada pedido fechado na Breton, plantamos uma árvore na Mata Atlântica. O plantio ocorre por meio da nossa parceria com a Fundação S.O.S Mata Atlântica.",
-            "titleImage": "SOS Mata Atlântica",
-            "textLink": "https://deco-sites-breton--teste.deno.dev/ecobreton"
+            "textImage": "We are committed to recovering one of Brazil's most important biomes. Therefore, for every order placed at Breton, we plant a tree in the Atlantic Forest. The planting occurs through our partnership with the SOS Mata Atlântica Foundation.",
+            "titleImage": "Partnership with SOS Mata Atlântica"
           }
         ],
-        "subtitle": "breton",
+        "subtitle": "Breton",
         "link": "/ecobreton",
         "logo": "https://data.decoassets.com/breton/fa4ccc39-53c4-4fe6-bc37-5c13a8b766b1/ecoBretonLogo-1.svg"
       }

@@ -4,7 +4,7 @@
     {
       "children": [
         {
-          "title": "A Breton",
+          "title": "About Breton",
           "href": "/about-us"
         },
         {
@@ -12,11 +12,11 @@
           "href": "/ecobreton"
         },
         {
-          "title": "Nossas Lojas",
+          "title": "Our Stores",
           "href": "/stores"
         },
         {
-          "title": "Corporativo",
+          "title": "Corporative",
           "href": "/corporate"
         },
         {
@@ -24,25 +24,25 @@
           "href": "/blog"
         }
       ],
-      "title": "Institucional",
+      "title": "Institutional",
       "href": "/#"
     },
     {
       "children": [
         {
-          "title": "Meus Pedidos",
+          "title": "Orders",
           "href": "/my-account/login"
         },
         {
-          "title": "Meus Dados",
+          "title": "My Account",
           "href": "/my-account/login"
         },
         {
-          "title": "Fale Conosco",
+          "title": "Contact us",
           "href": "https://ig.rdstation.com/bretonoficial"
         }
       ],
-      "title": "Ajuda",
+      "title": "Help",
       "href": "/#"
     }
   ],
@@ -76,30 +76,21 @@
   "paymentMethods": [],
   "policies": [],
   "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/breton/ec84088c-90fd-47a3-b9cf-388b429990db/Logo.png",
-  "trademark": "2025 Breton. Todos os direitos reservados. Imagens meramente ilustrativas. Bioma Comércio de Móveis LTDA CNPJ 42.800.463/0001-88 IE 286.682.199.119.",
-  "contactInfo": "<p>São Paulo: 11 4055.9707<br>Outras regiões: 11 4003.1699<br>Whatsapp: 11 4055.9707<br>E-mail: crb@breton.com.br</p>",
+  "trademark": "2025 Breton. All rights reserved. Images for illustrative purposes only. Bioma Comércio de Móveis LTDA CNPJ 42.800.463/0001-88 IE 286.682.199.119.",
+  "contactInfo": "<p>São Paulo: +55 11 4055.9707<br>Other regions: +55 11 4003.1699<br>WhatsApp: +55 11 4055.9707<br>E-mail: crb@breton.com.br</p>",
   "languages": {
     "languages": [
       {
-        "language": {
-          "label": "PT",
-          "href": "pt.breton.co",
-          "isActive": false
-        },
         "label": "PT",
-        "href": "pt.breton.co",
+        "href": "//pt.breton.co",
         "isActive": false
       },
       {
-        "language": {
-          "label": "EN",
-          "href": "/#",
-          "isActive": true
-        },
         "label": "EN",
-        "href": "/#"
+        "href": "/#",
+        "isActive": true
       }
     ],
-    "title": "Idiomas"
+    "title": "Languages"
   }
 }

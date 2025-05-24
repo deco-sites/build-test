@@ -11,18 +11,18 @@
         "__resolveType": "blog/loaders/BlogPostItem.ts",
         "slug": "teste-8"
       },
-      "title": "Blog Breton",
-      "ctaLabel": "ver matéria"
+      "title": "Breton Blog",
+      "ctaLabel": "View post"
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "blog/sections/BlogPosts.tsx",
         "ctaPagination": {
-          "text": "Carregar mais"
+          "text": "Load more"
         },
         "ctaPost": {
-          "text": "Ver matéria"
+          "text": "View post"
         },
         "pagination": {
           "perPage": 6
