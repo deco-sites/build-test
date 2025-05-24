@@ -1,5 +1,5 @@
 {
-  "name": "Nossas Lojas",
+  "name": "Our Stores",
   "path": "/stores",
   "sections": [
     {
@@ -14,7 +14,7 @@
         "content": {
           "titleImageDesktop": {},
           "titleImageMobile": {},
-          "title": "<h1>N O S S A S   L O J A S</h1>"
+          "title": "<h1>O U R   S T O R E S</h1>"
         },
         "background": {
           "mobile": {
@@ -86,13 +86,13 @@
           {
             "images": [
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/03b1d66e-2663-4577-b107-3d4b1a2199d8/Breton_Gabriel2_(RafaelRenzo)-22.jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/867b345f-72b9-4dbe-bf19-06d44c4ab8ab/Breton_Gabriel2_(RafaelRenzo)-24-(1).jpg",
                 "width": 1920,
                 "height": 1280
@@ -101,74 +101,74 @@
             "city": "São Paulo",
             "name": "Breton Gabriel",
             "address": "Alameda Gabriel Monteiro da Silva, 820 - Jardim América",
-            "opening": "<p>Seg-Sex 10h-19h<br>Sáb 10h-18h</p>",
+            "opening": "<p>Mon-Fri 10h-19h<br>Sat 10h-18h</p>",
             "phone": "11 3089-6770",
             "instagram": "@bretonoficial"
           },
           {
             "images": [
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/5e1afc54-f877-4f6f-a7e3-32ca5f26f499/Breton_D_D_(RafaelRenzo)-1.jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/d96be599-412b-4747-99b8-8d7634545d76/Breton_D_D_(RafaelRenzo)-2.jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/c1202416-0893-408b-93d3-49be01139830/Breton_D_D_(RafaelRenzo)-39.jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/3e499713-7703-43ac-9d20-68a4e6675c6b/Breton_D_D_(RafaelRenzo)-39.jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/b81281c7-45c0-4784-92c0-f416a44820fa/Breton_D_D_(RafaelRenzo)-40.jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/b54b54a6-77e0-414f-a84f-c2511a60d0df/Breton_D_D_(RafaelRenzo)-41.jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/f639c573-8b3a-43cf-9615-03a5b9403981/Breton_D_D_(RafaelRenzo)-42.jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/159ddf93-f78b-4d6b-8bf1-b5e61d2cb26c/Breton_D_D_(RafaelRenzo)-43.jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/8ea96b61-71e2-4c06-a7f5-b87c22755d4f/Breton_D_D_(RafaelRenzo)-44.jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/59d9ba36-883a-4bcb-9565-02646f19236e/Breton_D_D_(RafaelRenzo)-45.jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/422b243e-32cc-4112-90c3-78c503ece9fb/Breton_D_D_(RafaelRenzo)-46.jpg",
                 "width": 1920,
                 "height": 1280
@@ -177,32 +177,32 @@
             "city": "São Paulo",
             "name": "Breton Shopping D&D",
             "address": "Avenida das Nações Unidas, 12555 - Cidade Monções",
-            "opening": "<p>Seg-Sex 10h-21h<br>Sáb 10h-20h<br>Dom 14h-19h</p>",
+            "opening": "<p>Mon-Fri 10h-21h<br>Sat 10h-20h<br>Sun 14h-19h</p>",
             "phone": "11 5103-5100",
             "instagram": "@bretonoficial"
           },
           {
             "images": [
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/28569bf4-6b7c-4bbb-8382-dd9b08ddcb36/Breton_LarCenter_(RafaelRenzo)-34.jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/cc7b9e92-66be-4246-b698-effcc1199769/Breton_LarCenter_(RafaelRenzo)-28.jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/d002141f-2d5d-4a68-a756-e16a31acc9f0/Breton_LarCenter_(RafaelRenzo)-31.jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/4e2d3c16-6a53-43d6-89f3-8d10f5f61c35/Breton_LarCenter_(RafaelRenzo)-32.jpg",
                 "width": 1920,
                 "height": 1280
@@ -211,14 +211,14 @@
             "city": "São Paulo",
             "name": "Breton Shopping Lar Center",
             "address": "Avenida Otto Baumgart, 500 - Vila Guilherme",
-            "opening": "<p>Seg-Sex 10h-21h<br>Sáb 10h-21h<br>Dom 14h-20h</p>",
+            "opening": "<p>Mon-Fri 10h-21h<br>Sat 10h-21h<br>Sun 14h-20h</p>",
             "phone": "11 2902-0300",
             "instagram": "@bretonoficial"
           },
           {
             "images": [
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://assets.decocache.com/breton/61ff523b-3ff1-4b83-917a-3ca99491cc45/Outlet-com-corte.png",
                 "width": 1920,
                 "height": 1280
@@ -227,68 +227,68 @@
             "city": "São Paulo",
             "name": "Breton Outlet",
             "address": "Joaquim Antunes, 747 - Pinheiros",
-            "opening": "<p>Seg-Sáb 10h-18h<br>Dom 13h-18h</p>",
+            "opening": "<p>Mon-Sat 10h-18h<br>Sun 13h-18h</p>",
             "phone": "11 3065-1800",
             "instagram": "@breton.outlet"
           },
           {
             "images": [
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/90d8b59a-15f9-4f48-aa39-78e19fc5a650/_B0A9519.jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/0150aee7-1336-40d0-b974-fda8999c7d2e/Fachadas-Breton-Rio-de-Janeiro-(1).jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/94d72290-3254-4be3-9af6-b7c845de6e35/Fachada-Breton-Rio.png",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/780004e7-0976-4502-b4fa-745d5363a952/Fachadas-Breton-Rio-de-Janeiro-(2).jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/1a84439e-d11f-4d23-948f-883d84beb4d0/Fachadas-Breton-Rio-de-Janeiro-(3).jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/514809a8-b104-4a7d-bbb7-c8d2a8b7c875/Fachadas-Breton-Rio-de-Janeiro-(4).jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/ae2bdae6-9b86-43ea-b9a6-8c2354615b2e/Fachadas-Breton-Rio-de-Janeiro-(5).jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/3cde32bc-de3c-400a-852d-5293748ea99c/Fachadas-Breton-Rio-de-Janeiro-(6).jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/17331fa6-d9ac-4b9b-b3a2-f24d1e522792/Fachadas-Breton-Rio-de-Janeiro-(7).jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/e58d8b27-cf25-4304-be89-b81373ea1342/Fachadas-Breton-Rio-de-Janeiro-(8).jpg",
                 "width": 1920,
                 "height": 1280
@@ -297,14 +297,14 @@
             "city": "Rio de Janeiro",
             "name": "Breton Casa Shopping",
             "address": "Av. Ayrton Senna, 2150 - 1º Piso Bloco 1, Barra da Tijuca",
-            "opening": "<p>Seg-Sáb 10h-20h<br>Dom 14h-20h</p>",
+            "opening": "<p>Mon-Sat 10h-20h<br>Sun 14h-20h</p>",
             "phone": "21 2108-8244",
             "instagram": "@bretonoficial"
           },
           {
             "images": [
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://assets.decocache.com/breton/c9e9fbbd-22a0-4a3c-a276-6720e4018692/BSB.png",
                 "width": 1920,
                 "height": 1280
@@ -313,14 +313,14 @@
             "city": "Brasília",
             "name": "Breton Shopping Casa Park",
             "address": "Sgcv Sul, Sgcv Lt 12/22 AE - Guará",
-            "opening": "<p>Seg-Sáb 10h-22h<br>Dom 14h-20h</p>",
+            "opening": "<p>Mon-Sat 10h-22h<br>Sun 14h-20h</p>",
             "phone": "61 3772-7200",
             "instagram": "@bretonoficial"
           },
           {
             "images": [
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/097d83ba-7c98-44b1-bcbc-55005fecb30b/Fachada-Salvador.png",
                 "width": 1920,
                 "height": 1280
@@ -329,14 +329,14 @@
             "city": "Salvador",
             "name": "Breton Salvador",
             "address": "Rua do Jaracatiá, 428 - Caminho das Árvores",
-            "opening": "<p>Seg-Sex 9h-19h<br>Sáb 9h-14h</p>",
+            "opening": "<p>Mon-Fri 9h-19h<br>Sat 9h-14h</p>",
             "phone": "71 2136-9461",
             "instagram": "@bretonsalvadoroficial"
           },
           {
             "images": [
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/2fc3fdec-7832-439a-96dc-0b1f4328ebeb/Fachada-Campinas.png",
                 "width": 1920,
                 "height": 1280
@@ -345,14 +345,14 @@
             "city": "Campinas",
             "name": "Breton Campinas",
             "address": "Avenida Iguatemi 524, Vila Brandina",
-            "opening": "<p>Seg-Sex 9h-18h<br>Sáb 9h-17h</p>",
+            "opening": "<p>Mon-Fri 9h-18h<br>Sat 9h-17h</p>",
             "phone": "19 3253-1206",
             "instagram": "@bretoncampinas"
           },
           {
             "images": [
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/630b376a-4c88-4d56-9aae-703e76c6fdab/FachadaSJC.jpg",
                 "width": 1920,
                 "height": 1280
@@ -361,14 +361,14 @@
             "city": "São José dos Campos",
             "name": "Breton São José dos Campos",
             "address": "Avenida Anchieta 409, Jardim Esplanada",
-            "opening": "<p>Seg-Sex 9h-19h<br>Sáb 9h-16h</p>",
+            "opening": "<p>Mon-Fri 9h-19h<br>Sat 9h-16h</p>",
             "phone": "12 3921-8304",
             "instagram": "@bretonsjc"
           },
           {
             "images": [
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/60bd56fa-f7bd-4906-ad88-900f5c3b7ea9/Fachada-Manaus.png",
                 "width": 1920,
                 "height": 1280
@@ -377,26 +377,26 @@
             "city": "Manaus",
             "name": "Breton Manaus",
             "address": "Avenida Mário Ypiranga, 1296 - Adrianópolis",
-            "opening": "<p>Seg-Sex 9h-18h<br>Sáb 9h-13h</p>",
+            "opening": "<p>Mon-Fri 9h-18h<br>Sat 9h-13h</p>",
             "phone": "92 3307-5970",
             "instagram": "@bretonmanaus"
           },
           {
             "images": [
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/58e50c44-b8e0-4743-93f8-b94323d88d44/Fachada-(2).jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada noturna",
+                "alt": "Night facade",
                 "image": "https://data.decoassets.com/breton/15232e77-b885-4370-b4b9-1222f46c6558/47.png",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Loja",
+                "alt": "Store",
                 "image": "https://data.decoassets.com/breton/57d09ba2-2d1e-45da-a104-58c8c66c0b1b/46.png",
                 "width": 1920,
                 "height": 1280
@@ -405,86 +405,86 @@
             "city": "Balneário Camboriú",
             "name": "Breton Balneário Camboriú",
             "address": "Avenida do Estado Dalmo Vieira, 4770",
-            "opening": "<p>Seg-Sex 9h-19h<br>Sáb 9h-16h</p>",
+            "opening": "<p>Mon-Fri 9h-19h<br>Sat 9h-16h</p>",
             "phone": "47 98921-8213",
             "instagram": "@bretonbalneariocamboriu"
           },
           {
             "images": [
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/aac5f80e-6563-4965-bcad-7610b2cfe1dc/BU2A8990.jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/8f279d30-dca2-495b-af8e-97b755499b29/BU2A9002.jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/ba9c547b-d22b-4bed-a3a0-ea59a68f9f57/BU2A9009.jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/e162e5e8-db44-4ac2-a2ba-e8611f42a8e7/BU2A9023.jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/9f3f2883-b227-4e74-ae64-d4a51813cca1/BU2A8999.jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/4ef1d313-0e3a-4cac-bcf1-9ba6a54c5e2b/BU2A9015.jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/3efdba9b-b874-4878-90ae-6f70138f2e0b/BU2A9017.jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/da02f479-09aa-49ba-904b-5699b2fe763e/BU2A9020.jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/518581d5-ec8d-47cd-8b49-e726290ada6e/BU2A9028.jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/731f15bf-fcf4-4d10-bdb3-6eb8a86faaac/DJI_0010.jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/96ffe4be-0dff-446f-bc55-fb0b3ca28b9a/DJI_0017.jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/3a286af4-97ef-419a-82f5-5b41d2507f4b/DJI_0021.jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/4722af16-8f0a-4bbc-809d-0e563d555a41/DJI_0032.jpg",
                 "width": 1920,
                 "height": 1280
@@ -493,14 +493,14 @@
             "city": "Porto Alegre",
             "name": "Breton Porto Alegre",
             "address": "Rua Quintino Bocaiuva, 818 - Floresta",
-            "opening": "<p>Seg-Sex 9h-19h<br>Sáb 10h-15h</p>",
+            "opening": "<p>Mon-Fri 9h-19h<br>Sat 10h-15h</p>",
             "phone": "51 99745-0489",
             "instagram": "@bretonpoa"
           },
           {
             "images": [
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/f2e44302-3635-4269-aeac-dc5fd2f040a5/Breton-Belem.jpeg",
                 "width": 1920,
                 "height": 1280
@@ -509,14 +509,14 @@
             "city": "Belém",
             "name": "Breton Belém",
             "address": "Travessa 14 de Março, 1100",
-            "opening": "<p>Seg-Sex 9h-19h<br>Sáb 9h-13h</p>",
+            "opening": "<p>Mon-Fri 9h-19h<br>Sat 9h-13h</p>",
             "phone": "91 9800-1777",
             "instagram": "@bretonbelem"
           },
           {
             "images": [
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://assets.decocache.com/breton/324a72b5-2a8b-496d-bea2-aff5caa487f6/Nossas-lojas.png",
                 "width": 1920,
                 "height": 1280
@@ -525,14 +525,14 @@
             "city": "Santos",
             "name": "Breton Santos",
             "address": "Av. Doutor Epitácio Pessoa, 305 - Boqueirão",
-            "opening": "<p>Seg-Sex 9h-19h<br>Sáb 9h-16h</p>",
+            "opening": "<p>Mon-Fri 9h-19h<br>Sat 9h-16h</p>",
             "phone": "13 99732-6002",
             "instagram": "@bretonsantos_"
           },
           {
             "images": [
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://assets.decocache.com/breton/658e035c-778f-4297-b104-3d4d6ce92e73/CUIABA.png",
                 "width": 1920,
                 "height": 1280
@@ -541,32 +541,32 @@
             "city": "Cuiabá",
             "name": "Breton Cuiabá",
             "address": "Av. Isaac Póvoas, 1200 - Popular",
-            "opening": "<p>Seg-Sex 8h30-18h30<br>Sáb 8h30-12h</p>",
+            "opening": "<p>Mon-Fri 8h30-18h30<br>Sat 8h30-12h</p>",
             "phone": "65 99732-6002",
             "instagram": "@bretonmt"
           },
           {
             "images": [
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/a61cda52-68d6-4091-8833-98f99dcb5d0f/Fachada-Breton-Ribeirao.jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/376abf19-8539-4900-b6ef-66b37689972b/Ribeirao1.jpeg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/d73c453e-69ba-42ac-8d66-37e7991100b0/Ribeirao2.jpeg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/21d5522b-db31-4afc-99f8-2a144bb5b864/Ribeirao3.jpeg",
                 "width": 1920,
                 "height": 1280
@@ -575,14 +575,14 @@
             "city": "Ribeirão Preto",
             "name": "Breton Ribeirão Preto",
             "address": "Rua Hugo Martini, 50 - Jardim Canada",
-            "opening": "<p>Seg-Sex 9h-18h<br>Sáb 9h-13h</p>",
+            "opening": "<p>Mon-Fri 9h-18h<br>Sat 9h-13h</p>",
             "phone": "16 99434-0646",
             "instagram": "@bretonribeirao"
           },
           {
             "images": [
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/0855939c-1acf-4319-8595-bd0cc351a03d/Palmas-Fachada.jpg",
                 "width": 1920,
                 "height": 1280
@@ -591,14 +591,14 @@
             "city": "Palmas",
             "name": "Breton Palmas",
             "address": "Quadra 204 Sul Alameda 10, Galeria Alameda 10",
-            "opening": "<p>Seg-Sex 9h-18h<br>Sáb 8h30-12h30</p>",
+            "opening": "<p>Mon-Fri 9h-18h<br>Sat 8h30-12h30</p>",
             "phone": "63 3015-1060",
             "instagram": "@bretontocantins"
           },
           {
             "images": [
               {
-                "alt": "Loja",
+                "alt": "Store",
                 "image": "https://assets.decocache.com/breton/1c211638-e278-4e07-bce5-560014477b04/Curitiba.png",
                 "width": 1920,
                 "height": 1280
@@ -607,14 +607,14 @@
             "city": "Curitiba",
             "name": "Breton Curitiba",
             "address": "Av. do Batel, 1443 - Batel",
-            "opening": "<p>Seg-Sex 9h-19h<br>Sáb 9h-15h</p>",
+            "opening": "<p>Mon-Fri 9h-19h<br>Sat 9h-15h</p>",
             "phone": "41 3203-4679",
             "instagram": "@bretoncuritibaoficial"
           },
           {
             "images": [
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://assets.decocache.com/breton/1f270088-f6b1-4bd7-83dd-2d3e9b179461/Roraima.png",
                 "width": 1920,
                 "height": 1280
@@ -623,26 +623,26 @@
             "city": "Curitiba",
             "name": "Breton Roraima",
             "address": "Av. Major Williams, 575, Boa Vista",
-            "opening": "<p>Abre em maio</p>",
+            "opening": "<p>Opens in May</p>",
             "phone": "11 4055-9707",
             "instagram": "@bretonroraima"
           },
           {
             "images": [
               {
-                "alt": "Fachada",
+                "alt": "Facade",
                 "image": "https://data.decoassets.com/breton/ae3076bc-d5c6-481f-9be7-76351b32d5e6/Fachada-Breton-Dubai1.jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Fachada noturna",
+                "alt": "Night facade",
                 "image": "https://data.decoassets.com/breton/b2cdfc66-190d-41c3-88cc-7fd0567e0960/Fachada-Breton-Dubai2.jpg",
                 "width": 1920,
                 "height": 1280
               },
               {
-                "alt": "Loja",
+                "alt": "Store",
                 "image": "https://data.decoassets.com/breton/b76e38bc-e1fc-4542-91d6-89982ca58f1a/Fachada-Breton-Dubai3.jpg",
                 "width": 1920,
                 "height": 1280
@@ -651,7 +651,7 @@
             "city": "Dubai",
             "name": "Breton Dubai",
             "address": "AI Wasl Road 1001, Dubai, United Arab Emirates",
-            "opening": "<p>Seg-Sáb 10h-20h<br>Dom 14h-20h</p>",
+            "opening": "<p>Mon-Sat 10h-20h<br>Sun 14h-20h</p>",
             "phone": "971 50 609 1571",
             "instagram": "@bretondubai"
           }
@@ -667,17 +667,17 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Institutional/InstitutionalForm.tsx",
-        "title": "seja um franqueado",
-        "description": "Faça parte do nosso time! Preencha com seus dados e nós entraremos em contato.",
-        "labelSendButton": "ENVIAR",
+        "title": "be a franchisee",
+        "description": "Join our team! Fill in your details and we will contact you.",
+        "labelSendButton": "SEND",
         "entityName": "FR",
         "success": {
-          "title": "OBRIGADO!",
-          "text": "Em breve entraremos em contato com você!"
+          "title": "THANK YOU!",
+          "text": "We will contact you soon!"
         },
         "error": {
-          "title": "DESCULPE!",
-          "text": "Houve um erro no envio dos seus dados. Por favor, tente novamente mais tarde."
+          "title": "SORRY!",
+          "text": "There was an error submitting your data. Please try again later."
         },
         "inputs": [
           {
@@ -700,20 +700,20 @@
           },
           {
             "type": "text",
-            "label": "País:",
-            "placeholder": "País",
+            "label": "Country:",
+            "placeholder": "Country",
             "nameOnMasterData": "country"
           },
           {
             "type": "text",
-            "label": "Estado:",
-            "placeholder": "Estado",
+            "label": "State:",
+            "placeholder": "State",
             "nameOnMasterData": "state"
           },
           {
             "type": "text",
-            "label": "Cidade:",
-            "placeholder": "Cidade",
+            "label": "City:",
+            "placeholder": "City",
             "nameOnMasterData": "city"
           }
         ]
@@ -732,25 +732,25 @@
       "section": {
         "__resolveType": "site/sections/Institutional/InstitutionalFooterNavigator.tsx",
         "background": "#672135",
-        "text": "<p style=\"text-align: center; font-size: 16px; line-height: 24px; font-weight: 600; color: rgb(255, 255, 255); letter-spacing: 3.84px;\" data-mce-style=\"text-align: center; font-size: 16px; line-height: 24px; font-weight: 600; color: rgb(255, 255, 255); letter-spacing: 3.84px;\">VEJA TAMBÉM:</p>",
+        "text": "<p style=\"text-align: center; font-size: 16px; line-height: 24px; font-weight: 600; color: rgb(255, 255, 255); letter-spacing: 3.84px;\" data-mce-style=\"text-align: center; font-size: 16px; line-height: 24px; font-weight: 600; color: rgb(255, 255, 255); letter-spacing: 3.84px;\">SEE ALSO:</p>",
         "navigationList": [
           {
             "imageDesktop": "https://data.decoassets.com/breton/d25cce84-4ae7-4691-a4a2-2a5fb1ade4ef/InstitutionalFooterNavigatorDesk-1.png",
             "imageMobile": "https://data.decoassets.com/breton/6a4f8740-9119-4866-9c2b-18988300a57a/InstitutionalFooterNavigatorMob-1.png",
-            "title": "Nossas Lojas",
-            "label": "Endereços",
+            "title": "Our Stores",
+            "label": "Addresses",
             "link": "/"
           },
           {
             "title": "EcoBreton",
-            "label": "Saiba mais",
+            "label": "Learn more",
             "link": "/",
             "imageDesktop": "https://data.decoassets.com/breton/29da7b3e-4793-4d45-9c91-2a6fa22557c8/InstitutionalFooterNavigatorDesk-2.png",
             "imageMobile": "https://data.decoassets.com/breton/6a4f8740-9119-4866-9c2b-18988300a57a/InstitutionalFooterNavigatorMob-1.png"
           },
           {
             "title": "Blog",
-            "label": "Saiba mais",
+            "label": "Learn more",
             "link": "/",
             "imageDesktop": "https://data.decoassets.com/breton/80daf5e5-02c8-48ac-b44a-069e3d8b0657/InstitutionalFooterNavigatorDesk-3.png",
             "imageMobile": "https://data.decoassets.com/breton/6a4f8740-9119-4866-9c2b-18988300a57a/InstitutionalFooterNavigatorMob-1.png"

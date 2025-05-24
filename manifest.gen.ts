@@ -18,18 +18,18 @@ import * as $$$$$$$$$$$9 from "./apps/blog/loaders/ContentTypes.ts";
 import * as $$$$$$$$$$$10 from "./apps/blog/loaders/GetCategories.ts";
 import * as $$$$$$$$$$$11 from "./apps/blog/manifest.gen.ts";
 import * as $$$$$$$$$$$12 from "./apps/blog/mod.ts";
-import * as $$$$$$$$$$$13 from "./apps/blog/sections/Blog/components/ImageAndTextSection.tsx";
-import * as $$$$$$$$$$$16 from "./apps/blog/sections/Blog/components/ImagesSlide.tsx";
-import * as $$$$$$$$$$$14 from "./apps/blog/sections/Blog/components/ImageThreeColumnSection.tsx";
-import * as $$$$$$$$$$$15 from "./apps/blog/sections/Blog/components/ImageTwoColumnSection.tsx";
-import * as $$$$$$$$$$$17 from "./apps/blog/sections/Blog/components/OneImage.tsx";
-import * as $$$$$$$$$$$18 from "./apps/blog/sections/Blog/components/ProductsSection.tsx";
-import * as $$$$$$$$$$$19 from "./apps/blog/sections/Blog/components/RelatedPosts.tsx";
-import * as $$$$$$$$$$$20 from "./apps/blog/sections/Blog/components/TextSection.tsx";
-import * as $$$$$$$$$$$21 from "./apps/blog/sections/Blog/components/Video.tsx";
-import * as $$$$$$$$$$$22 from "./apps/blog/sections/BlogBannerPost.tsx";
-import * as $$$$$$$$$$$23 from "./apps/blog/sections/BlogPosts.tsx";
-import * as $$$$$$$$$$$24 from "./apps/blog/sections/BlogTemplate.tsx";
+import * as $$$$$$$$$$$16 from "./apps/blog/sections/Blog/components/ImageAndTextSection.tsx";
+import * as $$$$$$$$$$$19 from "./apps/blog/sections/Blog/components/ImagesSlide.tsx";
+import * as $$$$$$$$$$$17 from "./apps/blog/sections/Blog/components/ImageThreeColumnSection.tsx";
+import * as $$$$$$$$$$$18 from "./apps/blog/sections/Blog/components/ImageTwoColumnSection.tsx";
+import * as $$$$$$$$$$$20 from "./apps/blog/sections/Blog/components/OneImage.tsx";
+import * as $$$$$$$$$$$21 from "./apps/blog/sections/Blog/components/ProductsSection.tsx";
+import * as $$$$$$$$$$$22 from "./apps/blog/sections/Blog/components/RelatedPosts.tsx";
+import * as $$$$$$$$$$$23 from "./apps/blog/sections/Blog/components/TextSection.tsx";
+import * as $$$$$$$$$$$24 from "./apps/blog/sections/Blog/components/Video.tsx";
+import * as $$$$$$$$$$$13 from "./apps/blog/sections/BlogBannerPost.tsx";
+import * as $$$$$$$$$$$14 from "./apps/blog/sections/BlogPosts.tsx";
+import * as $$$$$$$$$$$15 from "./apps/blog/sections/BlogTemplate.tsx";
 import * as $$$$$$$$$$$25 from "./apps/blog/sections/Seo/SeoBlogPost.tsx";
 import * as $$$$$$$$$$$26 from "./apps/blog/sections/Seo/SeoBlogPostListing.tsx";
 import * as $$$$$$$$$$$27 from "./apps/blog/sections/Template.tsx";
@@ -226,21 +226,21 @@ const manifest = {
     "site/apps/blog/manifest.gen.ts": $$$$$$$$$$$11,
     "site/apps/blog/mod.ts": $$$$$$$$$$$12,
     "site/apps/blog/sections/Blog/components/ImageAndTextSection.tsx":
-      $$$$$$$$$$$13,
-    "site/apps/blog/sections/Blog/components/ImagesSlide.tsx": $$$$$$$$$$$16,
+      $$$$$$$$$$$16,
+    "site/apps/blog/sections/Blog/components/ImagesSlide.tsx": $$$$$$$$$$$19,
     "site/apps/blog/sections/Blog/components/ImageThreeColumnSection.tsx":
-      $$$$$$$$$$$14,
+      $$$$$$$$$$$17,
     "site/apps/blog/sections/Blog/components/ImageTwoColumnSection.tsx":
-      $$$$$$$$$$$15,
-    "site/apps/blog/sections/Blog/components/OneImage.tsx": $$$$$$$$$$$17,
-    "site/apps/blog/sections/Blog/components/ProductsSection.tsx":
       $$$$$$$$$$$18,
-    "site/apps/blog/sections/Blog/components/RelatedPosts.tsx": $$$$$$$$$$$19,
-    "site/apps/blog/sections/Blog/components/TextSection.tsx": $$$$$$$$$$$20,
-    "site/apps/blog/sections/Blog/components/Video.tsx": $$$$$$$$$$$21,
-    "site/apps/blog/sections/BlogBannerPost.tsx": $$$$$$$$$$$22,
-    "site/apps/blog/sections/BlogPosts.tsx": $$$$$$$$$$$23,
-    "site/apps/blog/sections/BlogTemplate.tsx": $$$$$$$$$$$24,
+    "site/apps/blog/sections/Blog/components/OneImage.tsx": $$$$$$$$$$$20,
+    "site/apps/blog/sections/Blog/components/ProductsSection.tsx":
+      $$$$$$$$$$$21,
+    "site/apps/blog/sections/Blog/components/RelatedPosts.tsx": $$$$$$$$$$$22,
+    "site/apps/blog/sections/Blog/components/TextSection.tsx": $$$$$$$$$$$23,
+    "site/apps/blog/sections/Blog/components/Video.tsx": $$$$$$$$$$$24,
+    "site/apps/blog/sections/BlogBannerPost.tsx": $$$$$$$$$$$13,
+    "site/apps/blog/sections/BlogPosts.tsx": $$$$$$$$$$$14,
+    "site/apps/blog/sections/BlogTemplate.tsx": $$$$$$$$$$$15,
     "site/apps/blog/sections/Seo/SeoBlogPost.tsx": $$$$$$$$$$$25,
     "site/apps/blog/sections/Seo/SeoBlogPostListing.tsx": $$$$$$$$$$$26,
     "site/apps/blog/sections/Template.tsx": $$$$$$$$$$$27,
